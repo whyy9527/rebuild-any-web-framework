@@ -1,0 +1,9 @@
+{
+  "snapshot": "- heading \"所有每日特别任务都完成啦！\" [level=2]\n- img\n- text: 获取 30 经验\n- progressbar:\n  - text: 30 / 30 30 / 30\n  - img\n- img\n- button \"回顾本单元\"\n- button \"继续\"",
+  "buttons": [
+    "回顾本单元",
+    "继续"
+  ],
+  "url_path": "/lesson",
+  "observed_at": "2026-10-10T17:25:31.521Z"
+}

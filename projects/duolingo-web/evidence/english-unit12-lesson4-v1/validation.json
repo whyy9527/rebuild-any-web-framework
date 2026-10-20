@@ -1,0 +1,31 @@
+{
+  "swift_core": 38,
+  "python": 67,
+  "node": 26,
+  "native_trajectory_states": 48,
+  "native_trajectory_failed_journeys": 0,
+  "native_candidate_binary_sha256": "72e221e1ba865cc4c486507abca2283a55992404497bd47d05d79cfffde8a776",
+  "frontend": {
+    "revision": "english-v79",
+    "requirements": 26779,
+    "status": "fail",
+    "counts": {
+      "not_run": 24058,
+      "fail": 717,
+      "pass": 921,
+      "unavailable": 1083
+    }
+  },
+  "exploration": {
+    "states": 260,
+    "edges": 128,
+    "pending": 6961,
+    "completion": "unknown; not a completion rate"
+  },
+  "unverified": [
+    "Frontend1:1 stillfails",
+    "Source actual acoustic equality unavailable",
+    "Matched-budget RSI product-quality ablation unfinished",
+    "Updated textarea canonical/value collector not live reobserved on exact old state"
+  ]
+}

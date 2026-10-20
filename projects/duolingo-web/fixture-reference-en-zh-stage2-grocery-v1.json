@@ -1,0 +1,551 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-en-zh-stage2-grocery-instance",
+      "title": "购买食品杂货",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "stage2-grocery-1",
+          "title": "购买食品杂货",
+          "questions": [
+            {
+              "id": "grocery-q0",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-c2ed2d61ece9f551982a.mp3",
+              "characterResource": "en-image-5a3854cd2f91545f5bd0",
+              "hint": "a big store",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "大"
+                },
+                {
+                  "id": "word-1",
+                  "text": "商店"
+                },
+                {
+                  "id": "word-2",
+                  "text": "一家"
+                },
+                {
+                  "id": "word-3",
+                  "text": "很大"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-0",
+                "word-1"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "a big store",
+                "correctAnswer": "一家大商店",
+                "audioResources": []
+              },
+              "newWord": true
+            },
+            {
+              "id": "grocery-q1",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "kind": "choice",
+              "hint": "店",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "store",
+                  "audioResource": "en-speech-a04133154fa24d5aac09.mp3"
+                },
+                {
+                  "id": "1",
+                  "text": "oh no"
+                },
+                {
+                  "id": "2",
+                  "text": "windy"
+                }
+              ],
+              "answer": "0",
+              "resultReview": {
+                "title": "\"店\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "store",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "grocery-q2",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-8478c2d43cbc62421ece.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "hint": "a new store",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "一家"
+                },
+                {
+                  "id": "word-1",
+                  "text": "商店"
+                },
+                {
+                  "id": "word-2",
+                  "text": "新"
+                },
+                {
+                  "id": "word-3",
+                  "text": "堂食"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2",
+                "word-1"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "a new store",
+                "correctAnswer": "一家新商店",
+                "audioResources": []
+              },
+              "newWord": true
+            },
+            {
+              "id": "grocery-q3",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "kind": "choice",
+              "hint": "新",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "new",
+                  "audioResource": "en-speech-7049769c7a5179c4f3f5.mp3"
+                },
+                {
+                  "id": "1",
+                  "text": "it's sunny"
+                },
+                {
+                  "id": "2",
+                  "text": "hat"
+                }
+              ],
+              "answer": "0",
+              "resultReview": {
+                "title": "\"新\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "new",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "grocery-q5",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-7713451d2842cf2eefa6.mp3",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "hint": "I need a new jacket.",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "我"
+                },
+                {
+                  "id": "word-1",
+                  "text": "一件"
+                },
+                {
+                  "id": "word-2",
+                  "text": "新"
+                },
+                {
+                  "id": "word-3",
+                  "text": "在"
+                },
+                {
+                  "id": "word-4",
+                  "text": "需要"
+                },
+                {
+                  "id": "word-5",
+                  "text": "夹克"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-4",
+                "word-1",
+                "word-2",
+                "word-5"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "I need a new jacket.",
+                "correctAnswer": "我需要一件新夹克。",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "grocery-q6",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "audioResource": "en-speech-ac9baede5bd0480856d3.mp3",
+              "slowAudioResource": "en-speech-e1993ae2c5e4f68388e7.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "new",
+                  "audioResource": "en-speech-1e76b26c3ddea04fa819.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "passport",
+                  "audioResource": "en-speech-ad996a4b91eb32e19445.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "your",
+                  "audioResource": "en-speech-c68ebab304b99f342c48.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "Is",
+                  "audioResource": "en-speech-e88e14b7b6da83b29bb2.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "hat",
+                  "audioResource": "en-speech-f5824613c57eefa9efa6.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-2",
+                "word-4",
+                "word-0"
+              ],
+              "resultReview": {
+                "title": "选择你听到的内容：",
+                "prompt": "",
+                "correctAnswer": "Is your hat new?",
+                "audioResources": [
+                  "en-speech-ac9baede5bd0480856d3.mp3"
+                ]
+              },
+              "newWord": false
+            },
+            {
+              "id": "grocery-q7",
+              "prompt": "填空",
+              "sourceType": "tapComplete",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "nice",
+                  "audioResource": "en-speech-e9a0940d6257950b43b0.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "delicious",
+                  "audioResource": "en-speech-cc2a080437b0d3ac2b28.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "smart",
+                  "audioResource": "en-speech-d0e8b45a285508f64ccd.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "sunny",
+                  "audioResource": "en-speech-80c6efb946fb26bb9a41.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "completionPrefix": "This store is very ",
+              "completionSuffix": ".",
+              "promptImageResource": "en-image-0a039e5aafad6b83b244",
+              "resultReview": {
+                "title": "填空",
+                "prompt": "This store is very ___.",
+                "correctAnswer": "This store is very nice.",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "grocery-q8",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "hint": "这家商店是新的。",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "store",
+                  "audioResource": "en-speech-a04133154fa24d5aac09.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "cats",
+                  "audioResource": "en-speech-fca946b041e5b628dbc4.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "is",
+                  "audioResource": "en-speech-7fc38dded5fe134db5cc.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "new",
+                  "audioResource": "en-speech-7049769c7a5179c4f3f5.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "This",
+                  "audioResource": "en-speech-97451e84f87656ae1ba1.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-0",
+                "word-2",
+                "word-3"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "这家商店是新的。",
+                "correctAnswer": "This store is new.",
+                "audioResources": []
+              },
+              "newWord": false,
+              "indicator": "挑战题"
+            },
+            {
+              "id": "grocery-q9",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "hint": "这家商店在营业。",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "cute",
+                  "audioResource": "en-speech-25c221e659084e4d6544.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "This",
+                  "audioResource": "en-speech-f5ea2d90ba8138e60df9.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "store",
+                  "audioResource": "en-speech-9cc6ad23d2f96c27ff21.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "open",
+                  "audioResource": "en-speech-03feff299f349d6fe2f0.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "is",
+                  "audioResource": "en-speech-0ab8f4db75747f537d09.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2",
+                "word-4",
+                "word-3"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "这家商店在营业。",
+                "correctAnswer": "This store is open.",
+                "audioResources": []
+              },
+              "newWord": false,
+              "indicator": "挑战题"
+            },
+            {
+              "id": "grocery-q10",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "hint": "哦，这家商店开着吗？",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "store",
+                  "audioResource": "en-speech-29374a458d403bb164fe.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "is",
+                  "audioResource": "en-speech-6eefc9d2027cc41ed5d7.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "Oh",
+                  "audioResource": "en-speech-5581ae6fa52c20ae501e.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "this",
+                  "audioResource": "en-speech-9d71331590e973348cbf.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "open",
+                  "audioResource": "en-speech-483732abd0868b717247.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "a",
+                  "audioResource": "en-speech-71c1526a19160116ad21.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-1",
+                "word-3",
+                "word-0",
+                "word-4"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "哦，这家商店开着吗？",
+                "correctAnswer": "Oh, is this store open?",
+                "audioResources": []
+              },
+              "newWord": false,
+              "indicator": "挑战题"
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "grocery-speech",
+              "beforeQuestionID": "grocery-q5",
+              "title": "朗读下面的句子",
+              "phrase": "Is this store expensive?",
+              "audioResource": "en-speech-973cd095b4da640e3566.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复",
+              "resultReview": {
+                "title": "朗读下面的句子",
+                "prompt": "Is this store expensive?",
+                "correctAnswer": "Is this store expensive?",
+                "declinedAnswer": "Is this store expensive?",
+                "audioResources": []
+              }
+            }
+          ],
+          "interludes": [
+            {
+              "id": "grocery-encouragement-0",
+              "afterQuestionID": "grocery-q5",
+              "text": "你真牛！连续答对了 5 道题！"
+            },
+            {
+              "id": "grocery-encouragement-1",
+              "afterQuestionID": "grocery-q7",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ],
+          "settlement": [
+            {
+              "id": "grocery-result",
+              "kind": "result",
+              "title": "单元完成啦！",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 15,
+              "observedAccuracy": 100,
+              "observedMistakes": 0,
+              "accuracyLabel": "超级棒"
+            },
+            {
+              "id": "grocery-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ],
+          "observedHomeSnapshot": {
+            "completedLessons": 2,
+            "gems": 505,
+            "streak": 1,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "学个单元就能上本周排行榜，跟其他小伙伴一决高低！",
+            "leagueResource": "en-home-09643d5b108a393f36cc",
+            "questTarget": 10,
+            "questProgress": 10
+          }
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "10 accepted current-renderer questions, 1 declined oral question, 2 encouragements, 11 actual result-review cards",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-stage2-path-v1/README.md"
+    ],
+    "unknown": "Adaptive question selection, normal oral grading, wrong answers, timer recovery, exact pixels and acoustic output remain unverified. Result15XP/100% is this observed instance, not a scoring formula."
+  }
+}

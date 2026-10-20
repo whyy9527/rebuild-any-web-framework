@@ -1,0 +1,8 @@
+{
+  "commit": "60dc6bc",
+  "contract": "projects/duolingo-web/frontend-english-v79.json",
+  "observation": "projects/duolingo-web/evidence/english-unit12-lesson4-v1/native-delivery-bound.json",
+  "report": "projects/duolingo-web/evidence/english-unit12-lesson4-v1/frontend-v79-delivery.json",
+  "source": "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source",
+  "scope": "Shared layout, correct footer and profile repairs from frozen source; not an RSI ablation"
+}

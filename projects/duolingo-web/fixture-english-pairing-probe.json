@@ -1,0 +1,75 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "english-node2-pairing-probe",
+      "title": "提供或接受饮料",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "pairing-probe",
+          "title": "听音配对验证",
+          "questions": [
+            {
+              "id": "en-zh-node2-match8",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "p0",
+                  "left": "1",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                },
+                {
+                  "id": "p1",
+                  "left": "2",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "p2",
+                  "left": "3",
+                  "right": "咖啡",
+                  "audioResource": "en-speech-1c0b0ca0aaac2febdf32.mp3"
+                },
+                {
+                  "id": "p3",
+                  "left": "4",
+                  "right": "热",
+                  "audioResource": "en-speech-8a0d9ca5f303c427a11e.mp3"
+                }
+              ],
+              "rightOrder": [
+                "p0",
+                "p3",
+                "p1",
+                "p2"
+              ],
+              "correctFeedback": "不错哦！",
+              "explanation": ""
+            }
+          ]
+        }
+      ],
+      "pathNodes": [
+        {
+          "kind": "star",
+          "lessonIDs": [
+            "pairing-probe"
+          ],
+          "lessonCount": 4
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "Actual source audio matching, current played URLs and observed wrong-pair heart decrement",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+    ],
+    "scope": "One isolated component; full node-two lesson remains pending",
+    "unknown": "Wrong-pair animation timing, other review trajectories, acoustic equality and full-state layout fidelity pending"
+  }
+}

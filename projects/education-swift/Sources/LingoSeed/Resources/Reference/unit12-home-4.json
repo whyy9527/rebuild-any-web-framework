@@ -1,0 +1,844 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-en-zh-unit12-home4-instance",
+      "title": "描述你的家居布局",
+      "interfaceLanguage": "zh",
+      "speechLanguage": "en",
+      "lessons": [
+        {
+          "id": "unit12-home-4",
+          "title": "描述你的家居布局",
+          "questions": [
+            {
+              "id": "unit12-q0",
+              "prompt": "哪个是“食物”呢？",
+              "sourceType": "select",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "food",
+                  "imageResource": "en-image-439057677f40addc6cf5",
+                  "audioResource": "en-speech-2f7f1bc0b78142f068a4.mp3"
+                },
+                {
+                  "id": "1",
+                  "text": "living room",
+                  "imageResource": "en-image-4c91772c88c67ea88ed5"
+                },
+                {
+                  "id": "2",
+                  "text": "Japan",
+                  "imageResource": "en-image-e4a14cac676c26294ba9"
+                }
+              ],
+              "answer": "0",
+              "resultReview": {
+                "title": "哪个是“食物”呢？",
+                "prompt": "",
+                "correctAnswer": "food",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q1",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "你太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "甜点"
+                },
+                {
+                  "id": "word-1",
+                  "text": "洗手间"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ],
+              "hint": "the bathroom",
+              "audioResource": "en-speech-42b0588e812423c0ead0.mp3",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "the bathroom",
+                "correctAnswer": "洗手间",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q2",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "不错哦！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "red"
+                },
+                {
+                  "id": "1",
+                  "text": "food",
+                  "audioResource": "en-speech-8850f209fac07a53a752.mp3"
+                },
+                {
+                  "id": "2",
+                  "text": "apartment"
+                }
+              ],
+              "answer": "1",
+              "hint": "食物",
+              "resultReview": {
+                "title": "\"食物\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "food",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q3",
+              "prompt": "选词填空",
+              "sourceType": "patternTapComplete",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "真厉害！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "indicator": "新词形",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "kitchen"
+                },
+                {
+                  "id": "word-1",
+                  "text": "Paris"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "contextExamples": [
+                "I am from Mexico.",
+                "Your jacket is in the bathroom."
+              ],
+              "contextHighlights": [
+                "Mexico",
+                "bathroom"
+              ],
+              "completionPrefix": "Your salad is in the ",
+              "completionSuffix": ".",
+              "resultReview": {
+                "title": "选词填空",
+                "prompt": "Your salad is in the _.",
+                "correctAnswer": "kitchen",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q4",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "正确！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "担心"
+                },
+                {
+                  "id": "word-1",
+                  "text": "坐"
+                },
+                {
+                  "id": "word-2",
+                  "text": "安娜"
+                },
+                {
+                  "id": "word-3",
+                  "text": "请"
+                },
+                {
+                  "id": "word-4",
+                  "text": "吧"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-1",
+                "word-4",
+                "word-2"
+              ],
+              "hint": "Have a seat, Anna!",
+              "audioResource": "en-speech-1286669e5820cd172038.mp3",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Have a seat, Anna!",
+                "correctAnswer": "请坐吧安娜",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q5",
+              "prompt": "填空",
+              "sourceType": "tapComplete",
+              "sourceLanguage": "en",
+              "explanation": "哦，你的猫在厨房里！",
+              "newWord": false,
+              "correctFeedback": "棒棒哒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "street"
+                },
+                {
+                  "id": "word-1",
+                  "text": "house"
+                },
+                {
+                  "id": "word-2",
+                  "text": "cat"
+                },
+                {
+                  "id": "word-3",
+                  "text": "city"
+                }
+              ],
+              "answer_words": [
+                "word-2"
+              ],
+              "completionPrefix": "Oh, your ",
+              "completionSuffix": " is in the kitchen!",
+              "promptImageResource": "en-image-896c954320e21c68dc92",
+              "resultReview": {
+                "title": "填空",
+                "prompt": "Oh, your ___ is in the kitchen!",
+                "correctAnswer": "cat",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "正确！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "在"
+                },
+                {
+                  "id": "word-1",
+                  "text": "桌子"
+                },
+                {
+                  "id": "word-2",
+                  "text": "想要"
+                },
+                {
+                  "id": "word-3",
+                  "text": "食物"
+                },
+                {
+                  "id": "word-4",
+                  "text": "上"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-0",
+                "word-1",
+                "word-4"
+              ],
+              "hint": "The food is on the table.",
+              "audioResource": "en-speech-729ed80d5edbaf79fc02.mp3",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "The food is on the table.",
+                "correctAnswer": "食物在桌子上",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q7",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "真棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "how are you"
+                },
+                {
+                  "id": "1",
+                  "text": "have a seat",
+                  "audioResource": "en-speech-64494ea868b00caf2635.mp3"
+                },
+                {
+                  "id": "2",
+                  "text": "red"
+                }
+              ],
+              "answer": "1",
+              "hint": "请坐",
+              "resultReview": {
+                "title": "\"请坐\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "have a seat",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q8",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "你太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "牛奶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "冰箱"
+                },
+                {
+                  "id": "word-2",
+                  "text": "在"
+                },
+                {
+                  "id": "word-3",
+                  "text": "吧"
+                },
+                {
+                  "id": "word-4",
+                  "text": "里"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2",
+                "word-1",
+                "word-4"
+              ],
+              "hint": "The milk is in the fridge.",
+              "audioResource": "en-speech-5ae1cabbcb4d18adf562.mp3",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "The milk is in the fridge.",
+                "correctAnswer": "牛奶在冰箱里",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q9",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "你太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "cheap"
+                },
+                {
+                  "id": "1",
+                  "text": "fridge",
+                  "audioResource": "en-speech-770810449a7d1b5bbe77.mp3"
+                },
+                {
+                  "id": "2",
+                  "text": "me too"
+                }
+              ],
+              "answer": "1",
+              "hint": "冰箱",
+              "resultReview": {
+                "title": "\"冰箱\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "fridge",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q11",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "好棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "厨房"
+                },
+                {
+                  "id": "word-1",
+                  "text": "坐"
+                },
+                {
+                  "id": "word-2",
+                  "text": "欢迎"
+                },
+                {
+                  "id": "word-3",
+                  "text": "请"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-3",
+                "word-1"
+              ],
+              "hint": "Welcome, have a seat!",
+              "audioResource": "en-speech-9d942f76f0db21b960ea.mp3",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Welcome, have a seat!",
+                "correctAnswer": "欢迎请坐",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q12",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "真棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "两个"
+                },
+                {
+                  "id": "word-1",
+                  "text": "这"
+                },
+                {
+                  "id": "word-2",
+                  "text": "洗手间"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2"
+              ],
+              "hint": "two bathrooms",
+              "audioResource": "en-speech-a0c183247f825ac09f9e.mp3",
+              "characterResource": "en-image-19d527c8f3f0c4af501f",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "two bathrooms",
+                "correctAnswer": "两个洗手间",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q13",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "explanation": "",
+              "newWord": true,
+              "correctFeedback": "太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "请进"
+                },
+                {
+                  "id": "word-1",
+                  "text": "坐"
+                },
+                {
+                  "id": "word-2",
+                  "text": "洗手间"
+                },
+                {
+                  "id": "word-3",
+                  "text": "请"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-3",
+                "word-1"
+              ],
+              "hint": "Come in, have a seat.",
+              "audioResource": "en-speech-849ad96d67790b8d45ff.mp3",
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Come in, have a seat.",
+                "correctAnswer": "请进请坐",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q14",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "sourceLanguage": "en",
+              "explanation": "两个洗手间",
+              "newWord": false,
+              "correctFeedback": "太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "two"
+                },
+                {
+                  "id": "word-1",
+                  "text": "bathrooms"
+                },
+                {
+                  "id": "word-2",
+                  "text": "speak"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1"
+              ],
+              "keyboardAnswer": "two bathrooms",
+              "keyboardPrompt": "键入你听到的内容",
+              "audioResource": "en-speech-41d3e620878d8a307e2f.mp3",
+              "resultReview": {
+                "title": "选择你听到的内容：",
+                "prompt": "",
+                "correctAnswer": "two bathrooms",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q15",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "泰裤辣！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "indicator": "挑战题",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "in"
+                },
+                {
+                  "id": "word-1",
+                  "text": "I'd like a"
+                },
+                {
+                  "id": "word-2",
+                  "text": "living"
+                },
+                {
+                  "id": "word-3",
+                  "text": "room"
+                },
+                {
+                  "id": "word-4",
+                  "text": "Have"
+                },
+                {
+                  "id": "word-5",
+                  "text": "a"
+                },
+                {
+                  "id": "word-6",
+                  "text": "the"
+                },
+                {
+                  "id": "word-7",
+                  "text": "seat"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-5",
+                "word-7",
+                "word-0",
+                "word-6",
+                "word-2",
+                "word-3"
+              ],
+              "hint": "请到客厅坐。",
+              "keyboardAnswer": "Have a seat in the living room",
+              "keyboardPrompt": "用英语写出这句话",
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "请到客厅坐。",
+                "correctAnswer": "Have a seat in the living room",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q16",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "非常好！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "indicator": "挑战题",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "is"
+                },
+                {
+                  "id": "word-1",
+                  "text": "refrigerator"
+                },
+                {
+                  "id": "word-2",
+                  "text": "The"
+                },
+                {
+                  "id": "word-3",
+                  "text": "glass of water"
+                },
+                {
+                  "id": "word-4",
+                  "text": "the"
+                },
+                {
+                  "id": "word-5",
+                  "text": "in"
+                },
+                {
+                  "id": "word-6",
+                  "text": "food"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-6",
+                "word-0",
+                "word-5",
+                "word-4",
+                "word-1"
+              ],
+              "hint": "食物在冰箱里。",
+              "keyboardAnswer": "The food is in the refrigerator",
+              "keyboardPrompt": "用英语写出这句话",
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "食物在冰箱里。",
+                "correctAnswer": "The food is in the refrigerator",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "unit12-q17",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "explanation": "",
+              "newWord": false,
+              "correctFeedback": "棒棒哒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "correctFeedbackAudioVolume": 0.35,
+              "indicator": "挑战题",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "This"
+                },
+                {
+                  "id": "word-1",
+                  "text": "refrigerator"
+                },
+                {
+                  "id": "word-2",
+                  "text": "is"
+                },
+                {
+                  "id": "word-3",
+                  "text": "new"
+                },
+                {
+                  "id": "word-4",
+                  "text": "would you like"
+                },
+                {
+                  "id": "word-5",
+                  "text": "my"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2",
+                "word-5",
+                "word-3",
+                "word-1"
+              ],
+              "hint": "这是我的新冰箱。",
+              "keyboardAnswer": "This is my new refrigerator",
+              "keyboardPrompt": "用英语写出这句话",
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "这是我的新冰箱。",
+                "correctAnswer": "This is my new refrigerator",
+                "audioResources": []
+              }
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "unit12-speech",
+              "beforeQuestionID": "unit12-q11",
+              "title": "朗读下面的句子",
+              "phrase": "Have a seat here.",
+              "audioResource": "en-speech-9d942f76f0db21b960ea.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复",
+              "resultReview": {
+                "title": "朗读下面的句子",
+                "prompt": "Have a seat here.",
+                "correctAnswer": "Have a seat here.",
+                "audioResources": [],
+                "declinedAnswer": "Have a seat here."
+              }
+            }
+          ],
+          "interludes": [
+            {
+              "id": "unit12-hard-intro",
+              "afterQuestionID": "unit12-q14",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ],
+          "settlement": [
+            {
+              "id": "result",
+              "kind": "result",
+              "title": "完美！",
+              "body": "你练习全对，无错完成本单元",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 15,
+              "observedAccuracy": 100,
+              "observedMistakes": 0,
+              "accuracyLabel": "超级棒",
+              "artResource": "en-unit12-lesson4-result-observed-frame",
+              "experienceIconResource": "en-home-4473449cf456ad652fde",
+              "accuracyIconResource": "en-home-9120c55acdee00fba0bb"
+            },
+            {
+              "id": "achievement",
+              "kind": "achievement",
+              "title": "神射手成就等级已提升！",
+              "body": "完成了 5 个单元，而且完全没有犯错",
+              "levelLabel": "第 3 级",
+              "artResource": "en-home-db79c5328ce1f7fb9993",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元"
+            },
+            {
+              "id": "profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ],
+          "observedHomeSnapshot": {
+            "completedLessons": 6,
+            "gems": 155,
+            "streak": 1,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "学个单元就能上本周排行榜，跟其他小伙伴一决高低！",
+            "leagueResource": "en-home-09643d5b108a393f36cc",
+            "questTarget": 10,
+            "questProgress": 10
+          },
+          "completionAudioResource": "en-effect-12a1e12d8f2f9bc85536.mp3",
+          "completionAudioVolume": 0.5
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "Actual visible UI and accepted click/typed answers; original current actor/renderer identity only; no hidden answer keys.",
+    "unknown": "Unobserved actors/voices, alternate answers, normal oral grading, slow speech, pixels and source acoustic equality remain pending.155gem cohort observed, cause of change unknown.15XP100% is this source instance."
+  }
+}

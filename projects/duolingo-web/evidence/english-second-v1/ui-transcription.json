@@ -1,0 +1,22 @@
+{
+  "source": "Direct inspection of original PNGs and accepted UI actions; not reconstructed sessions response",
+  "fill": {
+    "example": "Tea with sugar.",
+    "evidence": "reference-english-second-02-question-4-before.png",
+    "audio_note": "Candidate example mapping uses same sentence and speaker source clip from API question7; actual example-button invocation remains unobserved"
+  },
+  "adaptive": {
+    "12": {
+      "hint": "咖啡加牛奶",
+      "evidence": "reference-english-second-02-question-12-before.png"
+    },
+    "13": {
+      "hint": "你好，我想再来点茶，谢谢。",
+      "evidence": "reference-english-second-adaptive-2-before.png"
+    },
+    "14": {
+      "hint": "你好，我想再来点咖啡，谢谢。",
+      "evidence": "reference-english-second-adaptive-3-before.png"
+    }
+  }
+}

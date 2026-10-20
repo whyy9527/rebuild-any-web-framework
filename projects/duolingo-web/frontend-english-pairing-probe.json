@@ -1,0 +1,228 @@
+{
+  "revision": "audio-pairing-component-v1",
+  "scope": "Source-observed pairing checks; not full product acceptance",
+  "requirements": [
+    {
+      "id": "en-zh-node2-match8-heading",
+      "state": "en-zh-node2-match8",
+      "kind": "accessible_text",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "text": "选择配对"
+    },
+    {
+      "id": "en-zh-node2-match8-left-0",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-left-p0",
+      "rect": [
+        330,
+        247,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-left-1",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-left-p1",
+      "rect": [
+        330,
+        315,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-left-2",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-left-p2",
+      "rect": [
+        330,
+        383,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-left-3",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-left-p3",
+      "rect": [
+        330,
+        451,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-right-0",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-right-p0",
+      "rect": [
+        615,
+        247,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-right-1",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-right-p3",
+      "rect": [
+        615,
+        315,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-right-2",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-right-p1",
+      "rect": [
+        615,
+        383,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-right-3",
+      "state": "en-zh-node2-match8",
+      "kind": "element_geometry",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "element": "pair-right-p2",
+      "rect": [
+        615,
+        451,
+        255,
+        58
+      ],
+      "tolerance_points": 0
+    },
+    {
+      "id": "en-zh-node2-match8-heart_decremented_once",
+      "state": "en-zh-node2-match8-wrong",
+      "kind": "interaction_boolean",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "field": "heart_decremented_once",
+      "expected": true
+    },
+    {
+      "id": "en-zh-node2-match8-unmatched_remains_available",
+      "state": "en-zh-node2-match8-wrong",
+      "kind": "interaction_boolean",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "field": "unmatched_remains_available",
+      "expected": true
+    },
+    {
+      "id": "en-zh-node2-match8-wrong_pair_marked_incorrect",
+      "state": "en-zh-node2-match8-wrong",
+      "kind": "interaction_boolean",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "field": "wrong_pair_marked_incorrect",
+      "expected": true
+    },
+    {
+      "id": "en-zh-node2-match8-matched-disabled",
+      "state": "en-zh-node2-match8-paired-first",
+      "kind": "interaction_boolean",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "field": "matched_pair_disabled",
+      "expected": true
+    },
+    {
+      "id": "en-zh-node2-match8-feedback",
+      "state": "en-zh-node2-match8-feedback",
+      "kind": "accessible_text",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "text": "不错哦！"
+    },
+    {
+      "id": "en-zh-node2-match8-visual",
+      "state": "en-zh-node2-match8",
+      "kind": "pending",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "description": "Source/candidate visual equality still unverified"
+    },
+    {
+      "id": "en-zh-node2-match8-actual-audio",
+      "state": "en-zh-node2-match8",
+      "kind": "pending",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "description": "Source/candidate actual-audio equality still unverified"
+    },
+    {
+      "id": "en-zh-node2-match8-wrong-animation",
+      "state": "en-zh-node2-match8",
+      "kind": "pending",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "description": "Source/candidate wrong-animation equality still unverified"
+    },
+    {
+      "id": "en-zh-node2-match8-late-review",
+      "state": "en-zh-node2-match8",
+      "kind": "pending",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json"
+      ],
+      "description": "Source/candidate late-review equality still unverified"
+    }
+  ]
+}

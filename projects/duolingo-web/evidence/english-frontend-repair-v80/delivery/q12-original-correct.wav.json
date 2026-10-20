@@ -1,0 +1,19 @@
+{
+  "duration_seconds" : 4,
+  "excludes_current_process_audio" : true,
+  "filter" : "Only explicitly selected owned application\/window",
+  "filter_mode" : "application",
+  "frames" : 204480,
+  "kind" : "owned_application_audio_loopback",
+  "microphone" : false,
+  "owned_pid" : 55429,
+  "peak" : 0.2878233790397644,
+  "rms" : 0.012655796194849243,
+  "samples" : 408960,
+  "ui_actions" : [
+    {
+      "elapsed_seconds" : 0.073711037635803223,
+      "id" : "check"
+    }
+  ]
+}

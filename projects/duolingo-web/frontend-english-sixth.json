@@ -1,0 +1,2953 @@
+{
+  "revision": "actual-sixth-continuation-v1",
+  "requirements": [
+    {
+      "id": "en-zh-l6-q6-text-0",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-1",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "tea with sugar",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-2",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "加糖",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-3",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "想要",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-4",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-5",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-6",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "茶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-text-7",
+      "state": "en-zh-l6-q6",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-same-state-visuals",
+      "state": "en-zh-l6-q6",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-actual-audio",
+      "state": "en-zh-l6-q6",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-0",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-1",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "你太棒了！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-2",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "加糖",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-3",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-4",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-5",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "想要",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-6",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-7",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-8",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-text-9",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "accessible_text",
+      "text": "茶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-same-state-visuals",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q6-feedback-actual-audio",
+      "state": "en-zh-l6-q6-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q6-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-0",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "\", please.\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-1",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-2",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "Good morning, coffee with",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-3",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "Good morning, coffee with , please.",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-4",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "加大难度",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-5",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-6",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-text-7",
+      "state": "en-zh-l6-q7",
+      "kind": "accessible_text",
+      "text": "输入所缺单词",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-same-state-visuals",
+      "state": "en-zh-l6-q7",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-actual-audio",
+      "state": "en-zh-l6-q7",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-0",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "\", please.\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-1",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-2",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "Good morning, coffee with",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-3",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "Good morning, coffee with , please.",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-4",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "你太棒了！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-5",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-6",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-7",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-8",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-9",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "输入所缺单词",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-text-10",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "accessible_text",
+      "text": "连对 7 题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-same-state-visuals",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q7-feedback-actual-audio",
+      "state": "en-zh-l6-q7-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-before.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q7-feedback.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/q7-input-action.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-0",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-1",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "Good",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-2",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "I'd",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-3",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "coffee",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-4",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "like",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-5",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "more",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-6",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "morning",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-7",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "please",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-8",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "water",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-9",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "使用键盘",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-10",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "早上好，我想再来一些咖啡，谢谢。",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-11",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-12",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-text-13",
+      "state": "en-zh-l6-q8",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-same-state-visuals",
+      "state": "en-zh-l6-q8",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-actual-audio",
+      "state": "en-zh-l6-q8",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-0",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-1",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "Good",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-2",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "I'd",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-3",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "coffee",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-4",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "like",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-5",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "more",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-6",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "morning",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-7",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "please",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-8",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "water",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-9",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-10",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-11",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-12",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "泰裤辣！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-13",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-text-14",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-same-state-visuals",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q8-feedback-actual-audio",
+      "state": "en-zh-l6-q8-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q8-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-0",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-1",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "coffee with sugar",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-2",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "一些",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-3",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "加糖",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-4",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-5",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-6",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-text-7",
+      "state": "en-zh-l6-q9",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-same-state-visuals",
+      "state": "en-zh-l6-q9",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-actual-audio",
+      "state": "en-zh-l6-q9",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-0",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-1",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "一些",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-2",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "加糖",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-3",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-4",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-5",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-6",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "好棒！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-7",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-8",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-text-9",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-same-state-visuals",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q9-feedback-actual-audio",
+      "state": "en-zh-l6-q9-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-adaptive-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-speech-decline.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-0",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-1",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "\"?\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-2",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "Sugar or",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-3",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "Sugar or ?",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-4",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "加大难度",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-5",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-6",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "糖还是牛奶？",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-7",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-text-8",
+      "state": "en-zh-l6-q10",
+      "kind": "accessible_text",
+      "text": "输入所缺单词",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-same-state-visuals",
+      "state": "en-zh-l6-q10",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-actual-audio",
+      "state": "en-zh-l6-q10",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-0",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-1",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "\"?\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-2",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "Sugar or",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-3",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "Sugar or ?",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-4",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "不错哦！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-5",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-6",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-7",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-8",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-text-9",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "accessible_text",
+      "text": "输入所缺单词",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-same-state-visuals",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q10-feedback-actual-audio",
+      "state": "en-zh-l6-q10-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q10-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q9-adaptive.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-0",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-1",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "Hello!",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-2",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "你好",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-3",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "再",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-4",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-5",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-text-6",
+      "state": "en-zh-l6-q11",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-same-state-visuals",
+      "state": "en-zh-l6-q11",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-actual-audio",
+      "state": "en-zh-l6-q11",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-0",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-1",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "你好",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-2",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "再",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-3",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-4",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-5",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-6",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-7",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-text-8",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "accessible_text",
+      "text": "非常好！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-same-state-visuals",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q11-feedback-actual-audio",
+      "state": "en-zh-l6-q11-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q11-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q10.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-0",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-1",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "hello",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-2",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "你好",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-3",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-4",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-5",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-text-6",
+      "state": "en-zh-l6-q12",
+      "kind": "accessible_text",
+      "text": "还是",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-same-state-visuals",
+      "state": "en-zh-l6-q12",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-actual-audio",
+      "state": "en-zh-l6-q12",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-0",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-1",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "你好",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-2",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-3",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-4",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-5",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-6",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "真棒！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-7",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-text-8",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "accessible_text",
+      "text": "还是",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-same-state-visuals",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q12-feedback-actual-audio",
+      "state": "en-zh-l6-q12-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q12-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q11.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-0",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-1",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "使用英语键入",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-2",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "挑战题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-3",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "早上好，我想要咖啡，谢谢。",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-4",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-5",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-text-6",
+      "state": "en-zh-l6-q13",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-same-state-visuals",
+      "state": "en-zh-l6-q13",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-actual-audio",
+      "state": "en-zh-l6-q13",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-0",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-1",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "使用英语键入",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-2",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-3",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-4",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "好棒！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-5",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-6",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "挑战题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-7",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-8",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-text-9",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "accessible_text",
+      "text": "连对 13 题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-same-state-visuals",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q13-feedback-actual-audio",
+      "state": "en-zh-l6-q13-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q13-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-0",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-1",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "你好，我想再来点咖啡，谢谢。",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-2",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "使用英语键入",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-3",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "挑战题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-4",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-5",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-text-6",
+      "state": "en-zh-l6-q14",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-same-state-visuals",
+      "state": "en-zh-l6-q14",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-actual-audio",
+      "state": "en-zh-l6-q14",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-0",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-1",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "使用英语键入",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-2",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-3",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-4",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-5",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "挑战题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-6",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-7",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "真厉害！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-8",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-text-9",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "accessible_text",
+      "text": "连对 14 题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-same-state-visuals",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q14-feedback-actual-audio",
+      "state": "en-zh-l6-q14-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q14-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q13.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-0",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-1",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "使用英语键入",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-2",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "挑战题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-3",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "早上好，我想再来一些茶，谢谢。",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-4",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-5",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-text-6",
+      "state": "en-zh-l6-q15",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-same-state-visuals",
+      "state": "en-zh-l6-q15",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-actual-audio",
+      "state": "en-zh-l6-q15",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-0",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-1",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "使用英语键入",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-2",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-3",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-4",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-5",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "挑战题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-6",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "泰裤辣！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-7",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-8",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-text-9",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "accessible_text",
+      "text": "连对 15 题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-same-state-visuals",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-q15-feedback-actual-audio",
+      "state": "en-zh-l6-q15-feedback",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q15-answer.json",
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-after-q14.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-0",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-1",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-2",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-3",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "将在 15 分钟后恢复",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-4",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-5",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "朗读下面的句子",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-6",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "点击并开始录音",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-7",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-text-8",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "accessible_text",
+      "text": "麦克风已关闭",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-same-state-visuals",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-speech-declined-actual-audio",
+      "state": "en-zh-l6-speech-declined",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-q9-speech-declined.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-challenge-entry-text-0",
+      "state": "en-zh-l6-challenge-entry",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-challenge-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-challenge-entry-text-1",
+      "state": "en-zh-l6-challenge-entry",
+      "kind": "accessible_text",
+      "text": "哎哟不错哦！要不要玩点刺激的？",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-challenge-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-challenge-entry-text-2",
+      "state": "en-zh-l6-challenge-entry",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-challenge-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-challenge-entry-same-state-visuals",
+      "state": "en-zh-l6-challenge-entry",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-challenge-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-challenge-entry-actual-audio",
+      "state": "en-zh-l6-challenge-entry",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-challenge-entry.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-text-0",
+      "state": "en-zh-l6-complete",
+      "kind": "accessible_text",
+      "text": "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 %",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-text-1",
+      "state": "en-zh-l6-complete",
+      "kind": "accessible_text",
+      "text": "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 超级棒",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-text-2",
+      "state": "en-zh-l6-complete",
+      "kind": "accessible_text",
+      "text": "回顾本单元",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-text-3",
+      "state": "en-zh-l6-complete",
+      "kind": "accessible_text",
+      "text": "完美！ 你练习全对，无错完成本单元 总经验",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-text-4",
+      "state": "en-zh-l6-complete",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-same-state-visuals",
+      "state": "en-zh-l6-complete",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-complete-actual-audio",
+      "state": "en-zh-l6-complete",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-complete.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-profile-text-0",
+      "state": "en-zh-l6-profile",
+      "kind": "accessible_text",
+      "text": "创建档案",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-profile.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-profile-text-1",
+      "state": "en-zh-l6-profile",
+      "kind": "accessible_text",
+      "text": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-profile.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-profile-text-2",
+      "state": "en-zh-l6-profile",
+      "kind": "accessible_text",
+      "text": "来创建你的个人档案吧！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-profile.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-profile-text-3",
+      "state": "en-zh-l6-profile",
+      "kind": "accessible_text",
+      "text": "稍后再说",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-profile.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-profile-same-state-visuals",
+      "state": "en-zh-l6-profile",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-profile.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-profile-actual-audio",
+      "state": "en-zh-l6-profile",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-profile.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-0",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "\"2\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-1",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "\"5\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-2",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "\"510\"",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-3",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "14 小时",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-4",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "2",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-5",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "5",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-6",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "510",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-7",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "Lesson",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-8",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "Lesson 3 of 4",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-9",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "Practice",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-10",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "下一级",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-11",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "下次再说",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-12",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "个人档案",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-13",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "介绍家庭成员",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-14",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "关于我们",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-15",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "创建个人档案，保存学习进度！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-16",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "创建档案",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-17",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "发音",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-18",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "复习该部分",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-19",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "学习",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-20",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "学习外语，贵在坚持 打开通知，学习提醒不漏接",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-21",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "学会日常交流中基础的单词、短语和语法概念",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-22",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "宝石小店",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-23",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "宝箱",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-24",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "打开这个部分的指南",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-25",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "打开通知",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-26",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "投资者",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-27",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "招聘贤才",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-28",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "指南",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-29",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "排行榜",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-30",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "提供或接受饮料",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-31",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "显示全部",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-32",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "更多",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-33",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "有效性",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-34",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "条款",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-35",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "查看排行榜",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-36",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "每日特别任务",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-37",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "特别任务",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-38",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "登录",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-39",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "第 1 阶段，第 1 部分",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-40",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "第 2 阶段",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-41",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "获取 30 经验",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-42",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "谈论祖籍国家",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-43",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "跳到第 2 部分",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-44",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "跳到第 3 部分",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-45",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "跳级到这儿？",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-46",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "这周的排行榜挑战赛即将开始！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-47",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "隐私",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-text-48",
+      "state": "en-zh-l6-home",
+      "kind": "accessible_text",
+      "text": "青铜等级",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-same-state-visuals",
+      "state": "en-zh-l6-home",
+      "kind": "pending",
+      "description": "same-state-visuals remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    },
+    {
+      "id": "en-zh-l6-home-actual-audio",
+      "state": "en-zh-l6-home",
+      "kind": "pending",
+      "description": "actual-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json"
+      ]
+    }
+  ]
+}

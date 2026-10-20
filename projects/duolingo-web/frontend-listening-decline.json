@@ -1,0 +1,293 @@
+{
+  "revision": "observed-listening-decline-v1",
+  "requirements": [
+    {
+      "id": "en-zh-decline-match-heading",
+      "state": "en-zh-decline-match",
+      "kind": "accessible_text",
+      "text": "选择配对",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-action",
+      "state": "en-zh-decline-match",
+      "kind": "accessible_text",
+      "text": "现在不做听力题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-title",
+      "state": "en-zh-decline-match-declined",
+      "kind": "accessible_text",
+      "text": "听力题已跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-body",
+      "state": "en-zh-decline-match-declined",
+      "kind": "accessible_text",
+      "text": "将在 15 分钟后恢复",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-continue",
+      "state": "en-zh-decline-match-declined",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-too-easy",
+      "state": "en-zh-decline-match-declined",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-too-hard",
+      "state": "en-zh-decline-match-declined",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-report",
+      "state": "en-zh-decline-match-declined",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-hearts_unchanged",
+      "state": "en-zh-decline-match-declined",
+      "kind": "interaction_boolean",
+      "field": "hearts_unchanged",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-match-declined-all_pairs_disabled",
+      "state": "en-zh-decline-match-declined",
+      "kind": "interaction_boolean",
+      "field": "all_pairs_disabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-adaptive-heading",
+      "state": "en-zh-decline-adaptive",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-adaptive-hint",
+      "state": "en-zh-decline-adaptive",
+      "kind": "accessible_text",
+      "text": "coffee with milk",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-adaptive-feedback-accepted",
+      "state": "en-zh-decline-adaptive-feedback",
+      "kind": "accessible_text",
+      "text": "你太棒了！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-fill-heading",
+      "state": "en-zh-decline-fill",
+      "kind": "accessible_text",
+      "text": "输入所缺单词",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-fill-hint",
+      "state": "en-zh-decline-fill",
+      "kind": "accessible_text",
+      "text": "咖啡加牛奶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "en-zh-decline-fill-feedback-accepted",
+      "state": "en-zh-decline-fill-feedback",
+      "kind": "accessible_text",
+      "text": "好棒！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "decline-same-state-pixels",
+      "state": "en-zh-decline-match-declined",
+      "kind": "pending",
+      "description": "same-state-pixels remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "decline-pair-playback-binding",
+      "state": "en-zh-decline-match-declined",
+      "kind": "pending",
+      "description": "pair-playback-binding remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "decline-adaptive-audio",
+      "state": "en-zh-decline-match-declined",
+      "kind": "pending",
+      "description": "adaptive-audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "decline-timer-expiry",
+      "state": "en-zh-decline-match-declined",
+      "kind": "pending",
+      "description": "timer-expiry remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "decline-later-adaptive-sequence",
+      "state": "en-zh-decline-match-declined",
+      "kind": "pending",
+      "description": "later-adaptive-sequence remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    },
+    {
+      "id": "decline-secondary-actions",
+      "state": "en-zh-decline-match-declined",
+      "kind": "pending",
+      "description": "secondary-actions remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-before.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-listening-declined.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/q3-answer.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-after-coffee-milk.json",
+        "projects/duolingo-web/evidence/english-listening-decline-v1/english-sixth-milk-fill-accepted.json"
+      ]
+    }
+  ]
+}

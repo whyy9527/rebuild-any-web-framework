@@ -1,0 +1,365 @@
+{
+  "chosen": [
+    {
+      "name": "两个",
+      "test": "两个-challenge-tap-token"
+    },
+    {
+      "name": "洗手间",
+      "test": "洗手间-challenge-tap-token"
+    }
+  ],
+  "snapshot": "- button:\n  - img\n- progressbar:\n  - text: 连对 12 题\n  - img\n- img\n- text: \"5\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"两个\" [disabled]\n- button \"洗手间\" [disabled]\n- button \"两个\" [disabled]\n- button \"这\" [disabled]\n- button \"洗手间\" [disabled]\n- heading \"真棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "played": [
+    {
+      "kind": "call",
+      "at": 1791764073804,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5fe6dee9663eb84b1079566b73aab7e4",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764073804,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5fe6dee9663eb84b1079566b73aab7e4",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764073854,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764073854,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764077987,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/454fb8a2371645b68e7a14f77005ba4d",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764077988,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/454fb8a2371645b68e7a14f77005ba4d",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764130605,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764130605,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764155610,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/linen/75c0358673caff441dda160e3dc20797",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764155610,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/linen/75c0358673caff441dda160e3dc20797",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764155652,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764155652,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764215938,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764215939,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764220089,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/26c1f3e12f220522f530509d6df640d0",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764220090,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/26c1f3e12f220522f530509d6df640d0",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764231256,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764231256,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764254963,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/6d3ec1f15308bc49ca5b7d011c546889",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764254963,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/6d3ec1f15308bc49ca5b7d011c546889",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764255000,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764255001,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764259139,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/41bd00c90e8fda1c999a0e47d0b88724",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764259139,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/41bd00c90e8fda1c999a0e47d0b88724",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764282139,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764282139,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764307789,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/eb4336616e4c71267bf1383b32252082",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764307790,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/eb4336616e4c71267bf1383b32252082",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764307824,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764307824,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764311993,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/daed47f8ebfccf0c083a9692a2d618b7",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764311994,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/daed47f8ebfccf0c083a9692a2d618b7",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764334293,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764334293,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764360321,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/lilyen/8bbb2b6b10398a3c2b154db7a0ba725c",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764360321,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/lilyen/8bbb2b6b10398a3c2b154db7a0ba725c",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764360356,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764360356,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764364457,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/oscaren/b3b699be6d734d26d69f49237abedae7",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764364459,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/oscaren/b3b699be6d734d26d69f49237abedae7",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764550643,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764550643,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764564843,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/7182b888d3ed46750316d507aa0f451e",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764564843,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/7182b888d3ed46750316d507aa0f451e",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764611375,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764611375,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764615425,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/vikramen/805e595a00e34a72487cc4ba2068fc7f",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764615426,
+      "src": "https://d1vq87e9lcf771.cloudfront.net/vikramen/805e595a00e34a72487cc4ba2068fc7f",
+      "volume": 1,
+      "muted": false
+    },
+    {
+      "kind": "call",
+      "at": 1791764645375,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    },
+    {
+      "kind": "playing",
+      "at": 1791764645376,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "volume": 0.35,
+      "muted": false
+    }
+  ]
+}

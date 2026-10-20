@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/45fe7a093a8028065d310615f9d34b40",
+    "kind": "speech",
+    "name": "en-speech-22d463da9074b995bfe1",
+    "source_file": "en-speech-22d463da9074b995bfe1.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/ba28f4235fc980750d289b07f6e48210",
+    "kind": "speech",
+    "name": "en-speech-9d9db1aa72177fbb4294",
+    "source_file": "en-speech-9d9db1aa72177fbb4294.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/2f42c06780588bf6683f1558b42442d3",
+    "kind": "speech",
+    "name": "en-speech-0379730e4efbc68f00a8",
+    "source_file": "en-speech-0379730e4efbc68f00a8.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/4db810e630b42355342c804554dfb946",
+    "kind": "speech",
+    "name": "en-speech-7bfd82cd5f5a04a0ef3f",
+    "source_file": "en-speech-7bfd82cd5f5a04a0ef3f.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/bfaebcd315fe6fe5b25d61b32e0b6223",
+    "kind": "speech",
+    "name": "en-speech-9936c3b0a9eb886c6c97",
+    "source_file": "en-speech-9936c3b0a9eb886c6c97.mp3"
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathCharacters/guidebook/16c6a73cb17b74b555c33b8ba90130b1.svg",
+    "kind": "home",
+    "name": "en-home-fef8902699193b0e8733",
+    "source_file": "en-home-fef8902699193b0e8733.svg",
+    "render_width": 106,
+    "render_height": 156
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/84481e2507d0fd72f121db57ad029fc7.svg",
+    "kind": "home",
+    "name": "en-home-01861055002e12fdde59",
+    "source_file": "en-home-01861055002e12fdde59.svg",
+    "render_width": 16,
+    "render_height": 16
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg",
+    "kind": "home",
+    "name": "en-home-ab4a487351cc39bd9477",
+    "source_file": "en-home-ab4a487351cc39bd9477.svg",
+    "render_width": 6,
+    "render_height": 2
+  },
+  {
+    "name": "en-unit12-guide-speaker-idle",
+    "url": "https://www.duolingo.com/guidebook/en/12",
+    "kind": "home",
+    "source_file": "en-unit12-guide-speaker-idle.svg",
+    "render_width": 29,
+    "render_height": 22,
+    "inline_svg": true,
+    "source": "Actual idle original unit12 guide speaker"
+  }
+]

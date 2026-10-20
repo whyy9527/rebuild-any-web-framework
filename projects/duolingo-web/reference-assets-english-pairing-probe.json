@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/miranda/470bd900f86e50354c7ae7659ef96ab8",
+    "kind": "speech",
+    "name": "en-speech-a5435999aadda4575a48",
+    "source_file": "en-speech-a5435999aadda4575a48.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+    "kind": "speech",
+    "name": "en-speech-f8128990d7407023c51b",
+    "source_file": "en-speech-f8128990d7407023c51b.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/5132582196725fca0d6a34ce5661cc3e",
+    "kind": "speech",
+    "name": "en-speech-1c0b0ca0aaac2febdf32",
+    "source_file": "en-speech-1c0b0ca0aaac2febdf32.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+    "kind": "speech",
+    "name": "en-speech-8a0d9ca5f303c427a11e",
+    "source_file": "en-speech-8a0d9ca5f303c427a11e.mp3"
+  }
+]

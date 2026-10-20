@@ -1,0 +1,75 @@
+{
+  "kind": "Actual source actions, grouped related navigations",
+  "rows": [
+    {
+      "action": "Learn from saved avatar",
+      "result": "/learn"
+    },
+    {
+      "action": "Leaderboards then actual guest footer",
+      "result": "Independent profile displays saved composed avatar as480x224Canvas"
+    },
+    {
+      "action": "Profile country button",
+      "result": "All languages modal, actual English/Chinese link and204XP"
+    },
+    {
+      "action": "Escape",
+      "result": "Initial dismissal inference was incorrect: repeated actual Escape remained visible; actual X closes",
+      "evidence": [
+        "escape-wait-failure.txt",
+        "escape-recheck.json",
+        "source/languages-after-escape-visible.json",
+        "source/languages-close-button.json"
+      ]
+    },
+    {
+      "action": "Profile pencil",
+      "result": "Saved clean avatar editor, Done disabled"
+    },
+    {
+      "action": "Clean avatar back",
+      "result": "/errors/404.html"
+    },
+    {
+      "action": "404 duolingo.com",
+      "result": "Loading shell then actual /learn"
+    },
+    {
+      "action": "Home section header",
+      "result": "/sections; eight stages and daily review rendered, only visible actions counted"
+    },
+    {
+      "action": "Jump to stage2",
+      "result": "/lesson/section/2/test intro"
+    },
+    {
+      "action": "Continue intro",
+      "result": "Actual first choice question; no answer submitted"
+    },
+    {
+      "action": "Quit first question",
+      "result": "Direct return /sections, no confirmation"
+    },
+    {
+      "action": "Continue stage1",
+      "result": "/learn"
+    },
+    {
+      "action": "Actual language modal X after repeated Escape",
+      "result": "Modal dismissed; same profile visible",
+      "evidence": "profile-close-transition.json"
+    },
+    {
+      "action": "Actual English/Chinese204XP language link",
+      "result": "Enrollment link returns ready /learn",
+      "evidence": "profile-enrollment-transition.json"
+    }
+  ],
+  "limits": [
+    "Not every stage visited",
+    "No placement answer or result observed",
+    "Country enrollment link not executed",
+    "Invitation branch stays unimplemented"
+  ]
+}

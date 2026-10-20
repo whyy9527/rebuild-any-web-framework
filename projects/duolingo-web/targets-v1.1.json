@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "targets": {
+    "reference": {
+      "kind": "original_online",
+      "layer": "browser_ui",
+      "command": [
+        "node",
+        "projects/duolingo-web/original-adapter.mjs"
+      ],
+      "acceptance_paths": [
+        "projects/duolingo-web/original-adapter.mjs",
+        "projects/duolingo-web/package.json",
+        "projects/duolingo-web/package-lock.json"
+      ]
+    },
+    "candidate": {
+      "kind": "candidate",
+      "layer": "native_ui",
+      "command": [
+        "swift",
+        "projects/duolingo-web/native-adapter-v2.swift"
+      ],
+      "acceptance_paths": [
+        "projects/duolingo-web/native-adapter-v2.swift"
+      ]
+    }
+  }
+}

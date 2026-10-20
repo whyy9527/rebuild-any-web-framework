@@ -1,0 +1,350 @@
+{
+  "journeys": [
+    {
+      "id": "fourth-lesson-source-trajectory",
+      "steps": [
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "home-before"
+        },
+        {
+          "native_action": "unit12-path-0",
+          "state": "home-popover"
+        },
+        {
+          "native_action": "stage2-lesson-confirm",
+          "state": "q0-before"
+        },
+        {
+          "native_action": "option-0"
+        },
+        {
+          "native_action": "check",
+          "state": "q0-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q1-before"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q1-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q2-before"
+        },
+        {
+          "native_action": "option-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q2-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q3-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "q3-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q4-before"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "q4-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q5-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "q5-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q6-before"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "check",
+          "state": "q6-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q7-before"
+        },
+        {
+          "native_action": "option-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q7-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q8-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "check",
+          "state": "q8-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q9-before"
+        },
+        {
+          "native_action": "option-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q9-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q10-before"
+        },
+        {
+          "native_action": "speech-decline",
+          "state": "q10-closed"
+        },
+        {
+          "native_action": "speech-continue",
+          "state": "q11-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q11-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q12-before"
+        },
+        {
+          "native_action": "pronounce",
+          "operation": "record_audio",
+          "recording": "q12-original-speech",
+          "duration_seconds": 4
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "q12-feedback",
+          "operation": "record_audio",
+          "recording": "q12-original-correct",
+          "duration_seconds": 4
+        },
+        {
+          "native_action": "continue",
+          "state": "q13-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q13-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q14-before"
+        },
+        {
+          "native_action": "toggle-input-mode",
+          "operation": "pointer_click",
+          "state": "q14-keyboard"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "two bathrooms",
+          "state": "q14-keyboard-filled"
+        },
+        {
+          "native_action": "check",
+          "state": "q14-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "hard-introduction"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "q15-before"
+        },
+        {
+          "native_action": "toggle-input-mode",
+          "operation": "pointer_click",
+          "state": "q15-wordbank"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-7"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-6"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "check",
+          "state": "q15-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q16-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-6"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q16-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "q17-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "q17-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "settlement-current"
+        },
+        {
+          "native_action": "settlement-secondary",
+          "state": "settlement-review"
+        },
+        {
+          "native_action": "result-review-close",
+          "state": "settlement-review-closed"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "after-result"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "after-achievement"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "home-after"
+        }
+      ]
+    }
+  ]
+}

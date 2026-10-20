@@ -1,0 +1,51 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "english-hot-review-probe",
+      "title": "提供或接受饮料",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "hot-review-probe",
+          "title": "热茶错题重练验证",
+          "questions": [
+            {
+              "id": "en-zh-node2-hot-review",
+              "kind": "text_entry",
+              "prompt": "输入所缺单词",
+              "answer": "hot",
+              "sourceType": "completeReverseTranslation",
+              "sourceLanguage": "zh",
+              "hint": "热茶",
+              "completionPrefix": "",
+              "completionSuffix": " tea",
+              "correctFeedback": "正确！",
+              "explanation": "",
+              "audioResource": null,
+              "slowAudioResource": null
+            }
+          ]
+        }
+      ],
+      "pathNodes": [
+        {
+          "kind": "star",
+          "lessonIDs": [
+            "hot-review-probe"
+          ],
+          "lessonCount": 4
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "Actual cold rejection, HOT acceptance in source hot-tea review",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-next-node-v1/hot-tea-wrong.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/review-hot.json"
+    ],
+    "scope": "One isolated mistake/review component, not full lesson",
+    "unknown": "Case-insensitive comparison inferred from HOT acceptance; whitespace, punctuation and typo grading remain unverified"
+  }
+}

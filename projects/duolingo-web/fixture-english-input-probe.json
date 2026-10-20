@@ -1,0 +1,67 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "english-node2-input-probe",
+      "title": "提供或接受饮料",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "input-probe",
+          "title": "输入题验证",
+          "questions": [
+            {
+              "id": "en-zh-node2-q3",
+              "kind": "text_entry",
+              "prompt": "输入所缺单词",
+              "answer": "Tea",
+              "sourceType": "listenComplete",
+              "sourceLanguage": "en",
+              "hint": null,
+              "completionPrefix": "",
+              "completionSuffix": " or coffee?",
+              "correctFeedback": "太棒了！",
+              "explanation": "意思是： 茶还是咖啡？",
+              "audioResource": "en-speech-d72470a1af80f775a193.mp3",
+              "slowAudioResource": "en-speech-70fbd755922d8d241368.mp3"
+            },
+            {
+              "id": "en-zh-node2-q5",
+              "kind": "text_entry",
+              "prompt": "输入所缺单词",
+              "answer": "tea",
+              "sourceType": "completeReverseTranslation",
+              "sourceLanguage": "zh",
+              "hint": "我想要茶。",
+              "completionPrefix": "I'd like ",
+              "completionSuffix": ".",
+              "correctFeedback": "你太棒了！",
+              "explanation": "",
+              "audioResource": null,
+              "slowAudioResource": null
+            }
+          ]
+        }
+      ],
+      "pathNodes": [
+        {
+          "kind": "star",
+          "lessonIDs": [
+            "input-probe"
+          ],
+          "lessonCount": 4
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "Two actual second-node states with source accepted input/feedback",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-next-node-v1/session.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/listen-complete-response.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/reverse-response.json"
+    ],
+    "scope": "Isolated input component probe, not full original lesson or new default curriculum",
+    "unknown": "Full source grading, wrong-input/review, speech recognition, entire second-node lesson, graphics/animation/audio equality pending"
+  }
+}

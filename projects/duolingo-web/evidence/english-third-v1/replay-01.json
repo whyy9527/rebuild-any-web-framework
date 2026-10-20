@@ -1,0 +1,6398 @@
+{
+  "session": {
+    "learningLanguage": "en",
+    "fromLanguage": "zh",
+    "type": "LESSON",
+    "lessonIndex": 2,
+    "levelIndex": 0,
+    "levelSessionIndex": 2,
+    "challenges": [
+      {
+        "index": 0,
+        "keys": [
+          "prompt",
+          "choices",
+          "correctIndex",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "水",
+          "choices": [
+            {
+              "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+              "phrase": "water",
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+              "hint": "水"
+            },
+            {
+              "image": "https://d2pur3iezf4d1j.cloudfront.net/images/72529140fa35af37c56e0a20f1fbe2a8",
+              "phrase": "sugar",
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/72529140fa35af37c56e0a20f1fbe2a8",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/3606333d331a6b6a8591d76eea80c6ba",
+              "hint": "糖"
+            },
+            {
+              "image": "https://d2pur3iezf4d1j.cloudfront.net/images/b7fc4f6c8618aaa4a6b1674f76a87d98",
+              "phrase": "ice",
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/b7fc4f6c8618aaa4a6b1674f76a87d98",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+              "hint": "冰"
+            }
+          ],
+          "correctIndex": 0,
+          "type": "select",
+          "newWords": [
+            "water"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 1,
+        "keys": [
+          "prompt",
+          "choices",
+          "correctIndex",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "冰",
+          "choices": [
+            {
+              "image": "https://d2pur3iezf4d1j.cloudfront.net/images/b7fc4f6c8618aaa4a6b1674f76a87d98",
+              "phrase": "ice",
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/b7fc4f6c8618aaa4a6b1674f76a87d98",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+              "hint": "冰"
+            },
+            {
+              "image": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+              "phrase": "water",
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/7afea32bcf0e8c6f9d446ad4aad416be",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+              "hint": "水"
+            },
+            {
+              "image": "https://d2pur3iezf4d1j.cloudfront.net/images/645fa42dcea02c7e2970a1285e321562",
+              "phrase": "milk",
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/645fa42dcea02c7e2970a1285e321562",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+              "hint": "牛奶"
+            }
+          ],
+          "correctIndex": 0,
+          "type": "select",
+          "newWords": [
+            "ice"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 2,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "prompt": "water",
+          "correctSolutions": [
+            "水"
+          ],
+          "correctTokens": [
+            "水"
+          ],
+          "choices": [
+            {
+              "text": "水"
+            },
+            {
+              "text": "也"
+            }
+          ],
+          "correctIndices": [
+            0
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "water",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lilyen/e80918e87d587339e38f6b92039a8b27",
+              "hintTable": {}
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/lilyen/e80918e87d587339e38f6b92039a8b27",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/81ca92172d70599306b16bcb87799195"
+            },
+            "gender": "FEMALE"
+          },
+          "type": "translate",
+          "newWords": []
+        }
+      },
+      {
+        "index": 3,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "Goodbye.",
+          "correctSolutions": [
+            "再见。"
+          ],
+          "correctTokens": [
+            "再见"
+          ],
+          "choices": [
+            {
+              "text": "再见"
+            },
+            {
+              "text": "也"
+            }
+          ],
+          "correctIndices": [
+            0
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "Goodbye",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/5ed395e9d58a77c8bf040219deee3b25",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c23e1d3fe79fbff103a99720e103afc9",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+            },
+            "gender": "MALE"
+          },
+          "type": "translate",
+          "newWords": [
+            "Goodbye"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 4,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "Thank you!",
+          "correctSolutions": [
+            "谢谢！"
+          ],
+          "correctTokens": [
+            "谢谢"
+          ],
+          "choices": [
+            {
+              "text": "谢谢"
+            },
+            {
+              "text": "客气"
+            }
+          ],
+          "correctIndices": [
+            0
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "Thank",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/1a0cbb974566a58cffe4076463941b5d",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "you",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/64d9009226b9a0b04a47af481c3160ab",
+              "hintTable": {}
+            },
+            {
+              "value": "!"
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/ad178aebb8dfd890ab602527440e685c"
+            },
+            "gender": "FEMALE"
+          },
+          "type": "translate",
+          "newWords": [
+            "you",
+            "Thank"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 5,
+        "keys": [
+          "character",
+          "prompt",
+          "choices",
+          "correctIndex",
+          "options",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+            },
+            "gender": "MALE"
+          },
+          "prompt": "冰",
+          "choices": [
+            "ice",
+            "thank you",
+            "water"
+          ],
+          "correctIndex": 0,
+          "type": "assist",
+          "newWords": []
+        }
+      },
+      {
+        "index": 6,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "No ice, please.",
+          "correctSolutions": [
+            "不要冰，谢谢。"
+          ],
+          "correctTokens": [
+            "不要",
+            "冰",
+            "谢谢"
+          ],
+          "choices": [
+            {
+              "text": "不要"
+            },
+            {
+              "text": "冰"
+            },
+            {
+              "text": "谢谢"
+            },
+            {
+              "text": "牛奶"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "No",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/6240904b8794664ac4485dd4493d78db",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "ice",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/1517c4ee7ea6c3bf8cb4d4218e906c78",
+              "hintTable": {}
+            },
+            {
+              "value": ","
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "please",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/3966e375db89d84680fab50078b9fa5e",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+            },
+            "gender": "MALE"
+          },
+          "type": "translate",
+          "newWords": [
+            "No"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 7,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "You're welcome, goodbye!",
+          "correctSolutions": [
+            "不客气，再见！"
+          ],
+          "correctTokens": [
+            "不",
+            "客气",
+            "再见"
+          ],
+          "choices": [
+            {
+              "text": "不"
+            },
+            {
+              "text": "客气"
+            },
+            {
+              "text": "再见"
+            },
+            {
+              "text": "加冰"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "You're",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/89c08230f6d0ef5e8cc08a891903a909",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "welcome",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/2ddc351c7aa1965c9204633eaf7f6354",
+              "hintTable": {}
+            },
+            {
+              "value": ","
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "goodbye",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/20216e811e082f2d472cb971d67795a0",
+              "hintTable": {}
+            },
+            {
+              "value": "!"
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/85c5ecb885f7073a3aebeb775946e329"
+            },
+            "gender": "FEMALE"
+          },
+          "type": "translate",
+          "newWords": [
+            "You're",
+            "welcome"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 8,
+        "keys": [
+          "character",
+          "prompt",
+          "choices",
+          "correctIndex",
+          "options",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/ad178aebb8dfd890ab602527440e685c"
+            },
+            "gender": "FEMALE"
+          },
+          "prompt": "谢谢你",
+          "choices": [
+            "sugar",
+            "thank you",
+            "welcome"
+          ],
+          "correctIndex": 1,
+          "type": "assist",
+          "newWords": []
+        }
+      },
+      {
+        "index": 9,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier",
+          "canBeSkipped"
+        ],
+        "content": {
+          "prompt": "No milk and no sugar, please.",
+          "correctSolutions": [
+            "不要牛奶，也不要糖，谢谢。"
+          ],
+          "correctTokens": [
+            "不要",
+            "牛奶",
+            "也",
+            "不要",
+            "糖",
+            "谢谢"
+          ],
+          "choices": [
+            {
+              "text": "不要"
+            },
+            {
+              "text": "牛奶"
+            },
+            {
+              "text": "也"
+            },
+            {
+              "text": "不要"
+            },
+            {
+              "text": "糖"
+            },
+            {
+              "text": "谢谢"
+            },
+            {
+              "text": "咖啡"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "No",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/8257b9c7677f70fc3a112f98a9403aa7",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "milk",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/0619d1c854b21dc27c8b9e88ed4a2c73",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "and",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/d601ba11e3eed4babdd4db69ced84cbf",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "no",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/8257b9c7677f70fc3a112f98a9403aa7",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "sugar",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/158e932deee0bc18109db8aae0b289b6",
+              "hintTable": {}
+            },
+            {
+              "value": ","
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "please",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/7aa710047b2cef3d7b254fdd36c44805",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/75acb871d6aeac580deca586721d1aae",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+            },
+            "gender": "MALE"
+          },
+          "type": "translate",
+          "newWords": [
+            "and"
+          ],
+          "canBeSkipped": false
+        }
+      },
+      {
+        "index": 10,
+        "keys": [
+          "character",
+          "prompt",
+          "choices",
+          "correctIndex",
+          "options",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+            },
+            "gender": "MALE"
+          },
+          "prompt": "不客气",
+          "choices": [
+            "goodbye",
+            "hot",
+            "you're welcome"
+          ],
+          "correctIndex": 2,
+          "type": "assist",
+          "newWords": []
+        }
+      },
+      {
+        "index": 11,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "prompt": "water and tea",
+          "correctSolutions": [
+            "水和茶"
+          ],
+          "correctTokens": [
+            "水",
+            "和",
+            "茶"
+          ],
+          "choices": [
+            {
+              "text": "水"
+            },
+            {
+              "text": "和"
+            },
+            {
+              "text": "茶"
+            },
+            {
+              "text": "不"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "water",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/oscaren/0e11ab23551016b7f3ccfdbdb0d75e50",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "and",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/oscaren/d20f8298a95dc91df62b03c41c045084",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "tea",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/oscaren/3ea16dc739c37faffd849d7557d72f7f",
+              "hintTable": {}
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/oscaren/15be4228ad999c109d26fe4315dbe498",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/f4639160abfb44c54829ebeb62c0542d"
+            },
+            "gender": "MALE"
+          },
+          "type": "translate",
+          "newWords": []
+        }
+      },
+      {
+        "index": 12,
+        "keys": [
+          "prompt",
+          "correctSolutions",
+          "compactTranslations",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "sourceLanguage",
+          "targetLanguage",
+          "grader",
+          "taggedKcIds",
+          "challengeDisplaySettings",
+          "weakWordPromptRanges",
+          "tokens",
+          "tts",
+          "character",
+          "isSpeakerUniversal",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "prompt": "water and coffee",
+          "correctSolutions": [
+            "水和咖啡"
+          ],
+          "correctTokens": [
+            "水",
+            "和",
+            "咖啡"
+          ],
+          "choices": [
+            {
+              "text": "水"
+            },
+            {
+              "text": "和"
+            },
+            {
+              "text": "咖啡"
+            },
+            {
+              "text": "不客气"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "water",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/6d3e79ae98ecb09d49b2a13edc61270b",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "and",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/5fbd681b7a4362f8f9cc41a8d822fb71",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "coffee",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/a4c54cfc8fc48b719a8e6178ac8828f8",
+              "hintTable": {}
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/5386209d93360ac5ee5da1ddc2d3deff",
+          "character": {
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/0f284113af41f7f7296263183701a13b"
+            },
+            "gender": "MALE"
+          },
+          "type": "translate",
+          "newWords": []
+        }
+      },
+      {
+        "index": 13,
+        "keys": [
+          "choices",
+          "correctIndex",
+          "dialogue",
+          "solutionTranslation",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "progressUpdates",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "choices": [
+            "Goodbye.",
+            "Tea, please."
+          ],
+          "correctIndex": 1,
+          "solutionTranslation": "茶，谢谢。",
+          "type": "dialogue"
+        }
+      },
+      {
+        "index": 14,
+        "keys": [
+          "prompt",
+          "correctTokens",
+          "wrongTokens",
+          "choices",
+          "correctIndices",
+          "solutionTranslation",
+          "tts",
+          "slowTts",
+          "grader",
+          "type",
+          "id",
+          "challengeResponseTrackingProperties",
+          "metadata",
+          "newWords",
+          "progressUpdates",
+          "sentenceId",
+          "challengeGeneratorIdentifier"
+        ],
+        "content": {
+          "prompt": "Goodbye!",
+          "correctTokens": [
+            "Goodbye"
+          ],
+          "choices": [
+            {
+              "text": "Goodbye",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/d86e6d7f767fde39d4ae067d2facdd68"
+            },
+            {
+              "text": "sugar",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f874fb5e233c75cb93d9224d658d77ac"
+            }
+          ],
+          "correctIndices": [
+            0
+          ],
+          "solutionTranslation": "再见！",
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/b81091632d72e12dfb733c299fded816",
+          "slowTts": "https://d1vq87e9lcf771.cloudfront.net/miranda/ac12f52dc35c9aa999aa40ae94549b79",
+          "type": "listenTap",
+          "newWords": []
+        }
+      }
+    ],
+    "omitted_keys": [
+      "challenge.0.id",
+      "challenge.0.challengeResponseTrackingProperties",
+      "challenge.0.metadata",
+      "challenge.0.progressUpdates",
+      "challenge.0.challengeGeneratorIdentifier",
+      "challenge.1.id",
+      "challenge.1.challengeResponseTrackingProperties",
+      "challenge.1.metadata",
+      "challenge.1.progressUpdates",
+      "challenge.1.challengeGeneratorIdentifier",
+      "challenge.2.compactTranslations",
+      "challenge.2.wrongTokens",
+      "challenge.2.grader",
+      "challenge.2.taggedKcIds",
+      "challenge.2.challengeDisplaySettings",
+      "challenge.2.weakWordPromptRanges",
+      "challenge.2.isSpeakerUniversal",
+      "challenge.2.id",
+      "challenge.2.challengeResponseTrackingProperties",
+      "challenge.2.metadata",
+      "challenge.2.progressUpdates",
+      "challenge.2.sentenceId",
+      "challenge.2.challengeGeneratorIdentifier",
+      "challenge.2.tokens.0.hintTable.headers",
+      "challenge.2.tokens.0.hintTable.rows",
+      "challenge.2.character.url",
+      "challenge.2.character.correctAnimation",
+      "challenge.2.character.incorrectAnimation",
+      "challenge.2.character.idleAnimation",
+      "challenge.2.character.name",
+      "challenge.2.character.avatarIconImage",
+      "challenge.2.character.image.pdf",
+      "challenge.3.compactTranslations",
+      "challenge.3.wrongTokens",
+      "challenge.3.grader",
+      "challenge.3.taggedKcIds",
+      "challenge.3.challengeDisplaySettings",
+      "challenge.3.weakWordPromptRanges",
+      "challenge.3.isSpeakerUniversal",
+      "challenge.3.id",
+      "challenge.3.challengeResponseTrackingProperties",
+      "challenge.3.metadata",
+      "challenge.3.progressUpdates",
+      "challenge.3.sentenceId",
+      "challenge.3.challengeGeneratorIdentifier",
+      "challenge.3.tokens.0.hintTable.headers",
+      "challenge.3.tokens.0.hintTable.rows",
+      "challenge.3.character.url",
+      "challenge.3.character.correctAnimation",
+      "challenge.3.character.incorrectAnimation",
+      "challenge.3.character.idleAnimation",
+      "challenge.3.character.name",
+      "challenge.3.character.avatarIconImage",
+      "challenge.3.character.image.pdf",
+      "challenge.4.compactTranslations",
+      "challenge.4.wrongTokens",
+      "challenge.4.grader",
+      "challenge.4.taggedKcIds",
+      "challenge.4.challengeDisplaySettings",
+      "challenge.4.weakWordPromptRanges",
+      "challenge.4.isSpeakerUniversal",
+      "challenge.4.id",
+      "challenge.4.challengeResponseTrackingProperties",
+      "challenge.4.metadata",
+      "challenge.4.progressUpdates",
+      "challenge.4.sentenceId",
+      "challenge.4.challengeGeneratorIdentifier",
+      "challenge.4.tokens.0.hintTable.headers",
+      "challenge.4.tokens.0.hintTable.rows",
+      "challenge.4.tokens.2.hintTable.headers",
+      "challenge.4.tokens.2.hintTable.rows",
+      "challenge.4.character.url",
+      "challenge.4.character.correctAnimation",
+      "challenge.4.character.incorrectAnimation",
+      "challenge.4.character.idleAnimation",
+      "challenge.4.character.name",
+      "challenge.4.character.avatarIconImage",
+      "challenge.4.character.image.pdf",
+      "challenge.5.options",
+      "challenge.5.id",
+      "challenge.5.challengeResponseTrackingProperties",
+      "challenge.5.metadata",
+      "challenge.5.progressUpdates",
+      "challenge.5.challengeGeneratorIdentifier",
+      "challenge.5.character.url",
+      "challenge.5.character.correctAnimation",
+      "challenge.5.character.incorrectAnimation",
+      "challenge.5.character.idleAnimation",
+      "challenge.5.character.name",
+      "challenge.5.character.avatarIconImage",
+      "challenge.5.character.image.pdf",
+      "challenge.6.compactTranslations",
+      "challenge.6.wrongTokens",
+      "challenge.6.grader",
+      "challenge.6.taggedKcIds",
+      "challenge.6.challengeDisplaySettings",
+      "challenge.6.weakWordPromptRanges",
+      "challenge.6.isSpeakerUniversal",
+      "challenge.6.id",
+      "challenge.6.challengeResponseTrackingProperties",
+      "challenge.6.metadata",
+      "challenge.6.progressUpdates",
+      "challenge.6.sentenceId",
+      "challenge.6.challengeGeneratorIdentifier",
+      "challenge.6.tokens.0.hintTable.headers",
+      "challenge.6.tokens.0.hintTable.rows",
+      "challenge.6.tokens.2.hintTable.headers",
+      "challenge.6.tokens.2.hintTable.rows",
+      "challenge.6.tokens.5.hintTable.headers",
+      "challenge.6.tokens.5.hintTable.rows",
+      "challenge.6.character.url",
+      "challenge.6.character.correctAnimation",
+      "challenge.6.character.incorrectAnimation",
+      "challenge.6.character.idleAnimation",
+      "challenge.6.character.name",
+      "challenge.6.character.avatarIconImage",
+      "challenge.6.character.image.pdf",
+      "challenge.7.compactTranslations",
+      "challenge.7.wrongTokens",
+      "challenge.7.grader",
+      "challenge.7.taggedKcIds",
+      "challenge.7.challengeDisplaySettings",
+      "challenge.7.weakWordPromptRanges",
+      "challenge.7.isSpeakerUniversal",
+      "challenge.7.id",
+      "challenge.7.challengeResponseTrackingProperties",
+      "challenge.7.metadata",
+      "challenge.7.progressUpdates",
+      "challenge.7.sentenceId",
+      "challenge.7.challengeGeneratorIdentifier",
+      "challenge.7.tokens.0.hintTable.headers",
+      "challenge.7.tokens.0.hintTable.rows",
+      "challenge.7.tokens.2.hintTable.headers",
+      "challenge.7.tokens.2.hintTable.rows",
+      "challenge.7.tokens.5.hintTable.headers",
+      "challenge.7.tokens.5.hintTable.rows",
+      "challenge.7.character.url",
+      "challenge.7.character.correctAnimation",
+      "challenge.7.character.incorrectAnimation",
+      "challenge.7.character.idleAnimation",
+      "challenge.7.character.name",
+      "challenge.7.character.avatarIconImage",
+      "challenge.7.character.image.pdf",
+      "challenge.8.options",
+      "challenge.8.id",
+      "challenge.8.challengeResponseTrackingProperties",
+      "challenge.8.metadata",
+      "challenge.8.progressUpdates",
+      "challenge.8.challengeGeneratorIdentifier",
+      "challenge.8.character.url",
+      "challenge.8.character.correctAnimation",
+      "challenge.8.character.incorrectAnimation",
+      "challenge.8.character.idleAnimation",
+      "challenge.8.character.name",
+      "challenge.8.character.avatarIconImage",
+      "challenge.8.character.image.pdf",
+      "challenge.9.compactTranslations",
+      "challenge.9.wrongTokens",
+      "challenge.9.grader",
+      "challenge.9.taggedKcIds",
+      "challenge.9.challengeDisplaySettings",
+      "challenge.9.weakWordPromptRanges",
+      "challenge.9.isSpeakerUniversal",
+      "challenge.9.id",
+      "challenge.9.challengeResponseTrackingProperties",
+      "challenge.9.metadata",
+      "challenge.9.progressUpdates",
+      "challenge.9.sentenceId",
+      "challenge.9.challengeGeneratorIdentifier",
+      "challenge.9.tokens.0.hintTable.headers",
+      "challenge.9.tokens.0.hintTable.rows",
+      "challenge.9.tokens.2.hintTable.headers",
+      "challenge.9.tokens.2.hintTable.rows",
+      "challenge.9.tokens.4.hintTable.headers",
+      "challenge.9.tokens.4.hintTable.rows",
+      "challenge.9.tokens.6.hintTable.headers",
+      "challenge.9.tokens.6.hintTable.rows",
+      "challenge.9.tokens.8.hintTable.headers",
+      "challenge.9.tokens.8.hintTable.rows",
+      "challenge.9.tokens.11.hintTable.headers",
+      "challenge.9.tokens.11.hintTable.rows",
+      "challenge.9.character.url",
+      "challenge.9.character.correctAnimation",
+      "challenge.9.character.incorrectAnimation",
+      "challenge.9.character.idleAnimation",
+      "challenge.9.character.name",
+      "challenge.9.character.avatarIconImage",
+      "challenge.9.character.image.pdf",
+      "challenge.10.options",
+      "challenge.10.id",
+      "challenge.10.challengeResponseTrackingProperties",
+      "challenge.10.metadata",
+      "challenge.10.progressUpdates",
+      "challenge.10.challengeGeneratorIdentifier",
+      "challenge.10.character.url",
+      "challenge.10.character.correctAnimation",
+      "challenge.10.character.incorrectAnimation",
+      "challenge.10.character.idleAnimation",
+      "challenge.10.character.name",
+      "challenge.10.character.avatarIconImage",
+      "challenge.10.character.image.pdf",
+      "challenge.11.compactTranslations",
+      "challenge.11.wrongTokens",
+      "challenge.11.grader",
+      "challenge.11.taggedKcIds",
+      "challenge.11.challengeDisplaySettings",
+      "challenge.11.weakWordPromptRanges",
+      "challenge.11.isSpeakerUniversal",
+      "challenge.11.id",
+      "challenge.11.challengeResponseTrackingProperties",
+      "challenge.11.metadata",
+      "challenge.11.progressUpdates",
+      "challenge.11.sentenceId",
+      "challenge.11.challengeGeneratorIdentifier",
+      "challenge.11.tokens.0.hintTable.headers",
+      "challenge.11.tokens.0.hintTable.rows",
+      "challenge.11.tokens.2.hintTable.headers",
+      "challenge.11.tokens.2.hintTable.rows",
+      "challenge.11.tokens.4.hintTable.headers",
+      "challenge.11.tokens.4.hintTable.rows",
+      "challenge.11.character.url",
+      "challenge.11.character.correctAnimation",
+      "challenge.11.character.incorrectAnimation",
+      "challenge.11.character.idleAnimation",
+      "challenge.11.character.name",
+      "challenge.11.character.avatarIconImage",
+      "challenge.11.character.image.pdf",
+      "challenge.12.compactTranslations",
+      "challenge.12.wrongTokens",
+      "challenge.12.grader",
+      "challenge.12.taggedKcIds",
+      "challenge.12.challengeDisplaySettings",
+      "challenge.12.weakWordPromptRanges",
+      "challenge.12.isSpeakerUniversal",
+      "challenge.12.id",
+      "challenge.12.challengeResponseTrackingProperties",
+      "challenge.12.metadata",
+      "challenge.12.progressUpdates",
+      "challenge.12.sentenceId",
+      "challenge.12.challengeGeneratorIdentifier",
+      "challenge.12.tokens.0.hintTable.headers",
+      "challenge.12.tokens.0.hintTable.rows",
+      "challenge.12.tokens.2.hintTable.headers",
+      "challenge.12.tokens.2.hintTable.rows",
+      "challenge.12.tokens.4.hintTable.headers",
+      "challenge.12.tokens.4.hintTable.rows",
+      "challenge.12.character.url",
+      "challenge.12.character.correctAnimation",
+      "challenge.12.character.incorrectAnimation",
+      "challenge.12.character.idleAnimation",
+      "challenge.12.character.name",
+      "challenge.12.character.avatarIconImage",
+      "challenge.12.character.image.pdf",
+      "challenge.13.dialogue",
+      "challenge.13.id",
+      "challenge.13.challengeResponseTrackingProperties",
+      "challenge.13.metadata",
+      "challenge.13.progressUpdates",
+      "challenge.13.challengeGeneratorIdentifier",
+      "challenge.14.wrongTokens",
+      "challenge.14.grader",
+      "challenge.14.id",
+      "challenge.14.challengeResponseTrackingProperties",
+      "challenge.14.metadata",
+      "challenge.14.progressUpdates",
+      "challenge.14.sentenceId",
+      "challenge.14.challengeGeneratorIdentifier"
+    ]
+  },
+  "observed": [
+    {
+      "index": 0,
+      "type": "select",
+      "actions": [
+        {
+          "select": "water"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“水”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"water 1\":\n    - text: water 1\n    - img\n    - img\n  - radio \"sugar 2\":\n    - text: sugar 2\n    - img\n    - img\n  - radio \"ice 3\":\n    - text: ice 3\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "哪个是“水”呢？",
+      "dom_type": "challenge challenge-select",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-0-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "select",
+          "prompt": "水",
+          "choices": [
+            "water",
+            "sugar",
+            "ice"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-select",
+          "text": "新单词\n哪个是“水”呢？\nwater\n1\nsugar\n2\nice\n3",
+          "choices": [
+            "water",
+            "sugar",
+            "ice"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "哪个是“水”呢？"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "water1"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "sugar2"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "ice3"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“水”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"water 1\" [checked] [disabled]:\n    - text: water 1\n    - img\n    - img\n  - radio \"sugar 2\" [disabled]:\n    - text: sugar 2\n    - img\n    - img\n  - radio \"ice 3\" [disabled]:\n    - text: ice 3\n    - img\n    - img\n- heading \"不错哦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-0-feedback.png"
+    },
+    {
+      "index": 1,
+      "type": "select",
+      "actions": [
+        {
+          "select": "ice"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“冰”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"ice 1\":\n    - text: ice 1\n    - img\n    - img\n  - radio \"water 2\":\n    - text: water 2\n    - img\n    - img\n  - radio \"milk 3\":\n    - text: milk 3\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "哪个是“冰”呢？",
+      "dom_type": "challenge challenge-select",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-1-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "select",
+          "prompt": "冰",
+          "choices": [
+            "ice",
+            "water",
+            "milk"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-select",
+          "text": "新单词\n哪个是“冰”呢？\nice\n1\nwater\n2\nmilk\n3",
+          "choices": [
+            "ice",
+            "water",
+            "milk"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "哪个是“冰”呢？"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "ice1"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "water2"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "milk3"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 2 题\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“冰”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"ice 1\" [checked] [disabled]:\n    - text: ice 1\n    - img\n    - img\n  - radio \"water 2\" [disabled]:\n    - text: water 2\n    - img\n    - img\n  - radio \"milk 3\" [disabled]:\n    - text: milk 3\n    - img\n    - img\n- heading \"不错哦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-1-feedback.png"
+    },
+    {
+      "index": 2,
+      "type": "translate",
+      "actions": [
+        {
+          "word": "水"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"也\"\n- button \"水\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-2-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "water",
+          "choices": [
+            "水",
+            "也"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "用中文（简体）写出这句话\nwater\n也\n水",
+          "choices": [
+            "也",
+            "水"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "也水"
+        },
+        {
+          "test": "也-challenge-tap-token",
+          "text": "也"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "也"
+        },
+        {
+          "test": "水-challenge-tap-token",
+          "text": "水"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "水"
+        }
+      ],
+      "word_bank": [
+        "也",
+        "水"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 3 题\n- img\n- text: \"4\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"也\" [disabled]\n- button \"水\" [disabled]\n- heading \"好棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"水\" [disabled]",
+      "media": [],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-2-feedback.png"
+    },
+    {
+      "index": 3,
+      "type": "translate",
+      "actions": [
+        {
+          "word": "再见"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"也\"\n- button \"再见\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-3-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "Goodbye.",
+          "choices": [
+            "再见",
+            "也"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "新单词\n用中文（简体）写出这句话\nGoodbye.\n也\n再见",
+          "choices": [
+            "也",
+            "再见"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "也再见"
+        },
+        {
+          "test": "也-challenge-tap-token",
+          "text": "也"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "也"
+        },
+        {
+          "test": "再见-challenge-tap-token",
+          "text": "再见"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "再见"
+        }
+      ],
+      "word_bank": [
+        "也",
+        "再见"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 4 题\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"也\" [disabled]\n- button \"再见\" [disabled]\n- heading \"非常好！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"再见\" [disabled]",
+      "media": [],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-3-feedback.png"
+    },
+    {
+      "index": 4,
+      "type": "translate",
+      "actions": [
+        {
+          "word": "谢谢"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"客气\"\n- button \"谢谢\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-4-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "Thank you!",
+          "choices": [
+            "谢谢",
+            "客气"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "新单词\n用中文（简体）写出这句话\nThank you!\n客气\n谢谢",
+          "choices": [
+            "客气",
+            "谢谢"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "客气谢谢"
+        },
+        {
+          "test": "客气-challenge-tap-token",
+          "text": "客气"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "客气"
+        },
+        {
+          "test": "谢谢-challenge-tap-token",
+          "text": "谢谢"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "谢谢"
+        }
+      ],
+      "word_bank": [
+        "客气",
+        "谢谢"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar:\n  - text: 连对 5 题\n  - img\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"客气\" [disabled]\n- button \"谢谢\" [disabled]\n- heading \"你太棒了！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"谢谢\" [disabled]",
+      "media": [
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-4-feedback.png"
+    },
+    {
+      "index": 5,
+      "type": "assist",
+      "actions": [
+        {
+          "select": "ice"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- heading \"选择正确的答案\" [level=1]\n- text: 冰\n- img\n- radiogroup \"choice\":\n  - radio \"1 ice\":\n    - text: 1 ice\n    - img\n    - img\n  - radio \"2 thank you\":\n    - text: 2 thank you\n    - img\n    - img\n  - radio \"3 water\":\n    - text: 3 water\n    - img\n    - img\n- img\n- text: 真是泰裤辣！\n- button \"检查\" [disabled]",
+      "heading": "选择正确的答案",
+      "dom_type": "challenge challenge-assist",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-5-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "assist",
+          "prompt": "冰",
+          "choices": [
+            "ice",
+            "thank you",
+            "water"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-assist",
+          "text": "选择正确的答案\n冰\n1\nice\n2\nthank you\n3\nwater",
+          "choices": [
+            "ice",
+            "thank you",
+            "water"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择正确的答案"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "1ice"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "ice"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "2thank you"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "thank you"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "3water"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "water"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 6 题\n- img\n- text: \"4\"\n- heading \"选择正确的答案\" [level=1]\n- text: 冰\n- img\n- radiogroup \"choice\":\n  - radio \"1 ice\" [checked] [disabled]:\n    - text: 1 ice\n    - img\n    - img\n  - radio \"2 thank you\" [disabled]:\n    - text: 2 thank you\n    - img\n    - img\n  - radio \"3 water\" [disabled]:\n    - text: 3 water\n    - img\n    - img\n- heading \"不错哦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-5-feedback.png"
+    },
+    {
+      "index": 6,
+      "type": "translate",
+      "actions": [
+        {
+          "word": "不要"
+        },
+        {
+          "word": "冰"
+        },
+        {
+          "word": "谢谢"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"牛奶\"\n- button \"谢谢\"\n- button \"不要\"\n- button \"冰\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-6-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "No ice, please.",
+          "choices": [
+            "不要",
+            "冰",
+            "谢谢",
+            "牛奶"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "新单词\n用中文（简体）写出这句话\nNo ice, please.\n牛奶\n谢谢\n不要\n冰",
+          "choices": [
+            "牛奶",
+            "谢谢",
+            "不要",
+            "冰"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "牛奶谢谢不要冰"
+        },
+        {
+          "test": "牛奶-challenge-tap-token",
+          "text": "牛奶"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "牛奶"
+        },
+        {
+          "test": "谢谢-challenge-tap-token",
+          "text": "谢谢"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "谢谢"
+        },
+        {
+          "test": "不要-challenge-tap-token",
+          "text": "不要"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "不要"
+        },
+        {
+          "test": "冰-challenge-tap-token",
+          "text": "冰"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "冰"
+        }
+      ],
+      "word_bank": [
+        "牛奶",
+        "谢谢",
+        "不要",
+        "冰"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 7 题\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"牛奶\" [disabled]\n- button \"谢谢\" [disabled]\n- button \"不要\" [disabled]\n- button \"冰\" [disabled]\n- heading \"不错哦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"不要\" [disabled]\n- button \"冰\" [disabled]\n- button \"谢谢\" [disabled]",
+      "media": [],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-6-feedback.png"
+    },
+    {
+      "index": 7,
+      "type": "translate",
+      "actions": [
+        {
+          "word": "不"
+        },
+        {
+          "word": "客气"
+        },
+        {
+          "word": "再见"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"再见\"\n- button \"加冰\"\n- button \"客气\"\n- button \"不\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-7-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "You're welcome, goodbye!",
+          "choices": [
+            "不",
+            "客气",
+            "再见",
+            "加冰"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "新单词\n用中文（简体）写出这句话\nYou're welcome, goodbye!\n再见\n加冰\n客气\n不",
+          "choices": [
+            "再见",
+            "加冰",
+            "客气",
+            "不"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "再见加冰客气不"
+        },
+        {
+          "test": "再见-challenge-tap-token",
+          "text": "再见"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "再见"
+        },
+        {
+          "test": "加冰-challenge-tap-token",
+          "text": "加冰"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "加冰"
+        },
+        {
+          "test": "客气-challenge-tap-token",
+          "text": "客气"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "客气"
+        },
+        {
+          "test": "不-challenge-tap-token",
+          "text": "不"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "不"
+        }
+      ],
+      "word_bank": [
+        "再见",
+        "加冰",
+        "客气",
+        "不"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 8 题\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"再见\" [disabled]\n- button \"加冰\" [disabled]\n- button \"客气\" [disabled]\n- button \"不\" [disabled]\n- heading \"真厉害！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"不\" [disabled]\n- button \"客气\" [disabled]\n- button \"再见\" [disabled]",
+      "media": [],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-7-feedback.png"
+    },
+    {
+      "index": 8,
+      "type": "assist",
+      "actions": [
+        {
+          "select": "thank you"
+        }
+      ],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- heading \"选择正确的答案\" [level=1]\n- text: 谢谢你\n- img\n- radiogroup \"choice\":\n  - radio \"1 sugar\":\n    - text: 1 sugar\n    - img\n    - img\n  - radio \"2 thank you\":\n    - text: 2 thank you\n    - img\n    - img\n  - radio \"3 welcome\":\n    - text: 3 welcome\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "选择正确的答案",
+      "dom_type": "challenge challenge-assist",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97293.29999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97293.29999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97293.29999995232,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-8-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "assist",
+          "prompt": "谢谢你",
+          "choices": [
+            "sugar",
+            "thank you",
+            "welcome"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-assist",
+          "text": "选择正确的答案\n谢谢你\n1\nsugar\n2\nthank you\n3\nwelcome",
+          "choices": [
+            "sugar",
+            "thank you",
+            "welcome"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择正确的答案"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "1sugar"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "sugar"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "2thank you"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "thank you"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "3welcome"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "welcome"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 9 题\n- img\n- text: \"4\"\n- heading \"选择正确的答案\" [level=1]\n- text: 谢谢你\n- img\n- radiogroup \"choice\":\n  - radio \"1 sugar\" [disabled]:\n    - text: 1 sugar\n    - img\n    - img\n  - radio \"2 thank you\" [checked] [disabled]:\n    - text: 2 thank you\n    - img\n    - img\n  - radio \"3 welcome\" [disabled]:\n    - text: 3 welcome\n    - img\n    - img\n- heading \"真棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/5cd3d6072ead630c068619edca4c4633",
+          "at": 97908.70000004768,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/5cd3d6072ead630c068619edca4c4633",
+          "at": 97908.70000004768,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/5cd3d6072ead630c068619edca4c4633",
+          "at": 97908.70000004768,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-8-feedback.png"
+    },
+    {
+      "index": 9,
+      "type": "translate",
+      "actions": [],
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"牛奶\"\n- button \"也\"\n- button \"咖啡\"\n- button \"糖\"\n- button \"不要\"\n- button \"谢谢\"\n- button \"不要\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 4762.700000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.200000047684,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6207.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6209.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.400000095367,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 6338.599999904633,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557",
+          "at": 92242.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92243,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/d30195a6cb7563707431c7870d15710b",
+          "at": 92841.40000009537,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 92876.70000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 93510,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94143.79999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a12b114fe0428f1d86ee7f3ba638a4f9",
+          "at": 94378.09999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 94778.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/c01d20fbd4c5869fab36712270aa1c01",
+          "at": 95808.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 95845.20000004768,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/49f3397cd33487f988c2a56a8b45f21f",
+          "at": 95943.59999990463,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 96542.40000009537,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 96662.79999995232,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97293.29999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97293.29999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97293.29999995232,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/5cd3d6072ead630c068619edca4c4633",
+          "at": 97908.70000004768,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/5cd3d6072ead630c068619edca4c4633",
+          "at": 97908.70000004768,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/5cd3d6072ead630c068619edca4c4633",
+          "at": 97908.70000004768,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97943,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97943,
+          "muted": false,
+          "volume": 0.35
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 97943,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_before": "../../../projects/duolingo-web/evidence/english-third-v1/reference-english-third-question-9-before.png",
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "No milk and no sugar, please.",
+          "choices": [
+            "不要",
+            "牛奶",
+            "也",
+            "不要",
+            "糖",
+            "谢谢",
+            "咖啡"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "新单词\n用中文（简体）写出这句话\nNo milk and no sugar, please.\n牛奶\n也\n咖啡\n糖\n不要\n谢谢\n不要",
+          "choices": [
+            "牛奶",
+            "也",
+            "咖啡",
+            "糖",
+            "不要",
+            "谢谢",
+            "不要"
+          ]
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "牛奶也咖啡糖不要谢谢不要"
+        },
+        {
+          "test": "牛奶-challenge-tap-token",
+          "text": "牛奶"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "牛奶"
+        },
+        {
+          "test": "也-challenge-tap-token",
+          "text": "也"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "也"
+        },
+        {
+          "test": "咖啡-challenge-tap-token",
+          "text": "咖啡"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "咖啡"
+        },
+        {
+          "test": "糖-challenge-tap-token",
+          "text": "糖"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "糖"
+        },
+        {
+          "test": "不要-challenge-tap-token",
+          "text": "不要"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "不要"
+        },
+        {
+          "test": "谢谢-challenge-tap-token",
+          "text": "谢谢"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "谢谢"
+        },
+        {
+          "test": "不要-challenge-tap-token",
+          "text": "不要"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "不要"
+        }
+      ],
+      "word_bank": [
+        "牛奶",
+        "也",
+        "咖啡",
+        "糖",
+        "不要",
+        "谢谢",
+        "不要"
+      ]
+    }
+  ],
+  "interludes": [
+    {
+      "before_index": 5,
+      "snapshot": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 真是泰裤辣！\n- button \"继续\""
+    }
+  ],
+  "failure": "Error: locator.click: Error: strict mode violation: locator('[data-test=\"word-bank\"]').getByRole('button', { name: '不要', exact: true }) resolved to 2 elements:\n    1) <button dir=\"ltr\" lang=\"zh\" translate=\"no\" aria-disabled=\"false\" data-test=\"不要-challenge-tap-token\" class=\"_3fmUm _2V6ug _1ursp _7jW2t notranslate _3ZtW_ _2O7Ua _3U5_i _1HvEX\">…</button> aka locator('[data-test=\"不要-challenge-tap-token\"]').first()\n    2) <button dir=\"ltr\" lang=\"zh\" translate=\"no\" aria-disabled=\"false\" data-test=\"不要-challenge-tap-token\" class=\"_3fmUm _2V6ug _1ursp _7jW2t notranslate _3ZtW_ _2O7Ua _3U5_i _1HvEX\">…</button> aka locator('[data-test=\"不要-challenge-tap-token\"]').nth(1)\n\nCall log:\n\u001b[2m  - waiting for locator('[data-test=\"word-bank\"]').getByRole('button', { name: '不要', exact: true })\u001b[22m\n",
+  "final": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"牛奶\"\n- button \"也\"\n- button \"咖啡\"\n- button \"糖\"\n- button \"不要\"\n- button \"谢谢\"\n- button \"不要\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "limitations": [
+    "One actual generated lesson instance; media invocations are not acoustic output evidence."
+  ],
+  "observed_at": "2026-10-10T15:15:25.807Z"
+}

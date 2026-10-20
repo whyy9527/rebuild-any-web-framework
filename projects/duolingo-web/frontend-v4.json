@@ -1,0 +1,197 @@
+{
+  "revision": "duolingo-frontend-v4-initial",
+  "scope": "Initial observed home and More requirements; expands with exploration, not a complete inventory",
+  "requirements": [
+    {
+      "id": "home-unit-title",
+      "state": "home",
+      "kind": "accessible_text",
+      "text": "Order at a café",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "home-leaderboard-card",
+      "state": "home",
+      "kind": "accessible_text",
+      "text": "Unlock Leaderboards!",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "home-daily-quests",
+      "state": "home",
+      "kind": "accessible_text",
+      "text": "Daily Quests",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "home-quest-description",
+      "state": "home",
+      "kind": "accessible_text",
+      "text": "Earn 10 XP",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "home-profile-card",
+      "state": "home",
+      "kind": "accessible_text",
+      "text": "Create a profile to save your progress!",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "home-sign-in",
+      "state": "home",
+      "kind": "accessible_text",
+      "text": "Sign in",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "more-settings",
+      "state": "more-open",
+      "kind": "accessible_text",
+      "text": "Settings",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "more-help",
+      "state": "more-open",
+      "kind": "accessible_text",
+      "text": "Help",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "more-sign-in",
+      "state": "more-open",
+      "kind": "accessible_text",
+      "text": "Sign in",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "more-test-link",
+      "state": "more-open",
+      "kind": "accessible_text",
+      "text": "Duolingo English Test",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "visual",
+      "state": "home",
+      "kind": "pending",
+      "description": "Same-state content, assets, typography, geometry and image comparison not yet implemented",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "audio",
+      "state": "home",
+      "kind": "pending",
+      "description": "Reference sound identity/timing comparison not yet implemented",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover.yml"
+      ]
+    },
+    {
+      "id": "more_hover_opened",
+      "state": "home",
+      "kind": "interaction_boolean",
+      "field": "more_hover_opened",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover-dismiss.json"
+      ]
+    },
+    {
+      "id": "more_hover_dismissed",
+      "state": "home",
+      "kind": "interaction_boolean",
+      "field": "more_hover_dismissed",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/more-hover-dismiss.json"
+      ]
+    },
+    {
+      "id": "preferences-text-0",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Preferences",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    },
+    {
+      "id": "preferences-text-1",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Lesson experience",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    },
+    {
+      "id": "preferences-text-2",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Sound effects",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    },
+    {
+      "id": "preferences-text-3",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Animations",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    },
+    {
+      "id": "preferences-text-4",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Motivational messages",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    },
+    {
+      "id": "preferences-text-5",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Listening exercises",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    },
+    {
+      "id": "preferences-text-6",
+      "state": "preferences",
+      "kind": "accessible_text",
+      "text": "Dark mode",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/preferences.yml"
+      ]
+    }
+  ]
+}

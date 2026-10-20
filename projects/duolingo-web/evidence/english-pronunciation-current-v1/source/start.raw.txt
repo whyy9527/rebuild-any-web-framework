@@ -1,0 +1,17 @@
+### Result
+{"path":"/alphabets/en/pronunciation","snapshot":"- button:\n  - img\n- progressbar:\n  - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 dock\":\n    - text: 1 dock\n    - img\n    - img\n  - radio \"2 deck\":\n    - text: 2 deck\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]","audio":[{"src":"","at":64981.800000190735},{"src":"https://d1vq87e9lcf771.cloudfront.net/oscaren/1476c4713ac5bd75a4808ea547208a1d","at":67631.5}]}
+### Ran Playwright code
+```js
+await (async page => { await page.evaluate(()=>{ window.__entryAudio=[]; const play=HTMLMediaElement.prototype.play; HTMLMediaElement.prototype.play=function(...args){window.__entryAudio.push({src:this.currentSrc||this.src,at:performance.now()});return play.apply(this,args)}; }); await page.getByRole("link",{name:"开始 +10 经验",exact:true}).click(); await page.getByRole("radio").first().waitFor({state:"visible",timeout:15000}); return {path:new URL(page.url()).pathname,snapshot:await page.locator("body").ariaSnapshot(),audio:await page.evaluate(()=>window.__entryAudio||[])}; })(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 2: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/guidebook/en/12)
+- 3: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/alphabets/en/pronunciation)
+### Page
+- Page URL: https://www.duolingo.com/alphabets/en/pronunciation
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 2 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T22-00-50-364Z.log#L4

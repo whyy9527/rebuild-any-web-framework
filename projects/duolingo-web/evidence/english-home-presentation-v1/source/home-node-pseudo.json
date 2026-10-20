@@ -1,0 +1,24 @@
+{
+  "::before": {
+    "content": "\"\"",
+    "width": "70px",
+    "height": "8px",
+    "top": "28.5px",
+    "left": "0px",
+    "background": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "transform": "none",
+    "shadow": "none"
+  },
+  "::after": {
+    "content": "\"\"",
+    "width": "70px",
+    "height": "57px",
+    "top": "0px",
+    "left": "0px",
+    "background": "rgb(88, 204, 2)",
+    "borderRadius": "50%",
+    "transform": "none",
+    "shadow": "rgba(0, 0, 0, 0.2) 0px 8px 0px 0px, rgb(88, 204, 2) 0px 8px 0px 0px"
+  }
+}

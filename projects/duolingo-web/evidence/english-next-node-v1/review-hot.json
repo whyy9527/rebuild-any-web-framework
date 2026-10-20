@@ -1,0 +1,7 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"2\"\n- img\n- text: 错题重练\n- heading \"输入所缺单词\" [level=1]\n- img\n- textbox \"tea\"\n- text: tea\n- button \"跳过\"\n- button \"加大难度\"\n- button \"检查\" [disabled]",
+  "text": "错题重练\n输入所缺单词\n热茶\n tea",
+  "input": "HOT",
+  "observed_at": "2026-10-10T17:20:35.183Z",
+  "feedback": "- button:\n  - img\n- progressbar:\n  - text: 连对 8 题\n  - img\n- img\n- text: \"2\"\n- img\n- text: 错题重练\n- heading \"输入所缺单词\" [level=1]\n- img\n- textbox \"tea\" [disabled]: HOT\n- text: tea\n- heading \"正确！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\""
+}

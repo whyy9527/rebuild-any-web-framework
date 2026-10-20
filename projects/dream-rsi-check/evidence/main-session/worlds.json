@@ -1,0 +1,288 @@
+[
+  {
+    "schema_version": 1,
+    "kind": "dream_tree",
+    "protocol": "165916a1f331db44c242899b09ac54feada7890c8716ad0ff9f047f2464ae636",
+    "rounds": [
+      {
+        "parents": [
+          "r"
+        ],
+        "revealed": [
+          "n1"
+        ]
+      },
+      {
+        "parents": [
+          "n1"
+        ],
+        "revealed": [
+          "n2"
+        ]
+      },
+      {
+        "parents": [
+          "r"
+        ],
+        "revealed": [
+          "n3"
+        ]
+      },
+      {
+        "parents": [
+          "n3"
+        ],
+        "revealed": [
+          "n4"
+        ]
+      }
+    ],
+    "policy_sha256": "5ad4f13a6f683605c72995515ea3e60f4876c2bf108bb5a73a3846e7495ca370",
+    "stop": "round_limit",
+    "nodes": [
+      {
+        "id": "r",
+        "parent": null,
+        "seq": 0,
+        "score": 0,
+        "observation": {
+          "task": "Explore executable total() implementations against independent cases"
+        },
+        "generation_history": []
+      },
+      {
+        "id": "n1",
+        "parent": "r",
+        "seq": 1,
+        "score": 0.5,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              false,
+              false
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "parent": "n1",
+        "seq": 2,
+        "score": 1.0,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              true,
+              true
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          },
+          {
+            "depth": 2,
+            "code": "return sum(values)"
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "parent": "r",
+        "seq": 3,
+        "score": 0.5,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              false,
+              false
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          }
+        ]
+      },
+      {
+        "id": "n4",
+        "parent": "n3",
+        "seq": 4,
+        "score": 1.0,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              true,
+              true
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          },
+          {
+            "depth": 2,
+            "code": "return sum(values)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "schema_version": 1,
+    "kind": "dream_tree",
+    "protocol": "165916a1f331db44c242899b09ac54feada7890c8716ad0ff9f047f2464ae636",
+    "rounds": [
+      {
+        "parents": [
+          "r"
+        ],
+        "revealed": [
+          "n1"
+        ]
+      },
+      {
+        "parents": [
+          "n1",
+          "r"
+        ],
+        "revealed": [
+          "n2",
+          "n3"
+        ]
+      }
+    ],
+    "policy_sha256": "13b3e98c95736d1ac177b2999feeacaee8320cea9afaf7fb4f8b613e96f0d023",
+    "stop": "policy_stop",
+    "nodes": [
+      {
+        "id": "r",
+        "parent": null,
+        "seq": 0,
+        "score": 0,
+        "observation": {
+          "task": "Explore executable total() implementations against independent cases"
+        },
+        "generation_history": []
+      },
+      {
+        "id": "n1",
+        "parent": "r",
+        "seq": 1,
+        "score": 0.5,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              false,
+              false
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          }
+        ]
+      },
+      {
+        "id": "n2",
+        "parent": "n1",
+        "seq": 2,
+        "score": 1.0,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              true,
+              true
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          },
+          {
+            "depth": 2,
+            "code": "return sum(values)"
+          }
+        ]
+      },
+      {
+        "id": "n3",
+        "parent": "r",
+        "seq": 3,
+        "score": 0.5,
+        "observation": {
+          "proposal": {
+            "edited": "candidate.py"
+          },
+          "evaluation": {
+            "checks": [
+              true,
+              true,
+              false,
+              false
+            ],
+            "executed": true
+          }
+        },
+        "generation_history": [
+          {
+            "depth": 1,
+            "code": "return sum(v for v in values if v > 0)"
+          }
+        ]
+      }
+    ]
+  }
+]

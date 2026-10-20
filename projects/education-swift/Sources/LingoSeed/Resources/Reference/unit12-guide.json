@@ -1,0 +1,425 @@
+{
+  "title": "第 2 部分指南",
+  "subtitle": "来看看这一部分的语法点和重点语句吧！",
+  "keyTitle": "重点语句",
+  "titleRect": [
+    138,
+    60.71875,
+    146.4765625,
+    29.5
+  ],
+  "subtitleRect": [
+    138,
+    100.71875,
+    304,
+    49.1015625
+  ],
+  "keyRect": [
+    0,
+    248.8125,
+    68,
+    20
+  ],
+  "characterResource": "en-home-fef8902699193b0e8733",
+  "characterRect": [
+    0,
+    24,
+    105.9921875,
+    160.1484375
+  ],
+  "backResource": "en-home-01861055002e12fdde59",
+  "dottedResource": "en-home-ab4a487351cc39bd9477",
+  "phrases": [
+    {
+      "id": "unit12-guide-phrase-0",
+      "english": "Hi, welcome to my apartment!",
+      "translation": "嗨，欢迎来到我的公寓！",
+      "audioResource": "en-speech-22d463da9074b995bfe1.mp3",
+      "card": [
+        8,
+        280.9765625,
+        287.125,
+        91
+      ],
+      "speaker": [
+        26,
+        299.4765625,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        300.4765625,
+        212.125,
+        20
+      ],
+      "translationRect": [
+        65,
+        329.9765625,
+        212.125,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Hi",
+          "rect": [
+            65,
+            300.4765625,
+            14.40625,
+            24
+          ]
+        },
+        {
+          "label": "welcome",
+          "rect": [
+            86.609375,
+            300.4765625,
+            64.328125,
+            24
+          ]
+        },
+        {
+          "label": "to",
+          "rect": [
+            154.34375,
+            300.4765625,
+            14.78125,
+            24
+          ]
+        },
+        {
+          "label": "my",
+          "rect": [
+            172.53125,
+            300.4765625,
+            21.453125,
+            24
+          ]
+        },
+        {
+          "label": "apartment",
+          "rect": [
+            197.390625,
+            300.4765625,
+            75.5859375,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit12-guide-phrase-1",
+      "english": "Your living room is beautiful!",
+      "translation": "你的客厅真漂亮！",
+      "audioResource": "en-speech-9d9db1aa72177fbb4294.mp3",
+      "card": [
+        8,
+        393.3046875,
+        276.546875,
+        91
+      ],
+      "speaker": [
+        26,
+        411.8046875,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        412.8046875,
+        201.546875,
+        20
+      ],
+      "translationRect": [
+        65,
+        442.3046875,
+        201.546875,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Your",
+          "rect": [
+            65,
+            412.8046875,
+            31.75,
+            24
+          ]
+        },
+        {
+          "label": "living",
+          "rect": [
+            100.15625,
+            412.8046875,
+            38.4921875,
+            24
+          ]
+        },
+        {
+          "label": "room",
+          "rect": [
+            142.0546875,
+            412.8046875,
+            36.9140625,
+            24
+          ]
+        },
+        {
+          "label": "is",
+          "rect": [
+            182.375,
+            412.8046875,
+            11.6796875,
+            24
+          ]
+        },
+        {
+          "label": "beautiful",
+          "rect": [
+            197.4609375,
+            412.8046875,
+            64.9375,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit12-guide-phrase-2",
+      "english": "Where is the bathroom?",
+      "translation": "洗手间在哪里？",
+      "audioResource": "en-speech-0379730e4efbc68f00a8.mp3",
+      "card": [
+        8,
+        505.6328125,
+        244.390625,
+        91
+      ],
+      "speaker": [
+        26,
+        524.1328125,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        525.1328125,
+        169.390625,
+        20
+      ],
+      "translationRect": [
+        65,
+        554.6328125,
+        169.390625,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Where",
+          "rect": [
+            65,
+            525.1328125,
+            45.734375,
+            24
+          ]
+        },
+        {
+          "label": "is",
+          "rect": [
+            114.140625,
+            525.1328125,
+            11.6796875,
+            24
+          ]
+        },
+        {
+          "label": "the",
+          "rect": [
+            129.2265625,
+            525.1328125,
+            23.609375,
+            24
+          ]
+        },
+        {
+          "label": "bathroom",
+          "rect": [
+            156.2421875,
+            525.1328125,
+            69.4609375,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit12-guide-phrase-3",
+      "english": "Please have a seat.",
+      "translation": "请坐。",
+      "audioResource": "en-speech-7bfd82cd5f5a04a0ef3f.mp3",
+      "card": [
+        8,
+        617.9609375,
+        209.515625,
+        91
+      ],
+      "speaker": [
+        26,
+        636.4609375,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        637.4609375,
+        134.515625,
+        20
+      ],
+      "translationRect": [
+        65,
+        666.9609375,
+        134.515625,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Please",
+          "rect": [
+            65,
+            637.4609375,
+            47.3046875,
+            24
+          ]
+        },
+        {
+          "label": "have",
+          "rect": [
+            115.7109375,
+            637.4609375,
+            33.8203125,
+            24
+          ]
+        },
+        {
+          "label": "a",
+          "rect": [
+            152.9375,
+            637.4609375,
+            8.609375,
+            24
+          ]
+        },
+        {
+          "label": "seat",
+          "rect": [
+            164.953125,
+            637.4609375,
+            30.765625,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit12-guide-phrase-4",
+      "english": "Oh, your sandwich is on the couch!",
+      "translation": "哦，你的三明治在沙发上！",
+      "audioResource": "en-speech-9936c3b0a9eb886c6c97.mp3",
+      "card": [
+        8,
+        730.2890625,
+        316.515625,
+        91
+      ],
+      "speaker": [
+        26,
+        748.7890625,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        749.7890625,
+        241.515625,
+        20
+      ],
+      "translationRect": [
+        65,
+        779.2890625,
+        241.515625,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Oh",
+          "rect": [
+            65,
+            749.7890625,
+            19.3515625,
+            24
+          ]
+        },
+        {
+          "label": "your",
+          "rect": [
+            91.5546875,
+            749.7890625,
+            31.1171875,
+            24
+          ]
+        },
+        {
+          "label": "sandwich",
+          "rect": [
+            126.078125,
+            749.7890625,
+            67.4921875,
+            24
+          ]
+        },
+        {
+          "label": "is",
+          "rect": [
+            196.9765625,
+            749.7890625,
+            11.6796875,
+            24
+          ]
+        },
+        {
+          "label": "on",
+          "rect": [
+            212.0625,
+            749.7890625,
+            17.7265625,
+            24
+          ]
+        },
+        {
+          "label": "the",
+          "rect": [
+            233.1953125,
+            749.7890625,
+            23.609375,
+            24
+          ]
+        },
+        {
+          "label": "couch",
+          "rect": [
+            260.2109375,
+            749.7890625,
+            42.15625,
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "height": 901.2890625,
+  "limits": [
+    "Source text is rendered per-letter aria-hidden; full sentences reconstructed only from actually rendered row innerText",
+    "Guide token outcomes remain unexplored in this source snapshot",
+    "Original speaker JSON and five clicked clips retained; acoustic and animation equality unverified"
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="212px" height="212px" viewBox="0 0 212 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>kitchen</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,0 L71,0 C78.7319865,-1.42034288e-15 85,6.2680135 85,14 L85,159 C85,161.209139 83.209139,163 81,163 L4,163 C1.790861,163 2.705415e-16,161.209139 0,159 L0,14 C-9.46895252e-16,6.2680135 6.2680135,1.42034288e-15 14,0 Z" id="path-1"></path>
+    </defs>
+    <g id="kitchen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M155,34 L155,57 L130,57 L130,40 C130,36.6862915 132.686292,34 136,34 L155,34 Z M162,34 L180,34 C183.313708,34 186,36.6862915 186,40 L186,57 L162,57 L162,34 Z M186,64 L186,81 C186,84.3137085 183.313708,87 180,87 L162,87 L162,64 L186,64 Z M155,87 L136,87 C132.686292,87 130,84.3137085 130,81 L130,64 L155,64 L155,87 Z" id="Combined-Shape" fill="#7AF0F2" fill-rule="nonzero"></path>
+        <g id="Rectangle" transform="translate(22.000000, 27.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#C5C5C5" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <rect fill="#D8D8D8" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="-3" width="85" height="67" rx="6"></rect>
+            <rect id="Rectangle-Copy-8" fill="#D8D8D8" fill-rule="nonzero" mask="url(#mask-2)" x="0" y="70" width="85" height="108" rx="6"></rect>
+        </g>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="90" y="56" width="7" height="26" rx="3.5"></rect>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" fill-rule="nonzero" x="90" y="116" width="7" height="35" rx="3.5"></rect>
+        <rect id="Rectangle" fill="#E5A259" fill-rule="nonzero" x="118" y="126" width="82" height="64" rx="4"></rect>
+        <path d="M135.798488,113 L144,113 C146.209139,113 148,114.790861 148,117 L148,121" id="Path-53" stroke="#D8D8D8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M144.798488,101 L144.798488,99.600756 C144.798488,95.9552591 147.753747,93 151.399244,93 C155.044741,93 158,95.9552591 158,99.600756 L158,123" id="Path-53-Copy-2" stroke="#D8D8D8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M168.798488,113 L177,113 C179.209139,113 181,114.790861 181,117 L181,121" id="Path-53-Copy" stroke="#D8D8D8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" transform="translate(174.899244, 117.000000) scale(-1, 1) translate(-174.899244, -117.000000) "></path>
+        <rect id="Rectangle" fill="#F6AE5F" fill-rule="nonzero" x="114" y="119" width="91" height="11" rx="4"></rect>
+        <rect id="Rectangle" fill="#F6AE5F" fill-rule="nonzero" x="125" y="134" width="32" height="14" rx="4"></rect>
+        <rect id="Rectangle-Copy-2" fill="#F6AE5F" fill-rule="nonzero" x="125" y="151" width="32" height="33" rx="4"></rect>
+        <rect id="Rectangle-Copy-4" fill="#F6AE5F" fill-rule="nonzero" x="160" y="134" width="32" height="14" rx="4"></rect>
+        <rect id="Rectangle-Copy-3" fill="#F6AE5F" fill-rule="nonzero" x="160" y="151" width="32" height="33" rx="4"></rect>
+        <rect id="Rectangle" fill="#E5A259" fill-rule="nonzero" x="137" y="139" width="8" height="3" rx="1.5"></rect>
+        <rect id="Rectangle-Copy-5" fill="#E5A259" fill-rule="nonzero" x="172" y="139" width="8" height="3" rx="1.5"></rect>
+        <rect id="Rectangle-Copy-7" fill="#E5A259" fill-rule="nonzero" transform="translate(149.500000, 162.500000) rotate(90.000000) translate(-149.500000, -162.500000) " x="144" y="161" width="11" height="3" rx="1.5"></rect>
+        <rect id="Rectangle-Copy-6" fill="#E5A259" fill-rule="nonzero" transform="translate(167.500000, 162.500000) rotate(90.000000) translate(-167.500000, -162.500000) " x="162" y="161" width="11" height="3" rx="1.5"></rect>
+    </g>
+</svg>

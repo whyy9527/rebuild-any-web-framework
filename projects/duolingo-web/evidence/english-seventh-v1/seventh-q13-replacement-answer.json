@@ -1,0 +1,22 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"3\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"再见\"\n- button \"加冰\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "text": "用中文（简体）写出这句话\nGoodbye.\n再见\n加冰",
+  "prompts": [
+    "Goodbye."
+  ],
+  "choices": [
+    "再见",
+    "加冰"
+  ],
+  "images": [],
+  "clicks": [
+    {
+      "word": "再见",
+      "occurrence": 0
+    }
+  ],
+  "feedback": "- button:\n  - img\n- progressbar: 连对 13 题\n- img\n- text: \"3\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"再见\" [disabled]\n- button \"加冰\" [disabled]\n- heading \"非常好！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"再见\" [disabled]",
+  "rejected": false,
+  "next_action": "Receipt saved before transition. Inspect acceptance then continue separately; no assumed next question.",
+  "observed_at": "2026-10-10T20:17:08.927Z"
+}

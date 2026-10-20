@@ -1,0 +1,7 @@
+{
+  "observed_at": "2026-10-11T01:41:24.411Z",
+  "action": "继续",
+  "source_ref": "f145e1006",
+  "before": "### Page\n- Page URL: https://www.duolingo.com/practice\n- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！\n- Console: 17 errors, 0 warnings\n### Snapshot\n```yaml\n- generic [ref=f145e5]:\n  - generic [ref=f145e1095]:\n    - generic [ref=f145e1107]: 你又获取了一颗红心！\n    - generic [ref=f145e1108]: 学习新单元需要红心！\n  - generic [ref=f145e998]:\n    - button \"回顾本单元\" [ref=f145e1000] [cursor=pointer]\n    - button \"重新练习\" [ref=f145e1003] [cursor=pointer]\n    - button \"继续\" [active] [ref=f145e1006] [cursor=pointer]\n```\n",
+  "after": "### Page\n- Page URL: https://www.duolingo.com/practice\n- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！\n- Console: 18 errors, 0 warnings\n### Snapshot\n```yaml\n- generic [ref=f145e1109]:\n  - heading \"来创建你的个人档案吧！\" [level=1] [ref=f145e1111]\n  - paragraph [ref=f145e1112]: 创建档案就能保存学习进度，随时都可以继续免费学习后续内容。\n  - button \"创建档案\" [ref=f145e1114] [cursor=pointer]\n  - button \"稍后再说\" [ref=f145e1116] [cursor=pointer]\n```\n"
+}

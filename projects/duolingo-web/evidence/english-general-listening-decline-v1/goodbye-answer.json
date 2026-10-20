@@ -1,0 +1,13 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- heading \"用英语写出这句话\" [level=1]\n- img\n- textbox \"使用英语键入\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "visible_text": "用英语写出这句话\n谢谢， 再见！",
+  "prompts": [
+    "谢谢， 再见！"
+  ],
+  "input_label": "使用英语键入",
+  "input": "Thank you, goodbye!",
+  "feedback": "- button:\n  - img\n- progressbar: 连对 13 题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- textbox \"使用英语键入\" [disabled]: Thank you, goodbye!\n- heading \"不错哦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "rejected": false,
+  "next_action": "Inspect receipt before a separate Continue action",
+  "observed_at": "2026-10-11T02:49:33.490Z"
+}

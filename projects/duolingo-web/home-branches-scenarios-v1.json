@@ -1,0 +1,57 @@
+{
+  "journeys": [
+    {
+      "id": "completed-branches",
+      "steps": [
+        {
+          "native_action": "start-lesson",
+          "state": "branch-completed"
+        },
+        {
+          "native_action": "completed-practice",
+          "state": "branch-completed-practice"
+        },
+        {
+          "native_action": "path-profile-later",
+          "state": "branch-practice-later"
+        },
+        {
+          "native_action": "completed-legendary",
+          "state": "branch-legendary"
+        },
+        {
+          "native_action": "legendary-start",
+          "state": "branch-legendary-profile"
+        },
+        {
+          "native_action": "path-profile-later",
+          "state": "branch-legendary-later"
+        },
+        {
+          "native_action": "completed-legendary"
+        },
+        {
+          "native_action": "legendary-quit",
+          "state": "branch-legendary-quit"
+        }
+      ]
+    },
+    {
+      "id": "leaderboard",
+      "steps": [
+        {
+          "native_action": "nav-leaderboards",
+          "state": "branch-leaderboard"
+        },
+        {
+          "native_action": "leaderboard-status-0",
+          "state": "branch-leaderboard-status"
+        },
+        {
+          "native_action": "nav-learn",
+          "state": "branch-leaderboard-return"
+        }
+      ]
+    }
+  ]
+}

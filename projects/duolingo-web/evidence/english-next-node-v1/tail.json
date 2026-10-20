@@ -1,0 +1,22 @@
+{
+  "rows": [
+    {
+      "state": "adaptive13",
+      "type": "challenge challenge-translate",
+      "text": "用中文（简体）写出这句话\nTea, please!\n茶\n谢谢\n不客气",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"茶\"\n- button \"谢谢\"\n- button \"不客气\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "actions": [
+        "茶",
+        "谢谢"
+      ],
+      "bank": [
+        "茶",
+        "谢谢",
+        "不客气"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 6 题\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"茶\" [disabled]\n- button \"谢谢\" [disabled]\n- button \"不客气\" [disabled]\n- heading \"太棒了！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"茶\" [disabled]\n- button \"谢谢\" [disabled]"
+    }
+  ],
+  "failure": "Error: locator.getAttribute: Error: strict mode violation: locator('[data-test~=challenge]:visible') resolved to 2 elements:\n    1) <div class=\"_1fxa4 _1Mopf\" data-test=\"challenge challenge-completeReverseTranslation\">…</div> aka locator('[data-test=\"challenge challenge-completeReverseTranslation\"]')\n    2) <div class=\"_1fxa4 _1Mopf\" data-test=\"challenge challenge-translate\">…</div> aka locator('[data-test=\"challenge challenge-translate\"]')\n\nCall log:\n\u001b[2m  - waiting for locator('[data-test~=challenge]:visible')\u001b[22m\n",
+  "observed_at": "2026-10-10T17:18:11.358Z"
+}

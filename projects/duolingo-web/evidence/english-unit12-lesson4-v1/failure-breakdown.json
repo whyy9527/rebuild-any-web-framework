@@ -1,0 +1,1041 @@
+{
+  "states": {
+    "unit12-l4-after-achievement": 4,
+    "unit12-l4-after-result": 3,
+    "unit12-l4-hard-introduction": 2,
+    "unit12-l4-home-after-fixed": 1,
+    "unit12-l4-home-before": 2,
+    "unit12-l4-q0-before": 11,
+    "unit12-l4-q0-feedback": 10,
+    "unit12-l4-q1-before": 12,
+    "unit12-l4-q1-feedback": 13,
+    "unit12-l4-q10-before": 12,
+    "unit12-l4-q10-closed": 14,
+    "unit12-l4-q11-before": 20,
+    "unit12-l4-q11-feedback": 23,
+    "unit12-l4-q12-before": 15,
+    "unit12-l4-q12-feedback": 17,
+    "unit12-l4-q13-before": 20,
+    "unit12-l4-q13-feedback": 23,
+    "unit12-l4-q14-before": 7,
+    "unit12-l4-q14-feedback": 6,
+    "unit12-l4-q14-keyboard-filled": 7,
+    "unit12-l4-q14-keyboard": 7,
+    "unit12-l4-q15-before": 13,
+    "unit12-l4-q15-feedback": 24,
+    "unit12-l4-q15-wordbank": 18,
+    "unit12-l4-q16-before": 18,
+    "unit12-l4-q16-feedback": 23,
+    "unit12-l4-q17-before": 18,
+    "unit12-l4-q17-feedback": 22,
+    "unit12-l4-q2-before": 11,
+    "unit12-l4-q2-feedback": 11,
+    "unit12-l4-q3-before": 27,
+    "unit12-l4-q3-feedback": 27,
+    "unit12-l4-q4-before": 18,
+    "unit12-l4-q4-feedback": 22,
+    "unit12-l4-q5-before": 22,
+    "unit12-l4-q5-feedback": 24,
+    "unit12-l4-q6-before": 22,
+    "unit12-l4-q6-feedback": 26,
+    "unit12-l4-q7-before": 12,
+    "unit12-l4-q7-feedback": 12,
+    "unit12-l4-q8-before": 23,
+    "unit12-l4-q8-feedback": 27,
+    "unit12-l4-q9-before": 12,
+    "unit12-l4-q9-feedback": 12,
+    "unit12-l4-settlement-current": 14,
+    "unit12-l4-settlement-review": 30
+  },
+  "whole_images": [
+    {
+      "id": "unit12-l4-after-achievement-whole",
+      "state": "unit12-l4-after-achievement",
+      "status": "fail",
+      "reference_sha256": "83bcab0ceb5275cd884c60da07408fe3903e88bc98cbe178a547c49373a420fe",
+      "capture_sha256": "9483647feee98a82bcad95768d8a1828a3e832061c819aefa19baa8465fc4968",
+      "mean_absolute_rgb_difference": [
+        11.86137012708839,
+        5.944116807082679,
+        5.412513684611357
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-after-result-whole",
+      "state": "unit12-l4-after-result",
+      "status": "fail",
+      "reference_sha256": "61079f9511b27b467a11cd32b6c6a13574b4262d3c52db914458cd701717d924",
+      "capture_sha256": "bf9cbeea759cd6204b3407662cdd9530dba7e17b86c5b6664f0b60d9560cb8e1",
+      "mean_absolute_rgb_difference": [
+        0.6771681184254367,
+        0.6136834213908325,
+        0.7633990194678472
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-hard-introduction-whole",
+      "state": "unit12-l4-hard-introduction",
+      "status": "fail",
+      "reference_sha256": "86b6c3fd4fc16fbc945a4ffb4eaaaf6d029cc835e7c64a4cbba986a30e4d3e8d",
+      "capture_sha256": "c149305dbbaf7d446325beb4a50efc7348e85449cff58347e3afb43a493683b5",
+      "mean_absolute_rgb_difference": [
+        4.899946451520777,
+        4.208004902660765,
+        7.419068018468275
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-home-after-fixed-whole",
+      "state": "unit12-l4-home-after-fixed",
+      "status": "fail",
+      "reference_sha256": "77af8bf6cb45dc50202a07249b76c9ac2e3b1748c56d4c832b549b9266d13bfa",
+      "capture_sha256": "0b03dfa54e01fabd368cf5f32222ed7b544208d1176a1b834067da479dfcb07f",
+      "mean_absolute_rgb_difference": [
+        4.9627373982578895,
+        5.274910752534628,
+        5.699475224903613
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q10-before-whole",
+      "state": "unit12-l4-q10-before",
+      "status": "fail",
+      "reference_sha256": "fff4c566d7a3fe9d2ed0fc58f7ba44bcd25353d43e8b4ad5093e48db840d1935",
+      "capture_sha256": "9f3b86f817340aca9c4196c3d18f8f38821a895c38a4edecd5883008eda823f8",
+      "mean_absolute_rgb_difference": [
+        4.6925020229425485,
+        3.945807749059927,
+        5.365774192012947
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q11-before-whole",
+      "state": "unit12-l4-q11-before",
+      "status": "fail",
+      "reference_sha256": "29ed410af89a1df9f191819f4d2010463c9bcf51c99da4da0a1203832a067114",
+      "capture_sha256": "ebf44ceb9292766fdfdaa0e25dcfc6c66df8033f4abd756823b968c6b4486a55",
+      "mean_absolute_rgb_difference": [
+        4.936046456280642,
+        5.186566471512209,
+        7.412380408396402
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q11-feedback-whole",
+      "state": "unit12-l4-q11-feedback",
+      "status": "fail",
+      "reference_sha256": "8079a52c2821335ce11822fb6448f59a42e5a25e63ba253ccba3d6b99e7dc1b8",
+      "capture_sha256": "b9743beace5c98315d11a2008ed9b319e63dd941bd3bdae47d7645af6a28c048",
+      "mean_absolute_rgb_difference": [
+        10.153679375505735,
+        6.62395401970584,
+        16.57312104336237
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q12-before-whole",
+      "state": "unit12-l4-q12-before",
+      "status": "fail",
+      "reference_sha256": "8d6cbc0e3a915b5cd76099a8d6f477f7ce545091853012f203dd7e6b5f852d47",
+      "capture_sha256": "d48cd972f18175ca47ec1dc6d171132f5de8124b11f07f937199386cff386dd2",
+      "mean_absolute_rgb_difference": [
+        5.8735137322100055,
+        6.14793421866819,
+        6.5147543909752965
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q12-feedback-whole",
+      "state": "unit12-l4-q12-feedback",
+      "status": "fail",
+      "reference_sha256": "23cbb4e9ee19d6fd9f24007d4cd2e15c4183c6c453b1c3734b90fd044bfca2f6",
+      "capture_sha256": "8ec20e0a055cb427467264cd1c287a1dba935f514fa314b1173f00867aefe801",
+      "mean_absolute_rgb_difference": [
+        11.817906611452235,
+        6.960051644533295,
+        17.200173735065924
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q13-before-whole",
+      "state": "unit12-l4-q13-before",
+      "status": "fail",
+      "reference_sha256": "a181d762b543eb67b1601de18247601d8aaf700f9ae3d26605bdf9e6f67da947",
+      "capture_sha256": "d7f6d259bd1e9802550185bec31ded6d46d22c6181a045524f90f92487a64337",
+      "mean_absolute_rgb_difference": [
+        5.426204245799419,
+        5.560966728544909,
+        6.439881717359227
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q13-feedback-whole",
+      "state": "unit12-l4-q13-feedback",
+      "status": "fail",
+      "reference_sha256": "41daeaebfeb8427537207aa95b297a0f779ef2957a16ce1c570f8f013453c005",
+      "capture_sha256": "1a507afc2164278b9d6cf4d9780ee8c03f9a0ae3d22429211ff7c235c76e6e2a",
+      "mean_absolute_rgb_difference": [
+        10.709675615212529,
+        6.492803084392404,
+        15.680256080727307
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q14-before-whole",
+      "state": "unit12-l4-q14-before",
+      "status": "fail",
+      "reference_sha256": "736336f5181b55d6a7b59f15f7376afb18f4880508d0447b831fd35a3800e2a3",
+      "capture_sha256": "20324e75583c700e59354ebbb581c9ef9b638a89ea77fa2057ed15540b040e49",
+      "mean_absolute_rgb_difference": [
+        5.596255176352992,
+        4.0587379218430195,
+        4.34881003379504
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q14-feedback-whole",
+      "state": "unit12-l4-q14-feedback",
+      "status": "fail",
+      "reference_sha256": "197bf03d9dea7cef6186dbe8805be0ebdde0582c1814e772c66531b3b9c0b3ad",
+      "capture_sha256": "ab0f976680027509af8245ecfcd4bba17177aba2f70e0e5cb3e93513367b3428",
+      "mean_absolute_rgb_difference": [
+        7.017347327335903,
+        4.93180422675996,
+        6.599189633014422
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q14-keyboard-filled-whole",
+      "state": "unit12-l4-q14-keyboard-filled",
+      "status": "fail",
+      "reference_sha256": "cd1b006e1d73bbe6040175fd9f21734fc1a29d5b5c33532d9335915474227912",
+      "capture_sha256": "2673829864ae60eb5220c03d36db461c8ae2522e0b8a71da2f9bf894d58cbac3",
+      "mean_absolute_rgb_difference": [
+        6.026179256509115,
+        4.3612951592174785,
+        4.658686753296206
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q14-keyboard-whole",
+      "state": "unit12-l4-q14-keyboard",
+      "status": "fail",
+      "reference_sha256": "aea26f5caea5dc87011c7f3f2b1246e5920b7ff164ff25f789b0552180a9bd0a",
+      "capture_sha256": "2ad4c77ab7a80362d35ba58b36b32edaba631408964214a49a572ea627492af8",
+      "mean_absolute_rgb_difference": [
+        5.692572230948641,
+        4.1550847255937935,
+        4.445150887714789
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q15-before-whole",
+      "state": "unit12-l4-q15-before",
+      "status": "fail",
+      "reference_sha256": "aa90b0b1c53694a1de7709b86dd7873c30472384c380974f3f7757c454473cd3",
+      "capture_sha256": "0d0aab6d0dd290e7c7c9e2fc7fb2d24acf605e1a326c8eba33ce9b4fa5f6f6ac",
+      "mean_absolute_rgb_difference": [
+        5.1714491408444,
+        5.525860345566186,
+        6.619122756913703
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q15-feedback-whole",
+      "state": "unit12-l4-q15-feedback",
+      "status": "fail",
+      "reference_sha256": "b0c8518b6ec1446f377ff8e7b47b0ab61884a66a2c3605e7c92aa93bccb264e7",
+      "capture_sha256": "a23c2f63f7702e4226e71f15a12148ede2bdc15d62f498e8efbb0c032e733f82",
+      "mean_absolute_rgb_difference": [
+        10.601082869246513,
+        6.941689276024561,
+        16.045024751297063
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q15-wordbank-whole",
+      "state": "unit12-l4-q15-wordbank",
+      "status": "fail",
+      "reference_sha256": "377ceb1da3f55d79845dc4c47022b53905b7ccfe8907b5155a8db16f394fd1f8",
+      "capture_sha256": "0c84093d4c1dff1cd2dd34e4032e02db80ee733598e874ad65f07b49065dfe0a",
+      "mean_absolute_rgb_difference": [
+        5.431233042981579,
+        5.8666726164976915,
+        6.961982959683945
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q16-before-whole",
+      "state": "unit12-l4-q16-before",
+      "status": "fail",
+      "reference_sha256": "39853e84e7ec9169c9b9b0ae7d1993683e58e3457d1450011dd18bbe930f1980",
+      "capture_sha256": "73f0f15f7de0040927c90a732aeb48436dac4203031998f9fb1f19550ecfc59d",
+      "mean_absolute_rgb_difference": [
+        5.793824075396259,
+        6.190874149174164,
+        6.889694892665048
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q16-feedback-whole",
+      "state": "unit12-l4-q16-feedback",
+      "status": "fail",
+      "reference_sha256": "a1735f083b06449b4a2ef7a2bb1a8e9efea0b2874afbee9f0c701ad27cadf1d5",
+      "capture_sha256": "e1fdbabb2581346e87c56e9b27fa2e97b466708d332fdedad5932eec82edb5dd",
+      "mean_absolute_rgb_difference": [
+        10.913482317102194,
+        7.265357703841211,
+        15.916863011090484
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q17-before-whole",
+      "state": "unit12-l4-q17-before",
+      "status": "fail",
+      "reference_sha256": "7160cb03e8ad342210a58f64ffdde488c0cabb0ca45339d8cf0cd5a89fd8af6e",
+      "capture_sha256": "fef4f46ecfdc881adc2282704efe081183e4f59bf3ae087aed91300725a6f211",
+      "mean_absolute_rgb_difference": [
+        5.3814900756818504,
+        6.1057308772430865,
+        7.984108001332762
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q17-feedback-whole",
+      "state": "unit12-l4-q17-feedback",
+      "status": "fail",
+      "reference_sha256": "853cbd0a2dde7387ad3f141ea8fbf0d77ebcd8c417468fe7142b950884f7ebda",
+      "capture_sha256": "1ea37a88d0ef0691045855aa5dc30e866ed7518826cb36aeab53f662a8a7f04b",
+      "mean_absolute_rgb_difference": [
+        10.74912180494074,
+        7.360890570707792,
+        17.250483126279214
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q3-before-whole",
+      "state": "unit12-l4-q3-before",
+      "status": "fail",
+      "reference_sha256": "d72121458b8bb21146e12c237600c137a4c5e58cdb59efd7778ccbe5239c4ab4",
+      "capture_sha256": "7f2a0d766a566184c30eb04ee87901d5b29f8d808aaf54c8621d8e375dc7def9",
+      "mean_absolute_rgb_difference": [
+        3.1118782426579084,
+        2.907813318101766,
+        3.294972392784045
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q3-feedback-whole",
+      "state": "unit12-l4-q3-feedback",
+      "status": "fail",
+      "reference_sha256": "2a5e12792a0b6583264b1eba788fc212c85c303048a3a8825622fe39fd07149a",
+      "capture_sha256": "fdf0fc16c8723cc4df9cf49fbe71baf3fd01bc05b95f8b2333006c36dfb6396e",
+      "mean_absolute_rgb_difference": [
+        5.1157349231281835,
+        3.7921140939597318,
+        6.294470227045552
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q4-before-whole",
+      "state": "unit12-l4-q4-before",
+      "status": "fail",
+      "reference_sha256": "08e09d13331f937f36f499668f81abb0a3ebcfb6a1c8b39e4f0bc3f4c76b3320",
+      "capture_sha256": "63c55f8af936bc2a30ad068f4b959c161d23f3b100acf21153cd2e00c9d9a8d6",
+      "mean_absolute_rgb_difference": [
+        5.696526488647723,
+        5.713734589937646,
+        6.6768860964348615
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q4-feedback-whole",
+      "state": "unit12-l4-q4-feedback",
+      "status": "fail",
+      "reference_sha256": "500b58bf56f5c685b4589311f4d6e382338027cdf84dd2ff2337a305e1332a79",
+      "capture_sha256": "f9ca5eaff53a5b74b7617bfcfea8fdc3920bd445df2c60de648b4f0837ff4c25",
+      "mean_absolute_rgb_difference": [
+        11.29435004045885,
+        6.682868056547194,
+        16.085217049835784
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q5-before-whole",
+      "state": "unit12-l4-q5-before",
+      "status": "fail",
+      "reference_sha256": "dc18fb3b0f2d010d53f97959349b09b144dd852871d6382de13f03a3ad336199",
+      "capture_sha256": "948df3f02c635a7651fd68c8634a58a3ee2b5db8d6a76e3f9ed4458c09c4bbb4",
+      "mean_absolute_rgb_difference": [
+        3.1772954448093675,
+        2.652545337712409,
+        3.70901875386739
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q5-feedback-whole",
+      "state": "unit12-l4-q5-feedback",
+      "status": "fail",
+      "reference_sha256": "117cb70eba65c3894e4fdac9ebb45285d9d909a8cd5b147eccfcd66f0a3e3fbc",
+      "capture_sha256": "8a5d1bf53ea9696ccc58a63df5bb599e976a05e41ca1cafc7182fb8bedb597ee",
+      "mean_absolute_rgb_difference": [
+        4.447679565900328,
+        3.75680184682755,
+        6.37514874577562
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q6-before-whole",
+      "state": "unit12-l4-q6-before",
+      "status": "fail",
+      "reference_sha256": "8665bf38b227f4e3c70e24eea459695ec22372d6e84339cef2184a305b81cb53",
+      "capture_sha256": "0461973d7f25cb732d48aca28c1aa0e343137c1505e3d774578d53b0c6b93b80",
+      "mean_absolute_rgb_difference": [
+        4.402926126897996,
+        3.958169117997049,
+        5.128289066590509
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q6-feedback-whole",
+      "state": "unit12-l4-q6-feedback",
+      "status": "fail",
+      "reference_sha256": "c4002324a322693cb5ea2b1ed6e0a507496dc951593c903df0fc29ff3747f512",
+      "capture_sha256": "c4f1a7f1c65d20c0f6046a320139ce1b883f6c84106036cf69525fcf758445f7",
+      "mean_absolute_rgb_difference": [
+        6.098939740111381,
+        5.124162263791709,
+        7.6637571992955404
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q7-before-whole",
+      "state": "unit12-l4-q7-before",
+      "status": "fail",
+      "reference_sha256": "977844484d578d7fd038a53aff8a59c86019dbfa6aa967c9ba081d55f4fa85ef",
+      "capture_sha256": "7bf5022935ff40fbea6fad5e61ab867b430884c777f3b47fa944be30511eb1bb",
+      "mean_absolute_rgb_difference": [
+        3.553021324194393,
+        3.1328787662430386,
+        4.457025560474083
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q7-feedback-whole",
+      "state": "unit12-l4-q7-feedback",
+      "status": "fail",
+      "reference_sha256": "80d555c02cf213e119cdf3dcff4e892f4bfb91a2805d2feb6384a8e9f9d9fc43",
+      "capture_sha256": "05f12b9daa69f108f358841058819bd65a72a79dc28590c065ba4519f45cf77f",
+      "mean_absolute_rgb_difference": [
+        5.442405635679947,
+        3.5512232852586987,
+        8.056354419534486
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q8-before-whole",
+      "state": "unit12-l4-q8-before",
+      "status": "fail",
+      "reference_sha256": "6b2c73a5f03c05c60492e6f8477c9e1467ca130eec7c40159f35c2ea05ba0263",
+      "capture_sha256": "ca355a07b0d382bde599abc9dee88c733e7962b55f82e35f6a4c213cb4a5b09a",
+      "mean_absolute_rgb_difference": [
+        5.186322528440193,
+        4.774582321862059,
+        5.908974725117806
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q8-feedback-whole",
+      "state": "unit12-l4-q8-feedback",
+      "status": "fail",
+      "reference_sha256": "c90188f0abce811de93cf9a2219d43d1ea57512e9f271ccc7f6d4fc377865cd9",
+      "capture_sha256": "f3958d1c45c7f5af8f3012a4733ae5f48d76f8f2761f5a12c614d0a2db4bbe0a",
+      "mean_absolute_rgb_difference": [
+        10.637873054405254,
+        5.825180874863154,
+        15.370586415345803
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q9-before-whole",
+      "state": "unit12-l4-q9-before",
+      "status": "fail",
+      "reference_sha256": "271cb99752e4da071a89dbb606b1eec48297ece232170533392e4fea38183dea",
+      "capture_sha256": "bd756ebeb339c481350540b586891abfbc625c60f7b9bc2e2e1cd38964f4e5e0",
+      "mean_absolute_rgb_difference": [
+        3.506474606121186,
+        3.4080049026607644,
+        4.293770526917036
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-q9-feedback-whole",
+      "state": "unit12-l4-q9-feedback",
+      "status": "fail",
+      "reference_sha256": "b9bdce22b21ee2ef9e8b0481fd34acc2e6ef4bd1c365d6c2b86667e6bc2aa1a5",
+      "capture_sha256": "be2f5790b13ccbff40ffdbab3ce9263a06c726cb9c131cfd2d977bead6950afb",
+      "mean_absolute_rgb_difference": [
+        5.449014707982293,
+        3.8716490551668334,
+        7.924209862439906
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-settlement-current-whole",
+      "state": "unit12-l4-settlement-current",
+      "status": "fail",
+      "reference_sha256": "124c0a3cb54e8aad752d9ea2ff087b24c5c1f6cb86022efeda7c34fbdde10b84",
+      "capture_sha256": "46de2f65cd9ee870da6d0882790dda55dda826f47985c2a884d87810d2e19422",
+      "mean_absolute_rgb_difference": [
+        1.7598124613260984,
+        1.4966895140178018,
+        3.4753998286448664
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    },
+    {
+      "id": "unit12-l4-settlement-review-whole",
+      "state": "unit12-l4-settlement-review",
+      "status": "fail",
+      "reference_sha256": "017de8fe69bc48d0b807b34206436ead184f58bc186832da553bc217e036d5cc",
+      "capture_sha256": "ff6a3bb71c8f6dbfcbbb47450434afbe48cc204e578ce7d6dbe59cd443baa907",
+      "mean_absolute_rgb_difference": [
+        2.0545397210719214,
+        1.69053262887334,
+        2.4093602741682134
+      ],
+      "profiles": {
+        "reference": {
+          "input_profile": "untagged browser CSS capture; assumed sRGB",
+          "input_profile_sha256": null,
+          "comparison_space": "sRGB"
+        },
+        "candidate": {
+          "input_profile": "Display",
+          "input_profile_sha256": "b6869613f44ea83b13cbd15652a1071c6bd85a37a5517bcbe7d1db1bcdc58e6f",
+          "comparison_space": "sRGB"
+        }
+      },
+      "normalization": "ICC to sRGB; measured content crop and backing-scale downsample on each declared capture; no masks, alignment search or tolerance",
+      "reason": "Actual same-state image pixels only; sound, animation timing and unvisited states remain separate"
+    }
+  ],
+  "next_work": "Inspect retained source/candidate images and repair shared practice/header/footer/profile and missing actor/control assets before interpreting course count as quality"
+}

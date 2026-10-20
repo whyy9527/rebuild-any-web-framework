@@ -1,0 +1,11 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"3\"\n- heading \"输入所缺单词\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- textbox \"sugar, thank you.\"\n- text: sugar, thank you.\n- button \"现在不做听力题\"\n- button \"检查\" [disabled]",
+  "visible_text": "输入所缺单词\n sugar, thank you.",
+  "prompts": [],
+  "input_label": "sugar, thank you.",
+  "input": "No",
+  "feedback": "- button:\n  - img\n- progressbar:\n  - text: 连对 9 题\n  - img\n- img\n- text: \"3\"\n- heading \"输入所缺单词\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- textbox \"sugar, thank you.\" [disabled]: \"No\"\n- text: sugar, thank you.\n- heading \"太棒了！\" [level=2]\n- text: 意思是： 不加糖，谢谢。\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "rejected": false,
+  "next_action": "Inspect receipt before a separate Continue action",
+  "observed_at": "2026-10-10T20:14:31.230Z"
+}

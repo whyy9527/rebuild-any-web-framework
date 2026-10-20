@@ -1,0 +1,18 @@
+### Result
+{"resources":[],"canvases":[{"html":"<canvas style=\"vertical-align: top; width: 118px; height: 175px;\" width=\"236\" height=\"350\"></canvas>","parents":[{"tag":"DIV","attributes":[["class",""],["style","width: 100%; height: 100%; transform: scale(1.3) translate(-6.94444%, -11.3636%);"]]},{"tag":"DIV","attributes":[["class","_2qg6J"]]}]}]}
+### Ran Playwright code
+```js
+await (async page=>{return await page.evaluate(()=>({resources:performance.getEntriesByType("resource").filter(e=>/\.riv(?:$|\?)/.test(e.name)).map(e=>({url:e.name,initiator:e.initiatorType,start:e.startTime})),canvases:[...document.querySelectorAll("[data-test~=challenge] canvas")].map(n=>({html:n.outerHTML,parents:[n.parentElement,n.parentElement?.parentElement].filter(Boolean).map(p=>({tag:p.tagName,attributes:[...p.attributes].map(a=>[a.name,a.value])}))}))}))})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 2: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/guidebook/en/12)
+- 3: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/alphabets/en/pronunciation)
+- 4: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/learn)
+### Page
+- Page URL: https://www.duolingo.com/lesson
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 196 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T19-01-01-875Z.log#L437

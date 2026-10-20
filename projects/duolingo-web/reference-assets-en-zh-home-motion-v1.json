@@ -1,0 +1,10 @@
+[
+  {
+    "name": "en-home-duo-twirl",
+    "kind": "lottie",
+    "source": "https://d35aaqx5ub95lt.cloudfront.net/lottie/pathCharacters/01a1427cc5613179ea3d7568a5f7445b.json",
+    "source_file": "en-home-duo-twirl.json",
+    "decoded_sha256": "05a27ddbef48568ddf0d82da727322a0b2b1879d9997aba17e6283a93708f793",
+    "evidence": "projects/duolingo-web/evidence/english-home-motion-v1/resource.json"
+  }
+]

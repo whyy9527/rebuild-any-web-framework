@@ -1,0 +1,377 @@
+{
+  "journeys": [
+    {
+      "id": "actual-unit12-accepted-instance",
+      "steps": [
+        {
+          "native_action": "stage2-path-7",
+          "state": "unit12-intro",
+          "element_aliases": {
+            "unit12-intro-action-0": "unit-placement-later",
+            "unit12-intro-action-1": "unit-placement-start"
+          }
+        },
+        {
+          "native_action": "unit-placement-start",
+          "state": "unit12-q0-before",
+          "element_aliases": {
+            "unit12-q0-before-action-0": "exit",
+            "unit12-q0-before-action-1": "option-option-0",
+            "unit12-q0-before-action-2": "option-option-1",
+            "unit12-q0-before-action-3": "option-option-2",
+            "unit12-q0-before-action-4": "check"
+          }
+        },
+        {
+          "native_action": "option-option-0"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q0-feedback",
+          "operation": "record_audio",
+          "recording": "unit12-correct-and-new",
+          "duration_seconds": 6
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-interlude-0"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "unit12-q1-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q1-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q2-before"
+        },
+        {
+          "native_action": "option-option-1"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q2-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q3-before"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q3-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-interlude-1"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "unit12-q4-before"
+        },
+        {
+          "native_action": "option-option-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q4-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q5-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q5-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q6-before"
+        },
+        {
+          "native_action": "exit",
+          "state": "unit12-exit-confirm",
+          "element_aliases": {
+            "unit12-exit-confirm-action-0": "exit",
+            "unit12-exit-confirm-action-1": "option-option-0",
+            "unit12-exit-confirm-action-2": "option-option-1",
+            "unit12-exit-confirm-action-3": "option-option-2",
+            "unit12-exit-confirm-action-4": "check",
+            "unit12-exit-confirm-action-5": "practice-quit-cancel",
+            "unit12-exit-confirm-action-6": "practice-quit-confirm"
+          }
+        },
+        {
+          "native_action": "practice-quit-cancel",
+          "state": "unit12-gap-first",
+          "element_aliases": {
+            "unit12-gap-first-action-0": "exit",
+            "unit12-gap-first-action-1": "option-option-0",
+            "unit12-gap-first-action-2": "option-option-1",
+            "unit12-gap-first-action-3": "option-option-2",
+            "unit12-gap-first-action-4": "check"
+          }
+        },
+        {
+          "native_action": "option-option-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q6-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q7-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q7-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-interlude-2"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "unit12-q8-before"
+        },
+        {
+          "native_action": "option-option-1"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q8-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q9-before"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q9-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q10-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q10-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q11-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "a new store"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q11-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q12-before"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q12-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q13-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "That shirt is nice!"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q13-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q14-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "green"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q14-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-interlude-3"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "unit12-q15-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "Is this shirt discounted?"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q15-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q16-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "This store is nice!"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q16-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-q17-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "Yes, this store is open."
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-q17-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-result-stable",
+          "element_aliases": {
+            "unit12-result-stable-action-0": "settlement-secondary",
+            "unit12-result-stable-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-secondary",
+          "state": "unit12-review"
+        },
+        {
+          "native_action": "result-review-close",
+          "state": "unit12-result-review-closed"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "unit12-after-result",
+          "element_aliases": {
+            "unit12-after-result-action-0": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "unit12-after-score",
+          "element_aliases": {
+            "unit12-after-score-action-0": "settlement-secondary",
+            "unit12-after-score-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "unit12-after-unlock",
+          "element_aliases": {
+            "unit12-after-unlock-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "unit12-home-uncovered",
+          "element_aliases": {
+            "unit12-home-uncovered-action-1": "nav-learn",
+            "unit12-home-uncovered-action-2": "nav-pronunciation",
+            "unit12-home-uncovered-action-3": "nav-leaderboards",
+            "unit12-home-uncovered-action-4": "nav-quests",
+            "unit12-home-uncovered-action-5": "nav-shop",
+            "unit12-home-uncovered-action-6": "nav-profile",
+            "unit12-home-uncovered-action-12": "view-leaderboards",
+            "unit12-home-uncovered-action-13": "view-quests",
+            "unit12-home-uncovered-action-14": "view-profile",
+            "unit12-home-uncovered-action-15": "sign-in"
+          }
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Actual18-question finite source instance; adaptive selection and errors remain unexplored",
+    "Strict frontend/audio assertions remain independent; successful native journey does not establish1:1"
+  ]
+}

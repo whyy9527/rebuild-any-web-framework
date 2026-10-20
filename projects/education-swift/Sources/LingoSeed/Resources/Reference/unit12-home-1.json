@@ -1,0 +1,816 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-en-zh-unit12-home-instance",
+      "title": "描述你的家居布局",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "unit12-home-1",
+          "title": "描述你的家居布局",
+          "questions": [
+            {
+              "id": "unit12-q0",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-b06fe5e6318c208167bb.mp3",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "hint": "Come in!",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "进来"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Come in!",
+                "correctAnswer": "进来！",
+                "audioResources": []
+              },
+              "correctFeedbackAudioVolume": 0.35,
+              "newWord": true
+            },
+            {
+              "id": "unit12-q1",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "audioResource": "en-speech-d584a6891157fecdf719.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "hint": "I'm good.",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "我"
+                },
+                {
+                  "id": "word-1",
+                  "text": "很"
+                },
+                {
+                  "id": "word-2",
+                  "text": "狗"
+                },
+                {
+                  "id": "word-3",
+                  "text": "好"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1",
+                "word-3"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "I'm good.",
+                "correctAnswer": "我很好。",
+                "audioResources": []
+              },
+              "newWord": true
+            },
+            {
+              "id": "unit12-q2",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "kind": "choice",
+              "hint": "进",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "come in",
+                  "audioResource": "en-speech-5f745703f231e773723b.mp3"
+                },
+                {
+                  "id": "1",
+                  "text": "three"
+                },
+                {
+                  "id": "2",
+                  "text": "cheap"
+                }
+              ],
+              "answer": "0",
+              "resultReview": {
+                "title": "\"进\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "come in",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "unit12-q3",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "真厉害！",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "choice",
+              "hint": "我很好",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "how are you"
+                },
+                {
+                  "id": "1",
+                  "text": "shirt"
+                },
+                {
+                  "id": "2",
+                  "text": "I'm good",
+                  "audioResource": "en-speech-3389e7af2ad6de5ced66.mp3"
+                }
+              ],
+              "answer": "2",
+              "resultReview": {
+                "title": "\"我很好\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "I'm good",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "unit12-q4",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "好棒！",
+              "audioResource": "en-speech-c44904e64efe4728b105.mp3",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "hint": "my new apartment",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "的"
+                },
+                {
+                  "id": "word-1",
+                  "text": "新"
+                },
+                {
+                  "id": "word-2",
+                  "text": "公寓"
+                },
+                {
+                  "id": "word-3",
+                  "text": "来自"
+                },
+                {
+                  "id": "word-4",
+                  "text": "我"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-0",
+                "word-1",
+                "word-2"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "my new apartment",
+                "correctAnswer": "我的新公寓",
+                "audioResources": []
+              },
+              "newWord": true
+            },
+            {
+              "id": "unit12-q5",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "不错哦！",
+              "characterResource": "en-image-cf56f9ea0c179f90206b",
+              "kind": "choice",
+              "hint": "公寓",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "apartment",
+                  "audioResource": "en-speech-6bd1de040707c569e143.mp3"
+                },
+                {
+                  "id": "1",
+                  "text": "red"
+                },
+                {
+                  "id": "2",
+                  "text": "dog"
+                }
+              ],
+              "answer": "0",
+              "resultReview": {
+                "title": "\"公寓\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "apartment",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "unit12-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-9587b31d78426e78707e.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "hint": "How are you, David?",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "真"
+                },
+                {
+                  "id": "word-1",
+                  "text": "吗"
+                },
+                {
+                  "id": "word-2",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-3",
+                  "text": "大卫"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-1",
+                "word-3"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "How are you, David?",
+                "correctAnswer": "你好吗，大卫？",
+                "audioResources": []
+              },
+              "correctFeedbackAudioVolume": 0.35,
+              "newWord": true
+            },
+            {
+              "id": "unit12-q7",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "真厉害！",
+              "characterResource": "en-image-5a3854cd2f91545f5bd0",
+              "kind": "choice",
+              "hint": "你好吗",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "shirt"
+                },
+                {
+                  "id": "1",
+                  "text": "how are you",
+                  "audioResource": "en-speech-8d84abe462ef70542fb4.mp3"
+                },
+                {
+                  "id": "2",
+                  "text": "I'm good"
+                }
+              ],
+              "answer": "1",
+              "resultReview": {
+                "title": "\"你好吗\" 该怎么说？",
+                "prompt": "",
+                "correctAnswer": "how are you",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "unit12-q9",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "不错哦！",
+              "audioResource": "en-speech-f0bdb8dad5a463f6a1ce.mp3",
+              "characterResource": "en-image-5a3854cd2f91545f5bd0",
+              "hint": "Please come in!",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "请进"
+                },
+                {
+                  "id": "word-1",
+                  "text": "吗"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Please come in!",
+                "correctAnswer": "请进！",
+                "audioResources": []
+              },
+              "newWord": true
+            },
+            {
+              "id": "unit12-q10",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-cd273b84b4dcf76a4a41.mp3",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "hint": "Oh, Lisa, come in!",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "哦"
+                },
+                {
+                  "id": "word-1",
+                  "text": "进来"
+                },
+                {
+                  "id": "word-2",
+                  "text": "你好吗"
+                },
+                {
+                  "id": "word-3",
+                  "text": "丽莎"
+                },
+                {
+                  "id": "word-4",
+                  "text": "吧"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-3",
+                "word-1",
+                "word-4"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Oh, Lisa, come in!",
+                "correctAnswer": "哦，丽莎，进来吧！",
+                "audioResources": []
+              },
+              "correctFeedbackAudioVolume": 0.35,
+              "newWord": false
+            },
+            {
+              "id": "unit12-q11",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-21fdea7793d140cf160c.mp3",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "hint": "I'm good, thank you!",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "很"
+                },
+                {
+                  "id": "word-1",
+                  "text": "是"
+                },
+                {
+                  "id": "word-2",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-3",
+                  "text": "我"
+                },
+                {
+                  "id": "word-4",
+                  "text": "好"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-0",
+                "word-4",
+                "word-2"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "I'm good, thank you!",
+                "correctAnswer": "我很好，谢谢！",
+                "audioResources": []
+              },
+              "correctFeedbackAudioVolume": 0.35,
+              "newWord": true
+            },
+            {
+              "id": "unit12-q12",
+              "prompt": "完成对话",
+              "sourceType": "dialogue",
+              "explanation": "不用了，谢谢你。",
+              "correctFeedback": "太棒了！",
+              "kind": "choice",
+              "hint": "Hello, how are you?",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "I'm good, thank you."
+                },
+                {
+                  "id": "1",
+                  "text": "My wife is a chef."
+                }
+              ],
+              "answer": "0",
+              "dialogueAvatars": [
+                "en-avatar-908c5a4aa5e443946538",
+                "en-avatar-0c9275a54751089145fc"
+              ],
+              "resultReview": {
+                "title": "完成对话",
+                "prompt": "A：Hello, how are you?\nB：___",
+                "correctAnswer": "I'm good, thank you.",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "unit12-q13",
+              "prompt": "填空",
+              "sourceType": "tapComplete",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "phone",
+                  "audioResource": "en-speech-7b0fd43cdb79e5bc82dd.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "menu",
+                  "audioResource": "en-speech-3bf953a0c6451bacdd8e.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "cat",
+                  "audioResource": "en-speech-7e6086bdc8bb544f79f8.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "dessert",
+                  "audioResource": "en-speech-ddd9f1b7b6c5ede4a777.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-2"
+              ],
+              "completionPrefix": "Here is my cute ",
+              "completionSuffix": "!",
+              "promptImageResource": "en-image-b8fc19c376bb7c06c9b4",
+              "resultReview": {
+                "title": "填空",
+                "prompt": "Here is my cute ___!",
+                "correctAnswer": "Here is my cute cat!",
+                "audioResources": []
+              },
+              "newWord": false
+            },
+            {
+              "id": "unit12-q14",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-18090a98cd9957fd6e3c.mp3",
+              "slowAudioResource": "en-speech-9e779570590adcba507a.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "cute",
+                  "audioResource": "en-speech-47b15e9c8d9272c5e427.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "in",
+                  "audioResource": "en-speech-53007a556e52db3d8114.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "Hi",
+                  "audioResource": "en-speech-f7bb0ede3c4acee90c14.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "come",
+                  "audioResource": "en-speech-c8ef4e18baeb1c1bf240.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-3",
+                "word-1"
+              ],
+              "resultReview": {
+                "title": "选择你听到的内容：",
+                "prompt": "",
+                "correctAnswer": "Hi, come in!",
+                "audioResources": [
+                  "en-speech-18090a98cd9957fd6e3c.mp3"
+                ]
+              },
+              "correctFeedbackAudioVolume": 0.35,
+              "newWord": false
+            },
+            {
+              "id": "unit12-q15",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "不错哦！",
+              "characterResource": "en-image-19d527c8f3f0c4af501f",
+              "hint": "你的公寓真大！",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "Your",
+                  "audioResource": "en-speech-89e4b8d6d8139f28a9c1.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "big",
+                  "audioResource": "en-speech-7486efa1c6025532177d.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "is",
+                  "audioResource": "en-speech-1498cc1343672ec3e3ce.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "apartment",
+                  "audioResource": "en-speech-2f81e6a1c9555885f377.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "famous",
+                  "audioResource": "en-speech-db8c53ee2ed4ccba7ad9.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-3",
+                "word-2",
+                "word-1"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "你的公寓真大！",
+                "correctAnswer": "Your apartment is big!",
+                "audioResources": []
+              },
+              "newWord": false,
+              "indicator": "挑战题"
+            },
+            {
+              "id": "unit12-q16",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "hint": "这就是我的新公寓。",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "apartment",
+                  "audioResource": "en-speech-dadbb0f656c295333678.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "this",
+                  "audioResource": "en-speech-c0be22f64c38c3e00be6.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "my",
+                  "audioResource": "en-speech-1883f7fae46deb0e4bf7.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "Here",
+                  "audioResource": "en-speech-b471cc9e51e07b8c709c.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "is",
+                  "audioResource": "en-speech-2137352245d1a068f581.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "new",
+                  "audioResource": "en-speech-37635c37b29c0a5bf37b.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-4",
+                "word-2",
+                "word-5",
+                "word-0"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "这就是我的新公寓。",
+                "correctAnswer": "Here is my new apartment.",
+                "audioResources": []
+              },
+              "newWord": false,
+              "indicator": "挑战题"
+            },
+            {
+              "id": "unit12-q17",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "hint": "安娜、马克斯，进来。",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "and",
+                  "audioResource": "en-speech-a5ba652fcc00bfbfafb3.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "Anna",
+                  "audioResource": "en-speech-7a5aad137c1aa602d621.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "come",
+                  "audioResource": "en-speech-4d86c1bd8fcbaac2576a.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "this",
+                  "audioResource": "en-speech-58b7d7e510a65f4449a4.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "Max",
+                  "audioResource": "en-speech-cc085f3960faac558af8.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "in",
+                  "audioResource": "en-speech-1240381ca407910a19b5.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-0",
+                "word-4",
+                "word-2",
+                "word-5"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "安娜、马克斯，进来。",
+                "correctAnswer": "Anna and Max, come in.",
+                "audioResources": []
+              },
+              "correctFeedbackAudioVolume": 0.35,
+              "newWord": false,
+              "indicator": "挑战题"
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "unit12-speech",
+              "beforeQuestionID": "unit12-q9",
+              "title": "朗读下面的句子",
+              "phrase": "Welcome, Lisa, how are you?",
+              "audioResource": "en-speech-e247eef4f7f4dbc9c8a5.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复",
+              "resultReview": {
+                "title": "朗读下面的句子",
+                "prompt": "Welcome, Lisa, how are you?",
+                "correctAnswer": "Welcome, Lisa, how are you?",
+                "declinedAnswer": "Welcome, Lisa, how are you?",
+                "audioResources": []
+              }
+            }
+          ],
+          "interludes": [
+            {
+              "id": "unit12-encouragement-0",
+              "afterQuestionID": "unit12-q10",
+              "text": "你是最棒的！"
+            },
+            {
+              "id": "unit12-encouragement-1",
+              "afterQuestionID": "unit12-q14",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ],
+          "settlement": [
+            {
+              "id": "unit12-result",
+              "kind": "result",
+              "title": "完美！",
+              "body": "你练习全对，无错完成本单元",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 15,
+              "observedAccuracy": 100,
+              "observedMistakes": 0,
+              "accuracyLabel": "超级棒",
+              "artResource": "en-unit12-result-observed-frame",
+              "experienceIconResource": "en-home-4473449cf456ad652fde",
+              "accuracyIconResource": "en-home-9120c55acdee00fba0bb"
+            },
+            {
+              "id": "unit12-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ],
+          "completionAudioResource": "en-effect-12a1e12d8f2f9bc85536.mp3",
+          "completionAudioVolume": 0.5,
+          "postHomeCoach": "pronunciation",
+          "observedHomeSnapshot": {
+            "completedLessons": 3,
+            "gems": 505,
+            "streak": 1,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "学个单元就能上本周排行榜，跟其他小伙伴一决高低！",
+            "leagueResource": "en-home-09643d5b108a393f36cc",
+            "questTarget": 10,
+            "questProgress": 10
+          }
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "17 accepted current-renderer questions, 1 declined oral question, 2 encouragements, 18 actual result-review cards",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-unit12-content-v1/README.md"
+    ],
+    "unknown": "Adaptive question selection, normal oral grading, wrong answers, timer recovery, exact pixels and acoustic output remain unverified. Result15XP/100% is this observed instance, not a scoring formula."
+  }
+}

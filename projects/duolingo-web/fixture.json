@@ -1,0 +1,14 @@
+{
+  "data": {
+    "semantic_actions": {
+      "correct": "select the observed translation of the current prompt",
+      "wrong": "select a distinct visible alternative"
+    },
+    "online_data_injection": false,
+    "candidate_content": "original curriculum to be provided; no Duolingo media copied"
+  },
+  "initial_state": {
+    "screen": "course_entry",
+    "authenticated": false
+  }
+}

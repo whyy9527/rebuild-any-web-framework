@@ -1,0 +1,213 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-en-zh-unit-1",
+      "title": "提供或接受饮料",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "secondary-probe",
+          "title": "Observed secondary controls",
+          "questions": [
+            {
+              "id": "en-zh-secondary-keyboard",
+              "kind": "word_tiles",
+              "prompt": "用英语写出这句话",
+              "hint": "谢谢。",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "words": [
+                {
+                  "id": "0",
+                  "text": "Thank"
+                },
+                {
+                  "id": "1",
+                  "text": "you"
+                },
+                {
+                  "id": "2",
+                  "text": "and"
+                }
+              ],
+              "answer_words": [
+                "0",
+                "1"
+              ],
+              "keyboardAnswer": "Thank you.",
+              "keyboardPrompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "characterResource": "en-image-cf56f9ea0c179f90206b"
+            },
+            {
+              "id": "en-zh-secondary-harder",
+              "kind": "text_entry",
+              "prompt": "输入所缺单词",
+              "hint": "我想要水和咖啡，谢谢。",
+              "sourceType": "completeReverseTranslation",
+              "completionPrefix": "I'd like water ",
+              "completionSuffix": " coffee, please.",
+              "answer": "and",
+              "keyboardAnswer": "I'd like water and coffee, please.",
+              "keyboardPrompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "characterResource": "en-image-58f00fb33fb90339eef1"
+            }
+          ]
+        }
+      ],
+      "home": {
+        "sectionTitle": "第 1 阶段，第 1 部分",
+        "firstNodeLessonCount": 4,
+        "pathKinds": [
+          "lesson",
+          "lesson",
+          "chest",
+          "practice",
+          "review"
+        ],
+        "nextSectionTitle": "谈论祖籍国家",
+        "flagResource": "en-home-56c79be7b1d61ed14ae1",
+        "pronunciationResource": "en-home-aeaed872934441d62638",
+        "progressSnapshots": [
+          {
+            "completedLessons": 1,
+            "gems": 505
+          },
+          {
+            "completedLessons": 2,
+            "gems": 505
+          },
+          {
+            "completedLessons": 3,
+            "gems": 505,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "18 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8"
+          },
+          {
+            "completedLessons": 4,
+            "gems": 505,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "17 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8"
+          },
+          {
+            "completedLessons": 5,
+            "gems": 510,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "16 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8",
+            "questTarget": 30,
+            "questProgress": 30
+          },
+          {
+            "completedLessons": 6,
+            "gems": 510,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "14 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8",
+            "questTarget": 30,
+            "questProgress": 30
+          }
+        ],
+        "completedNodeResource": "en-home-f2788b0113d027425034",
+        "completedNodeCenters": [
+          56.5,
+          147.3515625,
+          259.2265625,
+          357.1015625,
+          433.953125
+        ],
+        "completedPathHeight": 526.1484375
+      }
+    },
+    "unknown": "Two-question action probe only; original skip/review, listenIsolation, cross-question preference and full seventh trajectory remain unknown. Source progress differs. Lin full-body renderer remains unbound; old filename was Bea, rejected before final build. Probe scores/progress differ from source.",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-session.json",
+      "projects/duolingo-web/evidence/english-input-layout-v1/secondary-falstaff-renderer.json",
+      "projects/duolingo-web/evidence/english-input-layout-v1/asset-verification.json"
+    ]
+  },
+  "provenance": {
+    "source": "Actual anonymous en/zh first lesson; option order, answers and word banks UI-confirmed; question 0 accepted on mistake review; second actual lesson: 12 UI-confirmed initial questions and 3 accepted adaptive translations, not initial API tail; third actual lesson: 12 accepted normal questions and 3 accepted visible adaptive translations; duplicate 不要 occurrences retained; fourth actual 12-question challenge, observed entry and two introductions; home presentation snapshots from actual source; actual six-stage fourth settlement, completed-node icon and next-node popover; fifth actual 15 graded questions plus one ungraded deferred speech stage; typed review and four settlement pages; explicit sixth observed double-decline trajectory (not general adaptation)",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-v1/first-session.json",
+      "projects/duolingo-web/evidence/english-v1/dialogue-public-ui.json",
+      "projects/duolingo-web/evidence/english-home-v2/configuration-source.json",
+      "projects/duolingo-web/evidence/english-v1/replay-01.json",
+      "projects/duolingo-web/evidence/english-v1/replay-02.json",
+      "projects/duolingo-web/evidence/english-v1/replay-03.json",
+      "projects/duolingo-web/evidence/english-second-v1/session.json",
+      "projects/duolingo-web/evidence/english-second-v1/replay-01.json",
+      "projects/duolingo-web/evidence/english-second-v1/replay-02.json",
+      "projects/duolingo-web/evidence/english-second-v1/ui-transcription.json",
+      "projects/duolingo-web/evidence/english-second-v1/english-second-adaptive.json",
+      "projects/duolingo-web/evidence/english-second-v1/english-second-adaptive-2.json",
+      "projects/duolingo-web/evidence/english-second-v1/english-second-adaptive-3.json",
+      "projects/duolingo-web/evidence/english-third-v1/session.json",
+      "projects/duolingo-web/evidence/english-third-v1/replay-01.json",
+      "projects/duolingo-web/evidence/english-third-v1/replay-02.json",
+      "projects/duolingo-web/evidence/english-third-v1/adaptive-live.json",
+      "projects/duolingo-web/evidence/english-third-v1/adaptive-12-recovery.json",
+      "projects/duolingo-web/evidence/english-third-v1/reference-english-third-adaptive-12-feedback.png",
+      "projects/duolingo-web/evidence/english-third-v1/hint-token-reading.json",
+      "projects/duolingo-web/evidence/english-third-v1/adaptive-13.json",
+      "projects/duolingo-web/evidence/english-third-v1/adaptive-14.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/session.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/replay-02.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/replay-03.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/reference-fourth-question-10-before.png",
+      "projects/duolingo-web/evidence/english-fourth-v1/reloaded-entry.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/review-intro.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/post-third-profile.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/bronze-card.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/complete.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/score.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/streak.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/xp-boost.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/legendary.json",
+      "projects/duolingo-web/evidence/english-fourth-v1/home.json",
+      "projects/duolingo-web/evidence/english-settlement-v1/popovers.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/adaptive7.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/adaptive9.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/after-complete-settled.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/complete.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/first-pairing-bindings.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/five-gems.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/home-after-five.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/hot-tea-wrong.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/listen-complete-response.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/listen-match11.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/listen-match8.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/original14.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/reference-lesson5-complete-settled.png",
+      "projects/duolingo-web/evidence/english-next-node-v1/replay-01.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/replay-02.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/replay-04.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/replay-05.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/reverse-response.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/session.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/speak-declined.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/tail.json",
+      "projects/duolingo-web/evidence/english-next-node-v1/trajectory.json",
+      "projects/duolingo-web/evidence/english-sixth-v1/trajectory.json",
+      "projects/duolingo-web/evidence/english-sixth-v1/completion-visual.json",
+      "projects/duolingo-web/evidence/english-sixth-v1/english-sixth-home.json",
+      "projects/duolingo-web/evidence/english-listening-decline-v1/q1-answer.json",
+      "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json"
+    ],
+    "unknown": "Sixth fixture executes the actually observed double-decline path only. Normal listening/speech continuations, timer recovery, grading variants, missing character/audio bindings, score rules and 1:1 visuals/audio remain unverified; default remains v6 until branch integration."
+  }
+}

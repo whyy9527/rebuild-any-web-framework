@@ -1,0 +1,6 @@
+### Result
+{"installed":true,"microphone":false,"original_play_preserved":true}
+### Ran Playwright code
+```js
+await (async page=>{return await page.evaluate(()=>{window.__rebuildPlayed=[];const original=window.__rebuildOriginalPlay||HTMLMediaElement.prototype.play;window.__rebuildOriginalPlay=original;HTMLMediaElement.prototype.play=function(...args){const note=kind=>window.__rebuildPlayed.push({kind,at:Date.now(),src:this.currentSrc||this.src,volume:this.volume,muted:this.muted});note("call");this.addEventListener("playing",()=>note("playing"),{once:true});return original.apply(this,args)};return{installed:true,microphone:false,original_play_preserved:true}})})(page);
+```

@@ -1,0 +1,12 @@
+### Result
+{"maximum_actions":5,"rows":[{"index":0,"played":[{"src":"https://d1vq87e9lcf771.cloudfront.net/harrison/629ea54cf7dfd5da4ae0beb4b19ec929","at":1908018.3000001907}],"text":"Excuse me, how much is this hat?\n请问，这顶帽子多少钱？"},{"index":1,"played":[{"src":"https://d1vq87e9lcf771.cloudfront.net/harrison/9ac9acdeb2573bbafaa88eb62c6aacf4","at":1909191.600000143}],"text":"This red shirt is on sale.\n这件红色的衬衫在打折。"},{"index":2,"played":[{"src":"https://d1vq87e9lcf771.cloudfront.net/harrison/05e4d0866539040d4f1bd8d30daa3ea8","at":1909372.4000000954}],"text":"I need a new jacket.\n我需要一件新夹克。"},{"index":3,"played":[{"src":"https://d1vq87e9lcf771.cloudfront.net/harrison/0baeeb8b370097aad25fb57b007f9b4a","at":1910237.2000000477}],"text":"Oh, this store is expensive!\n哦，这家店很贵！"},{"index":4,"played":[{"src":"https://d1vq87e9lcf771.cloudfront.net/harrison/8cf78c4e46ad0193afc0d2db1b5e4909","at":1910425.9000000954}],"text":"Is this store open today?\n这家店今天开门吗？"}],"path":"/guidebook/en/11"}
+### Ran Playwright code
+```js
+await (async page=>{await page.evaluate(()=>{window.__guideExplore=[];const old=HTMLMediaElement.prototype.play;HTMLMediaElement.prototype.play=function(){window.__guideExplore.push({src:this.currentSrc||this.src,at:performance.now()});return old.apply(this,arguments)}});const rows=[];const buttons=page.getByRole("button",{name:"",exact:true});if(await buttons.count()!==5)throw Error("Unexpected source inventory");for(let i=0;i<5;i++){await page.evaluate(()=>window.__guideExplore=[]);await buttons.nth(i).click();await page.waitForFunction(()=>window.__guideExplore.some(v=>v.src.startsWith("https://d1vq87e9lcf771.cloudfront.net/")));rows.push({index:i,played:await page.evaluate(()=>window.__guideExplore),text:await buttons.nth(i).evaluate(n=>n.parentElement.parentElement.innerText)});await page.waitForFunction(()=>[...document.querySelectorAll("audio")].every(n=>n.paused||n.ended),{},{timeout:15000}).catch(()=>{});}return {maximum_actions:5,rows,path:new URL(page.url()).pathname}})(page);
+```
+### Page
+- Page URL: https://www.duolingo.com/guidebook/en/11
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 42 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T17-34-43-881Z.log#L75

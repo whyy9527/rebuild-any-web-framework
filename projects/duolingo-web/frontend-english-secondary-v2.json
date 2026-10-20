@@ -1,0 +1,569 @@
+{
+  "revision": "actual-secondary-actions-with-renderer-v2",
+  "requirements": [
+    {
+      "id": "en-zh-secondary-keyboard-empty-check_enabled",
+      "state": "en-zh-secondary-keyboard-empty",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-empty-input_matches",
+      "state": "en-zh-secondary-keyboard-empty",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-empty-text-0",
+      "state": "en-zh-secondary-keyboard-empty",
+      "kind": "accessible_text",
+      "text": "使用词库",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-empty-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-keyboard-empty",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-empty-answer-input-geometry",
+      "state": "en-zh-secondary-keyboard-empty",
+      "kind": "element_geometry",
+      "element": "answer-input",
+      "rect": [
+        300,
+        336,
+        600,
+        170
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-filled-check_enabled",
+      "state": "en-zh-secondary-keyboard-filled",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-filled-input_matches",
+      "state": "en-zh-secondary-keyboard-filled",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-filled-text-0",
+      "state": "en-zh-secondary-keyboard-filled",
+      "kind": "accessible_text",
+      "text": "使用词库",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-filled-text-1",
+      "state": "en-zh-secondary-keyboard-filled",
+      "kind": "accessible_text",
+      "text": "Thank you.",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-filled-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-keyboard-filled",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-filled-answer-input-geometry",
+      "state": "en-zh-secondary-keyboard-filled",
+      "kind": "element_geometry",
+      "element": "answer-input",
+      "rect": [
+        300,
+        336,
+        600,
+        170
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-returned-check_enabled",
+      "state": "en-zh-secondary-keyboard-returned",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-bank-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-returned-input_matches",
+      "state": "en-zh-secondary-keyboard-returned",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-bank-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-returned-text-0",
+      "state": "en-zh-secondary-keyboard-returned",
+      "kind": "accessible_text",
+      "text": "使用键盘",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-bank-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-returned-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-keyboard-returned",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-bank-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-reopened-check_enabled",
+      "state": "en-zh-secondary-keyboard-reopened",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-reopened-input_matches",
+      "state": "en-zh-secondary-keyboard-reopened",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-reopened-text-0",
+      "state": "en-zh-secondary-keyboard-reopened",
+      "kind": "accessible_text",
+      "text": "使用词库",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-reopened-text-1",
+      "state": "en-zh-secondary-keyboard-reopened",
+      "kind": "accessible_text",
+      "text": "Thank you.",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-reopened-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-keyboard-reopened",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-reopened-answer-input-geometry",
+      "state": "en-zh-secondary-keyboard-reopened",
+      "kind": "element_geometry",
+      "element": "answer-input",
+      "rect": [
+        300,
+        336,
+        600,
+        170
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-feedback-accepted",
+      "state": "en-zh-secondary-keyboard-feedback",
+      "kind": "interaction_boolean",
+      "field": "accepted",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-feedback-pixels",
+      "state": "en-zh-secondary-keyboard-feedback",
+      "kind": "pending",
+      "description": "Actual same-state pixels equivalence remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-keyboard-feedback-audio",
+      "state": "en-zh-secondary-keyboard-feedback",
+      "kind": "pending",
+      "description": "Actual same-state audio equivalence remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-keyboard-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-empty-check_enabled",
+      "state": "en-zh-secondary-harder-empty",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-empty-input_matches",
+      "state": "en-zh-secondary-harder-empty",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-empty-text-0",
+      "state": "en-zh-secondary-harder-empty",
+      "kind": "accessible_text",
+      "text": "减少难度",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-empty-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-harder-empty",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-empty-answer-input-geometry",
+      "state": "en-zh-secondary-harder-empty",
+      "kind": "element_geometry",
+      "element": "answer-input",
+      "rect": [
+        300,
+        336,
+        600,
+        170
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-empty.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-filled-check_enabled",
+      "state": "en-zh-secondary-harder-filled",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-filled-input_matches",
+      "state": "en-zh-secondary-harder-filled",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-filled-text-0",
+      "state": "en-zh-secondary-harder-filled",
+      "kind": "accessible_text",
+      "text": "减少难度",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-filled-text-1",
+      "state": "en-zh-secondary-harder-filled",
+      "kind": "accessible_text",
+      "text": "I'd like water and coffee, please.",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-filled-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-harder-filled",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-filled-answer-input-geometry",
+      "state": "en-zh-secondary-harder-filled",
+      "kind": "element_geometry",
+      "element": "answer-input",
+      "rect": [
+        300,
+        336,
+        600,
+        170
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-filled.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-returned-check_enabled",
+      "state": "en-zh-secondary-harder-returned",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-fill-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-returned-input_matches",
+      "state": "en-zh-secondary-harder-returned",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-fill-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-returned-text-0",
+      "state": "en-zh-secondary-harder-returned",
+      "kind": "accessible_text",
+      "text": "加大难度",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-fill-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-returned-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-harder-returned",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-fill-returned.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-reopened-check_enabled",
+      "state": "en-zh-secondary-harder-reopened",
+      "kind": "interaction_boolean",
+      "field": "check_enabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-reopened-input_matches",
+      "state": "en-zh-secondary-harder-reopened",
+      "kind": "interaction_boolean",
+      "field": "input_matches",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-reopened-text-0",
+      "state": "en-zh-secondary-harder-reopened",
+      "kind": "accessible_text",
+      "text": "减少难度",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-reopened-text-1",
+      "state": "en-zh-secondary-harder-reopened",
+      "kind": "accessible_text",
+      "text": "I'd like water and coffee, please.",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-reopened-toggle-input-mode-geometry",
+      "state": "en-zh-secondary-harder-reopened",
+      "kind": "element_geometry",
+      "element": "toggle-input-mode",
+      "rect": [
+        524.9921875,
+        654.2265625,
+        150,
+        19.546875
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-reopened-answer-input-geometry",
+      "state": "en-zh-secondary-harder-reopened",
+      "kind": "element_geometry",
+      "element": "answer-input",
+      "rect": [
+        300,
+        336,
+        600,
+        170
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-feedback-accepted",
+      "state": "en-zh-secondary-harder-feedback",
+      "kind": "interaction_boolean",
+      "field": "accepted",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-feedback-pixels",
+      "state": "en-zh-secondary-harder-feedback",
+      "kind": "pending",
+      "description": "Actual same-state pixels equivalence remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-secondary-harder-feedback-audio",
+      "state": "en-zh-secondary-harder-feedback",
+      "kind": "pending",
+      "description": "Actual same-state audio equivalence remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-harder-answer.json"
+      ]
+    },
+    {
+      "id": "falstaff-feedback-actual-renderer",
+      "state": "en-zh-secondary-harder-feedback",
+      "kind": "element_geometry",
+      "element": "question-character",
+      "rect": [
+        295.08612060546875,
+        152.25,
+        129.79998779296875,
+        192.5
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-input-layout-v1/secondary-falstaff-renderer.json"
+      ]
+    }
+  ]
+}

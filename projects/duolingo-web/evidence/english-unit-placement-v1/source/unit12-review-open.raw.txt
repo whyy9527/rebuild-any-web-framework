@@ -1,0 +1,13 @@
+### Result
+"- img\n- text: 测试完成！ 总经验\n- img\n- text: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 超级棒\n- img\n- text: 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 %\n- button \"回顾本单元\"\n- button \"继续\"\n- img\n- text: 查看你的成绩单！ 点击下面的小方块来浏览答案吧！\n- button \"\\\"新\\\" 该怎么说？\":\n  - text: \"\\\"新\\\" 该怎么说？\"\n  - img\n- button \"翻译成中文（简体）： I want a skirt.\":\n  - text: 翻译成中文（简体）：\n  - img\n  - text: I want a skirt.\n- button \"\\\"想要\\\" 该怎么说？\":\n  - text: \"\\\"想要\\\" 该怎么说？\"\n  - img\n- button \"翻译成中文（简体）： two bags\":\n  - text: 翻译成中文（简体）：\n  - img\n  - text: two bags\n- button \"\\\"便宜\\\" 该怎么说？\":\n  - text: \"\\\"便宜\\\" 该怎么说？\"\n  - img\n- button \"翻译成中文（简体）： a cheap store\":\n  - text: 翻译成中文（简体）：\n  - img\n  - text: a cheap store\n- button \"填空 I like that ___ skirt.\":\n  - text: 填空\n  - img\n  - text: I like that ___ skirt.\n- button \"填空 How much is that green ___?\":\n  - text: 填空\n  - img\n  - text: How much is that green ___?\n- button \"填空 How much is that nice ___?\":\n  - text: 填空\n  - img\n  - text: How much is that nice ___?\n- button \"填空 This ___ is on sale.\":\n  - text: 填空\n  - img\n  - text: This ___ is on sale.\n- button \"翻译成英语： 那条白裙子很不错。\":\n  - text: 翻译成英语：\n  - img\n  - text: 那条白裙子很不错。\n- button \"键入你听到的内容：\":\n  - text: 键入你听到的内容：\n  - img\n  - button:\n    - img\n- button \"翻译成英语： 这家餐厅关门了吗？\":\n  - text: 翻译成英语：\n  - img\n  - text: 这家餐厅关门了吗？\n- button \"键入你听到的内容：\":\n  - text: 键入你听到的内容：\n  - img\n  - button:\n    - img\n- button \"翻译成英语： 绿色\":\n  - text: 翻译成英语：\n  - img\n  - text: 绿色\n- button \"翻译成英语： 这件衬衫打折吗？\":\n  - text: 翻译成英语：\n  - img\n  - text: 这件衬衫打折吗？\n- button \"翻译成英语： 这家商店很不错！\":\n  - text: 翻译成英语：\n  - img\n  - text: 这家商店很不错！\n- button \"翻译成英语： 是的，这家商店在营业。\":\n  - text: 翻译成英语：\n  - img\n  - text: 是的，这家商店在营业。"
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"回顾本单元",exact:true}).click();return await page.locator("body").ariaSnapshot();})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson/unit/12/test)
+### Page
+- Page URL: https://www.duolingo.com/lesson/unit/12/test
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 43 errors, 0 warnings

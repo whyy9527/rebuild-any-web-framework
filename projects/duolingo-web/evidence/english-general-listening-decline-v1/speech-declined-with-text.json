@@ -1,0 +1,2013 @@
+{
+  "observed_at": "2026-10-11T02:41:00.702Z",
+  "path": "/practice",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "snapshot": "- button:\n  - img\n- progressbar:\n  - img\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\" [disabled]:\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- heading \"麦克风已关闭\" [level=2]\n- text: 将在 15 分钟后恢复\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "text_runs": [
+    {
+      "text": "朗读下面的句子",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        300,
+        122,
+        224,
+        37.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "40px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "G",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        487,
+        321,
+        11.5,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        498.5,
+        321,
+        10.265625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        508.765625,
+        321,
+        10.265625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "d",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        519.03125,
+        321,
+        10.640625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "m",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        533.671875,
+        321,
+        16.1875,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        549.859375,
+        321,
+        10.265625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "r",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        560.125,
+        321,
+        6.765625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "n",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        566.890625,
+        321,
+        10.5859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "i",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        577.4765625,
+        321,
+        4.6640625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "n",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        582.140625,
+        321,
+        10.5859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "g",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        592.7265625,
+        321,
+        10.5859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": ",",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        603.3125,
+        321,
+        4.4609375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "h",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        611.7734375,
+        321,
+        10.5859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        622.359375,
+        321,
+        10.203125,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "t",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        632.5625,
+        321,
+        7.1875,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "c",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        643.75,
+        321,
+        9.0859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        652.8359375,
+        321,
+        10.203125,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "f",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        663.0390625,
+        321,
+        7.0859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "f",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        670.125,
+        321,
+        7,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "e",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        677.125,
+        321,
+        10,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "e",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        687.125,
+        321,
+        10,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        701.125,
+        321,
+        10.265625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "r",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        711.390625,
+        321,
+        6.765625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "w",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        722.15625,
+        321,
+        14.5625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "i",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        736.71875,
+        321,
+        4.6640625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "t",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        741.3828125,
+        321,
+        7.1875,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "h",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        748.5703125,
+        321,
+        10.5859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "i",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        763.15625,
+        321,
+        4.6640625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "c",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        767.8203125,
+        321,
+        9.0859375,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "e",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        776.90625,
+        321,
+        10,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "?",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        786.90625,
+        321,
+        10.2265625,
+        23.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "点击并开始录音",
+      "tag": "BUTTON",
+      "test": null,
+      "rect": [
+        560.0703125,
+        443.5,
+        110.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "18px",
+        "color": "rgb(229, 229, 229)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "麦克风已关闭",
+      "tag": "H2",
+      "test": null,
+      "rect": [
+        236,
+        616.25,
+        144,
+        28
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "30px",
+        "color": "rgb(205, 121, 0)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "将在 15 分钟后恢复",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        236,
+        648.25,
+        141.984375,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "26px",
+        "color": "rgb(205, 121, 0)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "太简单",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        261,
+        689.25,
+        47.40625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "normal",
+        "color": "rgb(205, 121, 0)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "太难",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        357.40625,
+        689.25,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "normal",
+        "color": "rgb(205, 121, 0)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "报错",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        438.0078125,
+        689.25,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "normal",
+        "color": "rgb(205, 121, 0)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "继续",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        967.1875,
+        649.796875,
+        35.6015625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "0.8px"
+      }
+    }
+  ],
+  "media": [
+    {
+      "tag": "IMG",
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/4af31393cf9dee6fd35c07fc7155d404.svg",
+      "source_kind": "url",
+      "rect": [
+        100,
+        50,
+        18,
+        18
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        20,
+        20
+      ]
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        778.07421875,
+        29,
+        58.6953125,
+        60
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "CANVAS",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        291.0069580078125,
+        204.98153686523438,
+        147.5,
+        218.75
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        118,
+        175
+      ]
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        450,
+        322,
+        29,
+        22
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        418,
+        325.5,
+        18,
+        20
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "IMG",
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/d64537f440f76d909e9e0002843bf821.svg",
+      "source_kind": "url",
+      "rect": [
+        529.3203125,
+        440,
+        18.75,
+        25
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        66,
+        88
+      ]
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        308,
+        426.5,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        862,
+        450.5,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "IMG",
+      "alt": "",
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/d01837d668b592b96aa33ecce8459d77.svg",
+      "source_kind": "url",
+      "rect": [
+        160,
+        649,
+        41,
+        31
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        41,
+        31
+      ]
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        236,
+        687.25,
+        20,
+        20
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        332.40625,
+        687.25,
+        20,
+        20
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    }
+  ],
+  "visible": [
+    {
+      "test": "quit-button",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        100,
+        50,
+        18,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "19.55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "icons": [],
+      "images": [
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/images/4af31393cf9dee6fd35c07fc7155d404.svg",
+          "rect": {
+            "x": 100,
+            "y": 50,
+            "width": 18,
+            "height": 18,
+            "top": 50,
+            "right": 118,
+            "bottom": 68,
+            "left": 100
+          }
+        }
+      ],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 50,
+            "width": 1000,
+            "height": 18,
+            "top": 50,
+            "right": 1100,
+            "bottom": 68,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 60,
+            "y": 0,
+            "width": 1080,
+            "height": 68,
+            "top": 0,
+            "right": 1140,
+            "bottom": 68,
+            "left": 60
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "50px 40px 0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 100,
+            "top": 0,
+            "right": 1200,
+            "bottom": 100,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge challenge-speak",
+      "tag": "DIV",
+      "role": null,
+      "text": "朗读下面的句子\nGood morning, hot coffee or with ice?\n点击并开始录音",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        0,
+        100,
+        1200,
+        492
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "challenge-header",
+      "tag": "H1",
+      "role": null,
+      "text": "朗读下面的句子",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        300,
+        121,
+        600,
+        40
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        450,
+        322,
+        29,
+        22
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 94 73\" width=\"94\" height=\"73\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1353\"><rect width=\"94\" height=\"73\" x=\"0\" y=\"0\"></rect></clipPath><clipPath id=\"__lottie_element_1355\"><path d=\"M0,0 L1000,0 L1000,1038 L0,1038z\"></path></clipPath><clipPath id=\"__lottie_element_1360\"><path d=\"M0,0 L1338,0 L1338,738 L0,738z\"></path></clipPath></defs><g clip-path=\"url(#__lottie_element_1353)\"><g clip-path=\"url(#__lottie_element_1355)\" transform=\"matrix(0.26499998569488525,0,0,0.26499998569488525,-84.5,-101.53498840332031)\" opacity=\"1\" style=\"display: block;\"><g transform=\"matrix(1.3600000143051147,0,0,1.3600000143051147,516.219970703125,522.4000244140625)\" opacity=\"0.9069389991639046\" style=\"display: block;\"><path stroke-linecap=\"round\" stroke-linejoin=\"miter\" fill-opacity=\"0\" stroke-miterlimit=\"4\" class=\"animated-speaker-icon-lottie\" stroke=\"rgb(255,255,255)\" stroke-opacity=\"1\" stroke-width=\"22.485592375331898\" d=\" M48.88100051879883,-88.13400268554688 C79.822998046875,-70.9219970703125 100.77899932861328,-37.88800048828125 100.77899932861328,0 C100.77899932861328,37.9109992980957 79.7979965209961,70.96199798583984 48.82500076293945,88.16500091552734\"></path></g><g style=\"display: block;\" transform=\"matrix(1.3600000143051147,0,0,1.3600000143051147,516.219970703125,522.4000244140625)\" opacity=\"1\"><path stroke-linecap=\"round\" stroke-linejoin=\"miter\" fill-opacity=\"0\" stroke-miterlimit=\"4\" class=\"animated-speaker-icon-lottie\" stroke=\"rgb(255,255,255)\" stroke-opacity=\"1\" stroke-width=\"20.500305987715482\" d=\" M24.131000518798828,-42.808998107910156 C39.055999755859375,-34.37099838256836 49.14099884033203,-18.354000091552734 49.14099884033203,0 C49.14099884033203,18.386999130249023 39.02000045776367,34.42900085449219 24.049999237060547,42.854000091552734\"></path></g><g clip-path=\"url(#__lottie_element_1360)\" transform=\"matrix(1.0370399951934814,0,0,0.9629600048065186,136.53640747070312,163.66775512695312)\" opacity=\"1\" style=\"display: block;\"><g transform=\"matrix(1,0,0,1,260.93701171875,373.6780090332031)\" opacity=\"1\" style=\"display: block;\"><g opacity=\"1\" transform=\"matrix(6,0,0,6,0,0)\"><path class=\"animated-speaker-icon-lottie\" fill=\"rgb(255,255,255)\" fill-opacity=\"1\" d=\" M-8.293000221252441,-11.675000190734863 C-8.293000221252441,-11.675000190734863 -0.12300000339746475,-11.675000190734863 -0.12300000339746475,-11.675000190734863 C2.9070000648498535,-11.675000190734863 5.367000102996826,-9.21500015258789 5.367000102996826,-6.184999942779541 C5.367000102996826,-6.184999942779541 5.367000102996826,6.425000190734863 5.367000102996826,6.425000190734863 C5.367000102996826,9.454999923706055 2.9070000648498535,11.914999961853027 -0.12300000339746475,11.914999961853027 C-0.12300000339746475,11.914999961853027 -8.293000221252441,11.914999961853027 -8.293000221252441,11.914999961853027 C-11.322999954223633,11.914999961853027 -13.782999992370605,9.454999923706055 -13.782999992370605,6.425000190734863 C-13.782999992370605,6.425000190734863 -13.782999992370605,-6.184999942779541 -13.782999992370605,-6.184999942779541 C-13.782999992370605,-9.21500015258789 -11.322999954223633,-11.675000190734863 -8.293000221252441,-11.675000190734863z M-4.980999946594238,-11.656999588012695 C-4.980999946594238,-11.656999588012695 10.218999862670898,-22.32699966430664 10.218999862670898,-22.32699966430664 C11.24899959564209,-23.047000885009766 12.659000396728516,-22.797000885009766 13.369000434875488,-21.777000427246094 C13.638999938964844,-21.39699935913086 13.779000282287598,-20.937000274658203 13.779000282287598,-20.476999282836914 C13.779000282287598,-20.476999282836914 13.779000282287598,20.472999572753906 13.779000282287598,20.472999572753906 C13.779000282287598,21.722999572753906 12.769000053405762,22.732999801635742 11.519000053405762,22.732999801635742 C11.059000015258789,22.732999801635742 10.609000205993652,22.593000411987305 10.218999862670898,22.322999954223633 C10.218999862670898,22.322999954223633 -4.980999946594238,11.652999877929688 -4.980999946594238,11.652999877929688 C-5.580999851226807,11.232999801635742 -5.940999984741211,10.543000221252441 -5.940999984741211,9.803000450134277 C-5.940999984741211,9.803000450134277 -5.940999984741211,-9.807000160217285 -5.940999984741211,-9.807000160217285 C-5.940999984741211,-10.536999702453613 -5.580999851226807,-11.22700023651123 -4.980999946594238,-11.656999588012695z\"></path><g opacity=\"1\" transform=\"matrix(1,0,0,1,0,0)\"></g></g></g></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 450,
+            "y": 322,
+            "width": 29,
+            "height": 22,
+            "top": 322,
+            "right": 479,
+            "bottom": 344,
+            "left": 450
+          },
+          "color": "rgb(0, 0, 0)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 450,
+            "y": 322,
+            "width": 29,
+            "height": 22,
+            "top": 322,
+            "right": 479,
+            "bottom": 344,
+            "left": 450
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 450,
+            "y": 317,
+            "width": 29,
+            "height": 32,
+            "top": 317,
+            "right": 479,
+            "bottom": 349,
+            "left": 450
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 434,
+            "y": 305,
+            "width": 379.1328125,
+            "height": 56,
+            "top": 305,
+            "right": 813.1328125,
+            "bottom": 361,
+            "left": 434
+          },
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "12px",
+          "padding": "10px 14px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        487,
+        321,
+        42.671875,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        533.671875,
+        321,
+        69.640625,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        611.7734375,
+        321,
+        27.9765625,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        643.75,
+        321,
+        53.375,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        701.125,
+        321,
+        17.03125,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        722.15625,
+        321,
+        37,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        763.15625,
+        321,
+        23.75,
+        27.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "点击并开始录音",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        300,
+        418.5,
+        600,
+        70
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1373\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1373)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1381\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1381)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/images/d64537f440f76d909e9e0002843bf821.svg",
+          "rect": {
+            "x": 529.3203125,
+            "y": 440,
+            "width": 18.75,
+            "height": 25,
+            "top": 440,
+            "right": 548.0703125,
+            "bottom": 465,
+            "left": 529.3203125
+          }
+        }
+      ],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 308,
+            "y": 426.5,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 426.5,
+            "right": 348,
+            "bottom": 450.7421875,
+            "left": 308
+          },
+          "color": "rgb(229, 229, 229)"
+        },
+        {
+          "rect": {
+            "x": 862,
+            "y": 450.5,
+            "width": 30,
+            "height": 24,
+            "top": 450.5,
+            "right": 892,
+            "bottom": 474.5,
+            "left": 862
+          },
+          "color": "rgb(229, 229, 229)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 416.5,
+            "width": 600,
+            "height": 70,
+            "top": 416.5,
+            "right": 900,
+            "bottom": 486.5,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 121,
+            "width": 600,
+            "height": 450,
+            "top": 121,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        }
+      ]
+    },
+    {
+      "test": "blame blame-correct",
+      "tag": "DIV",
+      "role": null,
+      "text": "麦克风已关闭\n将在 15 分钟后恢复\n太简单\n太难\n报错",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        140,
+        615.25,
+        732.796875,
+        93.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "H2",
+      "role": null,
+      "text": "麦克风已关闭",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        236,
+        615.25,
+        320,
+        30
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "30px",
+        "color": "rgb(205, 121, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(205, 121, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "太简单",
+      "enabled": true,
+      "pressed": "false",
+      "checked": null,
+      "rect": [
+        236,
+        687.25,
+        72.40625,
+        21.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(205, 121, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(205, 121, 0)"
+      },
+      "icons": [
+        "<svg aria-hidden=\"true\" class=\"_2-7I9\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"M5 8h6l-6 8h6\"></path><path d=\"M15 13h4l-4 5h4\"></path></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 236,
+            "y": 687.25,
+            "width": 20,
+            "height": 20,
+            "top": 687.25,
+            "right": 256,
+            "bottom": 707.25,
+            "left": 236
+          },
+          "color": "rgb(205, 121, 0)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 687.25,
+            "width": 153.0078125,
+            "height": 21.5,
+            "top": 687.25,
+            "right": 389.0078125,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 687.25,
+            "width": 233.609375,
+            "height": 21.5,
+            "top": 687.25,
+            "right": 469.609375,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 615.25,
+            "width": 636.796875,
+            "height": 93.5,
+            "top": 615.25,
+            "right": 872.796875,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "16px"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "太难",
+      "enabled": true,
+      "pressed": "false",
+      "checked": null,
+      "rect": [
+        332.40625,
+        687.25,
+        56.6015625,
+        21.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(205, 121, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(205, 121, 0)"
+      },
+      "icons": [
+        "<svg aria-hidden=\"true\" class=\"_2-7I9\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"m8 3 4 8 5-5 5 15H2L8 3z\"></path></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 332.40625,
+            "y": 687.25,
+            "width": 20,
+            "height": 20,
+            "top": 687.25,
+            "right": 352.40625,
+            "bottom": 707.25,
+            "left": 332.40625
+          },
+          "color": "rgb(205, 121, 0)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 687.25,
+            "width": 153.0078125,
+            "height": 21.5,
+            "top": 687.25,
+            "right": 389.0078125,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 687.25,
+            "width": 233.609375,
+            "height": 21.5,
+            "top": 687.25,
+            "right": 469.609375,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 615.25,
+            "width": 636.796875,
+            "height": 93.5,
+            "top": 615.25,
+            "right": 872.796875,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "16px"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "报错",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        413.0078125,
+        687.25,
+        56.6015625,
+        21.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(205, 121, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(205, 121, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 413.0078125,
+            "y": 687.25,
+            "width": 56.6015625,
+            "height": 21.5,
+            "top": 687.25,
+            "right": 469.609375,
+            "bottom": 708.75,
+            "left": 413.0078125
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 687.25,
+            "width": 233.609375,
+            "height": 21.5,
+            "top": 687.25,
+            "right": 469.609375,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 236,
+            "y": 615.25,
+            "width": 636.796875,
+            "height": 93.5,
+            "top": 615.25,
+            "right": 872.796875,
+            "bottom": 708.75,
+            "left": 236
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "16px"
+        }
+      ]
+    },
+    {
+      "test": "player-next",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "继续",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        909.9921875,
+        637,
+        150,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "20.4px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 909.9921875,
+            "y": 637,
+            "width": 150,
+            "height": 50,
+            "top": 637,
+            "right": 1059.9921875,
+            "bottom": 687,
+            "left": 909.9921875
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 592,
+            "width": 1000,
+            "height": 140,
+            "top": 592,
+            "right": 1100,
+            "bottom": 732,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "8px 16px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(255, 245, 211)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "drawer-backdrop",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        0,
+        0,
+        1200,
+        732
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0.4)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    }
+  ],
+  "screenshot": "speech-declined-with-text.png"
+}

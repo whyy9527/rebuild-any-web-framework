@@ -1,0 +1,422 @@
+{
+  "observed_at": "2026-10-11T05:24:55.711Z",
+  "path": "/lesson",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "snapshot": "- img\n- heading \"来向我们展示你的传奇实力吧\" [level=2]\n- text: 完成这个超硬核挑战，晋升到传奇等级！\n- link \"开始 +80 经验\":\n  - /url: /lesson/unit/1/legendary/2\n- button \"不，谢谢\"\n- button \"继续\"",
+  "text_runs": [
+    {
+      "text": "来向我们展示你的传奇实力吧",
+      "tag": "H2",
+      "test": null,
+      "rect": [
+        444,
+        414.75,
+        312,
+        28
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "36px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "完成这个超硬核挑战，晋升到传奇等级！",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        447,
+        474.25,
+        306,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25.5px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "开始 +80 经验",
+      "tag": "A",
+      "test": "legendary-start-button",
+      "rect": [
+        551.625,
+        535,
+        96.7421875,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "22.5px",
+        "color": "rgb(174, 104, 2)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "不，谢谢",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        233.3984375,
+        653,
+        63.203125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "18px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "继续",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        919.1953125,
+        652,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "18px",
+        "color": "rgb(0, 4, 55)",
+        "letterSpacing": "0.8px"
+      }
+    }
+  ],
+  "text_run_limitations": [
+    "DOM text ranges and computed CSS are not OCR or actual fallback font resolution; clipped animation digits may still appear."
+  ],
+  "media": [
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/legendary/f0a2f6c85b97b56ec2b30d25b85a04c7.svg",
+      "source_kind": "url",
+      "rect": [
+        400,
+        10.75,
+        400,
+        400
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        442,
+        442
+      ]
+    }
+  ],
+  "visible": [
+    {
+      "test": null,
+      "tag": "H2",
+      "role": null,
+      "text": "来向我们展示你的传奇实力吧",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        420,
+        410.75,
+        360,
+        36
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(255, 255, 255)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "legendary-start-button",
+      "tag": "A",
+      "role": null,
+      "text": "开始 +80 经验",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        420,
+        521.25,
+        360,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "22.5px",
+        "color": "rgb(174, 104, 2)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "不，谢谢",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        140,
+        638,
+        250,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 593,
+            "width": 1000,
+            "height": 140,
+            "top": 593,
+            "right": 1100,
+            "bottom": 733,
+            "left": 100
+          },
+          "backgroundColor": "rgb(24, 24, 24)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "8px 16px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 732,
+            "top": 0,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(24, 24, 24)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "继续",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        810,
+        638,
+        250,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "color": "rgb(0, 4, 55)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 593,
+            "width": 1000,
+            "height": 140,
+            "top": 593,
+            "right": 1100,
+            "bottom": 733,
+            "left": 100
+          },
+          "backgroundColor": "rgb(24, 24, 24)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "8px 16px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 732,
+            "top": 0,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(24, 24, 24)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "drawer-backdrop",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        0,
+        0,
+        1200,
+        732
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0.4)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "IFRAME",
+      "role": "presentation",
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        1130,
+        658,
+        256,
+        60
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    }
+  ],
+  "screenshot": "projects/duolingo-web/evidence/english-eighth-integration-v1/source/legendary-offer.png"
+}

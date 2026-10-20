@@ -1,0 +1,221 @@
+{
+  "journeys": [
+    {
+      "id": "avatar-save",
+      "steps": [
+        {
+          "native_action": "nav-leaderboards"
+        },
+        {
+          "native_action": "leaderboard-guest-profile"
+        },
+        {
+          "native_action": "guest-profile-start",
+          "state": "profile-frontier-avatar-reloaded-checked",
+          "element_aliases": {
+            "profile-action-8": "avatar-back",
+            "profile-action-9": "avatar-skin-0",
+            "profile-action-10": "avatar-skin-1",
+            "profile-action-11": "avatar-skin-2",
+            "profile-action-12": "avatar-skin-3",
+            "profile-action-13": "avatar-skin-4",
+            "profile-action-14": "avatar-skin-5",
+            "profile-action-15": "avatar-skin-6",
+            "profile-action-16": "avatar-skin-7",
+            "profile-action-17": "avatar-skin-8",
+            "profile-action-18": "avatar-skin-9",
+            "profile-action-19": "avatar-skin-10",
+            "profile-action-20": "avatar-skin-11",
+            "profile-action-21": "avatar-skin-12",
+            "profile-action-22": "avatar-skin-13",
+            "profile-action-23": "avatar-skin-14",
+            "profile-action-24": "avatar-done"
+          }
+        },
+        {
+          "native_action": "avatar-skin-0",
+          "state": "avatar-native-skin-0"
+        },
+        {
+          "native_action": "avatar-skin-1",
+          "state": "avatar-native-skin-1"
+        },
+        {
+          "native_action": "avatar-skin-2",
+          "state": "avatar-native-skin-2"
+        },
+        {
+          "native_action": "avatar-skin-3",
+          "state": "avatar-native-skin-3"
+        },
+        {
+          "native_action": "avatar-skin-4",
+          "state": "avatar-native-skin-4"
+        },
+        {
+          "native_action": "avatar-skin-5",
+          "state": "avatar-native-skin-5"
+        },
+        {
+          "native_action": "avatar-skin-6",
+          "state": "avatar-native-skin-6"
+        },
+        {
+          "native_action": "avatar-skin-7",
+          "state": "avatar-native-skin-7"
+        },
+        {
+          "native_action": "avatar-skin-8",
+          "state": "avatar-native-skin-8"
+        },
+        {
+          "native_action": "avatar-skin-9",
+          "state": "avatar-native-skin-9"
+        },
+        {
+          "native_action": "avatar-skin-10",
+          "state": "avatar-native-skin-10"
+        },
+        {
+          "native_action": "avatar-skin-11",
+          "state": "avatar-native-skin-11"
+        },
+        {
+          "native_action": "avatar-skin-12",
+          "state": "avatar-native-skin-12"
+        },
+        {
+          "native_action": "avatar-skin-13",
+          "state": "avatar-native-skin-13"
+        },
+        {
+          "native_action": "avatar-skin-14",
+          "state": "avatar-native-skin-14"
+        },
+        {
+          "native_action": "avatar-skin-1",
+          "state": "profile-frontier-avatar-selected-checked",
+          "element_aliases": {
+            "profile-action-8": "avatar-back",
+            "profile-action-9": "avatar-skin-0",
+            "profile-action-10": "avatar-skin-1",
+            "profile-action-11": "avatar-skin-2",
+            "profile-action-12": "avatar-skin-3",
+            "profile-action-13": "avatar-skin-4",
+            "profile-action-14": "avatar-skin-5",
+            "profile-action-15": "avatar-skin-6",
+            "profile-action-16": "avatar-skin-7",
+            "profile-action-17": "avatar-skin-8",
+            "profile-action-18": "avatar-skin-9",
+            "profile-action-19": "avatar-skin-10",
+            "profile-action-20": "avatar-skin-11",
+            "profile-action-21": "avatar-skin-12",
+            "profile-action-22": "avatar-skin-13",
+            "profile-action-23": "avatar-skin-14",
+            "profile-action-24": "avatar-done"
+          }
+        },
+        {
+          "native_action": "avatar-done",
+          "state": "avatar-save-saved",
+          "element_aliases": {
+            "profile-action-8": "avatar-back",
+            "profile-action-9": "avatar-skin-0",
+            "profile-action-10": "avatar-skin-1",
+            "profile-action-11": "avatar-skin-2",
+            "profile-action-12": "avatar-skin-3",
+            "profile-action-13": "avatar-skin-4",
+            "profile-action-14": "avatar-skin-5",
+            "profile-action-15": "avatar-skin-6",
+            "profile-action-16": "avatar-skin-7",
+            "profile-action-17": "avatar-skin-8",
+            "profile-action-18": "avatar-skin-9",
+            "profile-action-19": "avatar-skin-10",
+            "profile-action-20": "avatar-skin-11",
+            "profile-action-21": "avatar-skin-12",
+            "profile-action-22": "avatar-skin-13",
+            "profile-action-23": "avatar-skin-14",
+            "profile-action-24": "avatar-done",
+            "profile-action-25": "avatar-keep",
+            "profile-action-26": "avatar-discard"
+          }
+        },
+        {
+          "native_action": "avatar-keep"
+        },
+        {
+          "native_action": "nav-leaderboards",
+          "operation": "restart"
+        },
+        {
+          "native_action": "leaderboard-guest-profile"
+        },
+        {
+          "native_action": "guest-profile-avatar",
+          "state": "avatar-save-reloaded",
+          "element_aliases": {
+            "profile-action-8": "avatar-back",
+            "profile-action-9": "avatar-skin-0",
+            "profile-action-10": "avatar-skin-1",
+            "profile-action-11": "avatar-skin-2",
+            "profile-action-12": "avatar-skin-3",
+            "profile-action-13": "avatar-skin-4",
+            "profile-action-14": "avatar-skin-5",
+            "profile-action-15": "avatar-skin-6",
+            "profile-action-16": "avatar-skin-7",
+            "profile-action-17": "avatar-skin-8",
+            "profile-action-18": "avatar-skin-9",
+            "profile-action-19": "avatar-skin-10",
+            "profile-action-20": "avatar-skin-11",
+            "profile-action-21": "avatar-skin-12",
+            "profile-action-22": "avatar-skin-13",
+            "profile-action-23": "avatar-skin-14",
+            "profile-action-24": "avatar-done"
+          }
+        },
+        {
+          "native_action": "avatar-skin-0"
+        },
+        {
+          "native_action": "avatar-back",
+          "state": "avatar-save-back-confirm",
+          "element_aliases": {
+            "profile-action-8": "avatar-back",
+            "profile-action-9": "avatar-skin-0",
+            "profile-action-10": "avatar-skin-1",
+            "profile-action-11": "avatar-skin-2",
+            "profile-action-12": "avatar-skin-3",
+            "profile-action-13": "avatar-skin-4",
+            "profile-action-14": "avatar-skin-5",
+            "profile-action-15": "avatar-skin-6",
+            "profile-action-16": "avatar-skin-7",
+            "profile-action-17": "avatar-skin-8",
+            "profile-action-18": "avatar-skin-9",
+            "profile-action-19": "avatar-skin-10",
+            "profile-action-20": "avatar-skin-11",
+            "profile-action-21": "avatar-skin-12",
+            "profile-action-22": "avatar-skin-13",
+            "profile-action-23": "avatar-skin-14",
+            "profile-action-24": "avatar-done",
+            "profile-action-25": "avatar-keep",
+            "profile-action-26": "avatar-discard"
+          }
+        },
+        {
+          "native_action": "avatar-discard",
+          "state": "avatar-save-discarded",
+          "element_aliases": {
+            "profile-action-0": "guest-error-home",
+            "profile-action-1": "guest-error-twitter",
+            "profile-action-2": "guest-error-facebook"
+          }
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "15radio states captured but not all have source whole-page references",
+    "Actual browser beforeunload and other category options remain unimplemented",
+    "Canvas snapshot previews are not motion-equivalent original renderer"
+  ]
+}

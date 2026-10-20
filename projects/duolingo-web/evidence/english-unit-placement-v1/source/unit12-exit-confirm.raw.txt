@@ -1,0 +1,13 @@
+### Result
+"- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- radiogroup \"choice\":\n  - radio \"1 rainy\":\n    - text: 1 rainy\n    - img\n    - img\n  - radio \"2 quiet\":\n    - text: 2 quiet\n    - img\n    - img\n  - radio \"3 red\":\n    - text: 3 red\n    - img\n    - img\n- button \"检查\" [disabled]"
+### Ran Playwright code
+```js
+await (async page=>{await page.locator("[data-test=quit-button]").click();return await page.locator("body").ariaSnapshot();})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson/unit/12/test)
+### Page
+- Page URL: https://www.duolingo.com/lesson/unit/12/test
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 39 errors, 0 warnings

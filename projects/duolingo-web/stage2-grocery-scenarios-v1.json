@@ -1,0 +1,331 @@
+{
+  "journeys": [
+    {
+      "id": "observed-stage2-grocery-full-instance",
+      "steps": [
+        {
+          "native_action": "nav-learn",
+          "state": "grocery-home-before",
+          "element_aliases": {
+            "grocery-action-1": "nav-learn",
+            "grocery-action-12": "view-quests",
+            "grocery-action-23": "open-guide",
+            "grocery-action-25": "stage2-path-0"
+          }
+        },
+        {
+          "native_action": "stage2-path-0",
+          "state": "grocery-popover",
+          "element_aliases": {
+            "grocery-action-1": "nav-learn",
+            "grocery-action-12": "view-quests",
+            "grocery-action-23": "open-guide",
+            "grocery-action-25": "stage2-path-0"
+          }
+        },
+        {
+          "native_action": "stage2-lesson-confirm",
+          "state": "grocery-q0",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q0-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q1",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "option-0"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q1-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q2",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q2-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q3",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "option-0"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q3-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue",
+          "state": "grocery-speech",
+          "element_aliases": {
+            "grocery-action-2": "speech-record",
+            "grocery-action-3": "speech-decline"
+          }
+        },
+        {
+          "native_action": "speech-decline",
+          "state": "grocery-speech-declined",
+          "element_aliases": {
+            "grocery-action-2": "speech-record",
+            "grocery-action-6": "speech-continue"
+          }
+        },
+        {
+          "native_action": "speech-continue",
+          "state": "grocery-q5",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q5-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue",
+          "state": "grocery-encouragement-0",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "interlude-continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q6",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q6-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q7",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q7-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue",
+          "state": "grocery-encouragement-1",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "interlude-continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q8",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q8-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q9",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q9-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "continue",
+          "operation": "observe",
+          "state": "grocery-q10",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "check",
+          "state": "grocery-q10-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue",
+          "state": "grocery-result",
+          "element_aliases": {
+            "grocery-action-0": "settlement-secondary",
+            "grocery-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-secondary",
+          "state": "grocery-review",
+          "element_aliases": {
+            "grocery-action-0": "settlement-secondary",
+            "grocery-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "review-card-7",
+          "state": "grocery-review-fill",
+          "element_aliases": {
+            "grocery-action-0": "settlement-secondary",
+            "grocery-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "result-review-close"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "grocery-profile",
+          "element_aliases": {
+            "grocery-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "grocery-home-after",
+          "element_aliases": {
+            "grocery-action-1": "nav-learn",
+            "grocery-action-12": "view-leaderboards",
+            "grocery-action-13": "view-quests",
+            "grocery-action-24": "open-guide",
+            "grocery-action-26": "stage2-path-0"
+          }
+        },
+        {
+          "native_action": "nav-learn",
+          "operation": "restart",
+          "state": "grocery-home-restart",
+          "element_aliases": {}
+        }
+      ]
+    }
+  ]
+}

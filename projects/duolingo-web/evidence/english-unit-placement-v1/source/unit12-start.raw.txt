@@ -1,0 +1,6 @@
+### Result
+"- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"选择正确的答案\" [level=1]\n- text: 新\n- img\n- radiogroup \"choice\":\n  - radio \"1 new\":\n    - text: 1 new\n    - img\n    - img\n  - radio \"2 it's sunny\":\n    - text: 2 it's sunny\n    - img\n    - img\n  - radio \"3 cloudy\":\n    - text: 3 cloudy\n    - img\n    - img\n- button \"检查\" [disabled]"
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"立即开始",exact:true}).click();await page.getByRole("button",{name:"检查",exact:true}).waitFor();return await page.locator("body").ariaSnapshot();})(page);
+```

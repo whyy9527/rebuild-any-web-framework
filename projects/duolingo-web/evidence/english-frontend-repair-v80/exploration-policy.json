@@ -1,0 +1,15 @@
+{
+  "input_feedback": [
+    "projects/duolingo-web/evidence/english-unit12-lesson4-v1/exploration-feedback.json",
+    "projects/duolingo-web/evidence/english-frontend-repair-v80/mold-gaps.json"
+  ],
+  "decision": "Probe independently accessible prior-unit story entry before grinding fifth/sixth prerequisite lessons. The frontier explicitly lists story access; existing whole-image fixes do not reveal its interaction model.",
+  "source_start": "https://www.duolingo.com/learn; unit12 Lesson5of6;155gems5hearts",
+  "action": "Click first visible-role 小故事 in prior unit, capture actual popup; enter only via observed enabled action",
+  "expected_information": "Whether prior-unit story is independently reachable and whether its entry/controls add missing frontend consumers",
+  "unknowns": [
+    "Story contents and entry permission",
+    "Original downstream story transitions"
+  ],
+  "origin": "Main-agent feedback-guided policy before execution; no independent model worker, no causal RSI estimate"
+}

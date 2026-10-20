@@ -1,0 +1,13 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"coffee\"\n- button \"with\"\n- button \"hello\"\n- button \"milk\"\n- button \"跳过\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+  "types": "challenge challenge-translate",
+  "actions": [
+    "coffee",
+    "with",
+    "milk",
+    "检查",
+    "继续"
+  ],
+  "feedback": "- button:\n  - img\n- progressbar: 连对 13 题\n- img\n- text: \"4\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"coffee\" [disabled]\n- button \"with\" [disabled]\n- button \"hello\" [disabled]\n- button \"milk\" [disabled]\n- heading \"真厉害！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"coffee\" [disabled]\n- button \"with\" [disabled]\n- button \"milk\" [disabled]",
+  "after": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"Hello\"\n- button \"I'd\"\n- button \"more\"\n- button \"tea\"\n- button \"please\"\n- button \"thank you\"\n- button \"like\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"coffee\" [disabled]\n- button \"with\" [disabled]\n- button \"hello\" [disabled]\n- button \"milk\" [disabled]\n- button \"检查\" [disabled]\n- button \"coffee\" [disabled]\n- button \"with\" [disabled]\n- button \"milk\" [disabled]"
+}

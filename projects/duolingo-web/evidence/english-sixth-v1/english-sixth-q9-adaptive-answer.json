@@ -1,0 +1,27 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"一些\"\n- button \"咖啡\"\n- button \"加糖\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "text": "用中文（简体）写出这句话\ncoffee with sugar\n一些\n咖啡\n加糖",
+  "prompts": [
+    "coffee with sugar"
+  ],
+  "choices": [
+    "一些",
+    "咖啡",
+    "加糖"
+  ],
+  "images": [],
+  "clicks": [
+    {
+      "word": "咖啡",
+      "occurrence": 0
+    },
+    {
+      "word": "加糖",
+      "occurrence": 0
+    }
+  ],
+  "feedback": "- button:\n  - img\n- progressbar: 连对 9 题\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"一些\" [disabled]\n- button \"咖啡\" [disabled]\n- button \"加糖\" [disabled]\n- heading \"好棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"咖啡\" [disabled]\n- button \"加糖\" [disabled]",
+  "rejected": false,
+  "next_action": "Receipt saved before transition. Inspect acceptance then continue separately; no assumed next question.",
+  "observed_at": "2026-10-10T19:09:37.914Z"
+}

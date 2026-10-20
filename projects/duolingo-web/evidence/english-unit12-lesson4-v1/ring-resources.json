@@ -1,0 +1,17 @@
+{
+  "resources": [
+    {
+      "name": "en-unit12-ring-5",
+      "url": "https://www.duolingo.com/learn",
+      "kind": "home",
+      "source_file": "en-unit12-ring-5.svg",
+      "inline_svg": true,
+      "render_width": 98,
+      "render_height": 92.7080078125,
+      "sha256": "d0b97aedea9be79149cf588f0291f1b96e0faeffb7e350b3b73e4231f5991053",
+      "rendered_file": "en-unit12-ring-5.png",
+      "rendered_sha256": "ffe4f1185eeb54e44976dd7a6643fa0e8a675ad9d9126b6e09e0dc6df325c656"
+    }
+  ],
+  "render": "Original SVG, transparent at 3x; dimensions from optional render_width/render_height, otherwise legacy 180x180; optional background_position reproduces observed CSS sprite viewport; isolated context; native geometry still to verify"
+}

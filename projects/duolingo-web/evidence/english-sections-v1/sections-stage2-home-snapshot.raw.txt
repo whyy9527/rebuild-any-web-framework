@@ -1,0 +1,136 @@
+### Page
+- Page URL: https://www.duolingo.com/learn
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 146 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [ref=f64e1680]:
+  - generic [ref=f64e1681]:
+    - link [ref=f64e1683] [cursor=pointer]:
+      - /url: /learn
+    - generic [ref=f64e1685]:
+      - link "学习" [ref=f64e1687] [cursor=pointer]:
+        - /url: /learn
+      - link "发音" [ref=f64e1693] [cursor=pointer]:
+        - /url: /characters
+      - link "排行榜" [ref=f64e1699] [cursor=pointer]:
+        - /url: /leaderboard
+      - link "特别任务" [ref=f64e1705] [cursor=pointer]:
+        - /url: /quests
+      - link "宝石小店" [ref=f64e1711] [cursor=pointer]:
+        - /url: /shop
+      - link "个人档案" [ref=f64e1717] [cursor=pointer]:
+        - /url: /learn?sign-up
+      - button "更多" [ref=f64e1724]
+  - generic [ref=f64e1730]:
+    - generic [ref=f64e1732]:
+      - generic [ref=f64e1733]:
+        - button "10" [ref=f64e1735]
+        - button "2" [ref=f64e1740]
+        - button "530" [ref=f64e1745]
+        - button "5" [ref=f64e1749]
+      - generic [ref=f64e1753]:
+        - generic [ref=f64e1754]:
+          - heading "青铜等级" [level=2] [ref=f64e1755]
+          - link "查看排行榜" [ref=f64e1756] [cursor=pointer]:
+            - /url: /leaderboard
+        - generic [ref=f64e1757]: 学个单元就能上本周排行榜，跟其他小伙伴一决高低！
+      - generic [ref=f64e1761]:
+        - generic [ref=f64e1762]:
+          - heading "每日特别任务" [level=2] [ref=f64e1763]
+          - link "显示全部" [ref=f64e1764] [cursor=pointer]:
+            - /url: /quests
+        - generic [ref=f64e1768]:
+          - generic [ref=f64e1769]: 获取 50 经验
+          - progressbar [ref=f64e1771]:
+            - generic [ref=f64e1772]:
+              - generic [ref=f64e1773]: 50 / 50
+              - generic [ref=f64e1774]: 50 / 50
+      - generic [ref=f64e1780]:
+        - heading "创建个人档案，保存学习进度！" [level=2] [ref=f64e1781]
+        - button "创建档案" [ref=f64e1782] [cursor=pointer]
+        - button "登录" [ref=f64e1784] [cursor=pointer]
+      - list [ref=f64e1786]:
+        - listitem [ref=f64e1787]:
+          - link "关于我们" [ref=f64e1788] [cursor=pointer]:
+            - /url: https://about.duolingo.com
+        - listitem [ref=f64e1789]:
+          - link "宝石小店" [ref=f64e1790] [cursor=pointer]:
+            - /url: https://store.duolingo.com/
+        - listitem [ref=f64e1791]:
+          - link "有效性" [ref=f64e1792] [cursor=pointer]:
+            - /url: /efficacy
+        - listitem [ref=f64e1793]:
+          - link "招聘贤才" [ref=f64e1794] [cursor=pointer]:
+            - /url: https://careers.duolingo.com
+        - listitem [ref=f64e1795]:
+          - link "投资者" [ref=f64e1796] [cursor=pointer]:
+            - /url: https://investors.duolingo.com
+        - listitem [ref=f64e1797]:
+          - link "条款" [ref=f64e1798] [cursor=pointer]:
+            - /url: /terms
+        - listitem [ref=f64e1799]:
+          - link "隐私" [ref=f64e1800] [cursor=pointer]:
+            - /url: /privacy
+    - generic [ref=f64e1801]:
+      - generic [ref=f64e1804]:
+        - link [ref=f64e1805] [cursor=pointer]:
+          - /url: /sections
+          - heading "第 2 阶段，第 1 部分" [level=1] [ref=f64e1807]
+        - generic [ref=f64e1808]: 购买食品杂货
+        - link "打开这个部分的指南" [ref=f64e1809] [cursor=pointer]:
+          - /url: /guidebook/en/11
+          - img "指南" [ref=f64e1810]
+          - generic [ref=f64e1811]: 指南
+      - generic [ref=f64e1812]:
+        - generic [ref=f64e1815]:
+          - button [ref=f64e1930] [cursor=pointer]:
+            - generic [ref=f64e1931]:
+              - button "Lesson 1 of 5" [active] [ref=f64e1932]
+              - generic [ref=f64e1933]: 开始
+          - button [ref=f64e1938] [cursor=pointer]:
+            - button "小故事" [ref=f64e1940]
+          - button [ref=f64e1942] [cursor=pointer]:
+            - button "Lesson" [ref=f64e1944]
+          - button [ref=f64e1946] [cursor=pointer]:
+            - button "小故事" [ref=f64e1948]
+          - button [ref=f64e1950] [cursor=pointer]:
+            - button "Practice" [ref=f64e1952]
+          - button "宝箱" [disabled] [ref=f64e1954]
+          - button [ref=f64e1958] [cursor=pointer]:
+            - button "Practice" [ref=f64e1960]
+          - button [ref=f64e1962] [cursor=pointer]:
+            - button "复习该部分" [ref=f64e1964]
+        - generic [ref=f64e1965]:
+          - generic [ref=f64e1966]:
+            - separator [ref=f64e1967]
+            - heading "描述你的家居布局" [level=2] [ref=f64e1968]
+            - separator [ref=f64e1969]
+          - generic [ref=f64e1970]:
+            - link "跳到第 2 部分" [ref=f64e1975] [cursor=pointer]:
+              - /url: /lesson/unit/12/test
+              - generic [ref=f64e1976]: 跳级到这儿？
+            - button [ref=f64e1981] [cursor=pointer]:
+              - button "Lesson" [ref=f64e1983]
+            - button [ref=f64e1985] [cursor=pointer]:
+              - button "电台" [ref=f64e1987]
+            - button [ref=f64e1989] [cursor=pointer]:
+              - button "Practice" [ref=f64e1991]
+            - button "宝箱" [disabled] [ref=f64e1993]
+            - button [ref=f64e1997] [cursor=pointer]:
+              - button "电台" [ref=f64e1999]
+            - button [ref=f64e2001] [cursor=pointer]:
+              - button "Practice" [ref=f64e2003]
+            - button [ref=f64e2005] [cursor=pointer]:
+              - button "电台" [ref=f64e2007]
+            - button [ref=f64e2009] [cursor=pointer]:
+              - button "复习该部分" [ref=f64e2011]
+      - generic [ref=f64e2012]:
+        - generic [ref=f64e2013]:
+          - paragraph [ref=f64e2014]: 下一级
+          - heading "第 3 阶段" [level=2] [ref=f64e2016]
+          - paragraph [ref=f64e2017]: 学会更多日常会话所需的基本概念和常用语句
+        - button "跳级到这儿？" [ref=f64e2018] [cursor=pointer]
+```
+### Events
+- New console entries: artifacts/output/playwright/.playwright-cli/console-2026-10-11T13-00-34-180Z.log#L249-L250

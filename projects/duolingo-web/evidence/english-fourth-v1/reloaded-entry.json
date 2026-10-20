@@ -1,0 +1,4 @@
+{
+  "before": "- img\n- heading \"来复习一下这个等级，完成后有惊喜哦！\" [level=2]\n- button \"下次再说\"\n- button \"开始挑战 +20 经验\"",
+  "after": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 一起来复习一下之前你不太熟练的部分吧！\n- button \"继续\""
+}

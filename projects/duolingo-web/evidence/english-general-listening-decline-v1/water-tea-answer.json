@@ -1,0 +1,32 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"水\"\n- button \"和\"\n- button \"糖\"\n- button \"茶\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "text": "用中文（简体）写出这句话\nwater and tea\n水\n和\n糖\n茶",
+  "prompts": [
+    "water and tea"
+  ],
+  "choices": [
+    "水",
+    "和",
+    "糖",
+    "茶"
+  ],
+  "images": [],
+  "clicks": [
+    {
+      "word": "水",
+      "occurrence": 0
+    },
+    {
+      "word": "和",
+      "occurrence": 0
+    },
+    {
+      "word": "茶",
+      "occurrence": 0
+    }
+  ],
+  "feedback": "- button:\n  - img\n- progressbar: 连对 8 题\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"水\" [disabled]\n- button \"和\" [disabled]\n- button \"糖\" [disabled]\n- button \"茶\" [disabled]\n- heading \"真厉害！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"水\" [disabled]\n- button \"和\" [disabled]\n- button \"茶\" [disabled]",
+  "rejected": false,
+  "next_action": "Receipt saved before transition. Inspect acceptance then continue separately; no assumed next question.",
+  "observed_at": "2026-10-11T02:41:50.088Z"
+}

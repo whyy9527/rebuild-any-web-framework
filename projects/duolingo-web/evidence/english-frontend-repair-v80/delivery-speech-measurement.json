@@ -1,0 +1,43 @@
+{
+  "scope": "Original resource presence in actual owned-app output triggered inside recording",
+  "reference": {
+    "path": "projects/education-swift/Sources/LingoSeed/Resources/Reference/en-speech-a0c183247f825ac09f9e.mp3",
+    "sha256": "f04565baf0d76f88051a76c11193fc426986558e7029a607e9761090def42f32"
+  },
+  "recording": {
+    "path": "projects/duolingo-web/evidence/english-frontend-repair-v80/delivery/q12-original-speech.wav",
+    "sha256": "d21ac8f37255df06fa8f26e9a53091438d8333cdaa98ddf0fedf0869301d5e86"
+  },
+  "fit": {
+    "alignment_seconds": 0.1683125,
+    "normalized_correlation": 0.9997494012861611,
+    "fitted_gain": 0.9995656377275105,
+    "residual_rms": 0.0018682104486987016,
+    "reference_samples": 100224,
+    "recorded_samples": 202560
+  },
+  "owned_receipt": {
+    "duration_seconds": 4,
+    "excludes_current_process_audio": true,
+    "filter": "Only explicitly selected owned application/window",
+    "filter_mode": "application",
+    "frames": 202560,
+    "kind": "owned_application_audio_loopback",
+    "microphone": false,
+    "owned_pid": 55429,
+    "peak": 0.4564564824104309,
+    "rms": 0.04150903369806217,
+    "samples": 405120,
+    "ui_actions": [
+      {
+        "elapsed_seconds": 0.06834590435028076,
+        "id": "pronounce"
+      }
+    ]
+  },
+  "limitations": [
+    "Timing/gain fitted rather than calibrated",
+    "Source call/playing receipt is not acoustic capture",
+    "Not full sound equivalence and not RSI ablation"
+  ]
+}

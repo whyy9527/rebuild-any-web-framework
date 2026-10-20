@@ -1,0 +1,12 @@
+### Result
+"- link:\n  - /url: /learn\n  - img\n- link \"学习\":\n  - /url: /learn\n  - img\n  - text: 学习\n- link \"发音\":\n  - /url: /characters\n  - img\n  - text: 发音\n- link \"排行榜\":\n  - /url: /leaderboard\n  - img\n  - text: 排行榜\n- link \"特别任务\":\n  - /url: /quests\n  - img\n  - text: 特别任务\n- link \"宝石小店\":\n  - /url: /shop\n  - img\n  - text: 宝石小店\n- link \"个人档案\":\n  - /url: /learn?sign-up\n  - img\n  - text: 个人档案\n- button \"更多\":\n  - img\n  - text: 更多\n- img\n- button \"10\":\n  - img\n  - text: \"10\"\n- button \"1\":\n  - img\n  - text: \"1\"\n- button \"505\":\n  - img\n  - text: \"505\"\n- button \"5\":\n  - img\n  - text: \"5\"\n- heading \"青铜等级\" [level=2]\n- link \"查看排行榜\":\n  - /url: /leaderboard\n- img\n- text: 学个单元就能上本周排行榜，跟其他小伙伴一决高低！\n- heading \"每日特别任务\" [level=2]\n- link \"显示全部\":\n  - /url: /quests\n- img\n- text: 获取 10 经验\n- progressbar: 10 / 10 10 / 10\n- img\n- heading \"创建个人档案，保存学习进度！\" [level=2]\n- button \"创建档案\"\n- button \"登录\"\n- list:\n  - listitem:\n    - link \"关于我们\":\n      - /url: https://about.duolingo.com\n  - listitem:\n    - link \"宝石小店\":\n      - /url: https://store.duolingo.com/\n  - listitem:\n    - link \"有效性\":\n      - /url: /efficacy\n  - listitem:\n    - link \"招聘贤才\":\n      - /url: https://careers.duolingo.com\n  - listitem:\n    - link \"投资者\":\n      - /url: https://investors.duolingo.com\n  - listitem:\n    - link \"条款\":\n      - /url: /terms\n  - listitem:\n    - link \"隐私\":\n      - /url: /privacy\n- link \"返回\":\n  - /url: /learn\n- img\n- heading \"第 1 部分指南\" [level=2]\n- text: 来看看这一部分的语法点和重点语句吧！ 重点语句\n- button:\n  - img\n- text: 请问，这顶帽子多少钱？\n- button:\n  - img\n- text: 这件红色的衬衫在打折。\n- button:\n  - img\n- text: 我需要一件新夹克。\n- button:\n  - img\n- text: 哦，这家店很贵！\n- button:\n  - img\n- text: 这家店今天开门吗？"
+### Ran Playwright code
+```js
+await (async page=>{await page.locator("[data-test=hint-token][aria-label=hat]").click();return await page.locator("body").ariaSnapshot()})(page);
+```
+### Page
+- Page URL: https://www.duolingo.com/guidebook/en/11
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 45 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T17-34-43-881Z.log#L78

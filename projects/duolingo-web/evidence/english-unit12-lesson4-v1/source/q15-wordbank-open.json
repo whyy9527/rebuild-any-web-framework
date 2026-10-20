@@ -1,0 +1,3 @@
+{
+  "snapshot": "- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"in\"\n- button \"I'd like a\"\n- button \"living\"\n- button \"room\"\n- button \"Have\"\n- button \"a\"\n- button \"the\"\n- button \"seat\"\n- button \"跳过\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]"
+}

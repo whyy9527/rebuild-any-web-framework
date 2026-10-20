@@ -1,0 +1,1210 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-es-unit-1",
+      "title": "Order at a café",
+      "speechLanguage": "es",
+      "lessons": [
+        {
+          "id": "lesson-1",
+          "title": "Lesson 1 of 3",
+          "questions": [
+            {
+              "id": "l1-q1",
+              "kind": "choice",
+              "prompt": "Which one of these is “cat”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "papá"
+                },
+                {
+                  "id": "option-2",
+                  "text": "gato"
+                },
+                {
+                  "id": "option-3",
+                  "text": "agua"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "l1-q2",
+              "kind": "choice",
+              "prompt": "Which one of these is “dog”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "mamá"
+                },
+                {
+                  "id": "option-2",
+                  "text": "papá"
+                },
+                {
+                  "id": "option-3",
+                  "text": "perro"
+                }
+              ],
+              "answer": "option-3"
+            },
+            {
+              "id": "l1-q3",
+              "kind": "choice",
+              "prompt": "Which one of these is “water”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "perro"
+                },
+                {
+                  "id": "option-3",
+                  "text": "papá"
+                }
+              ],
+              "answer": "option-1"
+            },
+            {
+              "id": "l1-q4",
+              "kind": "choice",
+              "prompt": "Which one of these is “milk”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "leche"
+                },
+                {
+                  "id": "option-2",
+                  "text": "gato"
+                },
+                {
+                  "id": "option-3",
+                  "text": "perro"
+                }
+              ],
+              "answer": "option-1"
+            },
+            {
+              "id": "l1-q5",
+              "kind": "matching",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "water",
+                  "right": "agua"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "cat",
+                  "right": "gato"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "milk",
+                  "right": "leche"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "dog",
+                  "right": "perro"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "mom",
+                  "right": "mamá"
+                }
+              ],
+              "rightOrder": [
+                "pair-5",
+                "pair-4",
+                "pair-2",
+                "pair-1",
+                "pair-3"
+              ]
+            },
+            {
+              "id": "l1-q6",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "gato"
+                },
+                {
+                  "id": "option-3",
+                  "text": "perro"
+                }
+              ],
+              "answer": "option-3",
+              "hint": "dog"
+            },
+            {
+              "id": "l1-q7",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "perro"
+                },
+                {
+                  "id": "option-3",
+                  "text": "leche"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "water"
+            },
+            {
+              "id": "l1-q8",
+              "kind": "choice",
+              "prompt": "Which one of these is “mom”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "mamá"
+                },
+                {
+                  "id": "option-3",
+                  "text": "perro"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "l1-q9",
+              "kind": "choice",
+              "prompt": "Which one of these is “dad”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "gato"
+                },
+                {
+                  "id": "option-3",
+                  "text": "papá"
+                }
+              ],
+              "answer": "option-3"
+            },
+            {
+              "id": "l1-q10",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "mamá"
+                },
+                {
+                  "id": "option-2",
+                  "text": "leche"
+                },
+                {
+                  "id": "option-3",
+                  "text": "papá"
+                }
+              ],
+              "answer": "option-3",
+              "hint": "dad"
+            },
+            {
+              "id": "l1-q11",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "gato"
+                },
+                {
+                  "id": "option-3",
+                  "text": "perro"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "cat"
+            },
+            {
+              "id": "l1-q12",
+              "kind": "matching",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "mom",
+                  "right": "mamá"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "cat",
+                  "right": "gato"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "milk",
+                  "right": "leche"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "dog",
+                  "right": "perro"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "water",
+                  "right": "agua"
+                }
+              ],
+              "rightOrder": [
+                "pair-1",
+                "pair-3",
+                "pair-4",
+                "pair-5",
+                "pair-2"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lesson-2",
+          "title": "Lesson 2 of 3",
+          "questions": [
+            {
+              "id": "l2-q1",
+              "kind": "choice",
+              "prompt": "Which one of these is “book”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "agua"
+                },
+                {
+                  "id": "option-2",
+                  "text": "libro"
+                },
+                {
+                  "id": "option-3",
+                  "text": "perro"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "l2-q2",
+              "kind": "choice",
+              "prompt": "Which one of these is “house”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "gato"
+                },
+                {
+                  "id": "option-2",
+                  "text": "casa"
+                },
+                {
+                  "id": "option-3",
+                  "text": "libro"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "l2-q3",
+              "kind": "choice",
+              "prompt": "Which one of these is “suitcase”?",
+              "newWord": true,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "leche"
+                },
+                {
+                  "id": "option-2",
+                  "text": "libro"
+                },
+                {
+                  "id": "option-3",
+                  "text": "maleta"
+                }
+              ],
+              "answer": "option-3"
+            },
+            {
+              "id": "l2-q4",
+              "kind": "matching",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "dad",
+                  "right": "papá"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "house",
+                  "right": "casa"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "dog",
+                  "right": "perro"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "mom",
+                  "right": "mamá"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "book",
+                  "right": "libro"
+                }
+              ],
+              "rightOrder": [
+                "pair-3",
+                "pair-1",
+                "pair-4",
+                "pair-5",
+                "pair-2"
+              ]
+            },
+            {
+              "id": "l2-q5",
+              "kind": "matching",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "suitcase",
+                  "right": "maleta"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "milk",
+                  "right": "leche"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "water",
+                  "right": "agua"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "cat",
+                  "right": "gato"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "house",
+                  "right": "casa"
+                }
+              ],
+              "rightOrder": [
+                "pair-5",
+                "pair-3",
+                "pair-1",
+                "pair-4",
+                "pair-2"
+              ]
+            },
+            {
+              "id": "l2-q6",
+              "kind": "word_tiles",
+              "prompt": "Write this in English",
+              "newWord": true,
+              "explanation": "",
+              "hint": "mi maleta",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "suitcase"
+                },
+                {
+                  "id": "word-2",
+                  "text": "my"
+                },
+                {
+                  "id": "word-3",
+                  "text": "house"
+                },
+                {
+                  "id": "word-4",
+                  "text": "cat"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-1"
+              ]
+            },
+            {
+              "id": "l2-q7",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "libro"
+                },
+                {
+                  "id": "option-2",
+                  "text": "maleta"
+                },
+                {
+                  "id": "option-3",
+                  "text": "casa"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "suitcase"
+            },
+            {
+              "id": "l2-q8",
+              "kind": "word_tiles",
+              "prompt": "Write this in English",
+              "newWord": false,
+              "explanation": "",
+              "hint": "mi casa",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "my"
+                },
+                {
+                  "id": "word-2",
+                  "text": "dog"
+                },
+                {
+                  "id": "word-3",
+                  "text": "book"
+                },
+                {
+                  "id": "word-4",
+                  "text": "house"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-4"
+              ]
+            },
+            {
+              "id": "l2-q9",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "maleta"
+                },
+                {
+                  "id": "option-2",
+                  "text": "casa"
+                },
+                {
+                  "id": "option-3",
+                  "text": "libro"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "house"
+            },
+            {
+              "id": "l2-q10",
+              "kind": "word_tiles",
+              "prompt": "Write this in English",
+              "newWord": false,
+              "explanation": "",
+              "hint": "mi libro",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "my"
+                },
+                {
+                  "id": "word-2",
+                  "text": "cat"
+                },
+                {
+                  "id": "word-3",
+                  "text": "book"
+                },
+                {
+                  "id": "word-4",
+                  "text": "dog"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-3"
+              ]
+            },
+            {
+              "id": "l2-q11",
+              "kind": "choice",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "libro"
+                },
+                {
+                  "id": "option-2",
+                  "text": "perro"
+                },
+                {
+                  "id": "option-3",
+                  "text": "agua"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "book"
+            },
+            {
+              "id": "l2-q12",
+              "kind": "matching",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "my dad",
+                  "right": "mi papá"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "my house",
+                  "right": "mi casa"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "my mom",
+                  "right": "mi mamá"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "my cat",
+                  "right": "mi gato"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "my dog",
+                  "right": "mi perro"
+                }
+              ],
+              "rightOrder": [
+                "pair-3",
+                "pair-5",
+                "pair-1",
+                "pair-2",
+                "pair-4"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lesson-3",
+          "title": "Lesson 3 of 3",
+          "questions": [
+            {
+              "id": "l3-q1",
+              "prompt": "Which one of these is “green”?",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "maleta",
+                  "audioResource": "speech-0436381c9e1ceab7e6b5.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "verde",
+                  "audioResource": "speech-89130ad1cfa7198b126b.mp3"
+                },
+                {
+                  "id": "option-3",
+                  "text": "mamá",
+                  "audioResource": "speech-3037aef1458b31d2fa5f.mp3"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "l3-q2",
+              "prompt": "Which one of these is “blue”?",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "casa",
+                  "audioResource": "speech-d3d23254dfac9f374560.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "azul",
+                  "audioResource": "speech-832afd1f3a4217646866.mp3"
+                },
+                {
+                  "id": "option-3",
+                  "text": "papá",
+                  "audioResource": "speech-a4f01d4e876280af4b6a.mp3"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "l3-q3",
+              "prompt": "Write this in English",
+              "newWord": true,
+              "explanation": "",
+              "audioResource": "speech-5b08667e93c2260468a7.mp3",
+              "sourceLanguage": "es",
+              "kind": "word_tiles",
+              "hint": "Mi perro es grande.",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "is"
+                },
+                {
+                  "id": "word-2",
+                  "text": "big"
+                },
+                {
+                  "id": "word-3",
+                  "text": "blue"
+                },
+                {
+                  "id": "word-4",
+                  "text": "My"
+                },
+                {
+                  "id": "word-5",
+                  "text": "green"
+                },
+                {
+                  "id": "word-6",
+                  "text": "dog"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-6",
+                "word-1",
+                "word-2"
+              ]
+            },
+            {
+              "id": "l3-q4",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "azul"
+                },
+                {
+                  "id": "option-2",
+                  "text": "grande",
+                  "audioResource": "speech-551a4bea8e08c7a60f5f.mp3"
+                },
+                {
+                  "id": "option-3",
+                  "text": "verde"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "big"
+            },
+            {
+              "id": "l3-q5",
+              "prompt": "Write this in English",
+              "newWord": false,
+              "explanation": "",
+              "audioResource": "speech-ce82f50c079314e9e010.mp3",
+              "sourceLanguage": "es",
+              "kind": "word_tiles",
+              "hint": "Mi libro es verde.",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "My"
+                },
+                {
+                  "id": "word-2",
+                  "text": "is"
+                },
+                {
+                  "id": "word-3",
+                  "text": "book"
+                },
+                {
+                  "id": "word-4",
+                  "text": "green"
+                },
+                {
+                  "id": "word-5",
+                  "text": "blue"
+                },
+                {
+                  "id": "word-6",
+                  "text": "suitcase"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-3",
+                "word-2",
+                "word-4"
+              ]
+            },
+            {
+              "id": "l3-q6",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "verde",
+                  "audioResource": "speech-abc0cdf8418d798a1412.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "azul"
+                },
+                {
+                  "id": "option-3",
+                  "text": "grande"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "green"
+            },
+            {
+              "id": "l3-q7",
+              "prompt": "Write this in English",
+              "newWord": false,
+              "explanation": "",
+              "audioResource": "speech-336a91a5a4053e155142.mp3",
+              "sourceLanguage": "es",
+              "kind": "word_tiles",
+              "hint": "Mi maleta es azul.",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "blue"
+                },
+                {
+                  "id": "word-2",
+                  "text": "suitcase"
+                },
+                {
+                  "id": "word-3",
+                  "text": "My"
+                },
+                {
+                  "id": "word-4",
+                  "text": "book"
+                },
+                {
+                  "id": "word-5",
+                  "text": "big"
+                },
+                {
+                  "id": "word-6",
+                  "text": "is"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-2",
+                "word-6",
+                "word-1"
+              ]
+            },
+            {
+              "id": "l3-q8",
+              "prompt": "Write this in English",
+              "newWord": false,
+              "explanation": "",
+              "audioResource": "speech-74cb10e5936443a0f7d3.mp3",
+              "sourceLanguage": "es",
+              "kind": "word_tiles",
+              "hint": "Mi gato es azul.",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "My"
+                },
+                {
+                  "id": "word-2",
+                  "text": "dog"
+                },
+                {
+                  "id": "word-3",
+                  "text": "is"
+                },
+                {
+                  "id": "word-4",
+                  "text": "cat"
+                },
+                {
+                  "id": "word-5",
+                  "text": "blue"
+                },
+                {
+                  "id": "word-6",
+                  "text": "green"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-4",
+                "word-3",
+                "word-5"
+              ]
+            },
+            {
+              "id": "l3-q9",
+              "prompt": "Select the correct meaning",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-1",
+                  "text": "grande"
+                },
+                {
+                  "id": "option-2",
+                  "text": "azul",
+                  "audioResource": "speech-e62017f3bafea7551c2c.mp3"
+                },
+                {
+                  "id": "option-3",
+                  "text": "verde"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "blue"
+            },
+            {
+              "id": "l3-q10",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "matching",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "blue",
+                  "right": "azul",
+                  "audioResource": "speech-832afd1f3a4217646866.mp3"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "water",
+                  "right": "agua",
+                  "audioResource": "speech-85b63d7f291d584aed80.mp3"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "milk",
+                  "right": "leche",
+                  "audioResource": "speech-ec904984cb5e0dcdd20f.mp3"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "big",
+                  "right": "grande",
+                  "audioResource": "speech-2e5397181f7cdd83369a.mp3"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "mom",
+                  "right": "mamá",
+                  "audioResource": "speech-3037aef1458b31d2fa5f.mp3"
+                }
+              ],
+              "rightOrder": [
+                "pair-1",
+                "pair-4",
+                "pair-5",
+                "pair-2",
+                "pair-3"
+              ]
+            },
+            {
+              "id": "l3-q11",
+              "prompt": "Select the matching pairs",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "matching",
+              "pairs": [
+                {
+                  "id": "pair-1",
+                  "left": "book",
+                  "right": "libro",
+                  "audioResource": "speech-2941148e28487bd75299.mp3"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "dad",
+                  "right": "papá",
+                  "audioResource": "speech-3ec8687474f7486b907d.mp3"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "green",
+                  "right": "verde",
+                  "audioResource": "speech-89130ad1cfa7198b126b.mp3"
+                },
+                {
+                  "id": "pair-4",
+                  "left": "house",
+                  "right": "casa",
+                  "audioResource": "speech-d3d23254dfac9f374560.mp3"
+                },
+                {
+                  "id": "pair-5",
+                  "left": "suitcase",
+                  "right": "maleta",
+                  "audioResource": "speech-acefa2b9fb4a2889c47e.mp3"
+                }
+              ],
+              "rightOrder": [
+                "pair-3",
+                "pair-5",
+                "pair-4",
+                "pair-2",
+                "pair-1"
+              ]
+            },
+            {
+              "id": "l3-q12",
+              "prompt": "Write this in Spanish",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "hint": "My house is green.",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "casa",
+                  "audioResource": "speech-9f4ae4064c7bebd750a5.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "es",
+                  "audioResource": "speech-1e35d12d9ec79b8487f0.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "azul",
+                  "audioResource": "speech-8f223d8a9b5a87b661ea.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "verde",
+                  "audioResource": "speech-007bf052a508511dd5f1.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "Mi",
+                  "audioResource": "speech-f5b2a73389940e9c50b6.mp3"
+                },
+                {
+                  "id": "word-6",
+                  "text": "leche",
+                  "audioResource": "speech-53f211b3583420be8379.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-5",
+                "word-1",
+                "word-2",
+                "word-4"
+              ]
+            },
+            {
+              "id": "l3-q13",
+              "prompt": "Write this in Spanish",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "hint": "My cat is big.",
+              "words": [
+                {
+                  "id": "word-1",
+                  "text": "Mi",
+                  "audioResource": "speech-eabac45b80d9c0d90201.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "verde",
+                  "audioResource": "speech-a6c8c75f141e35b46d3a.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "grande",
+                  "audioResource": "speech-ed3e976bf2d4dae44ca5.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "es",
+                  "audioResource": "speech-336e1be328d20ac2e4a7.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "perro",
+                  "audioResource": "speech-098f1865bc7cc6828bd6.mp3"
+                },
+                {
+                  "id": "word-6",
+                  "text": "gato",
+                  "audioResource": "speech-009db0266fb1ce6e752f.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-6",
+                "word-4",
+                "word-3"
+              ]
+            }
+          ]
+        }
+      ],
+      "pathNodes": [
+        {
+          "kind": "lesson",
+          "lessonIDs": [
+            "lesson-1",
+            "lesson-2",
+            "lesson-3"
+          ]
+        },
+        {
+          "kind": "lesson",
+          "lessonIDs": []
+        },
+        {
+          "kind": "lesson",
+          "lessonIDs": []
+        },
+        {
+          "kind": "chest",
+          "lessonIDs": []
+        },
+        {
+          "kind": "practice",
+          "lessonIDs": []
+        },
+        {
+          "kind": "review",
+          "lessonIDs": []
+        }
+      ]
+    }
+  },
+  "initial_state": {
+    "screen": "course_entry",
+    "authenticated": false
+  },
+  "provenance": {
+    "evidence": [
+      "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+      "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json",
+      "projects/duolingo-web/evidence/exploration-v5/third-lesson.json"
+    ],
+    "source": "Actual first three lesson instances, third compiled from public session fields AND UI feedback/order",
+    "unknown": "Later path, randomized instances, interlude implementation, original cue output and full frontend fidelity remain open"
+  }
+}

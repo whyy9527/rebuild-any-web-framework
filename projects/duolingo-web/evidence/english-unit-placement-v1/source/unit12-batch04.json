@@ -1,0 +1,2758 @@
+{
+  "session": {
+    "source": "Current rendered challenges; no initial-session or future-sequence read",
+    "challenges": [
+      {
+        "index": 0,
+        "content": {
+          "choices": [
+            "rainy",
+            "quiet",
+            "red"
+          ],
+          "correctIndex": 2,
+          "displayTokens": [
+            {
+              "text": "I",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "like",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "that",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "red",
+              "isBlank": true
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "skirt",
+              "isBlank": false
+            },
+            {
+              "text": ".",
+              "isBlank": false
+            }
+          ],
+          "tokens": [
+            {
+              "value": "I",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/03dcc7c765191c0c781bd5fbde068294",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "like",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/bdfe58a83ad5785674582db852c027b9",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "that",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/328d13f1ed2d8037ca737937ea08542f",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "red",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/dc2f4afe29657b1232c40d160b84b775",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "skirt",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e9517e033e8467c3bcc83c30b392b2c7",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "solutionTranslation": "我喜欢那条红裙子。",
+          "type": "gapFill",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-gapFill",
+          "visible_text": "填空\nI like that \n skirt.\n1\nrainy\n2\nquiet\n3\nred",
+          "content": {
+            "choices": [
+              "rainy",
+              "quiet",
+              "red"
+            ],
+            "correctIndex": 2,
+            "displayTokens": [
+              {
+                "text": "I",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "like",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "that",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "red",
+                "isBlank": true
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "skirt",
+                "isBlank": false
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ],
+            "tokens": [
+              {
+                "value": "I",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/03dcc7c765191c0c781bd5fbde068294",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "like",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/bdfe58a83ad5785674582db852c027b9",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "that",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/328d13f1ed2d8037ca737937ea08542f",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "red",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/dc2f4afe29657b1232c40d160b84b775",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "skirt",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e9517e033e8467c3bcc83c30b392b2c7",
+                "hintTable": {}
+              },
+              {
+                "value": "."
+              }
+            ],
+            "solutionTranslation": "我喜欢那条红裙子。",
+            "type": "gapFill",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.tokens.8.hintTable.headers",
+            "challenge.0.tokens.8.hintTable.rows"
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "content": {
+          "choices": [
+            {
+              "text": "pet",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/9a9062dd236b1a94160bc4fe05392cb1"
+            },
+            {
+              "text": "doctor",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/7095c81c9df197bdd488f9b6936db2e2"
+            },
+            {
+              "text": "jacket",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/acaa32c94b01ceee276d12e970df6110"
+            },
+            {
+              "text": "house",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/18e7011a69eef0aaab24d5b09f8a481c"
+            }
+          ],
+          "correctIndices": [
+            2
+          ],
+          "displayTokens": [
+            {
+              "text": "How",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "much",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "is",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "that",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "green",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "jacket",
+              "isBlank": true
+            },
+            {
+              "text": "?",
+              "isBlank": false
+            }
+          ],
+          "tokens": [
+            {
+              "value": "How",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/6f39743e2f4082b793b449ad6a4c6a36",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "much",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/b87466718fd59d3098945c86f66123b6",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "is",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/8902328c60caccdb8ac7a1c7164f7937",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "that",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/328d13f1ed2d8037ca737937ea08542f",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "green",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/8eaee3b4122fecf257dcbc096ff77641",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "jacket",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/acaa32c94b01ceee276d12e970df6110",
+              "hintTable": {}
+            },
+            {
+              "value": "?"
+            }
+          ],
+          "solutionTranslation": "那件绿色的夹克多少钱？",
+          "image": {
+            "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/0075f3a87ea8defe9765b5e9c7f4884c"
+          },
+          "type": "tapComplete",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-tapComplete",
+          "visible_text": "填空\nHow much is that green \n?\npet\ndoctor\njacket\nhouse",
+          "content": {
+            "choices": [
+              {
+                "text": "pet",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/9a9062dd236b1a94160bc4fe05392cb1"
+              },
+              {
+                "text": "doctor",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/7095c81c9df197bdd488f9b6936db2e2"
+              },
+              {
+                "text": "jacket",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/acaa32c94b01ceee276d12e970df6110"
+              },
+              {
+                "text": "house",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/18e7011a69eef0aaab24d5b09f8a481c"
+              }
+            ],
+            "correctIndices": [
+              2
+            ],
+            "displayTokens": [
+              {
+                "text": "How",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "much",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "is",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "that",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "green",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "jacket",
+                "isBlank": true
+              },
+              {
+                "text": "?",
+                "isBlank": false
+              }
+            ],
+            "tokens": [
+              {
+                "value": "How",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/6f39743e2f4082b793b449ad6a4c6a36",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "much",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/b87466718fd59d3098945c86f66123b6",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "is",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/8902328c60caccdb8ac7a1c7164f7937",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "that",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/328d13f1ed2d8037ca737937ea08542f",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "green",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/8eaee3b4122fecf257dcbc096ff77641",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "jacket",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/acaa32c94b01ceee276d12e970df6110",
+                "hintTable": {}
+              },
+              {
+                "value": "?"
+              }
+            ],
+            "solutionTranslation": "那件绿色的夹克多少钱？",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/0075f3a87ea8defe9765b5e9c7f4884c"
+            },
+            "type": "tapComplete",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.tokens.8.hintTable.headers",
+            "challenge.0.tokens.8.hintTable.rows",
+            "challenge.0.tokens.10.hintTable.headers",
+            "challenge.0.tokens.10.hintTable.rows",
+            "challenge.0.image.pdf"
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "content": {
+          "choices": [
+            "park",
+            "hat",
+            "city"
+          ],
+          "correctIndex": 1,
+          "displayTokens": [
+            {
+              "text": "How",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "much",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "is",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "that",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "nice",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "hat",
+              "isBlank": true
+            },
+            {
+              "text": "?",
+              "isBlank": false
+            }
+          ],
+          "tokens": [
+            {
+              "value": "How",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/54e789325a01116bfeadc8a921d7b9cc",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "much",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/2927be897807a3787b1b4b617f9e24ce",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "is",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/ddf5b83189aedd4db5ce6ccb51faefe0",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "that",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/e2f41011ae32110ca7db517fc836130d",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "nice",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9a3bd7a66d7a2ca6a28eec2cfb462f08",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "hat",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/b848af2b0f7cc91ed2bdeb2f5fa7c937",
+              "hintTable": {}
+            },
+            {
+              "value": "?"
+            }
+          ],
+          "solutionTranslation": "那顶好看的帽子多少钱？",
+          "type": "gapFill",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-gapFill",
+          "visible_text": "填空\nHow much is that nice \n?\n1\npark\n2\nhat\n3\ncity",
+          "content": {
+            "choices": [
+              "park",
+              "hat",
+              "city"
+            ],
+            "correctIndex": 1,
+            "displayTokens": [
+              {
+                "text": "How",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "much",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "is",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "that",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "nice",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "hat",
+                "isBlank": true
+              },
+              {
+                "text": "?",
+                "isBlank": false
+              }
+            ],
+            "tokens": [
+              {
+                "value": "How",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/54e789325a01116bfeadc8a921d7b9cc",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "much",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/2927be897807a3787b1b4b617f9e24ce",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "is",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/ddf5b83189aedd4db5ce6ccb51faefe0",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "that",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/e2f41011ae32110ca7db517fc836130d",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "nice",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9a3bd7a66d7a2ca6a28eec2cfb462f08",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "hat",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/b848af2b0f7cc91ed2bdeb2f5fa7c937",
+                "hintTable": {}
+              },
+              {
+                "value": "?"
+              }
+            ],
+            "solutionTranslation": "那顶好看的帽子多少钱？",
+            "type": "gapFill",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.tokens.8.hintTable.headers",
+            "challenge.0.tokens.8.hintTable.rows",
+            "challenge.0.tokens.10.hintTable.headers",
+            "challenge.0.tokens.10.hintTable.rows"
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "content": {
+          "choices": [
+            {
+              "text": "brother",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/affe252d1f20d87b0572c9b01cc66cea"
+            },
+            {
+              "text": "museum",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/4b9e59ebef6fdc5c54a4f318655faf52"
+            },
+            {
+              "text": "sugar",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f874fb5e233c75cb93d9224d658d77ac"
+            },
+            {
+              "text": "scarf",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9da00db7019fe7e097b6d4b9775d176c"
+            }
+          ],
+          "correctIndices": [
+            3
+          ],
+          "displayTokens": [
+            {
+              "text": "This",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "scarf",
+              "isBlank": true
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "is",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "on",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "sale",
+              "isBlank": false
+            },
+            {
+              "text": ".",
+              "isBlank": false
+            }
+          ],
+          "tokens": [
+            {
+              "value": "This",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/8e1bf626d2fac8ae800db7e02e5fce12",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "scarf",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9da00db7019fe7e097b6d4b9775d176c",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "is",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/ddf5b83189aedd4db5ce6ccb51faefe0",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "on",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/01397f3081bb68814ed8980f545f80c4",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "sale",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/67ff9242610c91f354a9db179a4a04d4",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "solutionTranslation": "这条围巾在打折。",
+          "image": {
+            "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/271e88d79bc54ac73c80e4e8a64f5cdf"
+          },
+          "type": "tapComplete",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-tapComplete",
+          "visible_text": "填空\nThis \n is on sale.\nbrother\nmuseum\nsugar\nscarf",
+          "content": {
+            "choices": [
+              {
+                "text": "brother",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/affe252d1f20d87b0572c9b01cc66cea"
+              },
+              {
+                "text": "museum",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/4b9e59ebef6fdc5c54a4f318655faf52"
+              },
+              {
+                "text": "sugar",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f874fb5e233c75cb93d9224d658d77ac"
+              },
+              {
+                "text": "scarf",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9da00db7019fe7e097b6d4b9775d176c"
+              }
+            ],
+            "correctIndices": [
+              3
+            ],
+            "displayTokens": [
+              {
+                "text": "This",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "scarf",
+                "isBlank": true
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "is",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "on",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "sale",
+                "isBlank": false
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ],
+            "tokens": [
+              {
+                "value": "This",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/8e1bf626d2fac8ae800db7e02e5fce12",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "scarf",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9da00db7019fe7e097b6d4b9775d176c",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "is",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/ddf5b83189aedd4db5ce6ccb51faefe0",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "on",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/01397f3081bb68814ed8980f545f80c4",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "sale",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/67ff9242610c91f354a9db179a4a04d4",
+                "hintTable": {}
+              },
+              {
+                "value": "."
+              }
+            ],
+            "solutionTranslation": "这条围巾在打折。",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/271e88d79bc54ac73c80e4e8a64f5cdf"
+            },
+            "type": "tapComplete",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.tokens.8.hintTable.headers",
+            "challenge.0.tokens.8.hintTable.rows",
+            "challenge.0.image.pdf"
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "content": {
+          "prompt": "那条白裙子很不错。",
+          "correctSolutions": [
+            "That white skirt is nice."
+          ],
+          "correctTokens": [
+            "That",
+            "white",
+            "skirt",
+            "is",
+            "nice"
+          ],
+          "choices": [
+            {
+              "text": "That",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/8df8e9ef2f1d0114c3ccbcb5e839e80f"
+            },
+            {
+              "text": "white",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/10c070023b9c4fe55efa351d9318ca9d"
+            },
+            {
+              "text": "skirt",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/b9913edc00128e1a5dab03e6246ff55d"
+            },
+            {
+              "text": "is",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0136f736dc42861ffbdf9002a183f8a2"
+            },
+            {
+              "text": "nice",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/b6b6759d378b30b4cd547a25cc6c32bf"
+            },
+            {
+              "text": "with",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/eb3ef9d112c44d4050eca8a099976343"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "sourceLanguage": "zh",
+          "targetLanguage": "en",
+          "tokens": [
+            {
+              "value": "那条",
+              "hintTable": {}
+            },
+            {
+              "value": "白",
+              "hintTable": {}
+            },
+            {
+              "value": "裙子",
+              "hintTable": {}
+            },
+            {
+              "value": "很",
+              "hintTable": {}
+            },
+            {
+              "value": "不错",
+              "hintTable": {}
+            },
+            {
+              "value": "。"
+            }
+          ],
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f4adf80c0b6e9a0dc438f3ba8119703",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6d99bc8306bdaacc3c8acc911214c557"
+            },
+            "gender": "female",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_CORRECT_Cropped_HappyDance.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Pink_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_IDLE_Cropped.json",
+            "name": "ZARI",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/zari_avatar_icon.svg"
+            }
+          },
+          "type": "translate",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-translate",
+          "visible_text": "用英语写出这句话\n那条白裙子很不错。\nskirt\nis\nThat\nwhite\nnice\nwith",
+          "content": {
+            "prompt": "那条白裙子很不错。",
+            "correctSolutions": [
+              "That white skirt is nice."
+            ],
+            "correctTokens": [
+              "That",
+              "white",
+              "skirt",
+              "is",
+              "nice"
+            ],
+            "choices": [
+              {
+                "text": "That",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/8df8e9ef2f1d0114c3ccbcb5e839e80f"
+              },
+              {
+                "text": "white",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/10c070023b9c4fe55efa351d9318ca9d"
+              },
+              {
+                "text": "skirt",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/b9913edc00128e1a5dab03e6246ff55d"
+              },
+              {
+                "text": "is",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0136f736dc42861ffbdf9002a183f8a2"
+              },
+              {
+                "text": "nice",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/b6b6759d378b30b4cd547a25cc6c32bf"
+              },
+              {
+                "text": "with",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/eb3ef9d112c44d4050eca8a099976343"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
+            "sourceLanguage": "zh",
+            "targetLanguage": "en",
+            "tokens": [
+              {
+                "value": "那条",
+                "hintTable": {}
+              },
+              {
+                "value": "白",
+                "hintTable": {}
+              },
+              {
+                "value": "裙子",
+                "hintTable": {}
+              },
+              {
+                "value": "很",
+                "hintTable": {}
+              },
+              {
+                "value": "不错",
+                "hintTable": {}
+              },
+              {
+                "value": "。"
+              }
+            ],
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f4adf80c0b6e9a0dc438f3ba8119703",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6d99bc8306bdaacc3c8acc911214c557"
+              },
+              "gender": "female",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_CORRECT_Cropped_HappyDance.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Pink_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_IDLE_Cropped.json",
+              "name": "ZARI",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/zari_avatar_icon.svg"
+              }
+            },
+            "type": "translate",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.compactTranslations",
+            "challenge.0.wrongTokens",
+            "challenge.0.solutionTts",
+            "challenge.0.grader",
+            "challenge.0.speechContextTokens",
+            "challenge.0.taggedKcIds",
+            "challenge.0.challengeDisplaySettings",
+            "challenge.0.weakWordPromptRanges",
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.1.hintTable.headers",
+            "challenge.0.tokens.1.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.3.hintTable.headers",
+            "challenge.0.tokens.3.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "content": {
+          "prompt": "a new store",
+          "solutionTranslation": "一家新商店",
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/965a153cd28d6dfb59ec29f594a7a9e3",
+          "slowTts": "https://d1vq87e9lcf771.cloudfront.net/junioren/0ea302fa8ed9a02bab0b3ab41fc5720e",
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/244cf36bd8b473a3e76edfd4b917b9cb",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+            },
+            "gender": "MALE",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_CORRECT_Cropped.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_IDLE_Cropped.json",
+            "name": "JUNIOR",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/junior_avatar_icon.svg"
+            }
+          },
+          "type": "listen",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-listen",
+          "visible_text": "键入你听到的内容",
+          "content": {
+            "prompt": "a new store",
+            "solutionTranslation": "一家新商店",
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/965a153cd28d6dfb59ec29f594a7a9e3",
+            "slowTts": "https://d1vq87e9lcf771.cloudfront.net/junioren/0ea302fa8ed9a02bab0b3ab41fc5720e",
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/244cf36bd8b473a3e76edfd4b917b9cb",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+              },
+              "gender": "MALE",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_CORRECT_Cropped.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_IDLE_Cropped.json",
+              "name": "JUNIOR",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/junior_avatar_icon.svg"
+              }
+            },
+            "type": "listen",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.grader",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 7,
+        "content": {
+          "prompt": "这家餐厅关门了吗？",
+          "correctSolutions": [
+            "Is this restaurant closed?"
+          ],
+          "correctTokens": [
+            "Is",
+            "this",
+            "restaurant",
+            "closed"
+          ],
+          "choices": [
+            {
+              "text": "Is",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c770edcb6b7d3445579abb9eb66f56b2"
+            },
+            {
+              "text": "this",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/b8e99eead3f2a374b2a57ab05582f290"
+            },
+            {
+              "text": "restaurant",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/f27366d544f7dd4ab2bcfcbb36493233"
+            },
+            {
+              "text": "closed",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/775eba21d0296970d19cfdf76b4f81b3"
+            },
+            {
+              "text": "seat",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c22fb9d47d5278eb6c538437adb5ba6e"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "sourceLanguage": "zh",
+          "targetLanguage": "en",
+          "tokens": [
+            {
+              "value": "这家",
+              "hintTable": {}
+            },
+            {
+              "value": "餐厅",
+              "hintTable": {}
+            },
+            {
+              "value": "关门",
+              "hintTable": {}
+            },
+            {
+              "value": "了",
+              "hintTable": {}
+            },
+            {
+              "value": "吗",
+              "hintTable": {}
+            },
+            {
+              "value": "？"
+            }
+          ],
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f195e9533fc5e4f61a32eba3f03a8cf",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/85c5ecb885f7073a3aebeb775946e329"
+            },
+            "gender": "female",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Lin_CORRECT_Cropped_Sunglasses.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Kai_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lin_IDLE_Cropped.json",
+            "name": "LIN",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/lin_avatar_icon.svg"
+            }
+          },
+          "type": "translate",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-translate",
+          "visible_text": "用英语写出这句话\n这家餐厅关门了吗？\nseat\nclosed\nthis\nIs\nrestaurant",
+          "content": {
+            "prompt": "这家餐厅关门了吗？",
+            "correctSolutions": [
+              "Is this restaurant closed?"
+            ],
+            "correctTokens": [
+              "Is",
+              "this",
+              "restaurant",
+              "closed"
+            ],
+            "choices": [
+              {
+                "text": "Is",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c770edcb6b7d3445579abb9eb66f56b2"
+              },
+              {
+                "text": "this",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/b8e99eead3f2a374b2a57ab05582f290"
+              },
+              {
+                "text": "restaurant",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/f27366d544f7dd4ab2bcfcbb36493233"
+              },
+              {
+                "text": "closed",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/775eba21d0296970d19cfdf76b4f81b3"
+              },
+              {
+                "text": "seat",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c22fb9d47d5278eb6c538437adb5ba6e"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "sourceLanguage": "zh",
+            "targetLanguage": "en",
+            "tokens": [
+              {
+                "value": "这家",
+                "hintTable": {}
+              },
+              {
+                "value": "餐厅",
+                "hintTable": {}
+              },
+              {
+                "value": "关门",
+                "hintTable": {}
+              },
+              {
+                "value": "了",
+                "hintTable": {}
+              },
+              {
+                "value": "吗",
+                "hintTable": {}
+              },
+              {
+                "value": "？"
+              }
+            ],
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f195e9533fc5e4f61a32eba3f03a8cf",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/85c5ecb885f7073a3aebeb775946e329"
+              },
+              "gender": "female",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Lin_CORRECT_Cropped_Sunglasses.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Kai_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lin_IDLE_Cropped.json",
+              "name": "LIN",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/lin_avatar_icon.svg"
+              }
+            },
+            "type": "translate",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.compactTranslations",
+            "challenge.0.wrongTokens",
+            "challenge.0.solutionTts",
+            "challenge.0.grader",
+            "challenge.0.speechContextTokens",
+            "challenge.0.taggedKcIds",
+            "challenge.0.challengeDisplaySettings",
+            "challenge.0.weakWordPromptRanges",
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.1.hintTable.headers",
+            "challenge.0.tokens.1.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.3.hintTable.headers",
+            "challenge.0.tokens.3.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 8,
+        "content": {
+          "prompt": "That shirt is nice!",
+          "solutionTranslation": "那件衬衫很不错！",
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/7f39799073d8043701556309c3e03bde",
+          "slowTts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/46bdd84fbc6aa6151498c7acd9374513",
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f4adf80c0b6e9a0dc438f3ba8119703",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6d99bc8306bdaacc3c8acc911214c557"
+            },
+            "gender": "FEMALE",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_CORRECT_Cropped_Spin.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Pink_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_IDLE_Cropped.json",
+            "name": "ZARI",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/zari_avatar_icon.svg"
+            }
+          },
+          "type": "listen",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-listen",
+          "visible_text": "键入你听到的内容",
+          "content": {
+            "prompt": "That shirt is nice!",
+            "solutionTranslation": "那件衬衫很不错！",
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/7f39799073d8043701556309c3e03bde",
+            "slowTts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/46bdd84fbc6aa6151498c7acd9374513",
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f4adf80c0b6e9a0dc438f3ba8119703",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6d99bc8306bdaacc3c8acc911214c557"
+              },
+              "gender": "FEMALE",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_CORRECT_Cropped_Spin.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Pink_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_IDLE_Cropped.json",
+              "name": "ZARI",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/zari_avatar_icon.svg"
+              }
+            },
+            "type": "listen",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.grader",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 9,
+        "content": {
+          "prompt": "绿色",
+          "correctSolutions": [
+            "green"
+          ],
+          "type": "name",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-name",
+          "visible_text": "用英语写“绿色”",
+          "content": {
+            "prompt": "绿色",
+            "correctSolutions": [
+              "green"
+            ],
+            "type": "name",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.images",
+            "challenge.0.solutionTts",
+            "challenge.0.grader",
+            "challenge.0.svgs",
+            "challenge.0.pngUrl",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime"
+          ]
+        }
+      }
+    ]
+  },
+  "observed": [
+    {
+      "index": 0,
+      "actions": [
+        {
+          "select": "red"
+        }
+      ],
+      "type": "gapFill",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- radiogroup \"choice\":\n  - radio \"1 rainy\":\n    - text: 1 rainy\n    - img\n    - img\n  - radio \"2 quiet\":\n    - text: 2 quiet\n    - img\n    - img\n  - radio \"3 red\":\n    - text: 3 red\n    - img\n    - img\n- button \"检查\" [disabled]",
+      "heading": "填空",
+      "dom_type": "challenge challenge-gapFill",
+      "images": [],
+      "media_before": [],
+      "screenshot_before": "unit12-batch04-question-0-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "gapFill",
+          "prompt": null,
+          "choices": [
+            "rainy",
+            "quiet",
+            "red"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-gapFill",
+          "text": "填空\nI like that \n skirt.\n1\nrainy\n2\nquiet\n3\nred",
+          "choices": [
+            "rainy",
+            "quiet",
+            "red"
+          ],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "填空"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "1rainy"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "rainy"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "2quiet"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "quiet"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "3red"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "red"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- radiogroup \"choice\":\n  - radio \"1 rainy\" [disabled]:\n    - text: 1 rainy\n    - img\n    - img\n  - radio \"2 quiet\" [disabled]:\n    - text: 2 quiet\n    - img\n    - img\n  - radio \"3 red\" [checked] [disabled]:\n    - text: 3 red\n    - img\n    - img\n- heading \"真棒！\" [level=2]\n- text: 意思是： 我喜欢那条红裙子。\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [],
+      "screenshot_feedback": "unit12-batch04-question-0-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 1,
+      "actions": [
+        {
+          "word": "jacket",
+          "occurrence": 0,
+          "gap": 0
+        }
+      ],
+      "type": "tapComplete",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"pet\"\n- button \"doctor\"\n- button \"jacket\"\n- button \"house\"\n- button \"检查\" [disabled]",
+      "heading": "填空",
+      "dom_type": "challenge challenge-tapComplete",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://d2pur3iezf4d1j.cloudfront.net/images/0075f3a87ea8defe9765b5e9c7f4884c"
+        }
+      ],
+      "media_before": [
+        {
+          "src": "",
+          "at": 1748116.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 1748116.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 1748116.600000143,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 1748116.600000143,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "unit12-batch04-question-1-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "tapComplete",
+          "prompt": null,
+          "choices": [
+            "pet",
+            "doctor",
+            "jacket",
+            "house"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-tapComplete",
+          "text": "填空\nHow much is that green \n?\npet\ndoctor\njacket\nhouse",
+          "choices": [
+            "pet",
+            "doctor",
+            "jacket",
+            "house"
+          ],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "填空"
+        },
+        {
+          "test": "pet-challenge-tap-token",
+          "text": "pet"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "pet"
+        },
+        {
+          "test": "doctor-challenge-tap-token",
+          "text": "doctor"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "doctor"
+        },
+        {
+          "test": "jacket-challenge-tap-token",
+          "text": "jacket"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "jacket"
+        },
+        {
+          "test": "house-challenge-tap-token",
+          "text": "house"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "house"
+        },
+        {
+          "test": "word-bank",
+          "text": "petdoctorjackethouse"
+        },
+        {
+          "test": "pet-challenge-tap-token",
+          "text": "pet"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "pet"
+        },
+        {
+          "test": "doctor-challenge-tap-token",
+          "text": "doctor"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "doctor"
+        },
+        {
+          "test": "jacket-challenge-tap-token",
+          "text": "jacket"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "jacket"
+        },
+        {
+          "test": "house-challenge-tap-token",
+          "text": "house"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "house"
+        }
+      ],
+      "word_bank": [
+        "pet",
+        "doctor",
+        "jacket",
+        "house"
+      ],
+      "answer_before_check": "填空\nHow much is that green \n?\npet\ndoctor\njacket\nhouse",
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"pet\" [disabled]\n- button \"doctor\" [disabled]\n- button \"jacket\" [disabled]\n- button \"house\" [disabled]\n- heading \"真厉害！\" [level=2]\n- text: 意思是： 那件绿色的夹克多少钱？\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"jacket\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/acaa32c94b01ceee276d12e970df6110",
+          "at": 1748630.9000000954,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 1748665,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-1-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 3,
+      "actions": [
+        {
+          "select": "hat"
+        }
+      ],
+      "type": "gapFill",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- radiogroup \"choice\":\n  - radio \"1 park\":\n    - text: 1 park\n    - img\n    - img\n  - radio \"2 hat\":\n    - text: 2 hat\n    - img\n    - img\n  - radio \"3 city\":\n    - text: 3 city\n    - img\n    - img\n- img\n- text: 佩服！\n- button \"检查\" [disabled]",
+      "heading": "填空",
+      "dom_type": "challenge challenge-gapFill",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 1749239.4000000954,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "unit12-batch04-question-3-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "gapFill",
+          "prompt": null,
+          "choices": [
+            "park",
+            "hat",
+            "city"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-gapFill",
+          "text": "填空\nHow much is that nice \n?\n1\npark\n2\nhat\n3\ncity",
+          "choices": [
+            "park",
+            "hat",
+            "city"
+          ],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "填空"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "1park"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "park"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "2hat"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "hat"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "3city"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "city"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- radiogroup \"choice\":\n  - radio \"1 park\" [disabled]:\n    - text: 1 park\n    - img\n    - img\n  - radio \"2 hat\" [checked] [disabled]:\n    - text: 2 hat\n    - img\n    - img\n  - radio \"3 city\" [disabled]:\n    - text: 3 city\n    - img\n    - img\n- heading \"泰裤辣！\" [level=2]\n- text: 意思是： 那顶好看的帽子多少钱？\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [],
+      "screenshot_feedback": "unit12-batch04-question-3-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 4,
+      "actions": [
+        {
+          "word": "scarf",
+          "occurrence": 0,
+          "gap": 0
+        }
+      ],
+      "type": "tapComplete",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"brother\"\n- button \"museum\"\n- button \"sugar\"\n- button \"scarf\"\n- button \"检查\" [disabled]",
+      "heading": "填空",
+      "dom_type": "challenge challenge-tapComplete",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://d2pur3iezf4d1j.cloudfront.net/images/271e88d79bc54ac73c80e4e8a64f5cdf"
+        }
+      ],
+      "media_before": [
+        {
+          "src": "",
+          "at": 1749846.3000001907,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 1749846.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 1749846.5,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 1749846.5,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "unit12-batch04-question-4-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "tapComplete",
+          "prompt": null,
+          "choices": [
+            "brother",
+            "museum",
+            "sugar",
+            "scarf"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-tapComplete",
+          "text": "填空\nThis \n is on sale.\nbrother\nmuseum\nsugar\nscarf",
+          "choices": [
+            "brother",
+            "museum",
+            "sugar",
+            "scarf"
+          ],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "填空"
+        },
+        {
+          "test": "brother-challenge-tap-token",
+          "text": "brother"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "brother"
+        },
+        {
+          "test": "museum-challenge-tap-token",
+          "text": "museum"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "museum"
+        },
+        {
+          "test": "sugar-challenge-tap-token",
+          "text": "sugar"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "sugar"
+        },
+        {
+          "test": "scarf-challenge-tap-token",
+          "text": "scarf"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "scarf"
+        },
+        {
+          "test": "word-bank",
+          "text": "brothermuseumsugarscarf"
+        },
+        {
+          "test": "brother-challenge-tap-token",
+          "text": "brother"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "brother"
+        },
+        {
+          "test": "museum-challenge-tap-token",
+          "text": "museum"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "museum"
+        },
+        {
+          "test": "sugar-challenge-tap-token",
+          "text": "sugar"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "sugar"
+        },
+        {
+          "test": "scarf-challenge-tap-token",
+          "text": "scarf"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "scarf"
+        }
+      ],
+      "word_bank": [
+        "brother",
+        "museum",
+        "sugar",
+        "scarf"
+      ],
+      "answer_before_check": "填空\nThis \n is on sale.\nbrother\nmuseum\nsugar\nscarf",
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"brother\" [disabled]\n- button \"museum\" [disabled]\n- button \"sugar\" [disabled]\n- button \"scarf\" [disabled]\n- heading \"真棒！\" [level=2]\n- text: 意思是： 这条围巾在打折。\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"scarf\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/9da00db7019fe7e097b6d4b9775d176c",
+          "at": 1750381.8000001907,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-4-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 5,
+      "actions": [
+        {
+          "word": "That",
+          "occurrence": 0
+        },
+        {
+          "word": "white",
+          "occurrence": 0
+        },
+        {
+          "word": "skirt",
+          "occurrence": 0
+        },
+        {
+          "word": "is",
+          "occurrence": 0
+        },
+        {
+          "word": "nice",
+          "occurrence": 0
+        }
+      ],
+      "type": "translate",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"skirt\"\n- button \"is\"\n- button \"That\"\n- button \"white\"\n- button \"nice\"\n- button \"with\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+      "heading": "用英语写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [],
+      "screenshot_before": "unit12-batch04-question-5-before.png",
+      "canvases": [
+        {
+          "source_frame": "unit12-batch04-question-5-canvas-0.png",
+          "rect": {
+            "x": 291.72637939453125,
+            "y": 136.44033813476562,
+            "width": 135.70001220703125,
+            "height": 201.25
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "那条白裙子很不错。",
+          "choices": [
+            "That",
+            "white",
+            "skirt",
+            "is",
+            "nice",
+            "with"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "用英语写出这句话\n那条白裙子很不错。\nskirt\nis\nThat\nwhite\nnice\nwith",
+          "choices": [
+            "skirt",
+            "is",
+            "That",
+            "white",
+            "nice",
+            "with"
+          ],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用英语写出这句话"
+        },
+        {
+          "test": "word-bank",
+          "text": "skirtisThatwhitenicewith"
+        },
+        {
+          "test": "skirt-challenge-tap-token",
+          "text": "skirt"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "skirt"
+        },
+        {
+          "test": "is-challenge-tap-token",
+          "text": "is"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "is"
+        },
+        {
+          "test": "That-challenge-tap-token",
+          "text": "That"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "That"
+        },
+        {
+          "test": "white-challenge-tap-token",
+          "text": "white"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "white"
+        },
+        {
+          "test": "nice-challenge-tap-token",
+          "text": "nice"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "nice"
+        },
+        {
+          "test": "with-challenge-tap-token",
+          "text": "with"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "with"
+        }
+      ],
+      "word_bank": [
+        "skirt",
+        "is",
+        "That",
+        "white",
+        "nice",
+        "with"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"skirt\" [disabled]\n- button \"is\" [disabled]\n- button \"That\" [disabled]\n- button \"white\" [disabled]\n- button \"nice\" [disabled]\n- button \"with\" [disabled]\n- heading \"棒棒哒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"That\" [disabled]\n- button \"white\" [disabled]\n- button \"skirt\" [disabled]\n- button \"is\" [disabled]\n- button \"nice\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/8df8e9ef2f1d0114c3ccbcb5e839e80f",
+          "at": 1751081.8000001907,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/10c070023b9c4fe55efa351d9318ca9d",
+          "at": 1751115.2000000477,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/b9913edc00128e1a5dab03e6246ff55d",
+          "at": 1751148.4000000954,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0136f736dc42861ffbdf9002a183f8a2",
+          "at": 1751181.9000000954,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/b6b6759d378b30b4cd547a25cc6c32bf",
+          "at": 1751215.100000143,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-5-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 6,
+      "actions": [
+        {
+          "input": "a new store"
+        }
+      ],
+      "type": "listen",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"键入你听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- textbox \"使用英语键入\"\n- button \"现在不做听力题\"\n- button \"检查\" [disabled]",
+      "heading": "键入你听到的内容",
+      "dom_type": "challenge challenge-listen",
+      "images": [],
+      "media_before": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/965a153cd28d6dfb59ec29f594a7a9e3",
+          "at": 1751392.3000001907,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "unit12-batch04-question-6-before.png",
+      "canvases": [
+        {
+          "source_frame": "unit12-batch04-question-6-canvas-0.png",
+          "rect": {
+            "x": 281.647216796875,
+            "y": 108.89773559570312,
+            "width": 153.39999389648438,
+            "height": 227.49996948242188
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity_playback": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/965a153cd28d6dfb59ec29f594a7a9e3",
+          "at": 1751983.100000143,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "listen",
+          "prompt": "a new store",
+          "choices": []
+        },
+        "actual": {
+          "type": "challenge challenge-listen",
+          "text": "键入你听到的内容",
+          "choices": [],
+          "prompts": [],
+          "playedAudio": [
+            "https://d1vq87e9lcf771.cloudfront.net/junioren/965a153cd28d6dfb59ec29f594a7a9e3"
+          ],
+          "completionScaffold": null
+        },
+        "prompt_check": "exact source URL from current-question explicit playback; acoustic output not verified"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "键入你听到的内容"
+        },
+        {
+          "test": "challenge-translate-input",
+          "text": ""
+        }
+      ],
+      "text_input": {
+        "value": "a new store",
+        "label": "使用英语键入",
+        "rect": {
+          "x": 300,
+          "y": 336,
+          "width": 600,
+          "height": 170
+        }
+      },
+      "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"键入你听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- textbox \"使用英语键入\" [disabled]: a new store\n- heading \"正确！\" [level=2]\n- text: 意思是： 一家新商店\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/965a153cd28d6dfb59ec29f594a7a9e3",
+          "at": 1751983.100000143,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 1752055,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-6-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 7,
+      "actions": [
+        {
+          "word": "Is",
+          "occurrence": 0
+        },
+        {
+          "word": "this",
+          "occurrence": 0
+        },
+        {
+          "word": "restaurant",
+          "occurrence": 0
+        },
+        {
+          "word": "closed",
+          "occurrence": 0
+        }
+      ],
+      "type": "translate",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"seat\"\n- button \"closed\"\n- button \"this\"\n- button \"Is\"\n- button \"restaurant\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+      "heading": "用英语写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [],
+      "screenshot_before": "unit12-batch04-question-7-before.png",
+      "canvases": [
+        {
+          "source_frame": "unit12-batch04-question-7-canvas-0.png",
+          "rect": {
+            "x": 291.72637939453125,
+            "y": 136.44033813476562,
+            "width": 135.70001220703125,
+            "height": 201.25
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "这家餐厅关门了吗？",
+          "choices": [
+            "Is",
+            "this",
+            "restaurant",
+            "closed",
+            "seat"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "用英语写出这句话\n这家餐厅关门了吗？\nseat\nclosed\nthis\nIs\nrestaurant",
+          "choices": [
+            "seat",
+            "closed",
+            "this",
+            "Is",
+            "restaurant"
+          ],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用英语写出这句话"
+        },
+        {
+          "test": "word-bank",
+          "text": "seatclosedthisIsrestaurant"
+        },
+        {
+          "test": "seat-challenge-tap-token",
+          "text": "seat"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "seat"
+        },
+        {
+          "test": "closed-challenge-tap-token",
+          "text": "closed"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "closed"
+        },
+        {
+          "test": "this-challenge-tap-token",
+          "text": "this"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "this"
+        },
+        {
+          "test": "Is-challenge-tap-token",
+          "text": "Is"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "Is"
+        },
+        {
+          "test": "restaurant-challenge-tap-token",
+          "text": "restaurant"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "restaurant"
+        }
+      ],
+      "word_bank": [
+        "seat",
+        "closed",
+        "this",
+        "Is",
+        "restaurant"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"seat\" [disabled]\n- button \"closed\" [disabled]\n- button \"this\" [disabled]\n- button \"Is\" [disabled]\n- button \"restaurant\" [disabled]\n- heading \"泰裤辣！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"Is\" [disabled]\n- button \"this\" [disabled]\n- button \"restaurant\" [disabled]\n- button \"closed\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c770edcb6b7d3445579abb9eb66f56b2",
+          "at": 1752747.7000000477,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/b8e99eead3f2a374b2a57ab05582f290",
+          "at": 1752830.3000001907,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/f27366d544f7dd4ab2bcfcbb36493233",
+          "at": 1752863.9000000954,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/775eba21d0296970d19cfdf76b4f81b3",
+          "at": 1752897.100000143,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-7-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 8,
+      "actions": [
+        {
+          "input": "That shirt is nice!"
+        }
+      ],
+      "type": "listen",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"键入你听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- textbox \"使用英语键入\"\n- button \"现在不做听力题\"\n- button \"检查\" [disabled]",
+      "heading": "键入你听到的内容",
+      "dom_type": "challenge challenge-listen",
+      "images": [],
+      "media_before": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/7f39799073d8043701556309c3e03bde",
+          "at": 1753051,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "unit12-batch04-question-8-before.png",
+      "canvases": [
+        {
+          "source_frame": "unit12-batch04-question-8-canvas-0.png",
+          "rect": {
+            "x": 291.72637939453125,
+            "y": 136.44033813476562,
+            "width": 135.70001220703125,
+            "height": 201.25
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity_playback": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/7f39799073d8043701556309c3e03bde",
+          "at": 1753665.600000143,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "listen",
+          "prompt": "That shirt is nice!",
+          "choices": []
+        },
+        "actual": {
+          "type": "challenge challenge-listen",
+          "text": "键入你听到的内容",
+          "choices": [],
+          "prompts": [],
+          "playedAudio": [
+            "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/7f39799073d8043701556309c3e03bde"
+          ],
+          "completionScaffold": null
+        },
+        "prompt_check": "exact source URL from current-question explicit playback; acoustic output not verified"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "键入你听到的内容"
+        },
+        {
+          "test": "challenge-translate-input",
+          "text": ""
+        }
+      ],
+      "text_input": {
+        "value": "That shirt is nice!",
+        "label": "使用英语键入",
+        "rect": {
+          "x": 300,
+          "y": 336,
+          "width": 600,
+          "height": 170
+        }
+      },
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"键入你听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- textbox \"使用英语键入\" [disabled]: That shirt is nice!\n- heading \"真厉害！\" [level=2]\n- text: 意思是： 那件衬衫很不错！\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/7f39799073d8043701556309c3e03bde",
+          "at": 1753665.600000143,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 1753734,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-8-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 9,
+      "actions": [
+        {
+          "input": "green"
+        }
+      ],
+      "type": "name",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写“绿色”\" [level=1]\n- img\n- textbox \"使用英语键入\"\n- button \"检查\" [disabled]",
+      "heading": "用英语写“绿色”",
+      "dom_type": "challenge challenge-name",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://d2pur3iezf4d1j.cloudfront.net/images/c1fba0f6343b3c5392b4b556b40274fa"
+        }
+      ],
+      "media_before": [],
+      "screenshot_before": "unit12-batch04-question-9-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "name",
+          "prompt": "绿色",
+          "choices": []
+        },
+        "actual": {
+          "type": "challenge challenge-name",
+          "text": "用英语写“绿色”",
+          "choices": [],
+          "prompts": [],
+          "playedAudio": [],
+          "completionScaffold": null
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用英语写“绿色”"
+        },
+        {
+          "test": "challenge-text-input",
+          "text": ""
+        }
+      ],
+      "text_input": {
+        "value": "green",
+        "label": "使用英语键入",
+        "rect": {
+          "x": 504,
+          "y": 354,
+          "width": 396,
+          "height": 48
+        }
+      },
+      "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写“绿色”\" [level=1]\n- img\n- textbox \"使用英语键入\" [disabled]: green\n- heading \"你太棒了！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 1754365.100000143,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_feedback": "unit12-batch04-question-9-feedback.png",
+      "rejected": false
+    }
+  ],
+  "interludes": [
+    {
+      "index": 2,
+      "facts": {
+        "progress_count": 1,
+        "quit_count": 1,
+        "duo_count": 1,
+        "encouragement_messages": [
+          "佩服！"
+        ],
+        "review_entry_count": 0,
+        "review_entry_enabled": false,
+        "path": "/lesson/unit/12/test",
+        "challenge_count": 0,
+        "challenge_visible": false,
+        "heading_count": 0,
+        "dialog_count": 0,
+        "quit_confirmation_count": 0,
+        "next_text": "继续",
+        "continue_count": 1,
+        "continue_enabled": true,
+        "body_text": "佩服！\n继续"
+      },
+      "decision": {
+        "kind": "interlude",
+        "text": "佩服！"
+      },
+      "snapshot": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- text: 佩服！\n- button \"继续\"",
+      "screenshot": "unit12-batch04-interlude-2.png",
+      "action": "Actual observed introduction Continue"
+    }
+  ],
+  "failure": null,
+  "stopped": null,
+  "answered": 9,
+  "accepted": 9,
+  "step_budget": 10,
+  "steps_completed": 10,
+  "outcome": "current_steps_replayed",
+  "final": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写“绿色”\" [level=1]\n- img\n- textbox \"使用英语键入\" [disabled]: green\n- button \"继续\"",
+  "limitations": [
+    "Actual generated exercise observations; public solutions are not blind exploration evidence. Media invocations are not acoustic output evidence. Unknown result/profile pages are preserved without clicking Continue. Current-mode media_before contains only events since this invocation or the previous feedback; unrelated earlier history is not duplicated."
+  ],
+  "observed_at": "2026-10-11T19:30:17.548Z"
+}

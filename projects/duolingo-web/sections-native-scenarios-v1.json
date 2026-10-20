@@ -1,0 +1,53 @@
+{
+  "journeys": [
+    {
+      "id": "home-section-continue-and-back",
+      "steps": [
+        {
+          "native_action": "nav-learn",
+          "state": "profile-return-home",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "open-sections"
+          }
+        },
+        {
+          "native_action": "open-sections",
+          "state": "profile-return-sections",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "sections-return",
+            "return-action-24": "sections-continue"
+          }
+        },
+        {
+          "native_action": "sections-continue",
+          "state": "profile-return-home-return",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "open-sections"
+          }
+        },
+        {
+          "native_action": "open-sections"
+        },
+        {
+          "native_action": "sections-return"
+        },
+        {
+          "native_action": "open-sections",
+          "state": "profile-return-sections-return",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "sections-return",
+            "return-action-24": "sections-continue"
+          }
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Original source home/sections/return states from v62; exact old prepared progress",
+    "Placement interaction is separately explored; no same-first-question inference"
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "observed_at": "2026-10-11T05:22:29.606Z",
+  "path": "/lesson",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "snapshot": "- img\n- text: 5 离提升你的英语分数又近了一步！ 5\n- progressbar\n- text: \"6\"\n- button \"继续\"",
+  "text_runs": [
+    {
+      "text": "5",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        636.7734375,
+        260.5,
+        34.4453125,
+        82.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "70px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "离提升你的英语分数又近了一步！",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        390,
+        367.3046875,
+        420,
+        33
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "5",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        180,
+        431.3046875,
+        13.78125,
+        33
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "6",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        1005.859375,
+        431.3046875,
+        14.140625,
+        33
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "继续",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        969.1953125,
+        652,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "18px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "0.8px"
+      }
+    }
+  ],
+  "text_run_limitations": [
+    "DOM text ranges and computed CSS are not OCR or actual fallback font resolution; clipped animation digits may still appear."
+  ],
+  "media": [
+    {
+      "tag": "CANVAS",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        0,
+        0,
+        1200,
+        732
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        1200,
+        732
+      ]
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg viewBox=\"0 0 82 66\" data-test=\"flag-en\" style=\"height: 67.6098px; width: 84px;\"><image height=\"3234\" href=\"https://d35aaqx5ub95lt.cloudfront.net/vendor/40d2caf9c6f7cc01b0f71e9e1e56fb5e.svg\" width=\"82\" xlink:href=\"https://d35aaqx5ub95lt.cloudfront.net/vendor/40d2caf9c6f7cc01b0f71e9e1e56fb5e.svg\"></image></svg>",
+      "alt": null,
+      "test": "flag-en",
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        528.7734375,
+        268.1953125,
+        84,
+        67.609375
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    }
+  ],
+  "visible": [
+    {
+      "test": "drawer-backdrop",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        0,
+        0,
+        1200,
+        732
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0.4)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-en",
+      "tag": "svg",
+      "role": null,
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        528.7734375,
+        268.1953125,
+        84,
+        67.609375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "DIV",
+      "role": "progressbar",
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        209.78125,
+        439.8046875,
+        780.078125,
+        16
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "继续",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        910,
+        638,
+        150,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 638,
+            "width": 1000,
+            "height": 50,
+            "top": 638,
+            "right": 1100,
+            "bottom": 688,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 732,
+            "top": 0,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "IFRAME",
+      "role": "presentation",
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        1130,
+        658,
+        256,
+        60
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    }
+  ],
+  "screenshot": "projects/duolingo-web/evidence/english-eighth-integration-v1/source/score-progress.png"
+}

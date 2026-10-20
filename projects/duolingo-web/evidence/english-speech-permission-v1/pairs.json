@@ -1,0 +1,45 @@
+{
+  "trajectory": "Original first pronunciation practice initial states, matching before/after acceptance; second source practice archived separately, not substituted as same question state",
+  "pairs": [
+    {
+      "stage": "q0-before",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/q0-before.png",
+      "native": "pronunciation-p0-before.png"
+    },
+    {
+      "stage": "q0-feedback",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/q0-feedback.png",
+      "native": "pronunciation-p0-feedback.png"
+    },
+    {
+      "stage": "q5-before",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/walk03/q5-before.png",
+      "native": "pronunciation-p5-before.png"
+    },
+    {
+      "stage": "q5-feedback",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/walk03/q5-feedback.png",
+      "native": "pronunciation-p5-feedback.png"
+    },
+    {
+      "stage": "matching-before",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/q11-match-before.png",
+      "native": "pronunciation-p11-before.png"
+    },
+    {
+      "stage": "matching-feedback",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/q11-feedback.png",
+      "native": "pronunciation-p11-feedback.png"
+    },
+    {
+      "stage": "speech-before",
+      "source": "projects/duolingo-web/evidence/english-pronunciation-practice-v1/q10-before.png",
+      "native": "practice-speech-before.png"
+    }
+  ],
+  "limitations": [
+    "Source completion included an explorer lookup failure and extra corrections; it is not the same full completion trajectory as the candidate. These pairs are initial question states only.",
+    "ICC conversion, titlebar crop,2x downsample; no masks or acceptance tolerance",
+    "Denied modal source is third tell; native is first got, so no whole-image same-state denial pair."
+  ]
+}

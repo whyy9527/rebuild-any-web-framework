@@ -1,0 +1,107 @@
+[
+  {
+    "name": "en-sections-a80b5c3b559474ff",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/967439e82332b81d93d4a8c0fa39f9e4.svg",
+    "kind": "image",
+    "source_file": "en-sections-a80b5c3b559474ff.svg",
+    "render_width": 16,
+    "render_height": 17
+  },
+  {
+    "name": "en-sections-3b6bcd3a16ee9a92",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/1d3a466bb6555f814720c954eaad8e3e.svg",
+    "kind": "image",
+    "source_file": "en-sections-3b6bcd3a16ee9a92.svg",
+    "render_width": 23,
+    "render_height": 24
+  },
+  {
+    "name": "en-sections-1ed6b0cb82dea3e0",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/7f2dfc9cc806971c2230c8f91b5b8bdd.svg",
+    "kind": "image",
+    "source_file": "en-sections-1ed6b0cb82dea3e0.svg",
+    "render_width": 111,
+    "render_height": 129
+  },
+  {
+    "name": "en-sections-inline-b378adc6ccf8ef7e",
+    "url": "https://www.duolingo.com/sections",
+    "kind": "image",
+    "source_file": "en-sections-inline-b378adc6ccf8ef7e.svg",
+    "render_width": 43,
+    "render_height": 36,
+    "source": "Actual original inline SVG from unlocked source card"
+  },
+  {
+    "name": "en-sections-3d3a6804a1b38a2f",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/8139a9e8b7e8c64aad5294897b95c010.svg",
+    "kind": "image",
+    "source_file": "en-sections-3d3a6804a1b38a2f.svg",
+    "render_width": 13,
+    "render_height": 16
+  },
+  {
+    "name": "en-sections-6e20a370446a529b",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/e711d4367a6f486e99fdaac46ed5a5f3.svg",
+    "kind": "image",
+    "source_file": "en-sections-6e20a370446a529b.svg",
+    "render_width": 20,
+    "render_height": 18
+  },
+  {
+    "name": "en-sections-5b67c9a77dd34656",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/3d544b217f0f66952b44b0caa5681fa2.svg",
+    "kind": "image",
+    "source_file": "en-sections-5b67c9a77dd34656.svg",
+    "render_width": 150,
+    "render_height": 171
+  },
+  {
+    "name": "en-sections-cad463e2dd4ea3c7",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/45a3c65a8dbd5f2eab7d98d7c732f449.svg",
+    "kind": "image",
+    "source_file": "en-sections-cad463e2dd4ea3c7.svg",
+    "render_width": 128,
+    "render_height": 136
+  },
+  {
+    "name": "en-sections-b91ee2c5f6533930",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/2caa8beaa5242118ba32b0aa79c10c03.svg",
+    "kind": "image",
+    "source_file": "en-sections-b91ee2c5f6533930.svg",
+    "render_width": 139,
+    "render_height": 146
+  },
+  {
+    "name": "en-sections-49fc409a3ba1762b",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/84513fc7eaf3242eefcc91065cd64d19.svg",
+    "kind": "image",
+    "source_file": "en-sections-49fc409a3ba1762b.svg",
+    "render_width": 126,
+    "render_height": 126
+  },
+  {
+    "name": "en-sections-c47e117db0825d3f",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/5310702cbc137af367f4847039426b7c.svg",
+    "kind": "image",
+    "source_file": "en-sections-c47e117db0825d3f.svg",
+    "render_width": 119,
+    "render_height": 95
+  },
+  {
+    "name": "en-sections-33c6c24ea1fa0bd7",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/b73daf15e4e5d58e93c293745a3304af.svg",
+    "kind": "image",
+    "source_file": "en-sections-33c6c24ea1fa0bd7.svg",
+    "render_width": 125,
+    "render_height": 98
+  },
+  {
+    "name": "en-sections-98ec86eefadd531a",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/pathSections/exampleSentences/50cda550d98bf95a129419ae4307e9d2.svg",
+    "kind": "image",
+    "source_file": "en-sections-98ec86eefadd531a.svg",
+    "render_width": 170,
+    "render_height": 200
+  }
+]

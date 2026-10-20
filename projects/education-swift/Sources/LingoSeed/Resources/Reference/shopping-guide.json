@@ -1,0 +1,452 @@
+{
+  "title": "第 1 部分指南",
+  "subtitle": "来看看这一部分的语法点和重点语句吧！",
+  "keyTitle": "重点语句",
+  "titleRect": [
+    138,
+    58.5078125,
+    146.125,
+    29.5
+  ],
+  "subtitleRect": [
+    138,
+    98.5078125,
+    304,
+    49.1015625
+  ],
+  "keyRect": [
+    0,
+    244.3828125,
+    68,
+    20
+  ],
+  "characterResource": "en-home-6e0b0b212152d43b1423",
+  "characterRect": [
+    0,
+    24,
+    105.9921875,
+    155.71875
+  ],
+  "backResource": "en-home-01861055002e12fdde59",
+  "dottedResource": "en-home-ab4a487351cc39bd9477",
+  "phrases": [
+    {
+      "id": "shopping-phrase-0",
+      "english": "Excuse me, how much is this hat?",
+      "translation": "请问，这顶帽子多少钱？",
+      "audioResource": "en-speech-319b788c89e69da2ec03.mp3",
+      "card": [
+        8,
+        276.546875,
+        311.5703125,
+        91
+      ],
+      "speaker": [
+        26,
+        295.046875,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        296.046875,
+        236.5703125,
+        20
+      ],
+      "translationRect": [
+        65,
+        325.546875,
+        236.5703125,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Excuse",
+          "rect": [
+            65,
+            296.046875,
+            49.8515625,
+            24
+          ]
+        },
+        {
+          "label": "me",
+          "rect": [
+            118.2578125,
+            296.046875,
+            22.2578125,
+            24
+          ]
+        },
+        {
+          "label": "how",
+          "rect": [
+            147.71875,
+            296.046875,
+            30.109375,
+            24
+          ]
+        },
+        {
+          "label": "much",
+          "rect": [
+            181.234375,
+            296.046875,
+            39.4609375,
+            24
+          ]
+        },
+        {
+          "label": "is",
+          "rect": [
+            224.1015625,
+            296.046875,
+            11.6796875,
+            24
+          ]
+        },
+        {
+          "label": "this",
+          "rect": [
+            239.1875,
+            296.046875,
+            26.7890625,
+            24
+          ]
+        },
+        {
+          "label": "hat",
+          "rect": [
+            269.3828125,
+            296.046875,
+            23.5,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shopping-phrase-1",
+      "english": "This red shirt is on sale.",
+      "translation": "这件红色的衬衫在打折。",
+      "audioResource": "en-speech-aebc62306533b0d46258.mp3",
+      "card": [
+        8,
+        388.875,
+        262,
+        91
+      ],
+      "speaker": [
+        26,
+        407.375,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        408.375,
+        164.8984375,
+        20
+      ],
+      "translationRect": [
+        65,
+        437.875,
+        187,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "This",
+          "rect": [
+            65,
+            408.375,
+            29.140625,
+            24
+          ]
+        },
+        {
+          "label": "red",
+          "rect": [
+            97.546875,
+            408.375,
+            23.25,
+            24
+          ]
+        },
+        {
+          "label": "shirt",
+          "rect": [
+            124.203125,
+            408.375,
+            32.7109375,
+            24
+          ]
+        },
+        {
+          "label": "is",
+          "rect": [
+            160.3203125,
+            408.375,
+            11.6796875,
+            24
+          ]
+        },
+        {
+          "label": "on",
+          "rect": [
+            175.40625,
+            408.375,
+            17.7265625,
+            24
+          ]
+        },
+        {
+          "label": "sale",
+          "rect": [
+            196.5390625,
+            408.375,
+            29.5625,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shopping-phrase-2",
+      "english": "I need a new jacket.",
+      "translation": "我需要一件新夹克。",
+      "audioResource": "en-speech-682b3384b64deb197f3e.mp3",
+      "card": [
+        8,
+        501.203125,
+        228,
+        91
+      ],
+      "speaker": [
+        26,
+        519.703125,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        520.703125,
+        138.3984375,
+        20
+      ],
+      "translationRect": [
+        65,
+        550.203125,
+        153,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "I",
+          "rect": [
+            65,
+            520.703125,
+            4.21875,
+            24
+          ]
+        },
+        {
+          "label": "need",
+          "rect": [
+            72.625,
+            520.703125,
+            35.046875,
+            24
+          ]
+        },
+        {
+          "label": "a",
+          "rect": [
+            111.078125,
+            520.703125,
+            8.609375,
+            24
+          ]
+        },
+        {
+          "label": "new",
+          "rect": [
+            123.09375,
+            520.703125,
+            29.8828125,
+            24
+          ]
+        },
+        {
+          "label": "jacket",
+          "rect": [
+            156.3828125,
+            520.703125,
+            43.21875,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shopping-phrase-3",
+      "english": "Oh, this store is expensive!",
+      "translation": "哦，这家店很贵！",
+      "audioResource": "en-speech-f3667c4be5f6666c590f.mp3",
+      "card": [
+        8,
+        613.53125,
+        262.109375,
+        91
+      ],
+      "speaker": [
+        26,
+        632.03125,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        633.03125,
+        187.109375,
+        20
+      ],
+      "translationRect": [
+        65,
+        662.53125,
+        187.109375,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Oh",
+          "rect": [
+            65,
+            633.03125,
+            19.3515625,
+            24
+          ]
+        },
+        {
+          "label": "this",
+          "rect": [
+            91.5546875,
+            633.03125,
+            26.7890625,
+            24
+          ]
+        },
+        {
+          "label": "store",
+          "rect": [
+            121.75,
+            633.03125,
+            36.703125,
+            24
+          ]
+        },
+        {
+          "label": "is",
+          "rect": [
+            161.859375,
+            633.03125,
+            11.6796875,
+            24
+          ]
+        },
+        {
+          "label": "expensive",
+          "rect": [
+            176.9453125,
+            633.03125,
+            71.015625,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shopping-phrase-4",
+      "english": "Is this store open today?",
+      "translation": "这家店今天开门吗？",
+      "audioResource": "en-speech-19e7200b766a285153a7.mp3",
+      "card": [
+        8,
+        725.859375,
+        248.1953125,
+        91
+      ],
+      "speaker": [
+        26,
+        744.359375,
+        29,
+        22
+      ],
+      "englishRect": [
+        65,
+        745.359375,
+        173.1953125,
+        20
+      ],
+      "translationRect": [
+        65,
+        774.859375,
+        173.1953125,
+        24
+      ],
+      "tokens": [
+        {
+          "label": "Is",
+          "rect": [
+            65,
+            745.359375,
+            11.9375,
+            24
+          ]
+        },
+        {
+          "label": "this",
+          "rect": [
+            80.34375,
+            745.359375,
+            26.7890625,
+            24
+          ]
+        },
+        {
+          "label": "store",
+          "rect": [
+            110.5390625,
+            745.359375,
+            36.703125,
+            24
+          ]
+        },
+        {
+          "label": "open",
+          "rect": [
+            150.6484375,
+            745.359375,
+            35.2734375,
+            24
+          ]
+        },
+        {
+          "label": "today",
+          "rect": [
+            189.328125,
+            745.359375,
+            40.1796875,
+            24
+          ]
+        }
+      ]
+    }
+  ],
+  "height": 896.859375,
+  "limits": [
+    "Source text is rendered per-letter aria-hidden; full sentences reconstructed only from actually rendered row innerText",
+    "Hat hover, click and Enter produced no visible popup; normal lexical hint outcome unknown",
+    "Original speaker JSON and five clicked clips retained; acoustic and animation equality unverified"
+  ]
+}

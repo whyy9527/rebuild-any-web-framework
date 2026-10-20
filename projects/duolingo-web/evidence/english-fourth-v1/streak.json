@@ -1,0 +1,5 @@
+{
+  "before": "- text: 连胜战绩 六\n- img\n- text: 日\n- img\n- text: 一 二 三 天天小练，连胜不断；一天不练，连胜不见！\n- button \"回顾本单元\"\n- button \"我可以！\"",
+  "after": "- img\n- heading \"到手一个经验宝！\" [level=2]\n- text: 恭喜你完成了这个等级！接下来 15 分钟里，做单元练习可得双倍经验！ 连胜战绩 六\n- img\n- text: 日\n- img\n- text: 一 二 三 天天小练，连胜不断；一天不练，连胜不见！\n- button \"回顾本单元\"\n- button \"继续\"",
+  "url": "https://www.duolingo.com/lesson"
+}

@@ -1,0 +1,204 @@
+{
+  "resources": [
+    {
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+      "kind": "feedback",
+      "name": "en-effect-086f72d3e2c92d602dfb",
+      "source_file": "en-effect-086f72d3e2c92d602dfb.mp3",
+      "sha256": "c509a5957af198939ae868c9cf17676d00927d400b7c721ea08d3f734c39301e"
+    },
+    {
+      "url": "https://d2pur3iezf4d1j.cloudfront.net/images/17365b1681ca5e80265a872931b30f8a",
+      "kind": "image",
+      "name": "en-image-439057677f40addc6cf5",
+      "source_file": "en-image-439057677f40addc6cf5.svg",
+      "sha256": "5d8e42c3f3a1d5a6eff06ad4143509fd435696b363dcef31cc52838df8755c2c",
+      "rendered_file": "en-image-439057677f40addc6cf5.png",
+      "rendered_sha256": "a8fec9ab8a4b6ed3826f6befce2e656eda649e361980f4a242ce0eec376a9375"
+    },
+    {
+      "url": "https://d2pur3iezf4d1j.cloudfront.net/images/49d9799b4ab7ac21619f565334e77e54",
+      "kind": "image",
+      "name": "en-image-4c91772c88c67ea88ed5",
+      "source_file": "en-image-4c91772c88c67ea88ed5.svg",
+      "sha256": "46aa819c92fabec3d05de10880e952664d9cdf5e2e0201653c520a8de5bfb461",
+      "rendered_file": "en-image-4c91772c88c67ea88ed5.png",
+      "rendered_sha256": "73398a92c57adb3089e81c1dfd98d646299df866f03883af4fb1ead361b35105"
+    },
+    {
+      "url": "https://d2pur3iezf4d1j.cloudfront.net/images/455da6423164770237e66f185dc5767c",
+      "kind": "image",
+      "name": "en-image-e4a14cac676c26294ba9",
+      "source_file": "en-image-e4a14cac676c26294ba9.svg",
+      "sha256": "d20a91c77f180a5d252ce91f9661df726154cbdc67878902beb1426f698c5ae2",
+      "rendered_file": "en-image-e4a14cac676c26294ba9.png",
+      "rendered_sha256": "354f1e0d64e47cddddf8da3191336093b3860648a3a4dee4d45ae0a70feb0cef"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/miranda/5fe6dee9663eb84b1079566b73aab7e4",
+      "kind": "speech",
+      "name": "en-speech-2f7f1bc0b78142f068a4",
+      "source_file": "en-speech-2f7f1bc0b78142f068a4.mp3",
+      "sha256": "0c854b2d2b2d6ef0022ebe27ac24580f2444ad024d5949d7bdfb432bb6bb245f"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/454fb8a2371645b68e7a14f77005ba4d",
+      "kind": "speech",
+      "name": "en-speech-42b0588e812423c0ead0",
+      "source_file": "en-speech-42b0588e812423c0ead0.mp3",
+      "sha256": "7a26443642ca12deb7f9c3362061441a69d649ad09d6174186e02448e1aea942"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/linen/75c0358673caff441dda160e3dc20797",
+      "kind": "speech",
+      "name": "en-speech-8850f209fac07a53a752",
+      "source_file": "en-speech-8850f209fac07a53a752.mp3",
+      "sha256": "939a5fae6abbdfabf6e756aecca1e5f775eb4308cfd397fe6a8490d44344e5e7"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/falstaffen/26c1f3e12f220522f530509d6df640d0",
+      "kind": "speech",
+      "name": "en-speech-1286669e5820cd172038",
+      "source_file": "en-speech-1286669e5820cd172038.mp3",
+      "sha256": "8b69d9d313333d0725577abbbae742a485580bf03eae4033c9b8fdc18b3a8099"
+    },
+    {
+      "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b2be3c2b9cc33a85213c4cd08573effc",
+      "kind": "image",
+      "name": "en-image-896c954320e21c68dc92",
+      "source_file": "en-image-896c954320e21c68dc92.svg",
+      "sha256": "f7ea25025fe38a47d4565c25d316dd7843644576c9114d3391ace9ac5d0dca92",
+      "rendered_file": "en-image-896c954320e21c68dc92.png",
+      "rendered_sha256": "15865e86b721c4584e9a5a628cc7517270c8f0f457ea786d7b387b49919bbe65"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/junioren/41bd00c90e8fda1c999a0e47d0b88724",
+      "kind": "speech",
+      "name": "en-speech-729ed80d5edbaf79fc02",
+      "source_file": "en-speech-729ed80d5edbaf79fc02.mp3",
+      "sha256": "fe71c44782794835f5bf644311c5193e965ddf977de59069221732981506ffff"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/junioren/eb4336616e4c71267bf1383b32252082",
+      "kind": "speech",
+      "name": "en-speech-64494ea868b00caf2635",
+      "source_file": "en-speech-64494ea868b00caf2635.mp3",
+      "sha256": "850e0caaf6980e78434bc6d70dc126dbd9de4e6424653a249b6984ad132a6f21"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/junioren/daed47f8ebfccf0c083a9692a2d618b7",
+      "kind": "speech",
+      "name": "en-speech-5ae1cabbcb4d18adf562",
+      "source_file": "en-speech-5ae1cabbcb4d18adf562.mp3",
+      "sha256": "70a87d6b716b054bbb63f0c8dd3874a12e385d63d378fa6276cad5914d0ccfa2"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/lilyen/8bbb2b6b10398a3c2b154db7a0ba725c",
+      "kind": "speech",
+      "name": "en-speech-770810449a7d1b5bbe77",
+      "source_file": "en-speech-770810449a7d1b5bbe77.mp3",
+      "sha256": "6e605b0ed494763a2752ba7fb2ba70fdb112639c89ebfce188a4fe1fff4c433b"
+    },
+    {
+      "url": "https://d2pur3iezf4d1j.cloudfront.net/images/f4639160abfb44c54829ebeb62c0542d",
+      "kind": "image",
+      "name": "en-image-0ada9bdf3a9dcb5f7798",
+      "source_file": "en-image-0ada9bdf3a9dcb5f7798.svg",
+      "sha256": "dcaf51f213517d1ad038660523d0f5ee458a6614948149cf59a39b2e138e91f7",
+      "rendered_file": "en-image-0ada9bdf3a9dcb5f7798.png",
+      "rendered_sha256": "09b97fb2779b269efbd33104d35c52513231fa88bcc8a89c477b06b76cb5ee49"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/b3b699be6d734d26d69f49237abedae7",
+      "kind": "speech",
+      "name": "en-speech-9d942f76f0db21b960ea",
+      "source_file": "en-speech-9d942f76f0db21b960ea.mp3",
+      "sha256": "a809ca783c987055b80fef0132e79bcbe33d3f454d42934625c8c7f618890a90"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/vikramen/805e595a00e34a72487cc4ba2068fc7f",
+      "kind": "speech",
+      "name": "en-speech-a0c183247f825ac09f9e",
+      "source_file": "en-speech-a0c183247f825ac09f9e.mp3",
+      "sha256": "f04565baf0d76f88051a76c11193fc426986558e7029a607e9761090def42f32"
+    },
+    {
+      "url": "https://d2pur3iezf4d1j.cloudfront.net/images/52a5a774c4de18f4a4e8c91d91788347",
+      "kind": "image",
+      "name": "en-image-19d527c8f3f0c4af501f",
+      "source_file": "en-image-19d527c8f3f0c4af501f.svg",
+      "sha256": "b0f0c74d1147b589337963e8f0eed7b65e1e8ff5e9c0424618ba43f271cdfded",
+      "rendered_file": "en-image-19d527c8f3f0c4af501f.png",
+      "rendered_sha256": "a59021211778a67f3e0e93cbf2c3818bd0830cdc80c51dc6fee68bfb031779c8"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/beaen/4d1c2c8418902c0a6e4460bc0eea6dd3",
+      "kind": "speech",
+      "name": "en-speech-849ad96d67790b8d45ff",
+      "source_file": "en-speech-849ad96d67790b8d45ff.mp3",
+      "sha256": "3cd4768c9825c7d28fec8157769338a7bbf508007b0d0328c8d4ab1c677db477"
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/3d675b5c83cab7b504cf0fa94ad91d3f",
+      "kind": "speech",
+      "name": "en-speech-41d3e620878d8a307e2f",
+      "source_file": "en-speech-41d3e620878d8a307e2f.mp3",
+      "sha256": "4c90585a05485ce165a047c9568970b4da3407af1a0633653f399ffeb49b393d"
+    },
+    {
+      "name": "en-unit12-lesson4-result-observed-frame",
+      "url": "https://www.duolingo.com/lesson",
+      "kind": "home",
+      "source_file": "en-unit12-lesson4-result-observed-frame.svg",
+      "inline_svg": true,
+      "render_width": 298.9140625,
+      "render_height": 317.25,
+      "sha256": "b428618d0211703270be0a7ff2a9d04322c0a6ed03e73232d638f2511162c6e5",
+      "rendered_file": "en-unit12-lesson4-result-observed-frame.png",
+      "rendered_sha256": "73ea27223b1040dbb99c47e792fe3458a49734274dbc5e1becd44462a6e1d512"
+    },
+    {
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/images/icons/f5358b2d4087a109790fc809eedc08c5.svg",
+      "kind": "home",
+      "name": "en-home-4473449cf456ad652fde",
+      "source_file": "en-home-4473449cf456ad652fde.svg",
+      "render_width": 18,
+      "render_height": 22.734375,
+      "sha256": "2111e4dbd82ab19a7c0b032ddf6381727ba816d3cfb2d3e10747f43eb30a5c74",
+      "rendered_file": "en-home-4473449cf456ad652fde.png",
+      "rendered_sha256": "c937bc806910afcf2035d279b7d3fc4d4a56696c518fe90bd8dd5863fcc5769d"
+    },
+    {
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/images/icons/9ace13520a375f5661415ff7d470f243.svg",
+      "kind": "home",
+      "name": "en-home-9120c55acdee00fba0bb",
+      "source_file": "en-home-9120c55acdee00fba0bb.svg",
+      "render_width": 28,
+      "render_height": 25,
+      "sha256": "2655f3fa4b787d00e1e3d73543e643982073289e5f60e9213e4be19e26983e11",
+      "rendered_file": "en-home-9120c55acdee00fba0bb.png",
+      "rendered_sha256": "26549e9c3e2d13dcd2274da16d90f6eff2e454ad9417563586cd747e72d92ff1"
+    },
+    {
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/images/achievements/04d9298940ed9ee06902f69dfca09717.svg",
+      "kind": "home",
+      "name": "en-home-db79c5328ce1f7fb9993",
+      "source_file": "en-home-db79c5328ce1f7fb9993.svg",
+      "render_width": 150,
+      "render_height": 186.75,
+      "wire_sha256": "36f720a0af0cf7cf9e2924f5906cd531c5297f0a85d07f9ca0562b18eaddc1af",
+      "content_encoding": "gzip",
+      "sha256": "b8e51d07657fc14a8a74ac77c9e8d4387b16b8b196e6f18adba2c7b6f18b25e5",
+      "rendered_file": "en-home-db79c5328ce1f7fb9993.png",
+      "rendered_sha256": "96d2f5ac69b0d9776778f5bde82cda965db55ca6b7e1bbe5cf5e5c4b67fd50ec"
+    },
+    {
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/sounds/2aae0ea735c8e9ed884107d6f0a09e35.mp3",
+      "kind": "feedback",
+      "name": "en-effect-12a1e12d8f2f9bc85536",
+      "source_file": "en-effect-12a1e12d8f2f9bc85536.mp3",
+      "sha256": "876e99f4e46e0068d777bb5e99f52422137f18305cc2871b4ea774a84e8a2d78"
+    }
+  ],
+  "render": "Original SVG, transparent at 3x; dimensions from optional render_width/render_height, otherwise legacy 180x180; optional background_position reproduces observed CSS sprite viewport; isolated context; native geometry still to verify"
+}

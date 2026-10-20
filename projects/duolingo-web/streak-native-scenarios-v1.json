@@ -1,0 +1,52 @@
+{
+  "journeys": [
+    {
+      "id": "streak-calendar",
+      "steps": [
+        {
+          "native_action": "stat-streak",
+          "operation": "hover",
+          "state": "streak-hover"
+        },
+        {
+          "native_action": "streak-details",
+          "operation": "pointer_click",
+          "state": "streak-calendar"
+        },
+        {
+          "native_action": "streak-calendar-heading",
+          "operation": "scroll",
+          "scroll_anchor": "streak-next",
+          "scroll_pixels": -700,
+          "state": "streak-bottom"
+        },
+        {
+          "native_action": "streak-close",
+          "operation": "pointer_click",
+          "state": "streak-return"
+        },
+        {
+          "native_action": "stat-streak",
+          "operation": "hover",
+          "state": "streak-hover-return"
+        },
+        {
+          "native_action": "streak-details",
+          "operation": "pointer_click",
+          "state": "streak-calendar-return"
+        },
+        {
+          "native_action": "streak-next",
+          "operation": "focus_key",
+          "key_code": 36,
+          "state": "streak-next"
+        },
+        {
+          "native_action": "streak-close",
+          "operation": "pointer_click",
+          "state": "streak-home"
+        }
+      ]
+    }
+  ]
+}

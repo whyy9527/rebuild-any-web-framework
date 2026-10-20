@@ -1,0 +1,68 @@
+{
+  "journeys": [
+    {
+      "id": "restored-stage2-outcome",
+      "steps": [
+        {
+          "native_action": "nav-learn",
+          "state": "stage2-home-after-restart",
+          "element_aliases": {
+            "stage2-action-1": "nav-learn",
+            "stage2-action-2": "nav-pronunciation",
+            "stage2-action-3": "nav-leaderboards",
+            "stage2-action-4": "nav-quests",
+            "stage2-action-5": "nav-shop",
+            "stage2-action-6": "nav-profile",
+            "stage2-action-7": "nav-more",
+            "stage2-action-12": "view-leaderboards",
+            "stage2-action-13": "view-quests",
+            "stage2-action-17": "nav-shop",
+            "stage2-action-23": "open-sections",
+            "stage2-action-24": "open-guide"
+          }
+        },
+        {
+          "native_action": "open-sections",
+          "state": "stage2-sections-after-restart",
+          "element_aliases": {
+            "stage2-action-1": "nav-learn",
+            "stage2-action-2": "nav-pronunciation",
+            "stage2-action-3": "nav-leaderboards",
+            "stage2-action-4": "nav-quests",
+            "stage2-action-5": "nav-shop",
+            "stage2-action-6": "nav-profile",
+            "stage2-action-7": "nav-more",
+            "stage2-action-12": "view-leaderboards",
+            "stage2-action-13": "view-quests",
+            "stage2-action-17": "nav-shop",
+            "stage2-action-23": "sections-return",
+            "stage2-action-24": "sections-review-1",
+            "stage2-action-25": "sections-continue-2"
+          }
+        },
+        {
+          "native_action": "sections-continue-2",
+          "state": "stage2-home-revisit",
+          "element_aliases": {
+            "stage2-action-1": "nav-learn",
+            "stage2-action-2": "nav-pronunciation",
+            "stage2-action-3": "nav-leaderboards",
+            "stage2-action-4": "nav-quests",
+            "stage2-action-5": "nav-shop",
+            "stage2-action-6": "nav-profile",
+            "stage2-action-7": "nav-more",
+            "stage2-action-12": "view-leaderboards",
+            "stage2-action-13": "view-quests",
+            "stage2-action-17": "nav-shop",
+            "stage2-action-23": "open-sections",
+            "stage2-action-24": "open-guide"
+          }
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Uses actually persisted placement result from full 43-state run",
+    "Stage2 path/content and daily progress reconciliation remain failures"
+  ]
+}

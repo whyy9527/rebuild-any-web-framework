@@ -1,0 +1,146 @@
+{
+  "journeys": [
+    {
+      "id": "saved-profile-return",
+      "steps": [
+        {
+          "native_action": "nav-leaderboards"
+        },
+        {
+          "native_action": "leaderboard-guest-profile",
+          "state": "profile-return-profile",
+          "element_aliases": {
+            "return-action-19": "guest-profile-edit",
+            "return-action-20": "guest-profile-avatar",
+            "return-action-21": "guest-profile-languages",
+            "return-action-22": "guest-profile-achievements",
+            "profile-avatar-canvas": "guest-profile-avatar-renderer"
+          }
+        },
+        {
+          "native_action": "guest-profile-languages",
+          "state": "profile-return-languages",
+          "element_aliases": {
+            "return-action-19": "guest-profile-edit",
+            "return-action-20": "guest-profile-avatar",
+            "return-action-21": "guest-profile-languages",
+            "return-action-22": "guest-profile-achievements",
+            "return-action-23": "guest-profile-language-en-zh",
+            "return-action-25": "guest-profile-languages-close",
+            "profile-avatar-canvas": "guest-profile-avatar-renderer"
+          }
+        },
+        {
+          "native_action": "guest-profile-languages",
+          "operation": "escape",
+          "state": "profile-return-languages-after-escape-visible",
+          "element_aliases": {
+            "return-action-19": "guest-profile-edit",
+            "return-action-20": "guest-profile-avatar",
+            "return-action-21": "guest-profile-languages",
+            "return-action-22": "guest-profile-achievements",
+            "return-action-23": "guest-profile-language-en-zh",
+            "return-action-25": "guest-profile-languages-close",
+            "profile-avatar-canvas": "guest-profile-avatar-renderer"
+          }
+        },
+        {
+          "native_action": "guest-profile-languages-close",
+          "state": "profile-return-languages-close-button",
+          "element_aliases": {
+            "return-action-19": "guest-profile-edit",
+            "return-action-20": "guest-profile-avatar",
+            "return-action-21": "guest-profile-languages",
+            "return-action-22": "guest-profile-achievements",
+            "profile-avatar-canvas": "guest-profile-avatar-renderer"
+          }
+        },
+        {
+          "native_action": "guest-profile-languages"
+        },
+        {
+          "native_action": "guest-profile-language-en-zh",
+          "state": "profile-return-enrollment-return",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "open-sections"
+          }
+        },
+        {
+          "native_action": "nav-leaderboards"
+        },
+        {
+          "native_action": "leaderboard-guest-profile"
+        },
+        {
+          "native_action": "guest-profile-edit",
+          "state": "profile-return-edit-from-pencil",
+          "element_aliases": {
+            "return-action-8": "avatar-back",
+            "return-action-9": "avatar-skin-0",
+            "return-action-10": "avatar-skin-1",
+            "return-action-11": "avatar-skin-2",
+            "return-action-12": "avatar-skin-3",
+            "return-action-13": "avatar-skin-4",
+            "return-action-14": "avatar-skin-5",
+            "return-action-15": "avatar-skin-6",
+            "return-action-16": "avatar-skin-7",
+            "return-action-17": "avatar-skin-8",
+            "return-action-18": "avatar-skin-9",
+            "return-action-19": "avatar-skin-10",
+            "return-action-20": "avatar-skin-11",
+            "return-action-21": "avatar-skin-12",
+            "return-action-22": "avatar-skin-13",
+            "return-action-23": "avatar-skin-14",
+            "return-action-24": "avatar-done"
+          }
+        },
+        {
+          "native_action": "avatar-back",
+          "state": "profile-return-clean-back",
+          "element_aliases": {
+            "return-action-0": "guest-error-home",
+            "return-action-1": "guest-error-twitter",
+            "return-action-2": "guest-error-facebook",
+            "return-action-3": "guest-error-logo"
+          }
+        },
+        {
+          "native_action": "guest-error-home",
+          "state": "profile-return-home-return",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "open-sections"
+          }
+        }
+      ]
+    },
+    {
+      "id": "home-section-entry",
+      "steps": [
+        {
+          "native_action": "nav-learn",
+          "state": "profile-return-home",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "open-sections"
+          }
+        },
+        {
+          "native_action": "open-sections",
+          "state": "profile-return-sections",
+          "element_aliases": {
+            "return-action-13": "guest-profile-achievements",
+            "return-action-23": "sections-return",
+            "return-action-24": "sections-continue"
+          }
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Prepared native preferences from prior actual save; source prepared by actual selections, not server reset",
+    "Stage2 intro/first question/return captured but not yet native-executed",
+    "Inventory is not executed coverage"
+  ]
+}

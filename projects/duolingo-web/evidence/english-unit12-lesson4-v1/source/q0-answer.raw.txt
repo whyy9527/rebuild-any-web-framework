@@ -1,0 +1,16 @@
+### Result
+{"chosen":[{"name":"food 1","test":"challenge-choice"}],"snapshot":"- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"5\"\n- img\n- text: 新单词\n- heading \"哪个是“食物”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"food 1\" [checked] [disabled]:\n    - text: food 1\n    - img\n    - img\n  - radio \"living room 2\" [disabled]:\n    - text: living room 2\n    - img\n    - img\n  - radio \"Japan 3\" [disabled]:\n    - text: Japan 3\n    - img\n    - img\n- heading \"太棒了！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"","played":[{"kind":"call","at":1791764073804,"src":"https://d1vq87e9lcf771.cloudfront.net/miranda/5fe6dee9663eb84b1079566b73aab7e4","volume":1,"muted":false},{"kind":"playing","at":1791764073804,"src":"https://d1vq87e9lcf771.cloudfront.net/miranda/5fe6dee9663eb84b1079566b73aab7e4","volume":1,"muted":false},{"kind":"call","at":1791764073854,"src":"https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3","volume":0.35,"muted":false},{"kind":"playing","at":1791764073854,"src":"https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3","volume":0.35,"muted":false}]}
+### Ran Playwright code
+```js
+await (async page=>{const b=page.getByRole("radio",{name:"food 1",exact:true});await b.click();await page.getByRole("button",{name:"检查",exact:true}).click();await page.waitForTimeout(350);return{chosen:[{name:"food 1",test:await b.getAttribute("data-test")}],snapshot:await page.locator("body").ariaSnapshot(),played:await page.evaluate(()=>window.__rebuildPlayed)}})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 2: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/guidebook/en/12)
+- 3: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/alphabets/en/pronunciation)
+- 4: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/learn)
+### Page
+- Page URL: https://www.duolingo.com/lesson
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 191 errors, 0 warnings

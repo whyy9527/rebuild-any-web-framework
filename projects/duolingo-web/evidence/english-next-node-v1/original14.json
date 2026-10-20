@@ -1,0 +1,8 @@
+{
+  "type": "challenge challenge-completeReverseTranslation",
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"2\"\n- heading \"输入所缺单词\" [level=1]\n- img\n- text: Hot tea or\n- textbox \"Hot tea or ?\"\n- text: \"?\"\n- button \"跳过\"\n- button \"加大难度\"\n- button \"检查\" [disabled]",
+  "text": "输入所缺单词\n热茶还是咖啡？\nHot tea or ?",
+  "input": "coffee",
+  "observed_at": "2026-10-10T17:19:00.621Z",
+  "feedback": "- button:\n  - img\n- progressbar: 连对 7 题\n- img\n- text: \"2\"\n- heading \"输入所缺单词\" [level=1]\n- img\n- text: Hot tea or\n- textbox \"Hot tea or ?\" [disabled]: coffee\n- text: \"?\"\n- heading \"真棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\""
+}

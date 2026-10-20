@@ -1,0 +1,47 @@
+{
+  "kind": "actual-pronunciation-practice-continuation",
+  "observed_at": "2026-10-10T22:14:56.015Z",
+  "start_question": 1,
+  "steps": [
+    {
+      "index": 1,
+      "before": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\":\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "labels": [
+        {
+          "label": "1\ngot",
+          "rect": [
+            300,
+            430,
+            296,
+            60
+          ]
+        },
+        {
+          "label": "2\nget",
+          "rect": [
+            604,
+            430,
+            296,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/vikramen/6bb86aef2c38535509b7d8fa8ca10dcd",
+          "at": 855431.7999999523
+        }
+      ],
+      "selected": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\"",
+      "feedback": "- button:\n  - img\n- progressbar:\n  - text: 连对 2 题\n  - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked] [disabled]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\" [disabled]:\n    - text: 2 get\n    - img\n    - img\n- heading \"这个有点难度，但你答对啦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "after_continue": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 deck\":\n    - text: 1 deck\n    - img\n    - img\n  - radio \"2 dock\":\n    - text: 2 dock\n    - img\n    - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked] [disabled]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\" [disabled]:\n    - text: 2 get\n    - img\n    - img\n- button \"检查\" [disabled]"
+    },
+    {
+      "index": 2,
+      "before": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 deck\":\n    - text: 1 deck\n    - img\n    - img\n  - radio \"2 dock\":\n    - text: 2 dock\n    - img\n    - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked] [disabled]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\" [disabled]:\n    - text: 2 get\n    - img\n    - img\n- button \"检查\" [disabled]",
+      "unhandled": "Observed state is not a two-choice question; preserve for next exploration"
+    }
+  ],
+  "failure": null,
+  "terminal": false
+}

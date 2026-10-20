@@ -1,0 +1,3516 @@
+{
+  "observed_at": "2026-10-12T00:17:37.541Z",
+  "path": "/lesson",
+  "configured_viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "viewport": {
+    "width": 1192,
+    "height": 705
+  },
+  "snapshot": "- button:\n  - img\n- progressbar:\n  - text: 连对 6 题\n  - img\n- img\n- text: \"5\"\n- heading \"填空\" [level=1]\n- img\n- button \"cat\" [disabled]\n- button \"street\" [disabled]\n- button \"house\" [disabled]\n- button \"cat\" [disabled]\n- button \"city\" [disabled]\n- heading \"棒棒哒！\" [level=2]\n- text: 意思是： 哦，你的猫在厨房里！\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "radio_groups": [],
+  "select_groups": [],
+  "scroll_regions": [],
+  "control_inventory": [
+    {
+      "index": 0,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "quit-button",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "",
+      "enabled": true,
+      "rect": [
+        96,
+        57,
+        18,
+        18
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 1,
+      "paint_visible": true,
+      "tag": "DIV",
+      "test": "hint-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "Oh",
+      "enabled": true,
+      "rect": [
+        500,
+        267.6640625,
+        21.625,
+        26.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 2,
+      "paint_visible": true,
+      "tag": "DIV",
+      "test": "hint-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "your",
+      "enabled": true,
+      "rect": [
+        529.5625,
+        267.6640625,
+        34.7734375,
+        26.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 3,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "cat-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "cat",
+      "enabled": false,
+      "rect": [
+        582.6484375,
+        253.578125,
+        60.8828125,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 4,
+      "paint_visible": true,
+      "tag": "DIV",
+      "test": "hint-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "is",
+      "enabled": true,
+      "rect": [
+        661.84375,
+        267.6640625,
+        13.0625,
+        26.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 5,
+      "paint_visible": true,
+      "tag": "DIV",
+      "test": "hint-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "in",
+      "enabled": true,
+      "rect": [
+        678.7109375,
+        267.6640625,
+        14.484375,
+        26.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 6,
+      "paint_visible": true,
+      "tag": "DIV",
+      "test": "hint-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "the",
+      "enabled": true,
+      "rect": [
+        697,
+        267.6640625,
+        26.3828125,
+        26.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 7,
+      "paint_visible": true,
+      "tag": "DIV",
+      "test": "hint-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "kitchen",
+      "enabled": true,
+      "rect": [
+        727.1875,
+        267.6640625,
+        58.734375,
+        26.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 8,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "street-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "street",
+      "enabled": false,
+      "rect": [
+        437.46875,
+        459.578125,
+        83.640625,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 9,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "house-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "house",
+      "enabled": false,
+      "rect": [
+        529.109375,
+        459.578125,
+        83.8984375,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 10,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "cat-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "cat",
+      "enabled": false,
+      "rect": [
+        621.0078125,
+        461.578125,
+        60.8828125,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 11,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "city-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "city",
+      "enabled": false,
+      "rect": [
+        689.890625,
+        459.578125,
+        64.6328125,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 12,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": null,
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "太简单",
+      "enabled": true,
+      "rect": [
+        232,
+        660.25,
+        72.40625,
+        21.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 13,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": null,
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "太难",
+      "enabled": true,
+      "rect": [
+        328.40625,
+        660.25,
+        56.6015625,
+        21.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 14,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": null,
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "报错",
+      "enabled": true,
+      "rect": [
+        409.0078125,
+        660.25,
+        56.6015625,
+        21.5
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 15,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "player-next",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "继续",
+      "enabled": true,
+      "rect": [
+        905.9921875,
+        610,
+        150,
+        50
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    }
+  ],
+  "control_inventory_limitations": [
+    "Transparent canonical inputs may remain actual hit targets; paint visibility recorded separately and is not executed coverage",
+    "Rendered DOM inventory only; offscreen or obscured controls are not executed coverage; Focus inventory and pointer-only candidates do not establish interaction semantics."
+  ],
+  "actions": [
+    {
+      "id": "test:quit-button#0",
+      "paint_visible": true,
+      "test": "quit-button",
+      "href": null,
+      "name": "",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        96,
+        57,
+        18,
+        18
+      ]
+    },
+    {
+      "id": "test:cat-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "cat-challenge-tap-token",
+      "href": null,
+      "name": "cat",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": false,
+      "checked": null,
+      "rect": [
+        582.6484375,
+        253.578125,
+        60.8828125,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:street-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "street-challenge-tap-token",
+      "href": null,
+      "name": "street",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": false,
+      "checked": null,
+      "rect": [
+        437.46875,
+        459.578125,
+        83.640625,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:house-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "house-challenge-tap-token",
+      "href": null,
+      "name": "house",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": false,
+      "checked": null,
+      "rect": [
+        529.109375,
+        459.578125,
+        83.8984375,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:cat-challenge-tap-token#1",
+      "paint_visible": true,
+      "test": "cat-challenge-tap-token",
+      "href": null,
+      "name": "cat",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": false,
+      "checked": null,
+      "rect": [
+        621.0078125,
+        461.578125,
+        60.8828125,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:city-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "city-challenge-tap-token",
+      "href": null,
+      "name": "city",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": false,
+      "checked": null,
+      "rect": [
+        689.890625,
+        459.578125,
+        64.6328125,
+        51.84375
+      ]
+    },
+    {
+      "id": "BUTTON:太简单#0",
+      "paint_visible": true,
+      "test": null,
+      "href": null,
+      "name": "太简单",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        232,
+        660.25,
+        72.40625,
+        21.5
+      ]
+    },
+    {
+      "id": "BUTTON:太难#0",
+      "paint_visible": true,
+      "test": null,
+      "href": null,
+      "name": "太难",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        328.40625,
+        660.25,
+        56.6015625,
+        21.5
+      ]
+    },
+    {
+      "id": "BUTTON:报错#0",
+      "paint_visible": true,
+      "test": null,
+      "href": null,
+      "name": "报错",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        409.0078125,
+        660.25,
+        56.6015625,
+        21.5
+      ]
+    },
+    {
+      "id": "test:player-next#0",
+      "paint_visible": true,
+      "test": "player-next",
+      "href": null,
+      "name": "继续",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        905.9921875,
+        610,
+        150,
+        50
+      ]
+    },
+    {
+      "id": "test:hint-token#0",
+      "paint_visible": true,
+      "test": "hint-token",
+      "href": null,
+      "name": "Oh",
+      "kind": "focus_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": true,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        500,
+        267.6640625,
+        21.625,
+        26.5
+      ]
+    },
+    {
+      "id": "test:hint-token#1",
+      "paint_visible": true,
+      "test": "hint-token",
+      "href": null,
+      "name": "your",
+      "kind": "focus_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": true,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        529.5625,
+        267.6640625,
+        34.7734375,
+        26.5
+      ]
+    },
+    {
+      "id": "test:hint-token#2",
+      "paint_visible": true,
+      "test": "hint-token",
+      "href": null,
+      "name": "is",
+      "kind": "focus_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": true,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        661.84375,
+        267.6640625,
+        13.0625,
+        26.5
+      ]
+    },
+    {
+      "id": "test:hint-token#3",
+      "paint_visible": true,
+      "test": "hint-token",
+      "href": null,
+      "name": "in",
+      "kind": "focus_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": true,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        678.7109375,
+        267.6640625,
+        14.484375,
+        26.5
+      ]
+    },
+    {
+      "id": "test:hint-token#4",
+      "paint_visible": true,
+      "test": "hint-token",
+      "href": null,
+      "name": "the",
+      "kind": "focus_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": true,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        697,
+        267.6640625,
+        26.3828125,
+        26.5
+      ]
+    },
+    {
+      "id": "test:hint-token#5",
+      "paint_visible": true,
+      "test": "hint-token",
+      "href": null,
+      "name": "kitchen",
+      "kind": "focus_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": true,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        727.1875,
+        267.6640625,
+        58.734375,
+        26.5
+      ]
+    }
+  ],
+  "text_runs": [
+    {
+      "text": "连对 6 题",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        335.671875,
+        38.5,
+        65.96875,
+        19
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "16px",
+        "color": "rgb(255, 200, 0)",
+        "letterSpacing": "0.64px"
+      }
+    },
+    {
+      "text": "5",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        1087.6328125,
+        56,
+        8.3671875,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(255, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "填空",
+      "tag": "H1",
+      "test": "challenge-header",
+      "rect": [
+        296,
+        108.5,
+        64,
+        37.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "40px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "O",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        500,
+        267.6640625,
+        11.4609375,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "h",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        511.4609375,
+        267.6640625,
+        10.0546875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": ",",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        521.515625,
+        267.6640625,
+        4.2421875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "y",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        529.5625,
+        267.6640625,
+        8.6171875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "o",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        538.1796875,
+        267.6640625,
+        9.75,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "u",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        547.9296875,
+        267.6640625,
+        9.9765625,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "r",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        557.90625,
+        267.6640625,
+        6.4296875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "cat",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        600.6484375,
+        267.078125,
+        24.8828125,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "i",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        661.84375,
+        267.6640625,
+        4.4296875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "s",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        666.2734375,
+        267.6640625,
+        8.6328125,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "i",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        678.7109375,
+        267.6640625,
+        4.4296875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "n",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        683.140625,
+        267.6640625,
+        10.0546875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "t",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        697,
+        267.6640625,
+        6.828125,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "h",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        703.828125,
+        267.6640625,
+        10.0546875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "e",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        713.8828125,
+        267.6640625,
+        9.5,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "k",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        727.1875,
+        267.6640625,
+        9.234375,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "i",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        736.421875,
+        267.6640625,
+        4.4296875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "t",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        740.8515625,
+        267.6640625,
+        6.7734375,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "c",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        747.625,
+        267.6640625,
+        8.6875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "h",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        756.3125,
+        267.6640625,
+        10.0546875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "e",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        766.3671875,
+        267.6640625,
+        9.5,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "n",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        775.8671875,
+        267.6640625,
+        10.0546875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "!",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        785.921875,
+        267.6640625,
+        4.640625,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "street",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        455.46875,
+        473.078125,
+        47.640625,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "house",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        547.109375,
+        473.078125,
+        47.8984375,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "cat",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        639.0078125,
+        475.078125,
+        24.8828125,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "city",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        707.890625,
+        473.078125,
+        28.6328125,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "棒棒哒！",
+      "tag": "H2",
+      "test": null,
+      "rect": [
+        232,
+        589.25,
+        96,
+        28
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "30px",
+        "color": "rgb(88, 167, 0)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "意思是： 哦，你的猫在厨房里！",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        232,
+        621.25,
+        241.40625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "26px",
+        "color": "rgb(88, 167, 0)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "太简单",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        257,
+        662.25,
+        47.40625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "normal",
+        "color": "rgb(88, 167, 0)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "太难",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        353.40625,
+        662.25,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "normal",
+        "color": "rgb(88, 167, 0)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "报错",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        434.0078125,
+        662.25,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "normal",
+        "color": "rgb(88, 167, 0)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "继续",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        963.1875,
+        622.796875,
+        35.6015625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "0.8px"
+      }
+    }
+  ],
+  "rendered_text_groups": [
+    {
+      "text": "Oh",
+      "rect": [
+        500,
+        267.6640625,
+        21.515625,
+        22.5
+      ],
+      "tokens": [
+        {
+          "label": "Oh",
+          "tabindex": 0
+        }
+      ],
+      "source": "Actual rendered parent text; no ARIA sentence or interaction success inferred"
+    },
+    {
+      "text": "your",
+      "rect": [
+        529.5625,
+        267.6640625,
+        34.7734375,
+        22.5
+      ],
+      "tokens": [
+        {
+          "label": "your",
+          "tabindex": 0
+        }
+      ],
+      "source": "Actual rendered parent text; no ARIA sentence or interaction success inferred"
+    },
+    {
+      "text": "is",
+      "rect": [
+        661.84375,
+        267.6640625,
+        13.0625,
+        22.5
+      ],
+      "tokens": [
+        {
+          "label": "is",
+          "tabindex": 0
+        }
+      ],
+      "source": "Actual rendered parent text; no ARIA sentence or interaction success inferred"
+    },
+    {
+      "text": "in",
+      "rect": [
+        678.7109375,
+        267.6640625,
+        14.484375,
+        22.5
+      ],
+      "tokens": [
+        {
+          "label": "in",
+          "tabindex": 0
+        }
+      ],
+      "source": "Actual rendered parent text; no ARIA sentence or interaction success inferred"
+    },
+    {
+      "text": "the",
+      "rect": [
+        697,
+        267.6640625,
+        26.3828125,
+        22.5
+      ],
+      "tokens": [
+        {
+          "label": "the",
+          "tabindex": 0
+        }
+      ],
+      "source": "Actual rendered parent text; no ARIA sentence or interaction success inferred"
+    },
+    {
+      "text": "kitchen",
+      "rect": [
+        727.1875,
+        267.6640625,
+        58.734375,
+        22.5
+      ],
+      "tokens": [
+        {
+          "label": "kitchen",
+          "tabindex": 0
+        }
+      ],
+      "source": "Actual rendered parent text; no ARIA sentence or interaction success inferred"
+    }
+  ],
+  "text_run_limitations": [
+    "DOM text ranges and computed CSS are not OCR or actual fallback font resolution; clipped animation digits may still appear."
+  ],
+  "media": [
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/4af31393cf9dee6fd35c07fc7155d404.svg",
+      "source_kind": "url",
+      "rect": [
+        96,
+        57,
+        18,
+        18
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        20,
+        20
+      ]
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 225 230\" width=\"225\" height=\"230\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_3822\"><rect width=\"225\" height=\"230\" x=\"0\" y=\"0\"></rect></clipPath><clipPath id=\"__lottie_element_3827\"><path d=\"M0,0 L828,0 L828,1472 L0,1472z\"></path></clipPath><clipPath id=\"__lottie_element_3834\"><path d=\"M0,0 L828,0 L828,1472 L0,1472z\"></path></clipPath><clipPath id=\"__lottie_element_3841\"><path d=\"M0,0 L828,0 L828,1472 L0,1472z\"></path></clipPath></defs><g clip-path=\"url(#__lottie_element_3822)\"><g clip-path=\"url(#__lottie_element_3841)\" transform=\"matrix(1.399999976158142,0,0,1.399999976158142,-101.0999755859375,-895.4000244140625)\" opacity=\"0.61\" style=\"display: block;\"><g transform=\"matrix(0.1600232571363449,0,0,0.1600232571363449,129,779)\" opacity=\"0.000027320309820666466\" style=\"display: none;\"><path class=\"progress-bar-particle-lottie\" fill=\"rgb(255,200,0)\" fill-opacity=\"1\" d=\" M0,-50 C27.594999313354492,-50 50,-27.594999313354492 50,0 C50,27.594999313354492 27.594999313354492,50 0,50 C-27.594999313354492,50 -50,27.594999313354492 -50,0 C-50,-27.594999313354492 -27.594999313354492,-50 0,-50z\"></path></g></g><g clip-path=\"url(#__lottie_element_3834)\" transform=\"matrix(-1.2852754592895508,0.6268706917762756,-0.6268706917762756,-1.2852754592895508,791.97119140625,934.405517578125)\" opacity=\"1\" style=\"display: block;\"><g transform=\"matrix(0.09744277596473694,0,0,0.09744277596473694,154,769)\" opacity=\"0.041838740533597873\" style=\"display: block;\"><path class=\"progress-bar-particle-lottie\" fill=\"rgb(255,200,0)\" fill-opacity=\"1\" d=\" M0,-50 C27.594999313354492,-50 50,-27.594999313354492 50,0 C50,27.594999313354492 27.594999313354492,50 0,50 C-27.594999313354492,50 -50,27.594999313354492 -50,0 C-50,-27.594999313354492 -27.594999313354492,-50 0,-50z\"></path></g></g><g clip-path=\"url(#__lottie_element_3827)\" transform=\"matrix(1.350000023841858,0,0,1.350000023841858,-89.4000244140625,-880.6000366210938)\" opacity=\"1\" style=\"display: block;\"><g transform=\"matrix(-0.008893467485904694,0,0,-0.008893467485904694,77,797)\" opacity=\"0.001562989658323204\" style=\"display: none;\"><path class=\"progress-bar-particle-lottie\" fill=\"rgb(255,200,0)\" fill-opacity=\"1\" d=\" M0,-50 C27.594999313354492,-50 50,-27.594999313354492 50,0 C50,27.594999313354492 27.594999313354492,50 0,50 C-27.594999313354492,50 -50,27.594999313354492 -50,0 C-50,-27.594999313354492 -27.594999313354492,-50 0,-50z\"></path></g></g><g transform=\"matrix(1.829999566078186,0,0,1.829999566078186,116.5,108)\" opacity=\"0.39365591842325004\" style=\"display: block;\"><path stroke-linecap=\"butt\" stroke-linejoin=\"miter\" fill-opacity=\"0\" stroke-miterlimit=\"4\" class=\"progress-bar-particle-lottie\" stroke=\"rgb(255,200,0)\" stroke-opacity=\"1\" stroke-width=\"0\" d=\" M0,-50 C27.594999313354492,-50 50,-27.594999313354492 50,0 C50,27.594999313354492 27.594999313354492,50 0,50 C-27.594999313354492,50 -50,27.594999313354492 -50,0 C-50,-27.594999313354492 -27.594999313354492,-50 0,-50z\"></path></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        569.97265625,
+        36,
+        58.6953125,
+        60
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/hearts/7631e3ee734dd4fe7792626b59457fa4.svg",
+      "source_kind": "url",
+      "rect": [
+        1047.6328125,
+        50,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        33,
+        32
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d2pur3iezf4d1j.cloudfront.net/images/b2be3c2b9cc33a85213c4cd08573effc",
+      "source_kind": "url",
+      "rect": [
+        296,
+        213.5,
+        180,
+        134
+      ],
+      "objectFit": "contain",
+      "intrinsic": [
+        180,
+        134
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": "",
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/bed2a542bc7eddc78e75fbe85260b89e.svg",
+      "source_kind": "url",
+      "rect": [
+        156,
+        622,
+        41,
+        31
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        41,
+        29
+      ]
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg aria-hidden=\"true\" class=\"_2-7I9\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"M5 8h6l-6 8h6\"></path><path d=\"M15 13h4l-4 5h4\"></path></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        232,
+        660.25,
+        20,
+        20
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg aria-hidden=\"true\" class=\"_2-7I9\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"m8 3 4 8 5-5 5 15H2L8 3z\"></path></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        328.40625,
+        660.25,
+        20,
+        20
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    }
+  ],
+  "background_media": [
+    {
+      "tag": "DIV",
+      "test": "hint-token",
+      "rect": [
+        500,
+        267.6640625,
+        21.625,
+        26.5
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg\")",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0px 100%",
+      "backgroundRepeat": "repeat-x"
+    },
+    {
+      "tag": "DIV",
+      "test": "hint-token",
+      "rect": [
+        529.5625,
+        267.6640625,
+        34.7734375,
+        26.5
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg\")",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0px 100%",
+      "backgroundRepeat": "repeat-x"
+    },
+    {
+      "tag": "DIV",
+      "test": "hint-token",
+      "rect": [
+        661.84375,
+        267.6640625,
+        13.0625,
+        26.5
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg\")",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0px 100%",
+      "backgroundRepeat": "repeat-x"
+    },
+    {
+      "tag": "DIV",
+      "test": "hint-token",
+      "rect": [
+        678.7109375,
+        267.6640625,
+        14.484375,
+        26.5
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg\")",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0px 100%",
+      "backgroundRepeat": "repeat-x"
+    },
+    {
+      "tag": "DIV",
+      "test": "hint-token",
+      "rect": [
+        697,
+        267.6640625,
+        26.3828125,
+        26.5
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg\")",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0px 100%",
+      "backgroundRepeat": "repeat-x"
+    },
+    {
+      "tag": "DIV",
+      "test": "hint-token",
+      "rect": [
+        727.1875,
+        267.6640625,
+        58.734375,
+        26.5
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/06f94a15de0c0937cce25dc5dc083e6e.svg\")",
+      "backgroundSize": "auto",
+      "backgroundPosition": "0px 100%",
+      "backgroundRepeat": "repeat-x"
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        409.0078125,
+        660.25,
+        20,
+        20
+      ],
+      "backgroundImage": "url(\"https://d35aaqx5ub95lt.cloudfront.net/images/70dc374d7db646afc5d3d97e68866369.svg\")",
+      "backgroundSize": "contain",
+      "backgroundPosition": "50% 50%",
+      "backgroundRepeat": "no-repeat"
+    }
+  ],
+  "pseudo_elements": [
+    {
+      "tag": "BUTTON",
+      "test": "cat-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        582.6484375,
+        253.578125,
+        60.8828125,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "60.8828px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "street-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        437.46875,
+        459.578125,
+        83.640625,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "83.6406px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "house-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        529.109375,
+        459.578125,
+        83.8984375,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "83.8984px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "cat-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        621.0078125,
+        461.578125,
+        60.8828125,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "60.8828px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(229, 229, 229)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "city-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        689.890625,
+        459.578125,
+        64.6328125,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "64.6328px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "pseudo": "::after",
+      "parent_rect": [
+        136,
+        565,
+        732.796875,
+        140
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "732.797px",
+        "height": "705px",
+        "top": "140px",
+        "left": "0px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "transform": "none",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "player-next",
+      "pseudo": "::before",
+      "parent_rect": [
+        905.9921875,
+        610,
+        150,
+        50
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "150px",
+        "height": "46px",
+        "top": "0px",
+        "left": "0px",
+        "color": "rgb(88, 167, 0)",
+        "backgroundColor": "rgb(88, 204, 2)",
+        "backgroundImage": "none",
+        "borderRadius": "16px",
+        "transform": "none",
+        "boxShadow": "rgb(88, 167, 0) 0px 4px 0px 0px"
+      }
+    }
+  ],
+  "pseudo_limitations": [
+    "Computed CSS and parent bounds only; pseudo-elements have no independently measured DOM bounding rectangle."
+  ],
+  "visible": [
+    {
+      "test": "quit-button",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        96,
+        57,
+        18,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "19.55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "icons": [],
+      "images": [
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/images/4af31393cf9dee6fd35c07fc7155d404.svg",
+          "rect": {
+            "x": 96,
+            "y": 57,
+            "width": 18,
+            "height": 18,
+            "top": 57,
+            "right": 114,
+            "bottom": 75,
+            "left": 96
+          }
+        }
+      ],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 96,
+            "y": 50,
+            "width": 1000,
+            "height": 32,
+            "top": 50,
+            "right": 1096,
+            "bottom": 82,
+            "left": 96
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 56,
+            "y": 0,
+            "width": 1080,
+            "height": 82,
+            "top": 0,
+            "right": 1136,
+            "bottom": 82,
+            "left": 56
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "50px 40px 0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1192,
+            "height": 100,
+            "top": 0,
+            "right": 1192,
+            "bottom": 100,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "DIV",
+      "role": "progressbar",
+      "text": "连对 6 题",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        138,
+        58,
+        885.6328125,
+        16
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "challenge challenge-tapComplete",
+      "tag": "DIV",
+      "role": null,
+      "text": "填空\nOh\n, your\n \ncat\n is\n in\n the\n kitchen\n!\nstreet\nhouse\ncat\ncity",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        0,
+        100,
+        1192,
+        465
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "challenge-header",
+      "tag": "H1",
+      "role": null,
+      "text": "填空",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        296,
+        107.5,
+        600,
+        40
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        500,
+        267.6640625,
+        21.625,
+        26.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        529.5625,
+        267.6640625,
+        34.7734375,
+        26.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "cat-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "cat",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        582.6484375,
+        253.578125,
+        60.8828125,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 582.6484375,
+            "y": 253.578125,
+            "width": 60.8828125,
+            "height": 51.84375,
+            "top": 253.578125,
+            "right": 643.53125,
+            "bottom": 305.421875,
+            "left": 582.6484375
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 582.6484375,
+            "y": 253.578125,
+            "width": 60.8828125,
+            "height": 51.84375,
+            "top": 253.578125,
+            "right": 643.53125,
+            "bottom": 305.421875,
+            "left": 582.6484375
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 571.140625,
+            "y": 253.578125,
+            "width": 83.8984375,
+            "height": 51.84375,
+            "top": 253.578125,
+            "right": 655.0390625,
+            "bottom": 305.421875,
+            "left": 571.140625
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "cat",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        600.6484375,
+        267.578125,
+        24.8828125,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        661.84375,
+        267.6640625,
+        13.0625,
+        26.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        678.7109375,
+        267.6640625,
+        14.484375,
+        26.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        697,
+        267.6640625,
+        26.3828125,
+        26.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "hint-token",
+      "tag": "DIV",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        727.1875,
+        267.6640625,
+        58.734375,
+        26.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "39px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "word-bank",
+      "tag": "DIV",
+      "role": null,
+      "text": "street\nhouse\ncat\ncity",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        296,
+        455.5,
+        600,
+        60
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "street-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "street",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        437.46875,
+        459.578125,
+        83.640625,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 437.46875,
+            "y": 459.578125,
+            "width": 83.640625,
+            "height": 51.84375,
+            "top": 459.578125,
+            "right": 521.109375,
+            "bottom": 511.421875,
+            "left": 437.46875
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 437.46875,
+            "y": 455.5,
+            "width": 83.640625,
+            "height": 60,
+            "top": 455.5,
+            "right": 521.109375,
+            "bottom": 515.5,
+            "left": 437.46875
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 296,
+            "y": 455.5,
+            "width": 600,
+            "height": 60,
+            "top": 455.5,
+            "right": 896,
+            "bottom": 515.5,
+            "left": 296
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "street",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        455.46875,
+        473.578125,
+        47.640625,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "house-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "house",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        529.109375,
+        459.578125,
+        83.8984375,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 529.109375,
+            "y": 459.578125,
+            "width": 83.8984375,
+            "height": 51.84375,
+            "top": 459.578125,
+            "right": 613.0078125,
+            "bottom": 511.421875,
+            "left": 529.109375
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 529.109375,
+            "y": 455.5,
+            "width": 83.8984375,
+            "height": 60,
+            "top": 455.5,
+            "right": 613.0078125,
+            "bottom": 515.5,
+            "left": 529.109375
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 296,
+            "y": 455.5,
+            "width": 600,
+            "height": 60,
+            "top": 455.5,
+            "right": 896,
+            "bottom": 515.5,
+            "left": 296
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "house",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        547.109375,
+        473.578125,
+        47.8984375,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "cat-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "cat",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        621.0078125,
+        461.578125,
+        60.8828125,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 621.0078125,
+            "y": 459.578125,
+            "width": 60.8828125,
+            "height": 51.84375,
+            "top": 459.578125,
+            "right": 681.890625,
+            "bottom": 511.421875,
+            "left": 621.0078125
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 621.0078125,
+            "y": 455.5,
+            "width": 60.8828125,
+            "height": 60,
+            "top": 455.5,
+            "right": 681.890625,
+            "bottom": 515.5,
+            "left": 621.0078125
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 296,
+            "y": 455.5,
+            "width": 600,
+            "height": 60,
+            "top": 455.5,
+            "right": 896,
+            "bottom": 515.5,
+            "left": 296
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "cat",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        639.0078125,
+        475.578125,
+        24.8828125,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "city-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "city",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        689.890625,
+        459.578125,
+        64.6328125,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 689.890625,
+            "y": 459.578125,
+            "width": 64.6328125,
+            "height": 51.84375,
+            "top": 459.578125,
+            "right": 754.5234375,
+            "bottom": 511.421875,
+            "left": 689.890625
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 689.890625,
+            "y": 455.5,
+            "width": 64.6328125,
+            "height": 60,
+            "top": 455.5,
+            "right": 754.5234375,
+            "bottom": 515.5,
+            "left": 689.890625
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 296,
+            "y": 455.5,
+            "width": 600,
+            "height": 60,
+            "top": 455.5,
+            "right": 896,
+            "bottom": 515.5,
+            "left": 296
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "city",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        707.890625,
+        473.578125,
+        28.6328125,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "blame blame-correct",
+      "tag": "DIV",
+      "role": null,
+      "text": "棒棒哒！\n意思是： 哦，你的猫在厨房里！\n太简单\n太难\n报错",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        136,
+        588.25,
+        732.796875,
+        93.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "H2",
+      "role": null,
+      "text": "棒棒哒！",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        232,
+        588.25,
+        320,
+        30
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "30px",
+        "color": "rgb(88, 167, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(88, 167, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "太简单",
+      "enabled": true,
+      "pressed": "false",
+      "checked": null,
+      "rect": [
+        232,
+        660.25,
+        72.40625,
+        21.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(88, 167, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(88, 167, 0)"
+      },
+      "icons": [
+        "<svg aria-hidden=\"true\" class=\"_2-7I9\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"M5 8h6l-6 8h6\"></path><path d=\"M15 13h4l-4 5h4\"></path></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 232,
+            "y": 660.25,
+            "width": 20,
+            "height": 20,
+            "top": 660.25,
+            "right": 252,
+            "bottom": 680.25,
+            "left": 232
+          },
+          "color": "rgb(88, 167, 0)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 660.25,
+            "width": 153.0078125,
+            "height": 21.5,
+            "top": 660.25,
+            "right": 385.0078125,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 660.25,
+            "width": 233.609375,
+            "height": 21.5,
+            "top": 660.25,
+            "right": 465.609375,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 588.25,
+            "width": 636.796875,
+            "height": 93.5,
+            "top": 588.25,
+            "right": 868.796875,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "16px"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "太难",
+      "enabled": true,
+      "pressed": "false",
+      "checked": null,
+      "rect": [
+        328.40625,
+        660.25,
+        56.6015625,
+        21.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(88, 167, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(88, 167, 0)"
+      },
+      "icons": [
+        "<svg aria-hidden=\"true\" class=\"_2-7I9\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"m8 3 4 8 5-5 5 15H2L8 3z\"></path></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 328.40625,
+            "y": 660.25,
+            "width": 20,
+            "height": 20,
+            "top": 660.25,
+            "right": 348.40625,
+            "bottom": 680.25,
+            "left": 328.40625
+          },
+          "color": "rgb(88, 167, 0)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 660.25,
+            "width": 153.0078125,
+            "height": 21.5,
+            "top": 660.25,
+            "right": 385.0078125,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 660.25,
+            "width": 233.609375,
+            "height": 21.5,
+            "top": 660.25,
+            "right": 465.609375,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 588.25,
+            "width": 636.796875,
+            "height": 93.5,
+            "top": 588.25,
+            "right": 868.796875,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "16px"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "报错",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        409.0078125,
+        660.25,
+        56.6015625,
+        21.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgb(88, 167, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(88, 167, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 409.0078125,
+            "y": 660.25,
+            "width": 56.6015625,
+            "height": 21.5,
+            "top": 660.25,
+            "right": 465.609375,
+            "bottom": 681.75,
+            "left": 409.0078125
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 660.25,
+            "width": 233.609375,
+            "height": 21.5,
+            "top": 660.25,
+            "right": 465.609375,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 232,
+            "y": 588.25,
+            "width": 636.796875,
+            "height": 93.5,
+            "top": 588.25,
+            "right": 868.796875,
+            "bottom": 681.75,
+            "left": 232
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "16px"
+        }
+      ]
+    },
+    {
+      "test": "player-next",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "继续",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        905.9921875,
+        610,
+        150,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "20.4px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 905.9921875,
+            "y": 610,
+            "width": 150,
+            "height": 50,
+            "top": 610,
+            "right": 1055.9921875,
+            "bottom": 660,
+            "left": 905.9921875
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 96,
+            "y": 565,
+            "width": 1000,
+            "height": 140,
+            "top": 565,
+            "right": 1096,
+            "bottom": 705,
+            "left": 96
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "8px 16px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 565,
+            "width": 1192,
+            "height": 140,
+            "top": 565,
+            "right": 1192,
+            "bottom": 705,
+            "left": 0
+          },
+          "backgroundColor": "rgb(215, 255, 184)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    }
+  ],
+  "painted_boxes": [
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        138,
+        58,
+        885.6328125,
+        16
+      ],
+      "css": {
+        "backgroundColor": "rgb(229, 229, 229)",
+        "borderColor": "rgb(60, 60, 60)",
+        "borderWidth": "0px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        138,
+        58,
+        885.6328125,
+        16
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 200, 0)",
+        "borderColor": "rgb(255, 200, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        138,
+        58,
+        885.6328125,
+        16
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 200, 0)",
+        "borderColor": "rgb(255, 200, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        142,
+        62,
+        453.3203125,
+        3
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 200, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "9999px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "cat-challenge-tap-token",
+      "rect": [
+        582.6484375,
+        253.578125,
+        60.8828125,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "street-challenge-tap-token",
+      "rect": [
+        437.46875,
+        459.578125,
+        83.640625,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "house-challenge-tap-token",
+      "rect": [
+        529.109375,
+        459.578125,
+        83.8984375,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "cat-challenge-tap-token",
+      "rect": [
+        621.0078125,
+        461.578125,
+        60.8828125,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "city-challenge-tap-token",
+      "rect": [
+        689.890625,
+        459.578125,
+        64.6328125,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        0,
+        565,
+        1192,
+        140
+      ],
+      "css": {
+        "backgroundColor": "rgb(215, 255, 184)",
+        "borderColor": "rgb(60, 60, 60)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        136,
+        595,
+        80,
+        80
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(60, 60, 60)",
+        "borderWidth": "0px",
+        "borderRadius": "98px",
+        "boxShadow": "none"
+      }
+    }
+  ],
+  "focus": {
+    "tag": "BUTTON",
+    "test": "player-next",
+    "name": "",
+    "tab_index": 0,
+    "focus_visible": false,
+    "rect": [
+      905.9921875,
+      610,
+      150,
+      50
+    ],
+    "css": {
+      "outline": "rgb(255, 255, 255) none 3px",
+      "boxShadow": "none"
+    }
+  },
+  "capture_geometry": {
+    "content_rect_points": [
+      0,
+      0,
+      1192,
+      705
+    ],
+    "window_points": [
+      1192,
+      705
+    ],
+    "backing_scale": 2,
+    "reported_dom_dpr": 2,
+    "measurement": "CDP physical/css visual viewport ratio, not inferred from PNG",
+    "state_consistent": true
+  },
+  "capture_layout_metrics": {
+    "layoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2384,
+      "clientHeight": 1410
+    },
+    "visualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2384,
+      "clientHeight": 1410,
+      "scale": 1,
+      "zoom": 1
+    },
+    "contentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 2384,
+      "height": 1410
+    },
+    "cssLayoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1192,
+      "clientHeight": 705
+    },
+    "cssVisualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1192,
+      "clientHeight": 705,
+      "scale": 1,
+      "zoom": 1
+    },
+    "cssContentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 1192,
+      "height": 705
+    }
+  },
+  "snapshot_after_capture": "- button:\n  - img\n- progressbar:\n  - text: 连对 6 题\n  - img\n- img\n- text: \"5\"\n- heading \"填空\" [level=1]\n- img\n- button \"cat\" [disabled]\n- button \"street\" [disabled]\n- button \"house\" [disabled]\n- button \"cat\" [disabled]\n- button \"city\" [disabled]\n- heading \"棒棒哒！\" [level=2]\n- text: 意思是： 哦，你的猫在厨房里！\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "viewport_after_capture": {
+    "width": 1192,
+    "height": 705
+  },
+  "capture_viewport_consistent": true,
+  "capture_state_consistent": true,
+  "capture_method": "visible-page-cdp",
+  "capture_pixels": [
+    2384,
+    1410
+  ],
+  "capture_geometry_consistent": true,
+  "screenshot": "q5-feedback.png"
+}

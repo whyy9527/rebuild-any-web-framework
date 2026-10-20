@@ -1,0 +1,3940 @@
+{
+  "observed_at": "2026-10-11T23:45:25.414Z",
+  "path": "/lesson",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "snapshot": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- heading \"选择配对\" [level=1]\n- button \"1 我很好\":\n  - text: 1 我很好\n  - img\n  - img\n- button \"2 裙子\":\n  - text: 2 裙子\n  - img\n  - img\n- button \"3 想要\":\n  - text: 3 想要\n  - img\n  - img\n- button \"4 店\":\n  - text: 4 店\n  - img\n  - img\n- button \"5 桌子\":\n  - text: 5 桌子\n  - img\n  - img\n- button \"6 table\":\n  - text: 6 table\n  - img\n  - img\n- button \"7 store\":\n  - text: 7 store\n  - img\n  - img\n- button \"8 want\":\n  - text: 8 want\n  - img\n  - img\n- button \"9 I'm good\":\n  - text: 9 I'm good\n  - img\n  - img\n- button \"0 skirt\":\n  - text: 0 skirt\n  - img\n  - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "radio_groups": [],
+  "select_groups": [],
+  "scroll_regions": [],
+  "control_inventory": [
+    {
+      "index": 0,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "quit-button",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "",
+      "enabled": true,
+      "rect": [
+        100,
+        57,
+        18,
+        18
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 1,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "我很好-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "1\n我很好",
+      "enabled": true,
+      "rect": [
+        330,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 2,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "裙子-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "2\n裙子",
+      "enabled": true,
+      "rect": [
+        330,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 3,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "想要-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "3\n想要",
+      "enabled": true,
+      "rect": [
+        330,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 4,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "店-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "4\n店",
+      "enabled": true,
+      "rect": [
+        330,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 5,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "桌子-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "5\n桌子",
+      "enabled": true,
+      "rect": [
+        330,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 6,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "table-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "6\ntable",
+      "enabled": true,
+      "rect": [
+        615,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 7,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "store-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "7\nstore",
+      "enabled": true,
+      "rect": [
+        615,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 8,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "want-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "8\nwant",
+      "enabled": true,
+      "rect": [
+        615,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 9,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "I'm good-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "9\nI'm good",
+      "enabled": true,
+      "rect": [
+        615,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 10,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "skirt-challenge-tap-token",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "0\nskirt",
+      "enabled": true,
+      "rect": [
+        615,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 11,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "player-skip",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "跳过",
+      "enabled": true,
+      "rect": [
+        140,
+        639,
+        150,
+        50
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 12,
+      "paint_visible": true,
+      "tag": "BUTTON",
+      "test": "player-next",
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "检查",
+      "enabled": false,
+      "rect": [
+        909.9921875,
+        643,
+        150,
+        50
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    }
+  ],
+  "control_inventory_limitations": [
+    "Transparent canonical inputs may remain actual hit targets; paint visibility recorded separately and is not executed coverage",
+    "Rendered DOM inventory only; offscreen or obscured controls are not executed coverage; Focus inventory and pointer-only candidates do not establish interaction semantics."
+  ],
+  "actions": [
+    {
+      "id": "test:quit-button#0",
+      "paint_visible": true,
+      "test": "quit-button",
+      "href": null,
+      "name": "",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        100,
+        57,
+        18,
+        18
+      ]
+    },
+    {
+      "id": "test:我很好-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "我很好-challenge-tap-token",
+      "href": null,
+      "name": "1\n我很好",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        330,
+        228.390625,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:裙子-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "裙子-challenge-tap-token",
+      "href": null,
+      "name": "2\n裙子",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        330,
+        290.234375,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:想要-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "想要-challenge-tap-token",
+      "href": null,
+      "name": "3\n想要",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        330,
+        352.078125,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:店-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "店-challenge-tap-token",
+      "href": null,
+      "name": "4\n店",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        330,
+        413.921875,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:桌子-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "桌子-challenge-tap-token",
+      "href": null,
+      "name": "5\n桌子",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        330,
+        475.765625,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:table-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "table-challenge-tap-token",
+      "href": null,
+      "name": "6\ntable",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        615,
+        228.390625,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:store-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "store-challenge-tap-token",
+      "href": null,
+      "name": "7\nstore",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        615,
+        290.234375,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:want-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "want-challenge-tap-token",
+      "href": null,
+      "name": "8\nwant",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        615,
+        352.078125,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:I'm good-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "I'm good-challenge-tap-token",
+      "href": null,
+      "name": "9\nI'm good",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        615,
+        413.921875,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:skirt-challenge-tap-token#0",
+      "paint_visible": true,
+      "test": "skirt-challenge-tap-token",
+      "href": null,
+      "name": "0\nskirt",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        615,
+        475.765625,
+        255,
+        51.84375
+      ]
+    },
+    {
+      "id": "test:player-skip#0",
+      "paint_visible": true,
+      "test": "player-skip",
+      "href": null,
+      "name": "跳过",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        140,
+        639,
+        150,
+        50
+      ]
+    },
+    {
+      "id": "test:player-next#0",
+      "paint_visible": true,
+      "test": "player-next",
+      "href": null,
+      "name": "检查",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": false,
+      "checked": null,
+      "rect": [
+        909.9921875,
+        643,
+        150,
+        50
+      ]
+    }
+  ],
+  "text_runs": [
+    {
+      "text": "4",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        1090.5625,
+        56,
+        9.4375,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(255, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "选择配对",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        300,
+        122,
+        128,
+        37.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "40px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "1",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        359.4921875,
+        244.1875,
+        7.0078125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "我很好",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        443,
+        241.890625,
+        57,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "2",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        359.390625,
+        306.03125,
+        7.21875,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "裙子",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        452.5,
+        303.734375,
+        38,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "3",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        359.34375,
+        367.875,
+        7.3125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "想要",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        452.5,
+        365.578125,
+        38,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "4",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        358.8359375,
+        429.71875,
+        8.328125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "店",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        462,
+        427.421875,
+        19,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "5",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        359.3046875,
+        491.5625,
+        7.3828125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "桌子",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        452.5,
+        489.265625,
+        38,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "6",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        644.2109375,
+        244.1875,
+        7.578125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "table",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        735.828125,
+        241.890625,
+        41.3359375,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "7",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        644.4921875,
+        306.03125,
+        7.0078125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "store",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        735.9921875,
+        303.734375,
+        41.0078125,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "8",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        644.0859375,
+        367.875,
+        7.8203125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "want",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        736.3828125,
+        365.578125,
+        40.234375,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "9",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        644.2109375,
+        429.71875,
+        7.578125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "I'm good",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        722.7265625,
+        427.421875,
+        67.546875,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "0",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        644.140625,
+        491.5625,
+        7.7109375,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "17.25px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "skirt",
+      "tag": "SPAN",
+      "test": "challenge-tap-token-text",
+      "rect": [
+        738.6328125,
+        489.265625,
+        35.7265625,
+        22.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "跳过",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        197.1953125,
+        652.796875,
+        35.6015625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "检查",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        967.1875,
+        655.796875,
+        35.6015625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "0.8px"
+      }
+    }
+  ],
+  "rendered_text_groups": [],
+  "text_run_limitations": [
+    "DOM text ranges and computed CSS are not OCR or actual fallback font resolution; clipped animation digits may still appear."
+  ],
+  "media": [
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/4af31393cf9dee6fd35c07fc7155d404.svg",
+      "source_kind": "url",
+      "rect": [
+        100,
+        57,
+        18,
+        18
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        20,
+        20
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/hearts/7631e3ee734dd4fe7792626b59457fa4.svg",
+      "source_kind": "url",
+      "rect": [
+        1050.5625,
+        50,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        33,
+        32
+      ]
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1202\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1202)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        390,
+        236.390625,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1210\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1210)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        523,
+        241.390625,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1215\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1215)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        513,
+        298.234375,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1223\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1223)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        390,
+        303.234375,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1228\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1228)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        390,
+        360.078125,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1236\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1236)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        523,
+        365.078125,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1241\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1241)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        513,
+        431.5234375,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1249\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1249)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        390,
+        426.765625,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1254\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1254)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        390,
+        493.3671875,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1262\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1262)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        523,
+        488.609375,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1267\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1267)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        798,
+        236.390625,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1275\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1275)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        675,
+        241.390625,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1280\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1280)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        798,
+        307.8359375,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1288\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1288)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        675,
+        303.078125,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1293\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1293)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        675,
+        360.078125,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1301\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1301)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        808,
+        365.078125,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1306\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1306)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        798,
+        431.5234375,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1314\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1314)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        675,
+        426.765625,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1319\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1319)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        798,
+        493.3671875,
+        40,
+        24.2421875
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1327\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1327)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        675,
+        488.609375,
+        30,
+        24
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    }
+  ],
+  "background_media": [],
+  "pseudo_elements": [
+    {
+      "tag": "BUTTON",
+      "test": "我很好-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        330,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "裙子-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        330,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "想要-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        330,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "店-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        330,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "桌子-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        330,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "table-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        615,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "store-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        615,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "want-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        615,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "I'm good-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        615,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "skirt-challenge-tap-token",
+      "pseudo": "::before",
+      "parent_rect": [
+        615,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "255px",
+        "height": "49.8438px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "12px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "player-skip",
+      "pseudo": "::before",
+      "parent_rect": [
+        140,
+        639,
+        150,
+        50
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "150px",
+        "height": "48px",
+        "top": "-2px",
+        "left": "-2px",
+        "color": "rgb(229, 229, 229)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "16px",
+        "transform": "none",
+        "boxShadow": "rgb(229, 229, 229) 0px 2px 0px 0px"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "player-next",
+      "pseudo": "::before",
+      "parent_rect": [
+        909.9921875,
+        643,
+        150,
+        50
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "150px",
+        "height": "46px",
+        "top": "0px",
+        "left": "0px",
+        "color": "rgb(88, 167, 0)",
+        "backgroundColor": "rgb(229, 229, 229)",
+        "backgroundImage": "none",
+        "borderRadius": "16px",
+        "transform": "none",
+        "boxShadow": "none"
+      }
+    }
+  ],
+  "pseudo_limitations": [
+    "Computed CSS and parent bounds only; pseudo-elements have no independently measured DOM bounding rectangle."
+  ],
+  "visible": [
+    {
+      "test": "quit-button",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        100,
+        57,
+        18,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "19.55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "icons": [],
+      "images": [
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/images/4af31393cf9dee6fd35c07fc7155d404.svg",
+          "rect": {
+            "x": 100,
+            "y": 57,
+            "width": 18,
+            "height": 18,
+            "top": 57,
+            "right": 118,
+            "bottom": 75,
+            "left": 100
+          }
+        }
+      ],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 50,
+            "width": 1000,
+            "height": 32,
+            "top": 50,
+            "right": 1100,
+            "bottom": 82,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "24px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 60,
+            "y": 0,
+            "width": 1080,
+            "height": 82,
+            "top": 0,
+            "right": 1140,
+            "bottom": 82,
+            "left": 60
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "50px 40px 0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 100,
+            "top": 0,
+            "right": 1200,
+            "bottom": 100,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": null,
+      "tag": "DIV",
+      "role": "progressbar",
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        142,
+        58,
+        884.5625,
+        16
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "challenge challenge-match",
+      "tag": "DIV",
+      "role": null,
+      "text": "选择配对\n1\n我很好\n2\n裙子\n3\n想要\n4\n店\n5\n桌子\n6\ntable\n7\nstore\n8\nwant\n9\nI'm good\n0\nskirt",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        0,
+        100,
+        1200,
+        492
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "challenge-header",
+      "tag": "H1",
+      "role": null,
+      "text": "选择配对",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        300,
+        121,
+        600,
+        40
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "我很好-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "1\n我很好",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        330,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1202\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1202)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1210\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1210)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 390,
+            "y": 236.390625,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 236.390625,
+            "right": 430,
+            "bottom": 260.6328125,
+            "left": 390
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 523,
+            "y": 241.390625,
+            "width": 30,
+            "height": 24,
+            "top": 241.390625,
+            "right": 553,
+            "bottom": 265.390625,
+            "left": 523
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 330,
+            "y": 228.390625,
+            "width": 255,
+            "height": 51.84375,
+            "top": 228.390625,
+            "right": 585,
+            "bottom": 280.234375,
+            "left": 330
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "我很好",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        443,
+        242.390625,
+        57,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "裙子-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "2\n裙子",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        330,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1215\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1215)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1223\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1223)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 513,
+            "y": 298.234375,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 298.234375,
+            "right": 553,
+            "bottom": 322.4765625,
+            "left": 513
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 390,
+            "y": 303.234375,
+            "width": 30,
+            "height": 24,
+            "top": 303.234375,
+            "right": 420,
+            "bottom": 327.234375,
+            "left": 390
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 330,
+            "y": 290.234375,
+            "width": 255,
+            "height": 51.84375,
+            "top": 290.234375,
+            "right": 585,
+            "bottom": 342.078125,
+            "left": 330
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "裙子",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        452.5,
+        304.234375,
+        38,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "想要-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "3\n想要",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        330,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1228\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1228)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1236\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1236)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 390,
+            "y": 360.078125,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 360.078125,
+            "right": 430,
+            "bottom": 384.3203125,
+            "left": 390
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 523,
+            "y": 365.078125,
+            "width": 30,
+            "height": 24,
+            "top": 365.078125,
+            "right": 553,
+            "bottom": 389.078125,
+            "left": 523
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 330,
+            "y": 352.078125,
+            "width": 255,
+            "height": 51.84375,
+            "top": 352.078125,
+            "right": 585,
+            "bottom": 403.921875,
+            "left": 330
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "想要",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        452.5,
+        366.078125,
+        38,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "店-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "4\n店",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        330,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1241\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1241)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1249\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1249)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 513,
+            "y": 431.5234375,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 431.5234375,
+            "right": 553,
+            "bottom": 455.765625,
+            "left": 513
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 390,
+            "y": 426.765625,
+            "width": 30,
+            "height": 24,
+            "top": 426.765625,
+            "right": 420,
+            "bottom": 450.765625,
+            "left": 390
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 330,
+            "y": 413.921875,
+            "width": 255,
+            "height": 51.84375,
+            "top": 413.921875,
+            "right": 585,
+            "bottom": 465.765625,
+            "left": 330
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "店",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        462,
+        427.921875,
+        19,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "桌子-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "5\n桌子",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        330,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1254\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1254)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1262\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1262)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 390,
+            "y": 493.3671875,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 493.3671875,
+            "right": 430,
+            "bottom": 517.609375,
+            "left": 390
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 523,
+            "y": 488.609375,
+            "width": 30,
+            "height": 24,
+            "top": 488.609375,
+            "right": 553,
+            "bottom": 512.609375,
+            "left": 523
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 330,
+            "y": 475.765625,
+            "width": 255,
+            "height": 51.84375,
+            "top": 475.765625,
+            "right": 585,
+            "bottom": 527.609375,
+            "left": 330
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "桌子",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        452.5,
+        489.765625,
+        38,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "table-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "6\ntable",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        615,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1267\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1267)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1275\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1275)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 798,
+            "y": 236.390625,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 236.390625,
+            "right": 838,
+            "bottom": 260.6328125,
+            "left": 798
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 675,
+            "y": 241.390625,
+            "width": 30,
+            "height": 24,
+            "top": 241.390625,
+            "right": 705,
+            "bottom": 265.390625,
+            "left": 675
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 615,
+            "y": 228.390625,
+            "width": 255,
+            "height": 51.84375,
+            "top": 228.390625,
+            "right": 870,
+            "bottom": 280.234375,
+            "left": 615
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "table",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        735.828125,
+        242.390625,
+        41.3359375,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "store-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "7\nstore",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        615,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1280\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1280)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1288\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1288)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 798,
+            "y": 307.8359375,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 307.8359375,
+            "right": 838,
+            "bottom": 332.078125,
+            "left": 798
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 675,
+            "y": 303.078125,
+            "width": 30,
+            "height": 24,
+            "top": 303.078125,
+            "right": 705,
+            "bottom": 327.078125,
+            "left": 675
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 615,
+            "y": 290.234375,
+            "width": 255,
+            "height": 51.84375,
+            "top": 290.234375,
+            "right": 870,
+            "bottom": 342.078125,
+            "left": 615
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "store",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        735.9921875,
+        304.234375,
+        41.0078125,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "want-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "8\nwant",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        615,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1293\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1293)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1301\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1301)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 675,
+            "y": 360.078125,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 360.078125,
+            "right": 715,
+            "bottom": 384.3203125,
+            "left": 675
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 808,
+            "y": 365.078125,
+            "width": 30,
+            "height": 24,
+            "top": 365.078125,
+            "right": 838,
+            "bottom": 389.078125,
+            "left": 808
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 615,
+            "y": 352.078125,
+            "width": 255,
+            "height": 51.84375,
+            "top": 352.078125,
+            "right": 870,
+            "bottom": 403.921875,
+            "left": 615
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "want",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        736.3828125,
+        366.078125,
+        40.234375,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "I'm good-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "9\nI'm good",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        615,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1306\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1306)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1314\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1314)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 798,
+            "y": 431.5234375,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 431.5234375,
+            "right": 838,
+            "bottom": 455.765625,
+            "left": 798
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 675,
+            "y": 426.765625,
+            "width": 30,
+            "height": 24,
+            "top": 426.765625,
+            "right": 705,
+            "bottom": 450.765625,
+            "left": 675
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 615,
+            "y": 413.921875,
+            "width": 255,
+            "height": 51.84375,
+            "top": 413.921875,
+            "right": 870,
+            "bottom": 465.765625,
+            "left": 615
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "I'm good",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        722.7265625,
+        427.921875,
+        67.546875,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "skirt-challenge-tap-token",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "0\nskirt",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        615,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "12px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 132 80\" width=\"132\" height=\"80\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1319\"><rect width=\"132\" height=\"80\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1319)\"><g style=\"display: none;\"><g><path></path></g></g><g style=\"display: none;\"><g><path></path></g></g></g></svg>",
+        "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 90 72\" width=\"90\" height=\"72\" preserveAspectRatio=\"xMidYMid meet\" style=\"width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;\"><defs><clipPath id=\"__lottie_element_1327\"><rect width=\"90\" height=\"72\" x=\"0\" y=\"0\"></rect></clipPath></defs><g clip-path=\"url(#__lottie_element_1327)\"><g style=\"display: none;\"><g><path></path></g></g></g></svg>"
+      ],
+      "images": [],
+      "iconDetails": [
+        {
+          "rect": {
+            "x": 798,
+            "y": 493.3671875,
+            "width": 40,
+            "height": 24.2421875,
+            "top": 493.3671875,
+            "right": 838,
+            "bottom": 517.609375,
+            "left": 798
+          },
+          "color": "rgb(75, 75, 75)"
+        },
+        {
+          "rect": {
+            "x": 675,
+            "y": 488.609375,
+            "width": 30,
+            "height": 24,
+            "top": 488.609375,
+            "right": 705,
+            "bottom": 512.609375,
+            "left": 675
+          },
+          "color": "rgb(75, 75, 75)"
+        }
+      ],
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 615,
+            "y": 475.765625,
+            "width": 255,
+            "height": 51.84375,
+            "top": 475.765625,
+            "right": 870,
+            "bottom": 527.609375,
+            "left": 615
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 228.390625,
+            "width": 600,
+            "height": 299.21875,
+            "top": 228.390625,
+            "right": 900,
+            "bottom": 527.609375,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "10px 30px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 300,
+            "y": 185,
+            "width": 600,
+            "height": 386,
+            "top": 185,
+            "right": 900,
+            "bottom": 571,
+            "left": 300
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "challenge-tap-token-text",
+      "tag": "SPAN",
+      "role": null,
+      "text": "skirt",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        738.6328125,
+        489.765625,
+        35.7265625,
+        21.84375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "21.85px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "player-skip",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "跳过",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        140,
+        639,
+        150,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "20.4px",
+        "color": "rgb(175, 175, 175)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 140,
+            "y": 639,
+            "width": 150,
+            "height": 50,
+            "top": 639,
+            "right": 290,
+            "bottom": 689,
+            "left": 140
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 594,
+            "width": 1000,
+            "height": 140,
+            "top": 594,
+            "right": 1100,
+            "bottom": 734,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "8px 16px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    },
+    {
+      "test": "player-next",
+      "tag": "BUTTON",
+      "role": null,
+      "text": "检查",
+      "enabled": false,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        909.9921875,
+        643,
+        150,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "20.4px",
+        "color": "rgb(175, 175, 175)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 909.9921875,
+            "y": 639,
+            "width": 150,
+            "height": 50,
+            "top": 639,
+            "right": 1059.9921875,
+            "bottom": 689,
+            "left": 909.9921875
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 594,
+            "width": 1000,
+            "height": 140,
+            "top": 594,
+            "right": 1100,
+            "bottom": 734,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "8px 16px"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    }
+  ],
+  "painted_boxes": [
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        142,
+        58,
+        884.5625,
+        16
+      ],
+      "css": {
+        "backgroundColor": "rgb(229, 229, 229)",
+        "borderColor": "rgb(60, 60, 60)",
+        "borderWidth": "0px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        142,
+        58,
+        884.5625,
+        16
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 150, 0)",
+        "borderColor": "rgb(255, 150, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        142,
+        58,
+        884.5625,
+        16
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 200, 0)",
+        "borderColor": "rgb(255, 200, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        146,
+        62,
+        745.5546875,
+        3
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 150, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "9999px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "我很好-challenge-tap-token",
+      "rect": [
+        330,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        348,
+        238.3125,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "裙子-challenge-tap-token",
+      "rect": [
+        330,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        348,
+        300.15625,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "想要-challenge-tap-token",
+      "rect": [
+        330,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        348,
+        362,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "店-challenge-tap-token",
+      "rect": [
+        330,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        348,
+        423.84375,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "桌子-challenge-tap-token",
+      "rect": [
+        330,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        348,
+        485.6875,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "table-challenge-tap-token",
+      "rect": [
+        615,
+        228.390625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        633,
+        238.3125,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "store-challenge-tap-token",
+      "rect": [
+        615,
+        290.234375,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        633,
+        300.15625,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "want-challenge-tap-token",
+      "rect": [
+        615,
+        352.078125,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        633,
+        362,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "I'm good-challenge-tap-token",
+      "rect": [
+        615,
+        413.921875,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        633,
+        423.84375,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "skirt-challenge-tap-token",
+      "rect": [
+        615,
+        475.765625,
+        255,
+        51.84375
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "12px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        633,
+        485.6875,
+        30,
+        30
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "8px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        0,
+        592,
+        1200,
+        140
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229) rgb(60, 60, 60) rgb(60, 60, 60)",
+        "borderWidth": "2px 0px 0px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "test": "player-skip",
+      "rect": [
+        140,
+        639,
+        150,
+        50
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    }
+  ],
+  "focus": {
+    "tag": "BUTTON",
+    "test": "我很好-challenge-tap-token",
+    "name": "",
+    "tab_index": 0,
+    "focus_visible": false,
+    "rect": [
+      330,
+      228.390625,
+      255,
+      51.84375
+    ],
+    "css": {
+      "outline": "rgb(75, 75, 75) none 3px",
+      "boxShadow": "none"
+    }
+  },
+  "capture_geometry": {
+    "content_rect_points": [
+      0,
+      0,
+      1200,
+      732
+    ],
+    "window_points": [
+      1200,
+      732
+    ],
+    "backing_scale": 2,
+    "reported_dom_dpr": 1,
+    "measurement": "CDP physical/css visual viewport ratio, not inferred from PNG",
+    "state_consistent": true
+  },
+  "capture_layout_metrics": {
+    "layoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2400,
+      "clientHeight": 1464
+    },
+    "visualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2400,
+      "clientHeight": 1464,
+      "scale": 1,
+      "zoom": 1
+    },
+    "contentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 2400,
+      "height": 1464
+    },
+    "cssLayoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1200,
+      "clientHeight": 732
+    },
+    "cssVisualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1200,
+      "clientHeight": 732,
+      "scale": 1,
+      "zoom": 1
+    },
+    "cssContentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 1200,
+      "height": 732
+    }
+  },
+  "snapshot_after_capture": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- heading \"选择配对\" [level=1]\n- button \"1 我很好\":\n  - text: 1 我很好\n  - img\n  - img\n- button \"2 裙子\":\n  - text: 2 裙子\n  - img\n  - img\n- button \"3 想要\":\n  - text: 3 想要\n  - img\n  - img\n- button \"4 店\":\n  - text: 4 店\n  - img\n  - img\n- button \"5 桌子\":\n  - text: 5 桌子\n  - img\n  - img\n- button \"6 table\":\n  - text: 6 table\n  - img\n  - img\n- button \"7 store\":\n  - text: 7 store\n  - img\n  - img\n- button \"8 want\":\n  - text: 8 want\n  - img\n  - img\n- button \"9 I'm good\":\n  - text: 9 I'm good\n  - img\n  - img\n- button \"0 skirt\":\n  - text: 0 skirt\n  - img\n  - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "capture_state_consistent": true,
+  "capture_method": "visible-page-cdp",
+  "screenshot": "q13-before.png"
+}

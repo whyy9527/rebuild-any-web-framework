@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/09f977a3e299d1418fde0fd053de0beb.svg",
+    "kind": "image",
+    "name": "en-chest-213ec7c3549f8648004e",
+    "source_file": "en-chest-213ec7c3549f8648004e.svg",
+    "render_width": 80,
+    "render_height": 90
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/8e1b4675455a4e453aac3681e0f5599e.svg",
+    "kind": "image",
+    "name": "en-chest-e8e36821ba8c1d8f2eb3",
+    "source_file": "en-chest-e8e36821ba8c1d8f2eb3.svg",
+    "render_width": 80,
+    "render_height": 90
+  }
+]

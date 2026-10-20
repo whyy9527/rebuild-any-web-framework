@@ -1,0 +1,59 @@
+{
+  "source": "Actual checked choice in positive reference feedback",
+  "entries": {
+    "cat": {
+      "spanish": "gato",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "step": 10
+    },
+    "dog": {
+      "spanish": "perro",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "step": 5
+    },
+    "water": {
+      "spanish": "agua",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "step": 6
+    },
+    "milk": {
+      "spanish": "leche",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "step": 3
+    },
+    "mom": {
+      "spanish": "mamá",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "step": 7
+    },
+    "dad": {
+      "spanish": "papá",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+      "step": 9
+    },
+    "book": {
+      "spanish": "libro",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+      "step": 10
+    },
+    "house": {
+      "spanish": "casa",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+      "step": 8
+    },
+    "suitcase": {
+      "spanish": "maleta",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+      "step": 6
+    },
+    "green": {
+      "spanish": "verde",
+      "evidence": "projects/duolingo-web/evidence/exploration-v4/sound-effects-speech-green.json",
+      "step": 0
+    }
+  },
+  "limitations": [
+    "Vocabulary learning is not exploration-policy self-improvement",
+    "Unknown prompts remain unresolved; no candidate answers are read"
+  ]
+}

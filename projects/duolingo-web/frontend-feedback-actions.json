@@ -1,0 +1,304 @@
+{
+  "revision": "actual-feedback-actions-v1",
+  "requirements": [
+    {
+      "id": "en-zh-feedback-sugar-feedback-非常好！",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "accessible_text",
+      "text": "非常好！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/sugar-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-feedback-太简单",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/sugar-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-feedback-太难",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/sugar-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-feedback-报错",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/sugar-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-easy-easy_selected",
+      "state": "en-zh-feedback-sugar-easy",
+      "kind": "interaction_boolean",
+      "field": "easy_selected",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-easy-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-easy-hard_selected",
+      "state": "en-zh-feedback-sugar-easy",
+      "kind": "interaction_boolean",
+      "field": "hard_selected",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-easy-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-hard-easy_selected",
+      "state": "en-zh-feedback-sugar-hard",
+      "kind": "interaction_boolean",
+      "field": "easy_selected",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-hard-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-hard-hard_selected",
+      "state": "en-zh-feedback-sugar-hard",
+      "kind": "interaction_boolean",
+      "field": "hard_selected",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-hard-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-deselected-easy_selected",
+      "state": "en-zh-feedback-sugar-deselected",
+      "kind": "interaction_boolean",
+      "field": "easy_selected",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-deselected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-deselected-hard_selected",
+      "state": "en-zh-feedback-sugar-deselected",
+      "kind": "interaction_boolean",
+      "field": "hard_selected",
+      "expected": false,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-deselected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-reason-0",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "accessible_text",
+      "text": "音频听起来不正确",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-reason-1",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "accessible_text",
+      "text": "提示有误",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-reason-2",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "accessible_text",
+      "text": "缺少音频",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-reason-3",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "accessible_text",
+      "text": "提示缺失",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-reason-4",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "accessible_text",
+      "text": "我的答案不应被接受",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-reason-5",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "accessible_text",
+      "text": "其他问题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-submit_disabled",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "interaction_boolean",
+      "field": "submit_disabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-open-geometry",
+      "state": "en-zh-feedback-sugar-report-open",
+      "kind": "element_geometry",
+      "element": "question-report",
+      "rect": [
+        478.5,
+        202.5,
+        243,
+        327
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-other-other_checked",
+      "state": "en-zh-feedback-sugar-report-other",
+      "kind": "interaction_boolean",
+      "field": "other_checked",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-other-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-other-submit_enabled",
+      "state": "en-zh-feedback-sugar-report-other",
+      "kind": "interaction_boolean",
+      "field": "submit_enabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-other-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-two-both_checked",
+      "state": "en-zh-feedback-sugar-report-two",
+      "kind": "interaction_boolean",
+      "field": "both_checked",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-two-selected.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-closed-report_closed",
+      "state": "en-zh-feedback-sugar-report-closed",
+      "kind": "interaction_boolean",
+      "field": "report_closed",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-cancelled.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-closed-feedback",
+      "state": "en-zh-feedback-sugar-report-closed",
+      "kind": "accessible_text",
+      "text": "非常好！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-cancelled.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-reopened-submit_disabled",
+      "state": "en-zh-feedback-sugar-report-reopened",
+      "kind": "interaction_boolean",
+      "field": "submit_disabled",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "en-zh-feedback-sugar-report-reopened-all_unchecked",
+      "state": "en-zh-feedback-sugar-report-reopened",
+      "kind": "interaction_boolean",
+      "field": "all_unchecked",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "feedback-same-state-pixels",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "pending",
+      "description": "same-state-pixels remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "feedback-audio",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "pending",
+      "description": "audio remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "feedback-other-challenge-report-options",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "pending",
+      "description": "other-challenge-report-options remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "feedback-submission-service",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "pending",
+      "description": "submission-service remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "feedback-difficulty-server-effect",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "pending",
+      "description": "difficulty-server-effect remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    },
+    {
+      "id": "feedback-escape-and-outside-native-dismissal",
+      "state": "en-zh-feedback-sugar-feedback",
+      "kind": "pending",
+      "description": "escape-and-outside-native-dismissal remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+      ]
+    }
+  ]
+}

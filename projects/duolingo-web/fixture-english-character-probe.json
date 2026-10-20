@@ -1,0 +1,65 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "english-bea-renderer-probe",
+      "title": "提供或接受饮料",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "renderer-probe",
+          "title": "角色渲染验证",
+          "questions": [
+            {
+              "id": "en-zh-render-q0",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "zh",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "kind": "word_tiles",
+              "hint": "牛奶",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "milk",
+                  "audioResource": "en-speech-09912932f7ffb9962c1d.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "goodbye",
+                  "audioResource": "en-speech-b8061861c8e117906917.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "correctFeedback": "不错哦！"
+            }
+          ]
+        }
+      ],
+      "pathNodes": [
+        {
+          "kind": "star",
+          "lessonIDs": [
+            "renderer-probe"
+          ],
+          "lessonCount": 4
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "Actual sixth-lesson q0 before/accepted feedback, exact source Rive buffer and public asset match",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+      "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+      "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+      "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+    ],
+    "scope": "Isolated actual renderer state; not full sixth lesson",
+    "unknown": "Full pose/timing/geometry/font/audio equality and all other characters remain unverified"
+  }
+}

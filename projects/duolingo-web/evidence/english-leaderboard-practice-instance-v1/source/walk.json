@@ -1,0 +1,3096 @@
+{
+  "session": {
+    "source": "Current rendered challenges; no initial-session or future-sequence read",
+    "challenges": [
+      {
+        "index": 0,
+        "content": {
+          "pairs": [
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+              "translation": "热"
+            },
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+              "translation": "茶"
+            },
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+              "translation": "你好"
+            },
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+              "translation": "欢迎"
+            }
+          ],
+          "type": "listenMatch"
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-listenMatch",
+          "visible_text": "选择配对\n1\n2\n3\n4\n5\n热\n6\n茶\n7\n欢迎\n8\n你好",
+          "content": {
+            "pairs": [
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+                "translation": "热"
+              },
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+                "translation": "茶"
+              },
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+                "translation": "你好"
+              },
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+                "translation": "欢迎"
+              }
+            ],
+            "type": "listenMatch"
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime",
+            "challenge.0.pairs.0.learningWord",
+            "challenge.0.pairs.1.learningWord",
+            "challenge.0.pairs.2.learningWord",
+            "challenge.0.pairs.3.learningWord"
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "content": {
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/244cf36bd8b473a3e76edfd4b917b9cb",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+            },
+            "gender": "MALE",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_CORRECT_Cropped.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_IDLE_Cropped.json",
+            "name": "JUNIOR",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/junior_avatar_icon.svg"
+            }
+          },
+          "prompt": "不客气",
+          "choices": [
+            "hot",
+            "you're welcome",
+            "welcome"
+          ],
+          "correctIndex": 1,
+          "options": [
+            {
+              "text": "hot",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/09ae7cd08ce0ccf8b53bea276444e746"
+            },
+            {
+              "text": "you're welcome",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183"
+            },
+            {
+              "text": "welcome",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/757c32ab0b97dfb57ad175e660c9195f"
+            }
+          ],
+          "type": "assist",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-assist",
+          "visible_text": "选择正确的答案\n不客气\n1\nhot\n2\nyou're welcome\n3\nwelcome",
+          "content": {
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/244cf36bd8b473a3e76edfd4b917b9cb",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/3749d548da7d349c89c158483beaff29"
+              },
+              "gender": "MALE",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_CORRECT_Cropped.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Junior_IDLE_Cropped.json",
+              "name": "JUNIOR",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/junior_avatar_icon.svg"
+              }
+            },
+            "prompt": "不客气",
+            "choices": [
+              "hot",
+              "you're welcome",
+              "welcome"
+            ],
+            "correctIndex": 1,
+            "options": [
+              {
+                "text": "hot",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/09ae7cd08ce0ccf8b53bea276444e746"
+              },
+              {
+                "text": "you're welcome",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183"
+              },
+              {
+                "text": "welcome",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/junioren/757c32ab0b97dfb57ad175e660c9195f"
+              }
+            ],
+            "type": "assist",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "content": {
+          "pairs": [
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+              "translation": "再见"
+            },
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+              "translation": "热"
+            },
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+              "translation": "欢迎"
+            },
+            {
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+              "translation": "牛奶"
+            }
+          ],
+          "type": "listenMatch"
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-listenMatch",
+          "visible_text": "选择配对\n1\n2\n3\n4\n5\n热\n6\n欢迎\n7\n再见\n8\n牛奶",
+          "content": {
+            "pairs": [
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+                "translation": "再见"
+              },
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+                "translation": "热"
+              },
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+                "translation": "欢迎"
+              },
+              {
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+                "translation": "牛奶"
+              }
+            ],
+            "type": "listenMatch"
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.pairs.0.learningWord",
+            "challenge.0.pairs.1.learningWord",
+            "challenge.0.pairs.2.learningWord",
+            "challenge.0.pairs.3.learningWord"
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "content": {
+          "prompt": "You're welcome, goodbye!",
+          "correctSolutions": [
+            "不客气，再见！"
+          ],
+          "correctTokens": [
+            "不",
+            "客气",
+            "再见"
+          ],
+          "choices": [
+            {
+              "text": "不"
+            },
+            {
+              "text": "客气"
+            },
+            {
+              "text": "再见"
+            },
+            {
+              "text": "也"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "You're",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/89c08230f6d0ef5e8cc08a891903a909",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "welcome",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/2ddc351c7aa1965c9204633eaf7f6354",
+              "hintTable": {}
+            },
+            {
+              "value": ","
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "goodbye",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/20216e811e082f2d472cb971d67795a0",
+              "hintTable": {}
+            },
+            {
+              "value": "!"
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f195e9533fc5e4f61a32eba3f03a8cf",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/85c5ecb885f7073a3aebeb775946e329"
+            },
+            "gender": "FEMALE",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Kai_CORRECT_Cropped.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Kai_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lin_IDLE_Cropped.json",
+            "name": "LIN",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/lin_avatar_icon.svg"
+            }
+          },
+          "type": "translate",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-translate",
+          "visible_text": "用中文（简体）写出这句话\nYou're welcome, goodbye!\n也\n客气\n再见\n不",
+          "content": {
+            "prompt": "You're welcome, goodbye!",
+            "correctSolutions": [
+              "不客气，再见！"
+            ],
+            "correctTokens": [
+              "不",
+              "客气",
+              "再见"
+            ],
+            "choices": [
+              {
+                "text": "不"
+              },
+              {
+                "text": "客气"
+              },
+              {
+                "text": "再见"
+              },
+              {
+                "text": "也"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1,
+              2
+            ],
+            "sourceLanguage": "en",
+            "targetLanguage": "zh",
+            "tokens": [
+              {
+                "value": "You're",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/89c08230f6d0ef5e8cc08a891903a909",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "welcome",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/2ddc351c7aa1965c9204633eaf7f6354",
+                "hintTable": {}
+              },
+              {
+                "value": ","
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "goodbye",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/20216e811e082f2d472cb971d67795a0",
+                "hintTable": {}
+              },
+              {
+                "value": "!"
+              }
+            ],
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f195e9533fc5e4f61a32eba3f03a8cf",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/85c5ecb885f7073a3aebeb775946e329"
+              },
+              "gender": "FEMALE",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Kai_CORRECT_Cropped.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Kai_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lin_IDLE_Cropped.json",
+              "name": "LIN",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/lin_avatar_icon.svg"
+              }
+            },
+            "type": "translate",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.compactTranslations",
+            "challenge.0.wrongTokens",
+            "challenge.0.grader",
+            "challenge.0.taggedKcIds",
+            "challenge.0.challengeDisplaySettings",
+            "challenge.0.weakWordPromptRanges",
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.5.hintTable.headers",
+            "challenge.0.tokens.5.hintTable.rows",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "content": {
+          "prompt": "coffee with milk",
+          "correctTokens": [
+            "coffee",
+            "with",
+            "milk"
+          ],
+          "choices": [
+            {
+              "text": "coffee",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/5132582196725fca0d6a34ce5661cc3e"
+            },
+            {
+              "text": "with",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/1b850880d1a90a8c7262b2c0ddf80359"
+            },
+            {
+              "text": "milk",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd"
+            },
+            {
+              "text": "tea",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/030ecb79383537aef91c4351722bf5bd"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "solutionTranslation": "咖啡加牛奶",
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "slowTts": "https://d1vq87e9lcf771.cloudfront.net/harrison/92f83879046049cd1d7e38965db1cff1",
+          "type": "listenTap",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-listenTap",
+          "visible_text": "选择听到的内容\ntea\nwith\nmilk\ncoffee",
+          "content": {
+            "prompt": "coffee with milk",
+            "correctTokens": [
+              "coffee",
+              "with",
+              "milk"
+            ],
+            "choices": [
+              {
+                "text": "coffee",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/5132582196725fca0d6a34ce5661cc3e"
+              },
+              {
+                "text": "with",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/1b850880d1a90a8c7262b2c0ddf80359"
+              },
+              {
+                "text": "milk",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd"
+              },
+              {
+                "text": "tea",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/030ecb79383537aef91c4351722bf5bd"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1,
+              2
+            ],
+            "solutionTranslation": "咖啡加牛奶",
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+            "slowTts": "https://d1vq87e9lcf771.cloudfront.net/harrison/92f83879046049cd1d7e38965db1cff1",
+            "type": "listenTap",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.wrongTokens",
+            "challenge.0.grader",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier"
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "content": {
+          "prompt": "coffee with sugar",
+          "correctSolutions": [
+            "咖啡加糖"
+          ],
+          "correctTokens": [
+            "咖啡",
+            "加糖"
+          ],
+          "choices": [
+            {
+              "text": "咖啡"
+            },
+            {
+              "text": "加糖"
+            },
+            {
+              "text": "还是"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1
+          ],
+          "sourceLanguage": "en",
+          "targetLanguage": "zh",
+          "tokens": [
+            {
+              "value": "coffee",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/37a5d19960f33d6f3f4c9c51719592d1",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "with",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/1550dccc1dd3fc2ec71f9683d211ce10",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "sugar",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/9d84f58c33b3aeb891db06c04292afb1",
+              "hintTable": {}
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+            },
+            "gender": "MALE",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_CORRECT_Cropped.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
+            "name": "EDDY",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/eddy_avatar_icon.svg"
+            }
+          },
+          "type": "translate",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-translate",
+          "visible_text": "用中文（简体）写出这句话\ncoffee with sugar\n还是\n加糖\n咖啡",
+          "content": {
+            "prompt": "coffee with sugar",
+            "correctSolutions": [
+              "咖啡加糖"
+            ],
+            "correctTokens": [
+              "咖啡",
+              "加糖"
+            ],
+            "choices": [
+              {
+                "text": "咖啡"
+              },
+              {
+                "text": "加糖"
+              },
+              {
+                "text": "还是"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1
+            ],
+            "sourceLanguage": "en",
+            "targetLanguage": "zh",
+            "tokens": [
+              {
+                "value": "coffee",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/37a5d19960f33d6f3f4c9c51719592d1",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "with",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/1550dccc1dd3fc2ec71f9683d211ce10",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "sugar",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/9d84f58c33b3aeb891db06c04292afb1",
+                "hintTable": {}
+              }
+            ],
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/b53f870ed38105349d4d83edf682d77f",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/096d0b1f6280b962cd7080a7736dd2bb"
+              },
+              "gender": "MALE",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_CORRECT_Cropped.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Coach_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Eddy_IDLE_Cropped.json",
+              "name": "EDDY",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/eddy_avatar_icon.svg"
+              }
+            },
+            "type": "translate",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.compactTranslations",
+            "challenge.0.wrongTokens",
+            "challenge.0.grader",
+            "challenge.0.taggedKcIds",
+            "challenge.0.challengeDisplaySettings",
+            "challenge.0.weakWordPromptRanges",
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "content": {
+          "prompt": "water and tea",
+          "correctTokens": [
+            "water",
+            "and",
+            "tea"
+          ],
+          "choices": [
+            {
+              "text": "water",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557"
+            },
+            {
+              "text": "and",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/3642ddb2554e44e12cf7136989720ec6"
+            },
+            {
+              "text": "tea",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c"
+            },
+            {
+              "text": "you're welcome",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9eb13ad7353d7950c095276529a65005"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2
+          ],
+          "solutionTranslation": "水和茶",
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "slowTts": "https://d1vq87e9lcf771.cloudfront.net/miranda/160023de332da72867a32c2629cdf56f",
+          "type": "listenTap",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-listenTap",
+          "visible_text": "选择听到的内容\nyou're welcome\ntea\nand\nwater",
+          "content": {
+            "prompt": "water and tea",
+            "correctTokens": [
+              "water",
+              "and",
+              "tea"
+            ],
+            "choices": [
+              {
+                "text": "water",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/213353ff7f5c63e6e963919b73981557"
+              },
+              {
+                "text": "and",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/3642ddb2554e44e12cf7136989720ec6"
+              },
+              {
+                "text": "tea",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c"
+              },
+              {
+                "text": "you're welcome",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/9eb13ad7353d7950c095276529a65005"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1,
+              2
+            ],
+            "solutionTranslation": "水和茶",
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+            "slowTts": "https://d1vq87e9lcf771.cloudfront.net/miranda/160023de332da72867a32c2629cdf56f",
+            "type": "listenTap",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.wrongTokens",
+            "challenge.0.grader",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier"
+          ]
+        }
+      },
+      {
+        "index": 7,
+        "content": {
+          "prompt": "Hello, I'd like more tea, please.",
+          "solutionTranslation": "你好，我想再来点茶，谢谢。",
+          "tokens": [
+            {
+              "value": "Hello",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/b60f94918e53a3aab0e6f5bcdcb4fadd",
+              "hintTable": {}
+            },
+            {
+              "value": ","
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "I'd",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/59949e9d92f009f35caf90ab88060322",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "like",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/f425ee21ca88e83107e77d3a70fd5d52",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "more",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/733396623982500c1f0b4e213325a76a",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "tea",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/fce7cd8d4864e4eeb807401dc3677bc1",
+              "hintTable": {}
+            },
+            {
+              "value": ","
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "please",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/14beb490a9ea6b21ce93f132a1bc5c53",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "correctTokens": [],
+          "choices": [],
+          "correctIndices": [],
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/122480f3b6c86522d5715c920764dc44",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/ad178aebb8dfd890ab602527440e685c"
+            },
+            "gender": "FEMALE",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Lucy_CORRECT_Cropped_WithCat.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Gma_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lucy_IDLE_Cropped.json",
+            "name": "LUCY",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/lucy_avatar_icon.svg"
+            }
+          },
+          "type": "speak",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-speak",
+          "visible_text": "朗读下面的句子\nHello, I'd like more tea, please.\n点击并开始录音",
+          "content": {
+            "prompt": "Hello, I'd like more tea, please.",
+            "solutionTranslation": "你好，我想再来点茶，谢谢。",
+            "tokens": [
+              {
+                "value": "Hello",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/b60f94918e53a3aab0e6f5bcdcb4fadd",
+                "hintTable": {}
+              },
+              {
+                "value": ","
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "I'd",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/59949e9d92f009f35caf90ab88060322",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "like",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/f425ee21ca88e83107e77d3a70fd5d52",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "more",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/733396623982500c1f0b4e213325a76a",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "tea",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/fce7cd8d4864e4eeb807401dc3677bc1",
+                "hintTable": {}
+              },
+              {
+                "value": ","
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "please",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/14beb490a9ea6b21ce93f132a1bc5c53",
+                "hintTable": {}
+              },
+              {
+                "value": "."
+              }
+            ],
+            "tts": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+            "correctTokens": [],
+            "choices": [],
+            "correctIndices": [],
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/122480f3b6c86522d5715c920764dc44",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/ad178aebb8dfd890ab602527440e685c"
+              },
+              "gender": "FEMALE",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Lucy_CORRECT_Cropped_WithCat.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Gma_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Lucy_IDLE_Cropped.json",
+              "name": "LUCY",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/lucy_avatar_icon.svg"
+              }
+            },
+            "type": "speak",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.soundId",
+            "challenge.0.threshold",
+            "challenge.0.wrongTokens",
+            "challenge.0.taggedKcIds",
+            "challenge.0.speakGrader",
+            "challenge.0.useImmersiveUi",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.3.hintTable.headers",
+            "challenge.0.tokens.3.hintTable.rows",
+            "challenge.0.tokens.5.hintTable.headers",
+            "challenge.0.tokens.5.hintTable.rows",
+            "challenge.0.tokens.7.hintTable.headers",
+            "challenge.0.tokens.7.hintTable.rows",
+            "challenge.0.tokens.9.hintTable.headers",
+            "challenge.0.tokens.9.hintTable.rows",
+            "challenge.0.tokens.12.hintTable.headers",
+            "challenge.0.tokens.12.hintTable.rows",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      }
+    ]
+  },
+  "observed": [
+    {
+      "index": 0,
+      "actions": [],
+      "type": "listenMatch",
+      "before": "- button:\n  - img\n- progressbar:\n  - img\n- heading \"选择配对\" [level=1]\n- button \"1\":\n  - text: \"1\"\n  - img\n  - img\n  - img\n  - img\n- button \"2\":\n  - text: \"2\"\n  - img\n  - img\n  - img\n  - img\n- button \"3\":\n  - text: \"3\"\n  - img\n  - img\n  - img\n  - img\n- button \"4\":\n  - text: \"4\"\n  - img\n  - img\n  - img\n  - img\n- button \"5 热\":\n  - text: 5 热\n  - img\n  - img\n- button \"6 茶\":\n  - text: 6 茶\n  - img\n  - img\n- button \"7 欢迎\":\n  - text: 7 欢迎\n  - img\n  - img\n- button \"8 你好\":\n  - text: 8 你好\n  - img\n  - img\n- button \"现在不做听力题\"\n- button \"检查\" [disabled]",
+      "heading": "选择配对",
+      "dom_type": "challenge challenge-listenMatch",
+      "images": [],
+      "media_before": [],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-0-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "listenMatch",
+          "prompt": null,
+          "choices": [
+            "热",
+            "茶",
+            "你好",
+            "欢迎"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-listenMatch",
+          "text": "选择配对\n1\n2\n3\n4\n5\n热\n6\n茶\n7\n欢迎\n8\n你好",
+          "choices": [
+            "热",
+            "茶",
+            "欢迎",
+            "你好"
+          ],
+          "prompts": [],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择配对"
+        },
+        {
+          "test": "欢迎-challenge-tap-token",
+          "text": "1"
+        },
+        {
+          "test": "茶-challenge-tap-token",
+          "text": "2"
+        },
+        {
+          "test": "热-challenge-tap-token",
+          "text": "3"
+        },
+        {
+          "test": "你好-challenge-tap-token",
+          "text": "4"
+        },
+        {
+          "test": "热-challenge-tap-token",
+          "text": "5热"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "热"
+        },
+        {
+          "test": "茶-challenge-tap-token",
+          "text": "6茶"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "茶"
+        },
+        {
+          "test": "欢迎-challenge-tap-token",
+          "text": "7欢迎"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "欢迎"
+        },
+        {
+          "test": "你好-challenge-tap-token",
+          "text": "8你好"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "你好"
+        }
+      ],
+      "right_text": [
+        "热",
+        "茶",
+        "欢迎",
+        "你好"
+      ],
+      "pair_audio_order": [
+        {
+          "left_index": 0,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357"
+          ],
+          "translation": "欢迎"
+        },
+        {
+          "left_index": 1,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c"
+          ],
+          "translation": "茶"
+        },
+        {
+          "left_index": 2,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81"
+          ],
+          "translation": "热"
+        },
+        {
+          "left_index": 3,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4"
+          ],
+          "translation": "你好"
+        }
+      ],
+      "left_rects": [
+        {
+          "x": 330,
+          "y": 247,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 330,
+          "y": 315,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 330,
+          "y": 383,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 330,
+          "y": 451,
+          "width": 255,
+          "height": 58
+        }
+      ],
+      "right_rects": [
+        {
+          "x": 615,
+          "y": 247,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 615,
+          "y": 315,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 610.5045166015625,
+          "y": 381.9775085449219,
+          "width": 263.990966796875,
+          "height": 60.04498291015625
+        },
+        {
+          "x": 615,
+          "y": 451,
+          "width": 255,
+          "height": 58
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- heading \"选择配对\" [level=1]\n- button \"1\" [disabled]:\n  - text: \"1\"\n  - img\n  - img\n  - img\n  - img\n- button \"2\" [disabled]:\n  - text: \"2\"\n  - img\n  - img\n  - img\n  - img\n- button \"3\" [disabled]:\n  - text: \"3\"\n  - img\n  - img\n  - img\n  - img\n- button \"4\" [disabled]:\n  - text: \"4\"\n  - img\n  - img\n  - img\n  - img\n- button \"5 热\" [disabled]:\n  - text: 5 热\n  - img\n  - img\n- button \"6 茶\" [disabled]:\n  - text: 6 茶\n  - img\n  - img\n- button \"7 欢迎\" [disabled]:\n  - text: 7 欢迎\n  - img\n  - img\n- button \"8 你好\" [disabled]:\n  - text: 8 你好\n  - img\n  - img\n- heading \"正确！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9336713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9336713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9336713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9336713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9336713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9336713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9336846,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9336846,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9336846,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9336846,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9336846,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9336846,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+          "at": 9336915,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+          "at": 9336915,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+          "at": 9336915,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+          "at": 9336915,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+          "at": 9336915,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/5a642b17f3d75eebbfcdb07b26327b6c",
+          "at": 9336915,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9337047,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9337047,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9337047,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9337047,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9337047,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9337047,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+          "at": 9337115,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+          "at": 9337115,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+          "at": 9337115,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+          "at": 9337115,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+          "at": 9337115,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/fd03b8555cf102bc752a090bf64a6f81",
+          "at": 9337115,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9337247,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9337247,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9337247,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9337247,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9337247,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9337247,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+          "at": 9337314,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+          "at": 9337314,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+          "at": 9337314,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+          "at": 9337314,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+          "at": 9337314,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/68544a04ae4502ac014342338234ebd4",
+          "at": 9337314,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-0-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 1,
+      "actions": [
+        {
+          "select": "you're welcome"
+        }
+      ],
+      "type": "assist",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"选择正确的答案\" [level=1]\n- text: 不客气\n- img\n- radiogroup \"choice\":\n  - radio \"1 hot\":\n    - text: 1 hot\n    - img\n    - img\n  - radio \"2 you're welcome\":\n    - text: 2 you're welcome\n    - img\n    - img\n  - radio \"3 welcome\":\n    - text: 3 welcome\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "选择正确的答案",
+      "dom_type": "challenge challenge-assist",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 9337595,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9337595,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9337595,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9337595,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9337595,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9337595,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-1-before.png",
+      "canvases": [
+        {
+          "source_frame": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-1-canvas-0.png",
+          "rect": {
+            "x": 287.647216796875,
+            "y": 108.89773559570312,
+            "width": 153.39999389648438,
+            "height": 227.49996948242188
+          },
+          "pixels": [
+            153,
+            227
+          ]
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "assist",
+          "prompt": "不客气",
+          "choices": [
+            "hot",
+            "you're welcome",
+            "welcome"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-assist",
+          "text": "选择正确的答案\n不客气\n1\nhot\n2\nyou're welcome\n3\nwelcome",
+          "choices": [
+            "hot",
+            "you're welcome",
+            "welcome"
+          ],
+          "prompts": [],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择正确的答案"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "1hot"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "hot"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "2you're welcome"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "you're welcome"
+        },
+        {
+          "test": "challenge-choice",
+          "text": "3welcome"
+        },
+        {
+          "test": "challenge-judge-text",
+          "text": "welcome"
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 2 题\n- heading \"选择正确的答案\" [level=1]\n- text: 不客气\n- img\n- radiogroup \"choice\":\n  - radio \"1 hot\" [disabled]:\n    - text: 1 hot\n    - img\n    - img\n  - radio \"2 you're welcome\" [checked] [disabled]:\n    - text: 2 you're welcome\n    - img\n    - img\n  - radio \"3 welcome\" [disabled]:\n    - text: 3 welcome\n    - img\n    - img\n- heading \"非常好！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183",
+          "at": 9338347,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183",
+          "at": 9338347,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183",
+          "at": 9338347,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183",
+          "at": 9338347,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183",
+          "at": 9338347,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/junioren/3f75774fce6ff1979aa4071831de3183",
+          "at": 9338347,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-1-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 2,
+      "actions": [],
+      "type": "listenMatch",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"选择配对\" [level=1]\n- button \"1\":\n  - text: \"1\"\n  - img\n  - img\n  - img\n  - img\n- button \"2\":\n  - text: \"2\"\n  - img\n  - img\n  - img\n  - img\n- button \"3\":\n  - text: \"3\"\n  - img\n  - img\n  - img\n  - img\n- button \"4\":\n  - text: \"4\"\n  - img\n  - img\n  - img\n  - img\n- button \"5 热\":\n  - text: 5 热\n  - img\n  - img\n- button \"6 欢迎\":\n  - text: 6 欢迎\n  - img\n  - img\n- button \"7 再见\":\n  - text: 7 再见\n  - img\n  - img\n- button \"8 牛奶\":\n  - text: 8 牛奶\n  - img\n  - img\n- button \"现在不做听力题\"\n- button \"检查\" [disabled]",
+      "heading": "选择配对",
+      "dom_type": "challenge challenge-listenMatch",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 9338524,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338524,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338524,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338524,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338524,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338524,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9338525,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-2-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "listenMatch",
+          "prompt": null,
+          "choices": [
+            "再见",
+            "热",
+            "欢迎",
+            "牛奶"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-listenMatch",
+          "text": "选择配对\n1\n2\n3\n4\n5\n热\n6\n欢迎\n7\n再见\n8\n牛奶",
+          "choices": [
+            "热",
+            "欢迎",
+            "再见",
+            "牛奶"
+          ],
+          "prompts": [],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择配对"
+        },
+        {
+          "test": "牛奶-challenge-tap-token",
+          "text": "1"
+        },
+        {
+          "test": "热-challenge-tap-token",
+          "text": "2"
+        },
+        {
+          "test": "欢迎-challenge-tap-token",
+          "text": "3"
+        },
+        {
+          "test": "再见-challenge-tap-token",
+          "text": "4"
+        },
+        {
+          "test": "热-challenge-tap-token",
+          "text": "5热"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "热"
+        },
+        {
+          "test": "欢迎-challenge-tap-token",
+          "text": "6欢迎"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "欢迎"
+        },
+        {
+          "test": "再见-challenge-tap-token",
+          "text": "7再见"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "再见"
+        },
+        {
+          "test": "牛奶-challenge-tap-token",
+          "text": "8牛奶"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "牛奶"
+        }
+      ],
+      "right_text": [
+        "热",
+        "欢迎",
+        "再见",
+        "牛奶"
+      ],
+      "pair_audio_order": [
+        {
+          "left_index": 0,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd"
+          ],
+          "translation": "牛奶"
+        },
+        {
+          "left_index": 1,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148"
+          ],
+          "translation": "热"
+        },
+        {
+          "left_index": 2,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357"
+          ],
+          "translation": "欢迎"
+        },
+        {
+          "left_index": 3,
+          "played_audio": [
+            "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745"
+          ],
+          "translation": "再见"
+        }
+      ],
+      "left_rects": [
+        {
+          "x": 330,
+          "y": 247,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 330,
+          "y": 315,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 330,
+          "y": 383,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 330,
+          "y": 451,
+          "width": 255,
+          "height": 58
+        }
+      ],
+      "right_rects": [
+        {
+          "x": 615,
+          "y": 247,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 615,
+          "y": 315,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 615,
+          "y": 383,
+          "width": 255,
+          "height": 58
+        },
+        {
+          "x": 615,
+          "y": 451,
+          "width": 255,
+          "height": 58
+        }
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 3 题\n- heading \"选择配对\" [level=1]\n- button \"1\" [disabled]:\n  - text: \"1\"\n  - img\n  - img\n  - img\n  - img\n- button \"2\" [disabled]:\n  - text: \"2\"\n  - img\n  - img\n  - img\n  - img\n- button \"3\" [disabled]:\n  - text: \"3\"\n  - img\n  - img\n  - img\n  - img\n- button \"4\" [disabled]:\n  - text: \"4\"\n  - img\n  - img\n  - img\n  - img\n- button \"5 热\" [disabled]:\n  - text: 5 热\n  - img\n  - img\n- button \"6 欢迎\" [disabled]:\n  - text: 6 欢迎\n  - img\n  - img\n- button \"7 再见\" [disabled]:\n  - text: 7 再见\n  - img\n  - img\n- button \"8 牛奶\" [disabled]:\n  - text: 8 牛奶\n  - img\n  - img\n- heading \"好棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+          "at": 9339114,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+          "at": 9339114,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+          "at": 9339114,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+          "at": 9339114,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+          "at": 9339114,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/e6c3c757843138c8197b866a2ed814dd",
+          "at": 9339114,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9339245,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9339245,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9339245,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9339245,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9339245,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+          "at": 9339245,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+          "at": 9339316,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+          "at": 9339316,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+          "at": 9339316,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+          "at": 9339316,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+          "at": 9339316,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/1e98d4a348c99786b74fd6e5feb43148",
+          "at": 9339316,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9339447,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9339447,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9339447,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9339447,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9339447,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+          "at": 9339447,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9339513,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9339513,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9339513,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9339513,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9339513,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/f4417543a069a2ed4e8b391a68e83357",
+          "at": 9339513,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9339645,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9339645,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9339645,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9339645,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9339645,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+          "at": 9339645,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+          "at": 9339714,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+          "at": 9339714,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+          "at": 9339714,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+          "at": 9339714,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+          "at": 9339714,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/81033dd3101e4158eee372fd24897745",
+          "at": 9339714,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-2-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 3,
+      "actions": [
+        {
+          "word": "不",
+          "occurrence": 0
+        },
+        {
+          "word": "客气",
+          "occurrence": 0
+        },
+        {
+          "word": "再见",
+          "occurrence": 0
+        }
+      ],
+      "type": "translate",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"也\"\n- button \"客气\"\n- button \"再见\"\n- button \"不\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 9339960,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339960,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339960,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339960,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339960,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339960,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339961,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339961,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339961,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339961,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339961,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 9339961,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 9339990,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 9339990,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 9339990,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 9339990,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 9339990,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/linen/c60f42d560d69b6e5a413396f7315a07",
+          "at": 9339990,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-3-before.png",
+      "canvases": [
+        {
+          "source_frame": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-3-canvas-0.png",
+          "rect": {
+            "x": 291.72637939453125,
+            "y": 136.44033813476562,
+            "width": 135.70001220703125,
+            "height": 201.25
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "You're welcome, goodbye!",
+          "choices": [
+            "不",
+            "客气",
+            "再见",
+            "也"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "用中文（简体）写出这句话\nYou're welcome, goodbye!\n也\n客气\n再见\n不",
+          "choices": [
+            "也",
+            "客气",
+            "再见",
+            "不"
+          ],
+          "prompts": [
+            "You're welcome, goodbye!"
+          ],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized equality with independently read visible hint container"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "也客气再见不"
+        },
+        {
+          "test": "也-challenge-tap-token",
+          "text": "也"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "也"
+        },
+        {
+          "test": "客气-challenge-tap-token",
+          "text": "客气"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "客气"
+        },
+        {
+          "test": "再见-challenge-tap-token",
+          "text": "再见"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "再见"
+        },
+        {
+          "test": "不-challenge-tap-token",
+          "text": "不"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "不"
+        }
+      ],
+      "word_bank": [
+        "也",
+        "客气",
+        "再见",
+        "不"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 4 题\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"也\" [disabled]\n- button \"客气\" [disabled]\n- button \"再见\" [disabled]\n- button \"不\" [disabled]\n- heading \"好棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"不\" [disabled]\n- button \"客气\" [disabled]\n- button \"再见\" [disabled]",
+      "media": [],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-3-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 4,
+      "actions": [
+        {
+          "word": "coffee",
+          "occurrence": 0
+        },
+        {
+          "word": "with",
+          "occurrence": 0
+        },
+        {
+          "word": "milk",
+          "occurrence": 0
+        }
+      ],
+      "type": "listenTap",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"选择听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- button \"tea\"\n- button \"with\"\n- button \"milk\"\n- button \"coffee\"\n- button \"现在不做听力题\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+      "heading": "选择听到的内容",
+      "dom_type": "challenge challenge-listenTap",
+      "images": [],
+      "media_before": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341052,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341052,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341052,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341052,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341052,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341052,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-4-before.png",
+      "canvases": [],
+      "identity_playback": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "listenTap",
+          "prompt": "coffee with milk",
+          "choices": [
+            "coffee",
+            "with",
+            "milk",
+            "tea"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-listenTap",
+          "text": "选择听到的内容\ntea\nwith\nmilk\ncoffee",
+          "choices": [
+            "tea",
+            "with",
+            "milk",
+            "coffee"
+          ],
+          "prompts": [],
+          "playedAudio": [
+            "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89"
+          ]
+        },
+        "prompt_check": "exact source URL from current-question explicit playback; acoustic output not verified"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择听到的内容"
+        },
+        {
+          "test": "word-bank",
+          "text": "teawithmilkcoffee"
+        },
+        {
+          "test": "tea-challenge-tap-token",
+          "text": "tea"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "tea"
+        },
+        {
+          "test": "with-challenge-tap-token",
+          "text": "with"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "with"
+        },
+        {
+          "test": "milk-challenge-tap-token",
+          "text": "milk"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "milk"
+        },
+        {
+          "test": "coffee-challenge-tap-token",
+          "text": "coffee"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "coffee"
+        }
+      ],
+      "word_bank": [
+        "tea",
+        "with",
+        "milk",
+        "coffee"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 5 题\n- heading \"选择听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- button \"tea\" [disabled]\n- button \"with\" [disabled]\n- button \"milk\" [disabled]\n- button \"coffee\" [disabled]\n- heading \"不错哦！\" [level=2]\n- text: 意思是： 咖啡加牛奶\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"coffee\" [disabled]\n- button \"with\" [disabled]\n- button \"milk\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/4240ebdf2d0032a0db08a1d9d92d9d89",
+          "at": 9341612,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-4-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 5,
+      "actions": [
+        {
+          "word": "咖啡",
+          "occurrence": 0
+        },
+        {
+          "word": "加糖",
+          "occurrence": 0
+        }
+      ],
+      "type": "translate",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"还是\"\n- button \"加糖\"\n- button \"咖啡\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "heading": "用中文（简体）写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "at": 9342086,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "at": 9342086,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "at": 9342086,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "at": 9342086,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "at": 9342086,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/eddyen/c4674375680116810d24cfbf60be1560",
+          "at": 9342086,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-5-before.png",
+      "canvases": [
+        {
+          "source_frame": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-5-canvas-0.png",
+          "rect": {
+            "x": 295.08612060546875,
+            "y": 152.25,
+            "width": 129.79998779296875,
+            "height": 192.5
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "coffee with sugar",
+          "choices": [
+            "咖啡",
+            "加糖",
+            "还是"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "用中文（简体）写出这句话\ncoffee with sugar\n还是\n加糖\n咖啡",
+          "choices": [
+            "还是",
+            "加糖",
+            "咖啡"
+          ],
+          "prompts": [
+            "coffee with sugar"
+          ],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized equality with independently read visible hint container"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用中文（简体）写出这句话"
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "hint-token",
+          "text": ""
+        },
+        {
+          "test": "word-bank",
+          "text": "还是加糖咖啡"
+        },
+        {
+          "test": "还是-challenge-tap-token",
+          "text": "还是"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "还是"
+        },
+        {
+          "test": "加糖-challenge-tap-token",
+          "text": "加糖"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "加糖"
+        },
+        {
+          "test": "咖啡-challenge-tap-token",
+          "text": "咖啡"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "咖啡"
+        }
+      ],
+      "word_bank": [
+        "还是",
+        "加糖",
+        "咖啡"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 6 题\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"还是\" [disabled]\n- button \"加糖\" [disabled]\n- button \"咖啡\" [disabled]\n- heading \"好棒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"咖啡\" [disabled]\n- button \"加糖\" [disabled]",
+      "media": [],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-5-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 6,
+      "actions": [
+        {
+          "word": "water",
+          "occurrence": 0
+        },
+        {
+          "word": "and",
+          "occurrence": 0
+        },
+        {
+          "word": "tea",
+          "occurrence": 0
+        }
+      ],
+      "type": "listenTap",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"选择听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- button \"you're welcome\"\n- button \"tea\"\n- button \"and\"\n- button \"water\"\n- button \"现在不做听力题\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+      "heading": "选择听到的内容",
+      "dom_type": "challenge challenge-listenTap",
+      "images": [],
+      "media_before": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343116,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343116,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343116,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343116,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343116,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343116,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-6-before.png",
+      "canvases": [],
+      "identity_playback": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "listenTap",
+          "prompt": "water and tea",
+          "choices": [
+            "water",
+            "and",
+            "tea",
+            "you're welcome"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-listenTap",
+          "text": "选择听到的内容\nyou're welcome\ntea\nand\nwater",
+          "choices": [
+            "you're welcome",
+            "tea",
+            "and",
+            "water"
+          ],
+          "prompts": [],
+          "playedAudio": [
+            "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f"
+          ]
+        },
+        "prompt_check": "exact source URL from current-question explicit playback; acoustic output not verified"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "选择听到的内容"
+        },
+        {
+          "test": "word-bank",
+          "text": "you're welcometeaandwater"
+        },
+        {
+          "test": "welcome-challenge-tap-token you're",
+          "text": "you're welcome"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "you're welcome"
+        },
+        {
+          "test": "tea-challenge-tap-token",
+          "text": "tea"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "tea"
+        },
+        {
+          "test": "and-challenge-tap-token",
+          "text": "and"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "and"
+        },
+        {
+          "test": "water-challenge-tap-token",
+          "text": "water"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "water"
+        }
+      ],
+      "word_bank": [
+        "you're welcome",
+        "tea",
+        "and",
+        "water"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar: 连对 7 题\n- heading \"选择听到的内容\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- button \"water\" [disabled]\n- button \"you're welcome\" [disabled]\n- button \"tea\" [disabled]\n- button \"and\" [disabled]\n- button \"water\" [disabled]\n- heading \"非常好！\" [level=2]\n- text: 意思是： 水和茶\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"and\" [disabled]\n- button \"tea\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/f1928be829a86eb565a4dc92fb84252f",
+          "at": 9343713,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-6-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 7,
+      "actions": [],
+      "type": "speak",
+      "before": "- button:\n  - img\n- progressbar\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\":\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- button \"现在不做口语题\"\n- button \"检查\" [disabled]",
+      "heading": "朗读下面的句子",
+      "dom_type": "challenge challenge-speak",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/images/3ba488c6adbc110069936876062c593a.svg"
+        }
+      ],
+      "media_before": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "at": 9344430,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "at": 9344430,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "at": 9344430,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "at": 9344430,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "at": 9344430,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/lucyen/a78a87419f79937be3bee79059328b94",
+          "at": 9344430,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-7-before.png",
+      "canvases": [
+        {
+          "source_frame": "projects/duolingo-web/evidence/english-leaderboard-practice-instance-v1/source/leaderboard-instance-v1-question-7-canvas-0.png",
+          "rect": {
+            "x": 294.3666687011719,
+            "y": 216.06817626953125,
+            "width": 141.60000610351562,
+            "height": 210
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "coverage": {
+        "kind": "uncovered_type",
+        "expected_type": "speak",
+        "actual_type": "challenge challenge-speak",
+        "next_action": "Observe and implement this type; do not classify an unsupported choice schema as source content drift."
+      }
+    }
+  ],
+  "interludes": [],
+  "failure": "Error: Uncovered type: speak",
+  "stopped": null,
+  "answered": 7,
+  "accepted": 7,
+  "step_budget": 24,
+  "steps_completed": 7,
+  "outcome": "failed",
+  "final": "- button:\n  - img\n- progressbar\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\":\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- button \"现在不做口语题\"\n- button \"检查\" [disabled]",
+  "limitations": [
+    "Actual generated exercise observations; public solutions are not blind exploration evidence. Media invocations are not acoustic output evidence. Unknown result/profile pages are preserved without clicking Continue. Current-mode media_before contains only events since this invocation or the previous feedback; unrelated earlier history is not duplicated."
+  ],
+  "observed_at": "2026-10-11T11:24:47.563Z"
+}

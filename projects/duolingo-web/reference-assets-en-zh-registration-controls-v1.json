@@ -1,0 +1,29 @@
+[
+  {
+    "name": "en-registration-clear",
+    "kind": "image",
+    "source_file": "en-registration-clear.svg",
+    "source_evidence": "projects/duolingo-web/evidence/english-registration-controls-v1/source/clear-before.json",
+    "resolved_color": "rgb(175, 175, 175)",
+    "render_width": 24,
+    "render_height": 24
+  },
+  {
+    "name": "en-registration-show-password",
+    "kind": "image",
+    "source_file": "en-registration-show-password.svg",
+    "source_evidence": "projects/duolingo-web/evidence/english-registration-controls-v1/source/password-hidden.json",
+    "resolved_color": "rgb(28, 176, 246)",
+    "render_width": 24,
+    "render_height": 24
+  },
+  {
+    "name": "en-registration-hide-password",
+    "kind": "image",
+    "source_file": "en-registration-hide-password.svg",
+    "source_evidence": "projects/duolingo-web/evidence/english-registration-controls-v1/source/password-visible.json",
+    "resolved_color": "rgb(28, 176, 246)",
+    "render_width": 24,
+    "render_height": 24
+  }
+]

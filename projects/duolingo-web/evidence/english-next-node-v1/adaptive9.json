@@ -1,0 +1,11 @@
+{
+  "type": "challenge challenge-translate",
+  "before": "- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"茶\"\n- button \"热咖啡\"",
+  "text": "用中文（简体）写出这句话\ntea\n茶\n热咖啡",
+  "observed_at": "2026-10-10T17:13:55.375Z",
+  "bank": [
+    "茶",
+    "热咖啡"
+  ],
+  "feedback": "- button:\n  - img\n- progressbar: 连对 2 题\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"茶\" [disabled]\n- button \"热咖啡\" [disabled]\n- heading \"真厉害！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"茶\" [disabled]"
+}

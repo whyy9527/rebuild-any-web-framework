@@ -1,0 +1,1590 @@
+{
+  "revision": "observed-course-copy-v4",
+  "requirements": [
+    {
+      "id": "l1-q1-text-0",
+      "state": "l1-q1",
+      "kind": "accessible_text",
+      "text": "Which one of these is “cat”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q1-text-1",
+      "state": "l1-q1",
+      "kind": "accessible_text",
+      "text": "papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q1-text-2",
+      "state": "l1-q1",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q1-text-3",
+      "state": "l1-q1",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q2-text-0",
+      "state": "l1-q2",
+      "kind": "accessible_text",
+      "text": "Which one of these is “dog”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q2-text-1",
+      "state": "l1-q2",
+      "kind": "accessible_text",
+      "text": "mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q2-text-2",
+      "state": "l1-q2",
+      "kind": "accessible_text",
+      "text": "papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q2-text-3",
+      "state": "l1-q2",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q3-text-0",
+      "state": "l1-q3",
+      "kind": "accessible_text",
+      "text": "Which one of these is “water”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q3-text-1",
+      "state": "l1-q3",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q3-text-2",
+      "state": "l1-q3",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q3-text-3",
+      "state": "l1-q3",
+      "kind": "accessible_text",
+      "text": "papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q4-text-0",
+      "state": "l1-q4",
+      "kind": "accessible_text",
+      "text": "Which one of these is “milk”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q4-text-1",
+      "state": "l1-q4",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q4-text-2",
+      "state": "l1-q4",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q4-text-3",
+      "state": "l1-q4",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-0",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "Select the matching pairs",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-1",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "water",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-2",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-3",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-4",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-5",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "milk",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-6",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-7",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-8",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-9",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "mom",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q5-text-10",
+      "state": "l1-q5",
+      "kind": "accessible_text",
+      "text": "mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q6-text-0",
+      "state": "l1-q6",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q6-text-1",
+      "state": "l1-q6",
+      "kind": "accessible_text",
+      "text": "dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q6-text-2",
+      "state": "l1-q6",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q6-text-3",
+      "state": "l1-q6",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q6-text-4",
+      "state": "l1-q6",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q7-text-0",
+      "state": "l1-q7",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q7-text-1",
+      "state": "l1-q7",
+      "kind": "accessible_text",
+      "text": "water",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q7-text-2",
+      "state": "l1-q7",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q7-text-3",
+      "state": "l1-q7",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q7-text-4",
+      "state": "l1-q7",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q8-text-0",
+      "state": "l1-q8",
+      "kind": "accessible_text",
+      "text": "Which one of these is “mom”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q8-text-1",
+      "state": "l1-q8",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q8-text-2",
+      "state": "l1-q8",
+      "kind": "accessible_text",
+      "text": "mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q8-text-3",
+      "state": "l1-q8",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q9-text-0",
+      "state": "l1-q9",
+      "kind": "accessible_text",
+      "text": "Which one of these is “dad”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q9-text-1",
+      "state": "l1-q9",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q9-text-2",
+      "state": "l1-q9",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q9-text-3",
+      "state": "l1-q9",
+      "kind": "accessible_text",
+      "text": "papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q10-text-0",
+      "state": "l1-q10",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q10-text-1",
+      "state": "l1-q10",
+      "kind": "accessible_text",
+      "text": "dad",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q10-text-2",
+      "state": "l1-q10",
+      "kind": "accessible_text",
+      "text": "mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q10-text-3",
+      "state": "l1-q10",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q10-text-4",
+      "state": "l1-q10",
+      "kind": "accessible_text",
+      "text": "papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q11-text-0",
+      "state": "l1-q11",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q11-text-1",
+      "state": "l1-q11",
+      "kind": "accessible_text",
+      "text": "cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q11-text-2",
+      "state": "l1-q11",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q11-text-3",
+      "state": "l1-q11",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q11-text-4",
+      "state": "l1-q11",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-0",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "Select the matching pairs",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-1",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "mom",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-2",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-3",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-4",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-5",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "milk",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-6",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-7",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-8",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-9",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "water",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l1-q12-text-10",
+      "state": "l1-q12",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q1-text-0",
+      "state": "l2-q1",
+      "kind": "accessible_text",
+      "text": "Which one of these is “book”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q1-text-1",
+      "state": "l2-q1",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q1-text-2",
+      "state": "l2-q1",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q1-text-3",
+      "state": "l2-q1",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q2-text-0",
+      "state": "l2-q2",
+      "kind": "accessible_text",
+      "text": "Which one of these is “house”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q2-text-1",
+      "state": "l2-q2",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q2-text-2",
+      "state": "l2-q2",
+      "kind": "accessible_text",
+      "text": "casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q2-text-3",
+      "state": "l2-q2",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q3-text-0",
+      "state": "l2-q3",
+      "kind": "accessible_text",
+      "text": "Which one of these is “suitcase”?",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q3-text-1",
+      "state": "l2-q3",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q3-text-2",
+      "state": "l2-q3",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q3-text-3",
+      "state": "l2-q3",
+      "kind": "accessible_text",
+      "text": "maleta",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-0",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "Select the matching pairs",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-1",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "dad",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-2",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-3",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "house",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-4",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-5",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-6",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-7",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "mom",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-8",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-9",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "book",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q4-text-10",
+      "state": "l2-q4",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-0",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "Select the matching pairs",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-1",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "suitcase",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-2",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "maleta",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-3",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "milk",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-4",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "leche",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-5",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "water",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-6",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-7",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-8",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-9",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "house",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q5-text-10",
+      "state": "l2-q5",
+      "kind": "accessible_text",
+      "text": "casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q6-text-0",
+      "state": "l2-q6",
+      "kind": "accessible_text",
+      "text": "Write this in English",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q6-text-1",
+      "state": "l2-q6",
+      "kind": "accessible_text",
+      "text": "mi maleta",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q6-text-2",
+      "state": "l2-q6",
+      "kind": "accessible_text",
+      "text": "suitcase",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q6-text-3",
+      "state": "l2-q6",
+      "kind": "accessible_text",
+      "text": "my",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q6-text-4",
+      "state": "l2-q6",
+      "kind": "accessible_text",
+      "text": "house",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q6-text-5",
+      "state": "l2-q6",
+      "kind": "accessible_text",
+      "text": "cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q7-text-0",
+      "state": "l2-q7",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q7-text-1",
+      "state": "l2-q7",
+      "kind": "accessible_text",
+      "text": "suitcase",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q7-text-2",
+      "state": "l2-q7",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q7-text-3",
+      "state": "l2-q7",
+      "kind": "accessible_text",
+      "text": "maleta",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q7-text-4",
+      "state": "l2-q7",
+      "kind": "accessible_text",
+      "text": "casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q8-text-0",
+      "state": "l2-q8",
+      "kind": "accessible_text",
+      "text": "Write this in English",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q8-text-1",
+      "state": "l2-q8",
+      "kind": "accessible_text",
+      "text": "mi casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q8-text-2",
+      "state": "l2-q8",
+      "kind": "accessible_text",
+      "text": "my",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q8-text-3",
+      "state": "l2-q8",
+      "kind": "accessible_text",
+      "text": "dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q8-text-4",
+      "state": "l2-q8",
+      "kind": "accessible_text",
+      "text": "book",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q8-text-5",
+      "state": "l2-q8",
+      "kind": "accessible_text",
+      "text": "house",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q9-text-0",
+      "state": "l2-q9",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q9-text-1",
+      "state": "l2-q9",
+      "kind": "accessible_text",
+      "text": "house",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q9-text-2",
+      "state": "l2-q9",
+      "kind": "accessible_text",
+      "text": "maleta",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q9-text-3",
+      "state": "l2-q9",
+      "kind": "accessible_text",
+      "text": "casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q9-text-4",
+      "state": "l2-q9",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q10-text-0",
+      "state": "l2-q10",
+      "kind": "accessible_text",
+      "text": "Write this in English",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q10-text-1",
+      "state": "l2-q10",
+      "kind": "accessible_text",
+      "text": "mi libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q10-text-2",
+      "state": "l2-q10",
+      "kind": "accessible_text",
+      "text": "my",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q10-text-3",
+      "state": "l2-q10",
+      "kind": "accessible_text",
+      "text": "cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q10-text-4",
+      "state": "l2-q10",
+      "kind": "accessible_text",
+      "text": "book",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q10-text-5",
+      "state": "l2-q10",
+      "kind": "accessible_text",
+      "text": "dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q11-text-0",
+      "state": "l2-q11",
+      "kind": "accessible_text",
+      "text": "Select the correct meaning",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q11-text-1",
+      "state": "l2-q11",
+      "kind": "accessible_text",
+      "text": "book",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q11-text-2",
+      "state": "l2-q11",
+      "kind": "accessible_text",
+      "text": "libro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q11-text-3",
+      "state": "l2-q11",
+      "kind": "accessible_text",
+      "text": "perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q11-text-4",
+      "state": "l2-q11",
+      "kind": "accessible_text",
+      "text": "agua",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-0",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "Select the matching pairs",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-1",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "my dad",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-2",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "mi papá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-3",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "my house",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-4",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "mi casa",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-5",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "my mom",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-6",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "mi mamá",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-7",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "my cat",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-8",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "mi gato",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-9",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "my dog",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    },
+    {
+      "id": "l2-q12-text-10",
+      "state": "l2-q12",
+      "kind": "accessible_text",
+      "text": "mi perro",
+      "evidence": [
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-first.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-01.json",
+        "projects/duolingo-web/evidence/exploration-v4/curriculum-second-02.json"
+      ]
+    }
+  ],
+  "scope": "Exact reference question copy, hints, option and tile labels; geometry, images, order and sound remain separate"
+}

@@ -1,0 +1,47 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"water\"\n- button \"ice\"\n- button \"no\"\n- button \"No\"\n- button \"please\"\n- button \"and\"\n- button \"hot\"\n- button \"跳过\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+  "text": "挑战题\n用英语写出这句话\n不要冰，不要水，谢谢。\nwater\nice\nno\nNo\nplease\nand\nhot",
+  "prompts": [
+    "不要冰，不要水，谢谢。"
+  ],
+  "choices": [
+    "water",
+    "ice",
+    "no",
+    "No",
+    "please",
+    "and",
+    "hot"
+  ],
+  "images": [],
+  "clicks": [
+    {
+      "word": "No",
+      "occurrence": 0
+    },
+    {
+      "word": "ice",
+      "occurrence": 0
+    },
+    {
+      "word": "and",
+      "occurrence": 0
+    },
+    {
+      "word": "no",
+      "occurrence": 0
+    },
+    {
+      "word": "water",
+      "occurrence": 0
+    },
+    {
+      "word": "please",
+      "occurrence": 0
+    }
+  ],
+  "feedback": "- button:\n  - img\n- progressbar:\n  - text: 连对 15 题\n  - img\n- img\n- text: \"4\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"No\" [disabled]\n- button \"water\" [disabled]\n- button \"ice\" [disabled]\n- button \"no\" [disabled]\n- button \"No\" [disabled]\n- button \"please\" [disabled]\n- button \"and\" [disabled]\n- button \"hot\" [disabled]\n- heading \"正确！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"ice\" [disabled]\n- button \"and\" [disabled]\n- button \"no\" [disabled]\n- button \"water\" [disabled]\n- button \"please\" [disabled]",
+  "rejected": false,
+  "next_action": "Receipt saved before transition. Inspect acceptance then continue separately; no assumed next question.",
+  "observed_at": "2026-10-10T15:21:34.579Z"
+}

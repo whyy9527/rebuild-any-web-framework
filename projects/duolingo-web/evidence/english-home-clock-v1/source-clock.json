@@ -1,0 +1,136 @@
+{
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "source": "https://www.duolingo.com/learn",
+  "state": "guest zh→en; eight lessons; opened chest; 525 gems",
+  "deadline": {
+    "host": "duolingo-leaderboards-prod.duolingo.com",
+    "field": "response.leaderboard.next_contest_start",
+    "value": "2026-10-11T10:00:00Z"
+  },
+  "clock_method": "Independent context, copied state only in memory, progressing Date offset; native RAF/performance/timers live. Screenshot labels stable; last DOM mutation epochs define shared text fixture, not frozen animation phase.",
+  "receipts": [
+    {
+      "delta": -3712145,
+      "countdown": {
+        "value": "1 小时",
+        "rect": [
+          910,
+          197,
+          45.15625,
+          20
+        ],
+        "history": [
+          {
+            "value": "57 分钟",
+            "now": 1791709321036,
+            "performance": 8121.599999904633
+          },
+          {
+            "value": "1 小时",
+            "now": 1791705602163,
+            "performance": 9041.099999904633
+          }
+        ]
+      },
+      "stable_clock_capture": true,
+      "now": 1791705602808,
+      "text": "学习\n发音\n排行榜\n特别任务\n宝石小店\n个人档案\n更多\n5\n2\n525\n5\n青铜等级\n查看排行榜\n\n这周的排行榜挑战赛即将开始！\n\n1 小时\n每日特别任务\n显示全部\n获取 30 经验\n30 / 30\n30 / 30\n创建个人档案，保存学习进度！\n创建档案\n登录\n关于我们\n宝石小店\n有效性\n招聘贤才\n投资者\n条款\n隐私\n第 1 阶段，第 1 部分\n提供或接受饮料\n指南\n开始\n谈论祖籍国家\n跳级到这儿？\n介绍家庭成员\n跳级到这儿？\n\n下一级\n\n第  2  阶段\n\n学会日常交流中基础的单词、短语和语法概念\n\n跳级到这儿？",
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-clock-v1/home-clock-hours.png",
+      "svg_sha256": "c2884e06f61f694cf70fba3e894c79984207928cf1b8656315f73f08b13542f6"
+    },
+    {
+      "delta": 1687855,
+      "countdown": {
+        "value": "29 分钟",
+        "rect": [
+          910,
+          197,
+          53.9765625,
+          20
+        ],
+        "history": [
+          {
+            "value": "57 分钟",
+            "now": 1791709321036,
+            "performance": 8121.599999904633
+          },
+          {
+            "value": "1 小时",
+            "now": 1791705602163,
+            "performance": 9041.099999904633
+          },
+          {
+            "value": "29 分钟",
+            "now": 1791711001582,
+            "performance": 10041.299999952316
+          }
+        ]
+      },
+      "stable_clock_capture": true,
+      "now": 1791711002811,
+      "text": "学习\n发音\n排行榜\n特别任务\n宝石小店\n个人档案\n更多\n5\n2\n525\n5\n青铜等级\n查看排行榜\n\n这周的排行榜挑战赛即将开始！\n\n29 分钟\n每日特别任务\n显示全部\n获取 30 经验\n30 / 30\n30 / 30\n创建个人档案，保存学习进度！\n创建档案\n登录\n关于我们\n宝石小店\n有效性\n招聘贤才\n投资者\n条款\n隐私\n第 1 阶段，第 1 部分\n提供或接受饮料\n指南\n开始\n谈论祖籍国家\n跳级到这儿？\n介绍家庭成员\n跳级到这儿？\n\n下一级\n\n第  2  阶段\n\n学会日常交流中基础的单词、短语和语法概念\n\n跳级到这儿？",
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-clock-v1/home-clock-minutes.png",
+      "svg_sha256": "470f9f106cb14ce542209b55308cdeec4acbcde09ce0b2b697d57ae25f280366"
+    },
+    {
+      "delta": 3457855,
+      "countdown": {
+        "value": "27 秒",
+        "rect": [
+          910,
+          197,
+          36.3359375,
+          20
+        ],
+        "history": [
+          {
+            "value": "57 分钟",
+            "now": 1791709321036,
+            "performance": 8121.599999904633
+          },
+          {
+            "value": "1 小时",
+            "now": 1791705602163,
+            "performance": 9041.099999904633
+          },
+          {
+            "value": "29 分钟",
+            "now": 1791711001582,
+            "performance": 10041.299999952316
+          },
+          {
+            "value": "27 秒",
+            "now": 1791712772009,
+            "performance": 12041.099999904633
+          }
+        ]
+      },
+      "stable_clock_capture": true,
+      "now": 1791712772806,
+      "text": "学习\n发音\n排行榜\n特别任务\n宝石小店\n个人档案\n更多\n5\n2\n525\n5\n青铜等级\n查看排行榜\n\n这周的排行榜挑战赛即将开始！\n\n27 秒\n每日特别任务\n显示全部\n获取 30 经验\n30 / 30\n30 / 30\n创建个人档案，保存学习进度！\n创建档案\n登录\n关于我们\n宝石小店\n有效性\n招聘贤才\n投资者\n条款\n隐私\n第 1 阶段，第 1 部分\n提供或接受饮料\n指南\n开始\n谈论祖籍国家\n跳级到这儿？\n介绍家庭成员\n跳级到这儿？\n\n下一级\n\n第  2  阶段\n\n学会日常交流中基础的单词、短语和语法概念\n\n跳级到这儿？",
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-clock-v1/home-clock-seconds.png",
+      "svg_sha256": "fb4a07c1e968f3ef5b7dfa767b9e5438c19357ae89168cad075e9d510af4b56c"
+    }
+  ]
+}

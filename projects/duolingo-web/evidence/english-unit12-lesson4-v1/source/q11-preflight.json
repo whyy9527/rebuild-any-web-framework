@@ -1,0 +1,5 @@
+{
+  "snapshot": "- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"厨房\"\n- button \"坐\"\n- button \"欢迎\"\n- button \"请\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "challenge_text": "新单词\n用中文（简体）写出这句话\nWelcome, have a seat!\n厨房\n坐\n欢迎\n请",
+  "identity_matches": true
+}

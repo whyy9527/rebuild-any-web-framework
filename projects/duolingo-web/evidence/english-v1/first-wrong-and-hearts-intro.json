@@ -1,0 +1,122 @@
+{
+  "overlay": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“咖啡”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"coffee 1\" [disabled]:\n    - text: coffee 1\n    - img\n    - img\n  - radio \"sugar 2\" [checked] [disabled]:\n    - text: sugar 2\n    - img\n    - img\n  - radio \"tea 3\" [disabled]:\n    - text: tea 3\n    - img\n    - img\n- heading \"正确答案：\" [level=2]\n- text: coffee\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- img\n- img\n- img\n- img\n- img\n- img\n- text: 每错一道题会消耗一颗红心！ 精准、集中，方可保心！你一定能做到！\n- button \"继续\"",
+  "feedback": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“咖啡”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"coffee 1\" [disabled]:\n    - text: coffee 1\n    - img\n    - img\n  - radio \"sugar 2\" [checked] [disabled]:\n    - text: sugar 2\n    - img\n    - img\n  - radio \"tea 3\" [disabled]:\n    - text: tea 3\n    - img\n    - img\n- heading \"正确答案：\" [level=2]\n- text: coffee\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "test_attributes": [
+    {
+      "test": "blame blame-incorrect",
+      "text": "正确答案：coffee太简单太难报错"
+    }
+  ],
+  "media": [
+    {
+      "src": "",
+      "at": 1493.7999999523163,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 1494.5,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 1494.5999999046326,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 1494.7000000476837,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 1494.7000000476837,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 1494.7999999523163,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 1494.9000000953674,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 2981.2000000476837,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 2981.4000000953674,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 2981.5,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 2984.7999999523163,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 2985,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 2985,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 3140,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 3140.0999999046326,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "",
+      "at": 3140.2000000476837,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/3606333d331a6b6a8591d76eea80c6ba",
+      "at": 83732.40000009537,
+      "muted": false,
+      "volume": 1
+    },
+    {
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/f0b6ab4396d5891241ef4ca73b4de13a.mp3",
+      "at": 83732.59999990463,
+      "muted": false,
+      "volume": 0.35
+    }
+  ],
+  "observed_at": "2026-10-10T14:14:10.363Z",
+  "initial_error": "First wrong answer completed, but generic Continue locator was ambiguous because hearts tutorial appeared."
+}

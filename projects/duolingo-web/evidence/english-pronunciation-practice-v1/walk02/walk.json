@@ -1,0 +1,144 @@
+{
+  "kind": "actual-pronunciation-practice-continuation",
+  "observed_at": "2026-10-10T22:15:54.746Z",
+  "start_question": 2,
+  "steps": [
+    {
+      "index": 2,
+      "before": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 deck\":\n    - text: 1 deck\n    - img\n    - img\n  - radio \"2 dock\":\n    - text: 2 dock\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "labels": [
+        {
+          "label": "1\ndeck",
+          "rect": [
+            300,
+            430,
+            296,
+            60
+          ]
+        },
+        {
+          "label": "2\ndock",
+          "rect": [
+            604,
+            430,
+            296,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/beaen/570822e15ed7a3641043b8533ded1459",
+          "at": 914148.1999998093
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/beaen/570822e15ed7a3641043b8533ded1459",
+          "at": 914148.1999998093
+        }
+      ],
+      "selected": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 deck\" [checked]:\n    - text: 1 deck\n    - img\n    - img\n  - radio \"2 dock\":\n    - text: 2 dock\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\"",
+      "feedback": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 deck\" [checked] [disabled]:\n    - text: 1 deck\n    - img\n    - img\n  - radio \"2 dock\" [disabled]:\n    - text: 2 dock\n    - img\n    - img\n- heading \"还不太准确，再多听几次吧！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "after_continue": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\":\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]"
+    },
+    {
+      "index": 3,
+      "before": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\":\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "labels": [
+        {
+          "label": "1\ngot",
+          "rect": [
+            300,
+            430,
+            296,
+            60
+          ]
+        },
+        {
+          "label": "2\nget",
+          "rect": [
+            604,
+            430,
+            296,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/beaen/8080d0dbbc39c00b0c4e6b5d1a08fd61",
+          "at": 916315.0999999046
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/beaen/8080d0dbbc39c00b0c4e6b5d1a08fd61",
+          "at": 916315.0999999046
+        }
+      ],
+      "selected": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\"",
+      "feedback": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked] [disabled]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\" [disabled]:\n    - text: 2 get\n    - img\n    - img\n- heading \"还不太准确，再多听几次吧！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "after_continue": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\":\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]"
+    },
+    {
+      "index": 4,
+      "before": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\":\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "labels": [
+        {
+          "label": "1\ngot",
+          "rect": [
+            300,
+            430,
+            296,
+            60
+          ]
+        },
+        {
+          "label": "2\nget",
+          "rect": [
+            604,
+            430,
+            296,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/oscaren/5906b09e639a3f49b99d3aa1d4c75c7e",
+          "at": 918481.5999999046
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/oscaren/5906b09e639a3f49b99d3aa1d4c75c7e",
+          "at": 918481.5999999046
+        }
+      ],
+      "selected": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\":\n    - text: 2 get\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\"",
+      "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 got\" [checked] [disabled]:\n    - text: 1 got\n    - img\n    - img\n  - radio \"2 get\" [disabled]:\n    - text: 2 get\n    - img\n    - img\n- heading \"你练得一副好听力，厉害呀！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+      "after_continue": "- button:\n  - img\n- progressbar\n- heading \"先听后答\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- text: 你听到的词是？\n- radiogroup \"choice\":\n  - radio \"1 同一个词\":\n    - text: 1 同一个词\n    - img\n    - img\n  - radio \"2 两个不同的词\":\n    - text: 2 两个不同的词\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]"
+    },
+    {
+      "index": 5,
+      "before": "- button:\n  - img\n- progressbar\n- heading \"先听后答\" [level=1]\n- button:\n  - img\n- button:\n  - img\n- text: 你听到的词是？\n- radiogroup \"choice\":\n  - radio \"1 同一个词\":\n    - text: 1 同一个词\n    - img\n    - img\n  - radio \"2 两个不同的词\":\n    - text: 2 两个不同的词\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+      "labels": [
+        {
+          "label": "1\n同一个词",
+          "rect": [
+            300,
+            439.25,
+            600,
+            60
+          ]
+        },
+        {
+          "label": "2\n两个不同的词",
+          "rect": [
+            300,
+            507.25,
+            600,
+            60
+          ]
+        }
+      ]
+    }
+  ],
+  "failure": "Error: No unique current source speaker",
+  "terminal": false
+}

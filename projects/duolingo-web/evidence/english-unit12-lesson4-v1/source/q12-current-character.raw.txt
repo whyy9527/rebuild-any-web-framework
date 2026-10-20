@@ -1,0 +1,29 @@
+### Result
+{"dom_type":"challenge challenge-translate","visible_text":"新单词\n用中文（简体）写出这句话\ntwo bathrooms\n两个\n这\n洗手间","content":{"character":{"url":"https://d2pur3iezf4d1j.cloudfront.net/images/61e19bb4a1ff1d94e58d58b33db58c36","image":{"pdf":"https://d2pur3iezf4d1j.cloudfront.net/images/61e19bb4a1ff1d94e58d58b33db58c36","svg":"https://d2pur3iezf4d1j.cloudfront.net/images/52a5a774c4de18f4a4e8c91d91788347"},"gender":"MALE","correctAnimation":"https://simg-ssl.duolingo.com/lottie/Vikram_CORRECT_Cropped_SpiritFingers.json","incorrectAnimation":"https://simg-ssl.duolingo.com/lottie/Dan_INCORRECT_Cropped.json","idleAnimation":"https://simg-ssl.duolingo.com/lottie/Vikram_IDLE_Cropped.json","name":"VIKRAM","avatarIconImage":{"pdf":"https://simg-ssl.duolingo.com/world-characters/avatars/vikram_avatar_icon.pdf","svg":"https://simg-ssl.duolingo.com/world-characters/avatars/vikram_avatar_icon.svg"},"riveAnimation":{"artBoardName":"character","correctStateName":"correct_trig","darkModeStateName":"darkmode_bool","incorrectStateName":"incorrect_trig","notSetStateName":"reset_trig","rtlStateName":"rtl_bool","scale":1.15,"stateMachineName":"character_statemachine","type":"maker","xOffset":-10,"yOffset":10,"url":"https://d35aaqx5ub95lt.cloudfront.net/rive/makerInLesson/201fc4b2342fb3a92f46aa205a29d80a.riv","xOffsetPercentage":-6.944444444444445,"yOffsetPercentage":5.681818181818182}}}}
+### Ran Playwright code
+```js
+await (async page => { const n=page.locator('[data-test~="challenge"]'); return await n.evaluate((n,sanitizer)=>{
+  const publicOnly=(0,eval)('('+sanitizer+')');
+  let fiber=n[Object.keys(n).find(k=>k.startsWith('__reactFiber'))];
+  for(let depth=0;fiber&&depth<16;depth++,fiber=fiber.return){
+   const raw=fiber.memoizedProps?.challenge;
+   if(!raw||typeof raw.type!=='string')continue;
+   const dom_type=n.getAttribute('data-test');
+   if(!dom_type.split(/\s+/).includes('challenge-'+raw.type))throw Error('Rendered/current challenge type mismatch; inspect transition before observing again');
+   return {dom_type,visible_text:n.innerText,...publicOnly(raw)};
+  }
+  throw Error('Current public challenge not found on visible renderer; no fallback to initial session');
+ }, '(raw)=>({content:{character:raw.character}})'); })(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 2: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/guidebook/en/12)
+- 3: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/alphabets/en/pronunciation)
+- 4: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/learn)
+### Page
+- Page URL: https://www.duolingo.com/lesson
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 183 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T19-01-01-875Z.log#L444

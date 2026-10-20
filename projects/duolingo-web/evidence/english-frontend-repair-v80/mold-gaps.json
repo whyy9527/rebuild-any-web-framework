@@ -1,0 +1,138 @@
+{
+  "discovery": "Prior mold bound action geometry but left noninteractive headings, transformed actors and CSS background art only in whole-image failures; named geometry diagnostics are now strict separate consumers.",
+  "requirements": [
+    {
+      "id": "unit12-l4-q6-before-heading-run",
+      "state": "unit12-l4-q6-before",
+      "kind": "element_geometry",
+      "element": "unit12-l4-q6-before-heading-run",
+      "rect": [
+        296,
+        108.5,
+        384,
+        37.5
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/q6-before.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-q6-before-character-canvas",
+      "state": "unit12-l4-q6-before",
+      "kind": "element_geometry",
+      "element": "unit12-l4-q6-before-character-canvas",
+      "rect": [
+        277.647216796875,
+        95.39773559570312,
+        153.39999389648438,
+        227.49996948242188
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/q6-before.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-q12-before-heading-run",
+      "state": "unit12-l4-q12-before",
+      "kind": "element_geometry",
+      "element": "unit12-l4-q12-before-heading-run",
+      "rect": [
+        296,
+        148.5,
+        384,
+        37.5
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/q12-before.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-q12-before-character-canvas",
+      "state": "unit12-l4-q12-before",
+      "kind": "element_geometry",
+      "element": "unit12-l4-q12-before-character-canvas",
+      "rect": [
+        287.72637939453125,
+        162.94033813476562,
+        135.70001220703125,
+        201.25
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/q12-before.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-q12-feedback-heading-run",
+      "state": "unit12-l4-q12-feedback",
+      "kind": "element_geometry",
+      "element": "unit12-l4-q12-feedback-heading-run",
+      "rect": [
+        296,
+        148.5,
+        384,
+        37.5
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/q12-feedback.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-q12-feedback-character-canvas",
+      "state": "unit12-l4-q12-feedback",
+      "kind": "element_geometry",
+      "element": "unit12-l4-q12-feedback-character-canvas",
+      "rect": [
+        287.72637939453125,
+        162.94033813476562,
+        135.70001220703125,
+        201.25
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/q12-feedback.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-after-achievement-heading-run",
+      "state": "unit12-l4-after-achievement",
+      "kind": "element_geometry",
+      "element": "unit12-l4-after-achievement-heading-run",
+      "rect": [
+        420,
+        376,
+        352,
+        37.5
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/after-achievement.json"
+      ]
+    },
+    {
+      "id": "unit12-l4-after-achievement-profile-art",
+      "state": "unit12-l4-after-achievement",
+      "kind": "element_geometry",
+      "element": "unit12-l4-after-achievement-profile-art",
+      "rect": [
+        538.5,
+        145,
+        115,
+        200
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-unit12-lesson4-v1/source/after-achievement.json"
+      ]
+    }
+  ],
+  "limits": [
+    "No source geometry tolerance increased",
+    "Existing images remain strict and failing",
+    "New requirements are not a discovery-efficiency or RSI-effect metric"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/beaen/570822e15ed7a3641043b8533ded1459",
+      "resource": "pronunciation-word-7bb18cb07a3e9cdf865a.mp3",
+      "sha256": "1a83f48b7f1ade0c2c5c878c239dffe6e1ab5947baf2175ef8dafd8854e18ad7",
+      "bytes": 8928
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/beaen/8080d0dbbc39c00b0c4e6b5d1a08fd61",
+      "resource": "pronunciation-word-73f6594024de7bfcf441.mp3",
+      "sha256": "1ca05568440e38c0379738add9b25e33bcb8cbeff7a3c95b0c692f2de7b63900",
+      "bytes": 8352
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/beaen/9392a1ed09606aeaf94b25d93002684c",
+      "resource": "pronunciation-word-f6c33d3e71baa76c669f.mp3",
+      "sha256": "acd4efcb687fdcca4e1688d2cf38f0351691ba06785084e916588efb7861e222",
+      "bytes": 8784
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/eddyen/5d6ad97dba0eaacc59382b1d98880081",
+      "resource": "pronunciation-word-030a0fd4e7435dc80ed2.mp3",
+      "sha256": "488a76dad485d70fa564deac310f3d23e30553977b09f68e29c9c23bdacd61aa",
+      "bytes": 9072
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/eddyen/62156402baf5594d2f84b862fb5211be",
+      "resource": "pronunciation-word-4d2d015e3745a0f49a3d.mp3",
+      "sha256": "6fd0355148a4f3afad5418b2a84048eb3801d381448508f53cf84a60f793a1d8",
+      "bytes": 8928
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/eddyen/f933ef0786de01534730f9c5307fcd10",
+      "resource": "pronunciation-word-dbe6db0505db7ce3848d.mp3",
+      "sha256": "13db588ed6da124a1576b1944d7394a5fb0fdeb4c61d5b0013233217c15096d1",
+      "bytes": 8784
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/1476c4713ac5bd75a4808ea547208a1d",
+      "resource": "pronunciation-word-53dd189aa64b2cfbda9f.mp3",
+      "sha256": "1103276a10b9a5dd39b150a4e6a4d64ba6883928fe1697431bf1c6550cd7e010",
+      "bytes": 9936
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/1772635c74a1238b0daf99539a82ef9b",
+      "resource": "pronunciation-word-3cbc38422af5f80b77ec.mp3",
+      "sha256": "b43073bc4a352fe49afc6d6833da0858e34a6d31acf35139b82d23248f49816c",
+      "bytes": 9648
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/5906b09e639a3f49b99d3aa1d4c75c7e",
+      "resource": "pronunciation-word-d10a9efdf6994dffdd45.mp3",
+      "sha256": "7cdf3d5872fc26a7ba4464f9355eb55d07857353ac01ac743aecc7600d0d81ea",
+      "bytes": 9792
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/daf8022c7a82d7e5eeb005c42bac7232",
+      "resource": "pronunciation-word-123fafb3302712a65362.mp3",
+      "sha256": "edd3c9cd82704ad9d2d488fea8a599e100a21382382a104b635daa43d7fd0874",
+      "bytes": 9936
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/vikramen/6bb86aef2c38535509b7d8fa8ca10dcd",
+      "resource": "pronunciation-word-e4009c79f5b63afad0ac.mp3",
+      "sha256": "44d5035f7fe38a3b8de280579546aab6b1c50f64937cb59463c0a925e7fd3b5b",
+      "bytes": 8784
+    },
+    {
+      "url": "https://d1vq87e9lcf771.cloudfront.net/vikramen/fd103e7c0ea06035d4e409e27d803a92",
+      "resource": "pronunciation-word-374ca1da0e9e2f37530e.mp3",
+      "sha256": "bc5f90abe3a32b1e606e7a3e5a0689d630da9d76fafc91c43e5bc6e732bde380",
+      "bytes": 8640
+    }
+  ],
+  "unknown": [
+    "Speech prompt playback",
+    "Matching left1 original playback resource identity"
+  ]
+}

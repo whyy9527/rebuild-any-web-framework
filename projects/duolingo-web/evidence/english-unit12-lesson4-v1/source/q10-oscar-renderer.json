@@ -1,0 +1,165 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\":\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- button \"现在不做口语题\"\n- button \"检查\" [disabled]",
+  "prompt": "朗读下面的句子\nHave a seat here.\n点击并开始录音",
+  "metadata": {
+    "width": 236,
+    "height": 350,
+    "rect": {
+      "x": 287.0069580078125,
+      "y": 191.48153686523438,
+      "width": 147.5,
+      "height": 218.75,
+      "top": 191.48153686523438,
+      "right": 434.5069580078125,
+      "bottom": 410.2315368652344,
+      "left": 287.0069580078125
+    },
+    "style": "vertical-align: top; width: 118px; height: 175px;",
+    "parent_style": "width: 100%; height: 100%; transform: scale(1.25) translate(-6.94444%, -8.52273%);",
+    "ancestors": [
+      {
+        "tag": "DIV",
+        "style": "width: 100%; height: 100%; transform: scale(1.25) translate(-6.94444%, -8.52273%);",
+        "rect": {
+          "x": 287.0069580078125,
+          "y": 191.48153686523438,
+          "width": 147.5,
+          "height": 218.75,
+          "top": 191.48153686523438,
+          "right": 434.5069580078125,
+          "bottom": 410.2315368652344,
+          "left": 287.0069580078125
+        }
+      },
+      {
+        "tag": "DIV",
+        "style": "",
+        "rect": {
+          "x": 312,
+          "y": 232,
+          "width": 118,
+          "height": 175,
+          "top": 232,
+          "right": 430,
+          "bottom": 407,
+          "left": 312
+        }
+      },
+      {
+        "tag": "DIV",
+        "style": "",
+        "rect": {
+          "x": 312,
+          "y": 232,
+          "width": 584,
+          "height": 175,
+          "top": 232,
+          "right": 896,
+          "bottom": 407,
+          "left": 312
+        }
+      }
+    ]
+  },
+  "renderer": {
+    "animation": {
+      "artBoardName": "character",
+      "correctStateName": "correct_trig",
+      "darkModeStateName": "darkmode_bool",
+      "incorrectStateName": "incorrect_trig",
+      "notSetStateName": "reset_trig",
+      "rtlStateName": "rtl_bool",
+      "scale": 1.25,
+      "stateMachineName": "character_statemachine",
+      "type": "maker",
+      "xOffset": -10,
+      "yOffset": 15,
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/rive/makerInLesson/e18abc5a6264d3e62ac2a3490b7d050e.riv",
+      "xOffsetPercentage": -6.944444444444445,
+      "yOffsetPercentage": 8.522727272727272
+    },
+    "correct": null,
+    "buffer": {
+      "file": "q10-oscar-renderer.riv",
+      "bytes": 198405,
+      "sha256": "eee2ae28e66fd47d54d84bf7bb96c4942661c3ed3392f209f31c8fc359c00a2f"
+    }
+  },
+  "frames": [
+    {
+      "at": 11893795.5,
+      "file": "q10-oscar-renderer-buffer-00.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11893961.400000095,
+      "file": "q10-oscar-renderer-buffer-01.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11894127.700000048,
+      "file": "q10-oscar-renderer-buffer-02.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11894295.299999952,
+      "file": "q10-oscar-renderer-buffer-03.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11894461.900000095,
+      "file": "q10-oscar-renderer-buffer-04.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11894628.299999952,
+      "file": "q10-oscar-renderer-buffer-05.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11894795.400000095,
+      "file": "q10-oscar-renderer-buffer-06.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11894961.799999952,
+      "file": "q10-oscar-renderer-buffer-07.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11895128.5,
+      "file": "q10-oscar-renderer-buffer-08.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11895295.200000048,
+      "file": "q10-oscar-renderer-buffer-09.png",
+      "bytes": 4000,
+      "sha256": "279b2976270422dd2fd6cc6721b8737d53d4975815180a66fa65957da0b8284a"
+    },
+    {
+      "at": 11895462,
+      "file": "q10-oscar-renderer-buffer-10.png",
+      "bytes": 3957,
+      "sha256": "4db5c2bc59e0aedeaa5fe8fea40fbf737184bbb6dbe9c9369e94c6354ba60c0d"
+    },
+    {
+      "at": 11895628.600000143,
+      "file": "q10-oscar-renderer-buffer-11.png",
+      "bytes": 3786,
+      "sha256": "39c463810f8a3242944c4bc3915d4e8612abe05d10ce94cf6d772e13c12fb34b"
+    }
+  ],
+  "after": "- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\":\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- button \"现在不做口语题\"\n- button \"检查\" [disabled]",
+  "observed_at": "2026-10-12T00:22:09.241Z",
+  "source": "Actual source drawing buffer, captured within requestAnimationFrame; composited region retained separately; timing and native fidelity not yet verified"
+}

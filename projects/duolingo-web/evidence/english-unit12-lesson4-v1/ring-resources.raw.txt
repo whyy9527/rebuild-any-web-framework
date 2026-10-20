@@ -1,0 +1,27 @@
+### Result
+{"rendered":1,"scale":3}
+### Ran Playwright code
+```js
+await (async page => {
+ const context=await page.context().browser().newContext({viewport:{width:180,height:180},deviceScaleFactor:3});
+ try {const render=await context.newPage();
+ for(const image of [{"name": "en-unit12-ring-5", "svg": "<svg class=\"_2FMGJ\" viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><defs><clipPath id=\"clip-session/ProgressRing6041\"><path d=\"M3.552713678800501e-15,-45.8257569495584A4,4,0,0,1,4.347826086956525,-49.81060537995478A50,50,0,1,1,-44.00500755674095,23.73940416124996A4,4,0,0,1,-42.07044370871265,18.168042441387023L-42.07044370871265,18.168042441387023A4,4,0,0,1,-36.9642063476624,19.941099495449965A42,42,0,1,0,3.6521739130434776,-41.840908519162014A4,4,0,0,1,3.552713678800501e-15,-45.8257569495584Z\"></path></clipPath></defs><g transform=\"translate(50, 50)\"><path d=\"M3.061616997868383e-15,-50A50,50,0,1,1,-3.061616997868383e-15,50A50,50,0,1,1,3.061616997868383e-15,-50M-7.715274834628325e-15,-42A42,42,0,1,0,7.715274834628325e-15,42A42,42,0,1,0,-7.715274834628325e-15,-42Z\" fill=\"rgb(229, 229, 229)\"></path><circle clip-path=\"url(#clip-session/ProgressRing6041)\" cx=\"-37.689169866899235\" cy=\"26.37283592532314\" fill=\"rgb(255, 255, 255)\" r=\"6.666666666666666\"></circle><path d=\"M3.552713678800501e-15,-45.8257569495584A4,4,0,0,1,4.347826086956525,-49.81060537995478A50,50,0,1,1,-40.96333659344441,28.67063053251843A4,4,0,0,1,-39.68626966596885,22.91287847477921L-39.68626966596885,22.91287847477921A4,4,0,0,1,-34.4092027384933,24.083329647315487A42,42,0,1,0,3.6521739130434776,-41.840908519162014A4,4,0,0,1,3.552713678800501e-15,-45.8257569495584Z\" fill=\"rgb(204, 52, 141)\"></path></g></svg>", "inline_svg": true, "background_position": null, "width": 98, "height": 92.7080078125, "target": "projects/education-swift/Sources/LingoSeed/Resources/Reference/en-unit12-ring-5.png"}]){await render.setViewportSize({width:Math.ceil(image.width),height:Math.ceil(image.height)}); const source='data:image/svg+xml;base64,'+Buffer.from(image.svg).toString('base64');
+ if(image.inline_svg){await render.setContent('<html><body style="margin:0;background:transparent">'+image.svg+'</body></html>');await render.locator('svg').first().evaluate((n,size)=>{n.style.width=size.width+'px';n.style.height=size.height+'px'},image);}
+ else if(image.background_position){await render.setContent('<html><body style="margin:0;background:transparent"><div style="width:'+image.width+'px;height:'+image.height+'px;background-image:url('+source+');background-position:'+image.background_position+'"></div></body></html>');await render.evaluate(async src=>{const i=new Image();i.src=src;await i.decode();},source);}
+ else {await render.setContent('<html><body style="margin:0;background:transparent"><img style="width:'+image.width+'px;height:'+image.height+'px;object-fit:contain" src="'+source+'"></body></html>');await render.locator('img').evaluate(n=>n.decode());} await render.screenshot({path:image.target,omitBackground:true});}
+ return {rendered:[{"name": "en-unit12-ring-5", "svg": "<svg class=\"_2FMGJ\" viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><defs><clipPath id=\"clip-session/ProgressRing6041\"><path d=\"M3.552713678800501e-15,-45.8257569495584A4,4,0,0,1,4.347826086956525,-49.81060537995478A50,50,0,1,1,-44.00500755674095,23.73940416124996A4,4,0,0,1,-42.07044370871265,18.168042441387023L-42.07044370871265,18.168042441387023A4,4,0,0,1,-36.9642063476624,19.941099495449965A42,42,0,1,0,3.6521739130434776,-41.840908519162014A4,4,0,0,1,3.552713678800501e-15,-45.8257569495584Z\"></path></clipPath></defs><g transform=\"translate(50, 50)\"><path d=\"M3.061616997868383e-15,-50A50,50,0,1,1,-3.061616997868383e-15,50A50,50,0,1,1,3.061616997868383e-15,-50M-7.715274834628325e-15,-42A42,42,0,1,0,7.715274834628325e-15,42A42,42,0,1,0,-7.715274834628325e-15,-42Z\" fill=\"rgb(229, 229, 229)\"></path><circle clip-path=\"url(#clip-session/ProgressRing6041)\" cx=\"-37.689169866899235\" cy=\"26.37283592532314\" fill=\"rgb(255, 255, 255)\" r=\"6.666666666666666\"></circle><path d=\"M3.552713678800501e-15,-45.8257569495584A4,4,0,0,1,4.347826086956525,-49.81060537995478A50,50,0,1,1,-40.96333659344441,28.67063053251843A4,4,0,0,1,-39.68626966596885,22.91287847477921L-39.68626966596885,22.91287847477921A4,4,0,0,1,-34.4092027384933,24.083329647315487A42,42,0,1,0,3.6521739130434776,-41.840908519162014A4,4,0,0,1,3.552713678800501e-15,-45.8257569495584Z\" fill=\"rgb(204, 52, 141)\"></path></g></svg>", "inline_svg": true, "background_position": null, "width": 98, "height": 92.7080078125, "target": "projects/education-swift/Sources/LingoSeed/Resources/Reference/en-unit12-ring-5.png"}].length,scale:3};
+ }finally{await context.close()}
+})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/learn)
+- 2: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/guidebook/en/12)
+- 3: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/alphabets/en/pronunciation)
+- 4: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/learn)
+### Page
+- Page URL: https://www.duolingo.com/learn
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 187 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T19-01-01-875Z.log#L468

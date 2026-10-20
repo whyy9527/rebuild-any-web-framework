@@ -1,0 +1,75 @@
+{
+  "url": "https://www.duolingo.com/learn",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "frames": [
+    {
+      "at": 1791702565538,
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-motion-v1/home-motion-frame-0.png",
+      "svg_sha256": "a4e25a1bd1768bfc655ed00d9858fed1360e7090c7ef87c9e3d5592e3175465c"
+    },
+    {
+      "at": 1791702565954,
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-motion-v1/home-motion-frame-1.png",
+      "svg_sha256": "3a8316ca4d8267d06096a89ff52c6e4dcecf10ad39e9d45d39a5ec450c9c8bc5"
+    },
+    {
+      "at": 1791702566336,
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-motion-v1/home-motion-frame-2.png",
+      "svg_sha256": "078e6103b4ebc4db9d1c7094f788946bbf75b65bd470e6388e70e29d2f977432"
+    },
+    {
+      "at": 1791702566710,
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-motion-v1/home-motion-frame-3.png",
+      "svg_sha256": "25d00ffc40de903f9a9542c3bb9f18f5c1af8a5763ef61e9fe456b2ee530cea7"
+    },
+    {
+      "at": 1791702567096,
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-motion-v1/home-motion-frame-4.png",
+      "svg_sha256": "00838a0d0cc696dfa748259e833a4c933fe28d4e487bfa31ebcbc14f9896612f"
+    },
+    {
+      "at": 1791702567463,
+      "rect": {
+        "x": 506,
+        "y": 224.85546875,
+        "width": 238,
+        "height": 288.7578125
+      },
+      "path": "projects/duolingo-web/evidence/english-home-motion-v1/home-motion-frame-5.png",
+      "svg_sha256": "5ef087d0cedacfd09ff3f87496e078e62bb766a53018fe744dcf9b6641e1c1bc"
+    }
+  ]
+}

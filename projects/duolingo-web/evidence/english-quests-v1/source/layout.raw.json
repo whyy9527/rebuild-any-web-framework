@@ -1,0 +1,2066 @@
+{
+  "at": "2026-10-11T01:09:38.332Z",
+  "path": "/quests",
+  "text": [
+    {
+      "tag": "SPAN",
+      "text": "学习",
+      "rect": {
+        "x": 84,
+        "y": 105.5,
+        "width": 31.6015625,
+        "height": 25,
+        "top": 105.5,
+        "right": 115.6015625,
+        "bottom": 130.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 92,
+            "width": 222,
+            "height": 52,
+            "top": 92,
+            "right": 238,
+            "bottom": 144,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "A",
+          "rect": {
+            "x": 16,
+            "y": 92,
+            "width": 222,
+            "height": 52,
+            "top": 92,
+            "right": 238,
+            "bottom": 144,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(0, 0, 238)",
+            "gap": "normal",
+            "display": "inline"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "发音",
+      "rect": {
+        "x": 84,
+        "y": 165.5,
+        "width": 31.6015625,
+        "height": 25,
+        "top": 165.5,
+        "right": 115.6015625,
+        "bottom": 190.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 152,
+            "width": 222,
+            "height": 52,
+            "top": 152,
+            "right": 238,
+            "bottom": 204,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "A",
+          "rect": {
+            "x": 16,
+            "y": 152,
+            "width": 222,
+            "height": 52,
+            "top": 152,
+            "right": 238,
+            "bottom": 204,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(0, 0, 238)",
+            "gap": "normal",
+            "display": "inline"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "排行榜",
+      "rect": {
+        "x": 84,
+        "y": 225.5,
+        "width": 47.40625,
+        "height": 25,
+        "top": 225.5,
+        "right": 131.40625,
+        "bottom": 250.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 212,
+            "width": 222,
+            "height": 52,
+            "top": 212,
+            "right": 238,
+            "bottom": 264,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "A",
+          "rect": {
+            "x": 16,
+            "y": 212,
+            "width": 222,
+            "height": 52,
+            "top": 212,
+            "right": 238,
+            "bottom": 264,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(0, 0, 238)",
+            "gap": "normal",
+            "display": "inline"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "特别任务",
+      "rect": {
+        "x": 84,
+        "y": 285.5,
+        "width": 63.203125,
+        "height": 25,
+        "top": 285.5,
+        "right": 147.203125,
+        "bottom": 310.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(28, 176, 246)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(28, 176, 246)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 272,
+            "width": 222,
+            "height": 52,
+            "top": 272,
+            "right": 238,
+            "bottom": 324,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "12px",
+            "backgroundColor": "rgb(221, 244, 255)",
+            "borderWidth": "2px",
+            "borderColor": "rgb(132, 216, 255)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "A",
+          "rect": {
+            "x": 16,
+            "y": 272,
+            "width": 222,
+            "height": 52,
+            "top": 272,
+            "right": 238,
+            "bottom": 324,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(0, 0, 238)",
+            "gap": "normal",
+            "display": "inline"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "宝石小店",
+      "rect": {
+        "x": 84,
+        "y": 345.5,
+        "width": 63.203125,
+        "height": 25,
+        "top": 345.5,
+        "right": 147.203125,
+        "bottom": 370.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 332,
+            "width": 222,
+            "height": 52,
+            "top": 332,
+            "right": 238,
+            "bottom": 384,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "A",
+          "rect": {
+            "x": 16,
+            "y": 332,
+            "width": 222,
+            "height": 52,
+            "top": 332,
+            "right": 238,
+            "bottom": 384,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(0, 0, 238)",
+            "gap": "normal",
+            "display": "inline"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "个人档案",
+      "rect": {
+        "x": 84,
+        "y": 405.5,
+        "width": 63.203125,
+        "height": 25,
+        "top": 405.5,
+        "right": 147.203125,
+        "bottom": 430.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 392,
+            "width": 222,
+            "height": 52,
+            "top": 392,
+            "right": 238,
+            "bottom": 444,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "A",
+          "rect": {
+            "x": 16,
+            "y": 392,
+            "width": 222,
+            "height": 52,
+            "top": 392,
+            "right": 238,
+            "bottom": 444,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(0, 0, 238)",
+            "gap": "normal",
+            "display": "inline"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "更多",
+      "rect": {
+        "x": 84,
+        "y": 465.5,
+        "width": 31.6015625,
+        "height": 25,
+        "top": 465.5,
+        "right": 115.6015625,
+        "bottom": 490.5,
+        "left": 84
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 452,
+            "width": 222,
+            "height": 52,
+            "top": 452,
+            "right": 238,
+            "bottom": 504,
+            "left": 16
+          },
+          "css": {
+            "padding": "4px 8px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 16,
+            "y": 452,
+            "width": 222,
+            "height": 52,
+            "top": 452,
+            "right": 238,
+            "bottom": 504,
+            "left": 16
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(175, 175, 175)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "5",
+      "rect": {
+        "x": 866,
+        "y": 34,
+        "width": 7.875,
+        "height": 24,
+        "top": 34,
+        "right": 873.875,
+        "bottom": 58,
+        "left": 866
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(75, 75, 75)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 821,
+            "y": 34,
+            "width": 52.875,
+            "height": 24,
+            "top": 34,
+            "right": 873.875,
+            "bottom": 58,
+            "left": 821
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "14px",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 808,
+            "y": 24,
+            "width": 81.875,
+            "height": 44,
+            "top": 24,
+            "right": 889.875,
+            "bottom": 68,
+            "left": 808
+          },
+          "css": {
+            "padding": "0px 16px 0px 13px",
+            "borderRadius": "12px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "2",
+      "rect": {
+        "x": 956.3046875,
+        "y": 36,
+        "width": 7.21875,
+        "height": 20,
+        "top": 36,
+        "right": 963.5234375,
+        "bottom": 56,
+        "left": 956.3046875
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "color": "rgb(255, 150, 0)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 150, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 911.9765625,
+            "y": 24,
+            "width": 67.546875,
+            "height": 44,
+            "top": 24,
+            "right": 979.5234375,
+            "bottom": 68,
+            "left": 911.9765625
+          },
+          "css": {
+            "padding": "0px 16px 0px 10px",
+            "borderRadius": "12px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 911.9765625,
+            "y": 24,
+            "width": 67.546875,
+            "height": 44,
+            "top": 24,
+            "right": 979.5234375,
+            "bottom": 68,
+            "left": 911.9765625
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "510",
+      "rect": {
+        "x": 1044.0234375,
+        "y": 36,
+        "width": 21.875,
+        "height": 20,
+        "top": 36,
+        "right": 1065.8984375,
+        "bottom": 56,
+        "left": 1044.0234375
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "color": "rgb(28, 176, 246)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(28, 176, 246)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 1001.625,
+            "y": 24,
+            "width": 80.2734375,
+            "height": 44,
+            "top": 24,
+            "right": 1081.8984375,
+            "bottom": 68,
+            "left": 1001.625
+          },
+          "css": {
+            "padding": "0px 16px 0px 10px",
+            "borderRadius": "12px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 1001.625,
+            "y": 24,
+            "width": 80.2734375,
+            "height": 44,
+            "top": 24,
+            "right": 1081.8984375,
+            "bottom": 68,
+            "left": 1001.625
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "3",
+      "rect": {
+        "x": 1152.6875,
+        "y": 36,
+        "width": 7.3125,
+        "height": 20,
+        "top": 36,
+        "right": 1160,
+        "bottom": 56,
+        "left": 1152.6875
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "color": "rgb(255, 75, 75)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 75, 75)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 1104,
+            "y": 24,
+            "width": 72,
+            "height": 44,
+            "top": 24,
+            "right": 1176,
+            "bottom": 68,
+            "left": 1104
+          },
+          "css": {
+            "padding": "0px 16px 0px 10px",
+            "borderRadius": "12px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 1104,
+            "y": 24,
+            "width": 72,
+            "height": 44,
+            "top": 24,
+            "right": 1176,
+            "bottom": 68,
+            "left": 1104
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "DIV",
+      "text": "每月挑战稍后揭秘！",
+      "rect": {
+        "x": 830,
+        "y": 122,
+        "width": 228,
+        "height": 28,
+        "top": 122,
+        "right": 1058,
+        "bottom": 150,
+        "left": 830
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "color": "rgb(60, 60, 60)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(60, 60, 60)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 830,
+            "y": 114,
+            "width": 228,
+            "height": 138,
+            "top": 114,
+            "right": 1058,
+            "bottom": 252,
+            "left": 830
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 830,
+            "y": 114,
+            "width": 324,
+            "height": 138,
+            "top": 114,
+            "right": 1154,
+            "bottom": 252,
+            "left": 830
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "DIV",
+      "text": "快开始你的每月挑战，独家徽章尽入囊中！",
+      "rect": {
+        "x": 830,
+        "y": 158,
+        "width": 228,
+        "height": 48,
+        "top": 158,
+        "right": 1058,
+        "bottom": 206,
+        "left": 830
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(119, 119, 119)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 830,
+            "y": 114,
+            "width": 228,
+            "height": 138,
+            "top": 114,
+            "right": 1058,
+            "bottom": 252,
+            "left": 830
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 830,
+            "y": 114,
+            "width": 324,
+            "height": 138,
+            "top": 114,
+            "right": 1154,
+            "bottom": 252,
+            "left": 830
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "去学个单元",
+      "rect": {
+        "x": 830,
+        "y": 280,
+        "width": 324,
+        "height": 50,
+        "top": 280,
+        "right": 1154,
+        "bottom": 330,
+        "left": 830
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "color": "rgb(28, 176, 246)",
+        "letterSpacing": "0.8px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "padding": "0px 16px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 808,
+            "y": 92,
+            "width": 368,
+            "height": 248,
+            "top": 92,
+            "right": 1176,
+            "bottom": 340,
+            "left": 808
+          },
+          "css": {
+            "padding": "20px 20px 8px",
+            "borderRadius": "16px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "2px",
+            "borderColor": "rgb(229, 229, 229)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 808,
+            "y": 24,
+            "width": 368,
+            "height": 416,
+            "top": 24,
+            "right": 1176,
+            "bottom": 440,
+            "left": 808
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "16px",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "关于我们",
+      "rect": {
+        "x": 835,
+        "y": 375.5,
+        "width": 52,
+        "height": 15.5,
+        "top": 375.5,
+        "right": 887,
+        "bottom": 391,
+        "left": 835
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 835,
+            "y": 372,
+            "width": 52,
+            "height": 20,
+            "top": 372,
+            "right": 887,
+            "bottom": 392,
+            "left": 835
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "宝石小店",
+      "rect": {
+        "x": 907,
+        "y": 375.5,
+        "width": 52,
+        "height": 15.5,
+        "top": 375.5,
+        "right": 959,
+        "bottom": 391,
+        "left": 907
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 907,
+            "y": 372,
+            "width": 52,
+            "height": 20,
+            "top": 372,
+            "right": 959,
+            "bottom": 392,
+            "left": 907
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "有效性",
+      "rect": {
+        "x": 979,
+        "y": 375.5,
+        "width": 39,
+        "height": 15.5,
+        "top": 375.5,
+        "right": 1018,
+        "bottom": 391,
+        "left": 979
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 979,
+            "y": 372,
+            "width": 39,
+            "height": 20,
+            "top": 372,
+            "right": 1018,
+            "bottom": 392,
+            "left": 979
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "招聘贤才",
+      "rect": {
+        "x": 1038,
+        "y": 375.5,
+        "width": 52,
+        "height": 15.5,
+        "top": 375.5,
+        "right": 1090,
+        "bottom": 391,
+        "left": 1038
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 1038,
+            "y": 372,
+            "width": 52,
+            "height": 20,
+            "top": 372,
+            "right": 1090,
+            "bottom": 392,
+            "left": 1038
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "投资者",
+      "rect": {
+        "x": 1110,
+        "y": 375.5,
+        "width": 39,
+        "height": 15.5,
+        "top": 375.5,
+        "right": 1149,
+        "bottom": 391,
+        "left": 1110
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 1110,
+            "y": 372,
+            "width": 39,
+            "height": 20,
+            "top": 372,
+            "right": 1149,
+            "bottom": 392,
+            "left": 1110
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "条款",
+      "rect": {
+        "x": 956,
+        "y": 407.5,
+        "width": 26,
+        "height": 15.5,
+        "top": 407.5,
+        "right": 982,
+        "bottom": 423,
+        "left": 956
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 956,
+            "y": 404,
+            "width": 26,
+            "height": 20,
+            "top": 404,
+            "right": 982,
+            "bottom": 424,
+            "left": 956
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "A",
+      "text": "隐私",
+      "rect": {
+        "x": 1002,
+        "y": 407.5,
+        "width": 26,
+        "height": 15.5,
+        "top": 407.5,
+        "right": 1028,
+        "bottom": 423,
+        "left": 1002
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "700",
+        "lineHeight": "16px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "pointer"
+      },
+      "ancestors": [
+        {
+          "tag": "LI",
+          "rect": {
+            "x": 1002,
+            "y": 404,
+            "width": 26,
+            "height": 20,
+            "top": 404,
+            "right": 1028,
+            "bottom": 424,
+            "left": 1002
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "list-item"
+          }
+        },
+        {
+          "tag": "UL",
+          "rect": {
+            "x": 818,
+            "y": 372,
+            "width": 348,
+            "height": 64,
+            "top": 372,
+            "right": 1166,
+            "bottom": 436,
+            "left": 818
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "DIV",
+      "text": "就是你了！",
+      "rect": {
+        "x": 304,
+        "y": 95,
+        "width": 260,
+        "height": 34,
+        "top": 95,
+        "right": 564,
+        "bottom": 129,
+        "left": 304
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "25px",
+        "fontWeight": "700",
+        "lineHeight": "34px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 304,
+            "y": 95,
+            "width": 260,
+            "height": 90,
+            "top": 95,
+            "right": 564,
+            "bottom": 185,
+            "left": 304
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(255, 255, 255)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 280,
+            "y": 24,
+            "width": 480,
+            "height": 232,
+            "top": 24,
+            "right": 760,
+            "bottom": 256,
+            "left": 280
+          },
+          "css": {
+            "padding": "24px",
+            "borderRadius": "16px",
+            "backgroundColor": "rgb(144, 105, 205)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "DIV",
+      "text": "完成特别任务，获取奖励！特别任务每天都会更新哦！",
+      "rect": {
+        "x": 304,
+        "y": 137,
+        "width": 260,
+        "height": 48,
+        "top": 137,
+        "right": 564,
+        "bottom": 185,
+        "left": 304
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 304,
+            "y": 95,
+            "width": 260,
+            "height": 90,
+            "top": 95,
+            "right": 564,
+            "bottom": 185,
+            "left": 304
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(255, 255, 255)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 280,
+            "y": 24,
+            "width": 480,
+            "height": 232,
+            "top": 24,
+            "right": 760,
+            "bottom": 256,
+            "left": 280
+          },
+          "css": {
+            "padding": "24px",
+            "borderRadius": "16px",
+            "backgroundColor": "rgb(144, 105, 205)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "H2",
+      "text": "每日特别任务",
+      "rect": {
+        "x": 280,
+        "y": 286,
+        "width": 150,
+        "height": 28,
+        "top": 286,
+        "right": 430,
+        "bottom": 314,
+        "left": 280
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "25px",
+        "fontWeight": "700",
+        "lineHeight": "28px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(75, 75, 75)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 280,
+            "y": 286,
+            "width": 480,
+            "height": 28,
+            "top": 286,
+            "right": 760,
+            "bottom": 314,
+            "left": 280
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 280,
+            "y": 286,
+            "width": 480,
+            "height": 269,
+            "top": 286,
+            "right": 760,
+            "bottom": 555,
+            "left": 280
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "block"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "14 小时",
+      "rect": {
+        "x": 705.40625,
+        "y": 290.6640625,
+        "width": 54.59375,
+        "height": 20,
+        "top": 290.6640625,
+        "right": 760,
+        "bottom": 310.6640625,
+        "left": 705.40625
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "color": "rgb(255, 150, 0)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 150, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "SPAN",
+          "rect": {
+            "x": 684.40625,
+            "y": 289.3359375,
+            "width": 75.59375,
+            "height": 21.328125,
+            "top": 289.3359375,
+            "right": 760,
+            "bottom": 310.6640625,
+            "left": 684.40625
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(255, 150, 0)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 280,
+            "y": 286,
+            "width": 480,
+            "height": 28,
+            "top": 286,
+            "right": 760,
+            "bottom": 314,
+            "left": 280
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "获取 30 经验",
+      "rect": {
+        "x": 389,
+        "y": 348,
+        "width": 344,
+        "height": 26,
+        "top": 348,
+        "right": 733,
+        "bottom": 374,
+        "left": 389
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "700",
+        "lineHeight": "26px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(75, 75, 75)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 389,
+            "y": 348,
+            "width": 344,
+            "height": 69,
+            "top": 348,
+            "right": 733,
+            "bottom": 417,
+            "left": 389
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "8px",
+            "display": "flex"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 307,
+            "y": 348,
+            "width": 426,
+            "height": 69,
+            "top": 348,
+            "right": 733,
+            "bottom": 417,
+            "left": 307
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "flex"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "30 / 30",
+      "rect": {
+        "x": 519.76953125,
+        "y": 391.5,
+        "width": 43.4609375,
+        "height": 20,
+        "top": 391.5,
+        "right": 563.23046875,
+        "bottom": 411.5,
+        "left": 519.76953125
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "0.56px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(175, 175, 175)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 389,
+            "y": 391.5,
+            "width": 305,
+            "height": 20,
+            "top": 391.5,
+            "right": 694,
+            "bottom": 411.5,
+            "left": 389
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "10px 0px 0px 10px",
+            "backgroundColor": "rgb(229, 229, 229)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 389,
+            "y": 391.5,
+            "width": 305,
+            "height": 20,
+            "top": 391.5,
+            "right": 694,
+            "bottom": 411.5,
+            "left": 389
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "0px",
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "block"
+          }
+        }
+      ]
+    },
+    {
+      "tag": "SPAN",
+      "text": "30 / 30",
+      "rect": {
+        "x": 519.76953125,
+        "y": 391.5,
+        "width": 43.4609375,
+        "height": 20,
+        "top": 391.5,
+        "right": 563.23046875,
+        "bottom": 411.5,
+        "left": 519.76953125
+      },
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "700",
+        "lineHeight": "20px",
+        "color": "rgb(205, 121, 0)",
+        "letterSpacing": "0.56px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(205, 121, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "cursor": "default"
+      },
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 389,
+            "y": 391.5,
+            "width": 305,
+            "height": 20,
+            "top": 391.5,
+            "right": 694,
+            "bottom": 411.5,
+            "left": 389
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "10px 0px 0px 10px",
+            "backgroundColor": "rgb(255, 200, 0)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(255, 200, 0)",
+            "gap": "normal",
+            "display": "block"
+          }
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 389,
+            "y": 391.5,
+            "width": 305,
+            "height": 20,
+            "top": 391.5,
+            "right": 694,
+            "bottom": 411.5,
+            "left": 389
+          },
+          "css": {
+            "padding": "0px",
+            "borderRadius": "10px 0px 0px 10px",
+            "backgroundColor": "rgb(229, 229, 229)",
+            "borderWidth": "0px",
+            "borderColor": "rgb(60, 60, 60)",
+            "gap": "normal",
+            "display": "block"
+          }
+        }
+      ]
+    }
+  ],
+  "progress": [
+    {
+      "value": "30",
+      "max": "30",
+      "rect": {
+        "x": 389,
+        "y": 391.5,
+        "width": 305,
+        "height": 20,
+        "top": 391.5,
+        "right": 694,
+        "bottom": 411.5,
+        "left": 389
+      }
+    }
+  ]
+}

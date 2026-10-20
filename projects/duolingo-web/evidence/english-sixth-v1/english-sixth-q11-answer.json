@@ -1,0 +1,22 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"再\"\n- button \"你好\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "text": "用中文（简体）写出这句话\nHello!\n再\n你好",
+  "prompts": [
+    "Hello!"
+  ],
+  "choices": [
+    "再",
+    "你好"
+  ],
+  "images": [],
+  "clicks": [
+    {
+      "word": "你好",
+      "occurrence": 0
+    }
+  ],
+  "feedback": "- button:\n  - img\n- progressbar: 连对 11 题\n- img\n- text: \"2\"\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"再\" [disabled]\n- button \"你好\" [disabled]\n- heading \"非常好！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"你好\" [disabled]",
+  "rejected": false,
+  "next_action": "Receipt saved before transition. Inspect acceptance then continue separately; no assumed next question.",
+  "observed_at": "2026-10-10T19:10:20.872Z"
+}

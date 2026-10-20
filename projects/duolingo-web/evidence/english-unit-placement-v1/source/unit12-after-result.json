@@ -1,0 +1,370 @@
+{
+  "observed_at": "2026-10-11T19:33:11.356Z",
+  "path": "/lesson/unit/12/test",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "snapshot": "- img\n- text: 10 离提升你的英语分数又近了一步！ 10\n- progressbar\n- text: \"11\"\n- button \"继续\"",
+  "radio_groups": [],
+  "scroll_regions": [],
+  "control_inventory": [
+    {
+      "index": 0,
+      "tag": "BUTTON",
+      "test": null,
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "继续",
+      "enabled": true,
+      "rect": [
+        910,
+        638,
+        150,
+        50
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    }
+  ],
+  "control_inventory_limitations": [
+    "Rendered DOM inventory only; offscreen or obscured controls are not executed coverage; Focus inventory and pointer-only candidates do not establish interaction semantics."
+  ],
+  "actions": [
+    {
+      "id": "BUTTON:继续#0",
+      "test": null,
+      "href": null,
+      "name": "继续",
+      "hit_test": true,
+      "tag": "BUTTON",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        910,
+        638,
+        150,
+        50
+      ]
+    }
+  ],
+  "text_runs": [
+    {
+      "text": "10",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        620.1875,
+        260.5,
+        67.625,
+        82.5
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "70px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "离提升你的英语分数又近了一步！",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        390,
+        367.3046875,
+        420,
+        33
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "10",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        180,
+        431.3046875,
+        27.0546875,
+        33
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "11",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        993.84375,
+        431.3046875,
+        26.15625,
+        33
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "32px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "继续",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        969.1953125,
+        652,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "18px",
+        "color": "rgb(255, 255, 255)",
+        "letterSpacing": "0.8px"
+      }
+    }
+  ],
+  "rendered_text_groups": [],
+  "text_run_limitations": [
+    "DOM text ranges and computed CSS are not OCR or actual fallback font resolution; clipped animation digits may still appear."
+  ],
+  "media": [
+    {
+      "tag": "CANVAS",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        0,
+        0,
+        1200,
+        732
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        1200,
+        732
+      ]
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg viewBox=\"0 0 82 66\" data-test=\"flag-en\" style=\"height: 67.6098px; width: 84px;\"><image height=\"3234\" href=\"https://d35aaqx5ub95lt.cloudfront.net/vendor/40d2caf9c6f7cc01b0f71e9e1e56fb5e.svg\" width=\"82\" xlink:href=\"https://d35aaqx5ub95lt.cloudfront.net/vendor/40d2caf9c6f7cc01b0f71e9e1e56fb5e.svg\"></image></svg>",
+      "alt": null,
+      "test": "flag-en",
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        512.1875,
+        268.1953125,
+        84,
+        67.609375
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    }
+  ],
+  "background_media": [],
+  "pseudo_elements": [
+    {
+      "tag": "BUTTON",
+      "test": null,
+      "pseudo": "::before",
+      "parent_rect": [
+        910,
+        638,
+        150,
+        50
+      ],
+      "css": {
+        "content": "\"\"",
+        "width": "150px",
+        "height": "46px",
+        "top": "0px",
+        "left": "0px",
+        "color": "rgb(24, 153, 214)",
+        "backgroundColor": "rgb(28, 176, 246)",
+        "backgroundImage": "none",
+        "borderRadius": "16px",
+        "transform": "none",
+        "boxShadow": "rgb(24, 153, 214) 0px 4px 0px 0px"
+      }
+    }
+  ],
+  "pseudo_limitations": [
+    "Computed CSS and parent bounds only; pseudo-elements have no independently measured DOM bounding rectangle."
+  ],
+  "visible": [
+    {
+      "test": "flag-en",
+      "tag": "svg",
+      "role": null,
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        512.1875,
+        268.1953125,
+        84,
+        67.609375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "DIV",
+      "role": "progressbar",
+      "text": "",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        223.0546875,
+        439.8046875,
+        754.7890625,
+        16
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(60, 60, 60)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(60, 60, 60)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "BUTTON",
+      "role": null,
+      "text": "继续",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        910,
+        638,
+        150,
+        50
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "lineHeight": "18px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "16px",
+        "borderWidth": "0px 0px 4px",
+        "borderColor": "rgba(0, 0, 0, 0)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": [
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 100,
+            "y": 638,
+            "width": 1000,
+            "height": 50,
+            "top": 638,
+            "right": 1100,
+            "bottom": 688,
+            "left": 100
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px 40px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 592,
+            "width": 1200,
+            "height": 140,
+            "top": 592,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        },
+        {
+          "tag": "DIV",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 732,
+            "top": 0,
+            "right": 1200,
+            "bottom": 732,
+            "left": 0
+          },
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "padding": "0px",
+          "gap": "normal"
+        }
+      ]
+    }
+  ],
+  "screenshot": "unit12-after-result.png"
+}

@@ -1,0 +1,12 @@
+### Result
+{"path":"/lesson/section/2/test","snapshot":"- heading \"所有每日特别任务都完成啦！\" [level=2]\n- img\n- text: 获取 50 经验\n- progressbar:\n  - text: 0 / 50 0 / 50\n  - img\n- img\n- button \"回顾本单元\"\n- button \"继续\""}
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"继续",exact:true}).click();return {path:new URL(page.url()).pathname,snapshot:await page.locator("body").ariaSnapshot()};})(page);
+```
+### Page
+- Page URL: https://www.duolingo.com/lesson/section/2/test
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 128 errors, 0 warnings
+### Events
+- New console entries: artifacts/output/playwright/.playwright-cli/console-2026-10-11T13-00-34-180Z.log#L231-L232

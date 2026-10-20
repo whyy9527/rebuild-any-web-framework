@@ -1,0 +1,589 @@
+{
+  "journeys": [
+    {
+      "id": "avatar-composition",
+      "steps": [
+        {
+          "native_action": "nav-leaderboards"
+        },
+        {
+          "native_action": "leaderboard-guest-profile"
+        },
+        {
+          "native_action": "guest-profile-start"
+        },
+        {
+          "native_action": "avatar-skin-1"
+        },
+        {
+          "native_action": "avatar-done"
+        },
+        {
+          "native_action": "avatar-keep"
+        },
+        {
+          "native_action": "nav-leaderboards",
+          "operation": "restart"
+        },
+        {
+          "native_action": "leaderboard-guest-profile"
+        },
+        {
+          "native_action": "guest-profile-avatar"
+        },
+        {
+          "native_action": "avatar-category-1"
+        },
+        {
+          "native_action": "avatar-category-2"
+        },
+        {
+          "native_action": "avatar-category-3"
+        },
+        {
+          "native_action": "avatar-category-4"
+        },
+        {
+          "native_action": "avatar-category-5"
+        },
+        {
+          "native_action": "avatar-category-6"
+        },
+        {
+          "native_action": "avatar-category-7"
+        },
+        {
+          "native_action": "avatar-category-8"
+        },
+        {
+          "native_action": "avatar-category-1"
+        },
+        {
+          "native_action": "avatar-choice-Body-3",
+          "state": "avatar-composition-selected-0",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-Body-3",
+            "composition-action-10": "avatar-choice-Body-4",
+            "composition-action-11": "avatar-choice-Body-1",
+            "composition-action-12": "avatar-choice-Body-5",
+            "composition-action-13": "avatar-choice-Body-6",
+            "composition-action-14": "avatar-choice-Body-2",
+            "composition-action-15": "avatar-category-0",
+            "composition-action-16": "avatar-category-1",
+            "composition-action-17": "avatar-category-2",
+            "composition-action-18": "avatar-category-3",
+            "composition-action-19": "avatar-category-4",
+            "composition-action-20": "avatar-category-5",
+            "composition-action-21": "avatar-category-6",
+            "composition-action-22": "avatar-category-7",
+            "composition-action-23": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-3"
+        },
+        {
+          "native_action": "avatar-choice-MainHair-59",
+          "state": "avatar-composition-selected-1",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-MainHairColor-1",
+            "composition-action-10": "avatar-choice-MainHairColor-2",
+            "composition-action-11": "avatar-choice-MainHairColor-3",
+            "composition-action-12": "avatar-choice-MainHairColor-4",
+            "composition-action-13": "avatar-choice-MainHairColor-5",
+            "composition-action-14": "avatar-choice-MainHairColor-6",
+            "composition-action-15": "avatar-choice-MainHairColor-7",
+            "composition-action-16": "avatar-choice-MainHairColor-8",
+            "composition-action-17": "avatar-choice-MainHairColor-9",
+            "composition-action-18": "avatar-choice-MainHairColor-10",
+            "composition-action-19": "avatar-choice-MainHairColor-11",
+            "composition-action-20": "avatar-choice-MainHairColor-12",
+            "composition-action-21": "avatar-choice-MainHairColor-13",
+            "composition-action-22": "avatar-choice-MainHairColor-14",
+            "composition-action-23": "avatar-choice-MainHairColor-15",
+            "composition-action-24": "avatar-choice-MainHairColor-16",
+            "composition-action-25": "avatar-choice-MainHair-58",
+            "composition-action-26": "avatar-choice-MainHair-59",
+            "composition-action-27": "avatar-choice-MainHair-60",
+            "composition-action-28": "avatar-choice-MainHair-55",
+            "composition-action-29": "avatar-choice-MainHair-56",
+            "composition-action-30": "avatar-choice-MainHair-57",
+            "composition-action-31": "avatar-category-0",
+            "composition-action-32": "avatar-category-1",
+            "composition-action-33": "avatar-category-2",
+            "composition-action-34": "avatar-category-3",
+            "composition-action-35": "avatar-category-4",
+            "composition-action-36": "avatar-category-5",
+            "composition-action-37": "avatar-category-6",
+            "composition-action-38": "avatar-category-7",
+            "composition-action-39": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-4"
+        },
+        {
+          "native_action": "avatar-options",
+          "operation": "scroll",
+          "scroll_pixels": -1152,
+          "scroll_anchor": "avatar-choice-Nose Piercing-1"
+        },
+        {
+          "native_action": "avatar-choice-Nose Piercing-1",
+          "state": "avatar-composition-selected-2",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-Piercings-0",
+            "composition-action-10": "avatar-choice-Piercings-1",
+            "composition-action-11": "avatar-choice-Piercings-2",
+            "composition-action-12": "avatar-choice-Piercings-3",
+            "composition-action-13": "avatar-choice-Piercings-4",
+            "composition-action-14": "avatar-choice-Piercings-5",
+            "composition-action-15": "avatar-choice-Piercings-6",
+            "composition-action-16": "avatar-choice-Nose Piercing-0",
+            "composition-action-17": "avatar-choice-Nose Piercing-1",
+            "composition-action-18": "avatar-choice-Nose Piercing-2",
+            "composition-action-19": "avatar-choice-Nose Piercing-3",
+            "composition-action-20": "avatar-category-0",
+            "composition-action-21": "avatar-category-1",
+            "composition-action-22": "avatar-category-2",
+            "composition-action-23": "avatar-category-3",
+            "composition-action-24": "avatar-category-4",
+            "composition-action-25": "avatar-category-5",
+            "composition-action-26": "avatar-category-6",
+            "composition-action-27": "avatar-category-7",
+            "composition-action-28": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-8"
+        },
+        {
+          "native_action": "avatar-choice-BackgroundColor-2",
+          "state": "avatar-composition-selected-3",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-BackgroundColor-1",
+            "composition-action-10": "avatar-choice-BackgroundColor-2",
+            "composition-action-11": "avatar-choice-BackgroundColor-3",
+            "composition-action-12": "avatar-choice-BackgroundColor-4",
+            "composition-action-13": "avatar-choice-BackgroundColor-5",
+            "composition-action-14": "avatar-choice-BackgroundColor-6",
+            "composition-action-15": "avatar-choice-BackgroundColor-7",
+            "composition-action-16": "avatar-choice-BackgroundColor-8",
+            "composition-action-17": "avatar-choice-BackgroundColor-9",
+            "composition-action-18": "avatar-choice-BackgroundColor-10",
+            "composition-action-19": "avatar-choice-BackgroundColor-11",
+            "composition-action-20": "avatar-choice-BackgroundColor-12",
+            "composition-action-21": "avatar-choice-BackgroundColor-13",
+            "composition-action-22": "avatar-choice-BackgroundColor-14",
+            "composition-action-23": "avatar-choice-BackgroundColor-15",
+            "composition-action-24": "avatar-choice-BackgroundColor-16",
+            "composition-action-25": "avatar-choice-BackgroundColor-17",
+            "composition-action-26": "avatar-choice-BackgroundColor-18",
+            "composition-action-27": "avatar-choice-BackgroundColor-19",
+            "composition-action-28": "avatar-choice-BackgroundColor-20",
+            "composition-action-29": "avatar-choice-BackgroundColor-21",
+            "composition-action-30": "avatar-choice-BackgroundColor-22",
+            "composition-action-31": "avatar-choice-BackgroundColor-23",
+            "composition-action-32": "avatar-choice-BackgroundColor-24",
+            "composition-action-33": "avatar-category-0",
+            "composition-action-34": "avatar-category-1",
+            "composition-action-35": "avatar-category-2",
+            "composition-action-36": "avatar-category-3",
+            "composition-action-37": "avatar-category-4",
+            "composition-action-38": "avatar-category-5",
+            "composition-action-39": "avatar-category-6",
+            "composition-action-40": "avatar-category-7",
+            "composition-action-41": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-preview",
+          "operation": "scroll",
+          "scroll_pixels": -500,
+          "scroll_anchor": "avatar-done"
+        },
+        {
+          "native_action": "avatar-done",
+          "state": "avatar-composition-saved",
+          "element_aliases": {
+            "composition-action-8": "avatar-choice-BackgroundColor-1",
+            "composition-action-9": "avatar-choice-BackgroundColor-2",
+            "composition-action-10": "avatar-choice-BackgroundColor-3",
+            "composition-action-11": "avatar-choice-BackgroundColor-4",
+            "composition-action-12": "avatar-choice-BackgroundColor-5",
+            "composition-action-13": "avatar-choice-BackgroundColor-6",
+            "composition-action-14": "avatar-choice-BackgroundColor-7",
+            "composition-action-15": "avatar-choice-BackgroundColor-8",
+            "composition-action-16": "avatar-choice-BackgroundColor-9",
+            "composition-action-17": "avatar-choice-BackgroundColor-10",
+            "composition-action-18": "avatar-choice-BackgroundColor-11",
+            "composition-action-19": "avatar-choice-BackgroundColor-12",
+            "composition-action-20": "avatar-choice-BackgroundColor-13",
+            "composition-action-21": "avatar-choice-BackgroundColor-14",
+            "composition-action-22": "avatar-choice-BackgroundColor-15",
+            "composition-action-23": "avatar-choice-BackgroundColor-16",
+            "composition-action-24": "avatar-choice-BackgroundColor-17",
+            "composition-action-25": "avatar-choice-BackgroundColor-18",
+            "composition-action-26": "avatar-choice-BackgroundColor-19",
+            "composition-action-27": "avatar-choice-BackgroundColor-20",
+            "composition-action-28": "avatar-choice-BackgroundColor-21",
+            "composition-action-29": "avatar-choice-BackgroundColor-22",
+            "composition-action-30": "avatar-choice-BackgroundColor-23",
+            "composition-action-31": "avatar-choice-BackgroundColor-24",
+            "composition-action-32": "avatar-done",
+            "composition-action-33": "avatar-keep",
+            "composition-action-34": "avatar-discard",
+            "composition-action-35": "avatar-category-0",
+            "composition-action-36": "avatar-category-1",
+            "composition-action-37": "avatar-category-2",
+            "composition-action-38": "avatar-category-3",
+            "composition-action-39": "avatar-category-4",
+            "composition-action-40": "avatar-category-5",
+            "composition-action-41": "avatar-category-6",
+            "composition-action-42": "avatar-category-7",
+            "composition-action-43": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-keep"
+        },
+        {
+          "native_action": "nav-leaderboards",
+          "operation": "restart"
+        },
+        {
+          "native_action": "leaderboard-guest-profile"
+        },
+        {
+          "native_action": "guest-profile-avatar",
+          "state": "avatar-composition-reloaded-ready",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-skin-0",
+            "composition-action-10": "avatar-skin-1",
+            "composition-action-11": "avatar-skin-2",
+            "composition-action-12": "avatar-skin-3",
+            "composition-action-13": "avatar-skin-4",
+            "composition-action-14": "avatar-skin-5",
+            "composition-action-15": "avatar-skin-6",
+            "composition-action-16": "avatar-skin-7",
+            "composition-action-17": "avatar-skin-8",
+            "composition-action-18": "avatar-skin-9",
+            "composition-action-19": "avatar-skin-10",
+            "composition-action-20": "avatar-skin-11",
+            "composition-action-21": "avatar-skin-12",
+            "composition-action-22": "avatar-skin-13",
+            "composition-action-23": "avatar-skin-14",
+            "composition-action-24": "avatar-done",
+            "composition-action-25": "avatar-category-0",
+            "composition-action-26": "avatar-category-1",
+            "composition-action-27": "avatar-category-2",
+            "composition-action-28": "avatar-category-3",
+            "composition-action-29": "avatar-category-4",
+            "composition-action-30": "avatar-category-5",
+            "composition-action-31": "avatar-category-6",
+            "composition-action-32": "avatar-category-7",
+            "composition-action-33": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-0",
+          "state": "avatar-composition-restored-0",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-skin-0",
+            "composition-action-10": "avatar-skin-1",
+            "composition-action-11": "avatar-skin-2",
+            "composition-action-12": "avatar-skin-3",
+            "composition-action-13": "avatar-skin-4",
+            "composition-action-14": "avatar-skin-5",
+            "composition-action-15": "avatar-skin-6",
+            "composition-action-16": "avatar-skin-7",
+            "composition-action-17": "avatar-skin-8",
+            "composition-action-18": "avatar-skin-9",
+            "composition-action-19": "avatar-skin-10",
+            "composition-action-20": "avatar-skin-11",
+            "composition-action-21": "avatar-skin-12",
+            "composition-action-22": "avatar-skin-13",
+            "composition-action-23": "avatar-skin-14",
+            "composition-action-24": "avatar-done",
+            "composition-action-25": "avatar-category-0",
+            "composition-action-26": "avatar-category-1",
+            "composition-action-27": "avatar-category-2",
+            "composition-action-28": "avatar-category-3",
+            "composition-action-29": "avatar-category-4",
+            "composition-action-30": "avatar-category-5",
+            "composition-action-31": "avatar-category-6",
+            "composition-action-32": "avatar-category-7",
+            "composition-action-33": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-1",
+          "state": "avatar-composition-restored-1",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-Body-3",
+            "composition-action-10": "avatar-choice-Body-4",
+            "composition-action-11": "avatar-choice-Body-1",
+            "composition-action-12": "avatar-choice-Body-5",
+            "composition-action-13": "avatar-choice-Body-6",
+            "composition-action-14": "avatar-choice-Body-2",
+            "composition-action-15": "avatar-done",
+            "composition-action-16": "avatar-category-0",
+            "composition-action-17": "avatar-category-1",
+            "composition-action-18": "avatar-category-2",
+            "composition-action-19": "avatar-category-3",
+            "composition-action-20": "avatar-category-4",
+            "composition-action-21": "avatar-category-5",
+            "composition-action-22": "avatar-category-6",
+            "composition-action-23": "avatar-category-7",
+            "composition-action-24": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-2",
+          "state": "avatar-composition-restored-2",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-EyeColor-1",
+            "composition-action-10": "avatar-choice-EyeColor-2",
+            "composition-action-11": "avatar-choice-EyeColor-3",
+            "composition-action-12": "avatar-choice-EyeColor-4",
+            "composition-action-13": "avatar-choice-EyeColor-5",
+            "composition-action-14": "avatar-choice-EyeColor-6",
+            "composition-action-15": "avatar-choice-EyeColor-7",
+            "composition-action-16": "avatar-choice-EyeColor-8",
+            "composition-action-17": "avatar-choice-EyeColor-9",
+            "composition-action-18": "avatar-choice-EyeColor-10",
+            "composition-action-19": "avatar-choice-EyeColor-11",
+            "composition-action-20": "avatar-choice-EyeColor-12",
+            "composition-action-21": "avatar-choice-EyeColor-13",
+            "composition-action-22": "avatar-choice-Expression-17",
+            "composition-action-23": "avatar-choice-Expression-54",
+            "composition-action-24": "avatar-choice-Expression-55",
+            "composition-action-25": "avatar-choice-Expression-5",
+            "composition-action-26": "avatar-choice-Expression-31",
+            "composition-action-27": "avatar-choice-Expression-32",
+            "composition-action-28": "avatar-category-0",
+            "composition-action-29": "avatar-category-1",
+            "composition-action-30": "avatar-category-2",
+            "composition-action-31": "avatar-category-3",
+            "composition-action-32": "avatar-category-4",
+            "composition-action-33": "avatar-category-5",
+            "composition-action-34": "avatar-category-6",
+            "composition-action-35": "avatar-category-7",
+            "composition-action-36": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-3",
+          "state": "avatar-composition-restored-3",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-MainHairColor-1",
+            "composition-action-10": "avatar-choice-MainHairColor-2",
+            "composition-action-11": "avatar-choice-MainHairColor-3",
+            "composition-action-12": "avatar-choice-MainHairColor-4",
+            "composition-action-13": "avatar-choice-MainHairColor-5",
+            "composition-action-14": "avatar-choice-MainHairColor-6",
+            "composition-action-15": "avatar-choice-MainHairColor-7",
+            "composition-action-16": "avatar-choice-MainHairColor-8",
+            "composition-action-17": "avatar-choice-MainHairColor-9",
+            "composition-action-18": "avatar-choice-MainHairColor-10",
+            "composition-action-19": "avatar-choice-MainHairColor-11",
+            "composition-action-20": "avatar-choice-MainHairColor-12",
+            "composition-action-21": "avatar-choice-MainHairColor-13",
+            "composition-action-22": "avatar-choice-MainHairColor-14",
+            "composition-action-23": "avatar-choice-MainHairColor-15",
+            "composition-action-24": "avatar-choice-MainHairColor-16",
+            "composition-action-25": "avatar-choice-MainHair-58",
+            "composition-action-26": "avatar-choice-MainHair-59",
+            "composition-action-27": "avatar-choice-MainHair-60",
+            "composition-action-28": "avatar-choice-MainHair-55",
+            "composition-action-29": "avatar-choice-MainHair-56",
+            "composition-action-30": "avatar-choice-MainHair-57",
+            "composition-action-31": "avatar-category-0",
+            "composition-action-32": "avatar-category-1",
+            "composition-action-33": "avatar-category-2",
+            "composition-action-34": "avatar-category-3",
+            "composition-action-35": "avatar-category-4",
+            "composition-action-36": "avatar-category-5",
+            "composition-action-37": "avatar-category-6",
+            "composition-action-38": "avatar-category-7",
+            "composition-action-39": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-4",
+          "state": "avatar-composition-restored-4",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-GlassesColor-2",
+            "composition-action-10": "avatar-choice-GlassesColor-1",
+            "composition-action-11": "avatar-choice-GlassesColor-3",
+            "composition-action-12": "avatar-choice-GlassesColor-4",
+            "composition-action-13": "avatar-choice-GlassesColor-5",
+            "composition-action-14": "avatar-choice-GlassesColor-6",
+            "composition-action-15": "avatar-choice-GlassesColor-7",
+            "composition-action-16": "avatar-choice-GlassesColor-8",
+            "composition-action-17": "avatar-choice-Glasses-0",
+            "composition-action-18": "avatar-choice-Glasses-1",
+            "composition-action-19": "avatar-choice-Glasses-2",
+            "composition-action-20": "avatar-choice-Glasses-3",
+            "composition-action-21": "avatar-choice-Glasses-4",
+            "composition-action-22": "avatar-choice-Glasses-5",
+            "composition-action-23": "avatar-choice-Glasses-6",
+            "composition-action-24": "avatar-category-0",
+            "composition-action-25": "avatar-category-1",
+            "composition-action-26": "avatar-category-2",
+            "composition-action-27": "avatar-category-3",
+            "composition-action-28": "avatar-category-4",
+            "composition-action-29": "avatar-category-5",
+            "composition-action-30": "avatar-category-6",
+            "composition-action-31": "avatar-category-7",
+            "composition-action-32": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-5",
+          "state": "avatar-composition-restored-5",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-FacialHairColor-1",
+            "composition-action-10": "avatar-choice-FacialHairColor-2",
+            "composition-action-11": "avatar-choice-FacialHairColor-3",
+            "composition-action-12": "avatar-choice-FacialHairColor-4",
+            "composition-action-13": "avatar-choice-FacialHairColor-6",
+            "composition-action-14": "avatar-choice-FacialHairColor-7",
+            "composition-action-15": "avatar-choice-FacialHairColor-9",
+            "composition-action-16": "avatar-choice-FacialHairColor-10",
+            "composition-action-17": "avatar-choice-FacialHairColor-11",
+            "composition-action-18": "avatar-choice-FacialHairColor-12",
+            "composition-action-19": "avatar-choice-FacialHairColor-14",
+            "composition-action-20": "avatar-choice-FacialHairColor-15",
+            "composition-action-21": "avatar-choice-FacialHairColor-16",
+            "composition-action-22": "avatar-choice-FacialHair-0",
+            "composition-action-23": "avatar-choice-FacialHair-1",
+            "composition-action-24": "avatar-choice-FacialHair-2",
+            "composition-action-25": "avatar-choice-FacialHair-3",
+            "composition-action-26": "avatar-choice-FacialHair-4",
+            "composition-action-27": "avatar-choice-FacialHair-5",
+            "composition-action-28": "avatar-category-0",
+            "composition-action-29": "avatar-category-1",
+            "composition-action-30": "avatar-category-2",
+            "composition-action-31": "avatar-category-3",
+            "composition-action-32": "avatar-category-4",
+            "composition-action-33": "avatar-category-5",
+            "composition-action-34": "avatar-category-6",
+            "composition-action-35": "avatar-category-7",
+            "composition-action-36": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-6",
+          "state": "avatar-composition-restored-6",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-HeadwearColor-1",
+            "composition-action-10": "avatar-choice-HeadwearColor-2",
+            "composition-action-11": "avatar-choice-HeadwearColor-3",
+            "composition-action-12": "avatar-choice-HeadwearColor-4",
+            "composition-action-13": "avatar-choice-HeadwearColor-5",
+            "composition-action-14": "avatar-choice-HeadwearColor-6",
+            "composition-action-15": "avatar-choice-HeadwearColor-7",
+            "composition-action-16": "avatar-choice-HeadwearColor-8",
+            "composition-action-17": "avatar-choice-HeadwearColor-9",
+            "composition-action-18": "avatar-choice-Headwear-0",
+            "composition-action-19": "avatar-choice-Headwear-10",
+            "composition-action-20": "avatar-choice-Headwear-11",
+            "composition-action-21": "avatar-choice-Headwear-7",
+            "composition-action-22": "avatar-choice-Headwear-8",
+            "composition-action-23": "avatar-choice-Headwear-9",
+            "composition-action-24": "avatar-choice-Headwear-1",
+            "composition-action-25": "avatar-choice-Headwear-2",
+            "composition-action-26": "avatar-choice-Headwear-3",
+            "composition-action-27": "avatar-category-0",
+            "composition-action-28": "avatar-category-1",
+            "composition-action-29": "avatar-category-2",
+            "composition-action-30": "avatar-category-3",
+            "composition-action-31": "avatar-category-4",
+            "composition-action-32": "avatar-category-5",
+            "composition-action-33": "avatar-category-6",
+            "composition-action-34": "avatar-category-7",
+            "composition-action-35": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-7",
+          "state": "avatar-composition-restored-7",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-ClothingColor-1",
+            "composition-action-10": "avatar-choice-ClothingColor-2",
+            "composition-action-11": "avatar-choice-ClothingColor-3",
+            "composition-action-12": "avatar-choice-ClothingColor-4",
+            "composition-action-13": "avatar-choice-ClothingColor-5",
+            "composition-action-14": "avatar-choice-ClothingColor-6",
+            "composition-action-15": "avatar-choice-ClothingColor-7",
+            "composition-action-16": "avatar-choice-ClothingColor-8",
+            "composition-action-17": "avatar-choice-ClothingColor-9",
+            "composition-action-18": "avatar-category-0",
+            "composition-action-19": "avatar-category-1",
+            "composition-action-20": "avatar-category-2",
+            "composition-action-21": "avatar-category-3",
+            "composition-action-22": "avatar-category-4",
+            "composition-action-23": "avatar-category-5",
+            "composition-action-24": "avatar-category-6",
+            "composition-action-25": "avatar-category-7",
+            "composition-action-26": "avatar-category-8"
+          }
+        },
+        {
+          "native_action": "avatar-category-8",
+          "state": "avatar-composition-restored-8",
+          "element_aliases": {
+            "composition-action-8": "avatar-back",
+            "composition-action-9": "avatar-choice-BackgroundColor-1",
+            "composition-action-10": "avatar-choice-BackgroundColor-2",
+            "composition-action-11": "avatar-choice-BackgroundColor-3",
+            "composition-action-12": "avatar-choice-BackgroundColor-4",
+            "composition-action-13": "avatar-choice-BackgroundColor-5",
+            "composition-action-14": "avatar-choice-BackgroundColor-6",
+            "composition-action-15": "avatar-choice-BackgroundColor-7",
+            "composition-action-16": "avatar-choice-BackgroundColor-8",
+            "composition-action-17": "avatar-choice-BackgroundColor-9",
+            "composition-action-18": "avatar-choice-BackgroundColor-10",
+            "composition-action-19": "avatar-choice-BackgroundColor-11",
+            "composition-action-20": "avatar-choice-BackgroundColor-12",
+            "composition-action-21": "avatar-choice-BackgroundColor-13",
+            "composition-action-22": "avatar-choice-BackgroundColor-14",
+            "composition-action-23": "avatar-choice-BackgroundColor-15",
+            "composition-action-24": "avatar-choice-BackgroundColor-16",
+            "composition-action-25": "avatar-choice-BackgroundColor-17",
+            "composition-action-26": "avatar-choice-BackgroundColor-18",
+            "composition-action-27": "avatar-choice-BackgroundColor-19",
+            "composition-action-28": "avatar-choice-BackgroundColor-20",
+            "composition-action-29": "avatar-choice-BackgroundColor-21",
+            "composition-action-30": "avatar-choice-BackgroundColor-22",
+            "composition-action-31": "avatar-choice-BackgroundColor-23",
+            "composition-action-32": "avatar-choice-BackgroundColor-24",
+            "composition-action-33": "avatar-category-0",
+            "composition-action-34": "avatar-category-1",
+            "composition-action-35": "avatar-category-2",
+            "composition-action-36": "avatar-category-3",
+            "composition-action-37": "avatar-category-4",
+            "composition-action-38": "avatar-category-5",
+            "composition-action-39": "avatar-category-6",
+            "composition-action-40": "avatar-category-7",
+            "composition-action-41": "avatar-category-8"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+[
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+    "kind": "feedback",
+    "name": "en-effect-086f72d3e2c92d602dfb",
+    "source_file": "en-effect-086f72d3e2c92d602dfb.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/vikramen/9a25122e375e9f8849afb1348b0e176a",
+    "kind": "speech",
+    "name": "en-speech-3d3979e5c0e4b67ce697",
+    "source_file": "en-speech-3d3979e5c0e4b67ce697.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/beaen/d2d357d7d690e635a18a0c24098bc8ba",
+    "kind": "speech",
+    "name": "en-speech-9b97f2ccd10eec8c0e61",
+    "source_file": "en-speech-9b97f2ccd10eec8c0e61.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0e2053dba3b0de72cb7d36cb153bb3f2",
+    "kind": "speech",
+    "name": "en-speech-d376fd1a1afa56c409c3",
+    "source_file": "en-speech-d376fd1a1afa56c409c3.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/linen/88040a443f767f0fdcb424bd2df57710",
+    "kind": "speech",
+    "name": "en-speech-43a28d57f836f1c6c27f",
+    "source_file": "en-speech-43a28d57f836f1c6c27f.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/lilyen/ff0bc0d98b44a76d3baa16c034342556",
+    "kind": "speech",
+    "name": "en-speech-223b1b1fe156165ddee8",
+    "source_file": "en-speech-223b1b1fe156165ddee8.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/lucyen/f9b13ddb450ba0c835afcec184b35243",
+    "kind": "speech",
+    "name": "en-speech-ffd90cf1d800bc145bcd",
+    "source_file": "en-speech-ffd90cf1d800bc145bcd.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/e778140b95bb4b0f45a5e7b2a80a91ee",
+    "kind": "speech",
+    "name": "en-speech-ecc6e8cfaff71b87c8d5",
+    "source_file": "en-speech-ecc6e8cfaff71b87c8d5.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/a188a4c281ab1ee98f20a556b7effc7e",
+    "kind": "speech",
+    "name": "en-speech-fef7a822fc3dcf380366",
+    "source_file": "en-speech-fef7a822fc3dcf380366.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/oscaren/0a91c0eef5a74f4845fa0165a69d52e6",
+    "kind": "speech",
+    "name": "en-speech-003795c211217e3f7d2a",
+    "source_file": "en-speech-003795c211217e3f7d2a.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/vikramen/c255e7c6130cfb2de6bb05cf0348cb46",
+    "kind": "speech",
+    "name": "en-speech-7f8e7e38c067e0aefe62",
+    "source_file": "en-speech-7f8e7e38c067e0aefe62.mp3"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/world-characters/avatars/vikram_avatar_icon.svg",
+    "kind": "avatar",
+    "name": "en-avatar-f9b0cc7c172bd0040340",
+    "source_file": "en-avatar-f9b0cc7c172bd0040340.svg"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/world-characters/avatars/lily_avatar_icon.svg",
+    "kind": "avatar",
+    "name": "en-avatar-0c2acc7b34995fcb3845",
+    "source_file": "en-avatar-0c2acc7b34995fcb3845.svg"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/linen/140818b59904f11bc915a11066a753af",
+    "kind": "speech",
+    "name": "en-speech-6ed441f970acdd61a3d0",
+    "source_file": "en-speech-6ed441f970acdd61a3d0.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/linen/33852fa61f031f82d87b4556d3c6a541",
+    "kind": "speech",
+    "name": "en-speech-e6ece67dc19095c0ae5a",
+    "source_file": "en-speech-e6ece67dc19095c0ae5a.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/linen/205e87a26a7e77601aa18110169af95b",
+    "kind": "speech",
+    "name": "en-speech-708c1e3850b01c37603b",
+    "source_file": "en-speech-708c1e3850b01c37603b.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/c496a70015112d464ed6c6cadc7ee18c",
+    "kind": "speech",
+    "name": "en-speech-e168e37ed4777191cbfd",
+    "source_file": "en-speech-e168e37ed4777191cbfd.mp3"
+  },
+  {
+    "url": "https://d2pur3iezf4d1j.cloudfront.net/images/e201ab2962707879b7eacea8bde72fad",
+    "kind": "image",
+    "name": "en-image-c1479e54b879810c89e1",
+    "source_file": "en-image-c1479e54b879810c89e1.svg"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/bcfa0f53f2bb3bdf8521a3ac83a64161",
+    "kind": "speech",
+    "name": "en-speech-14025ebe26d3a75ffd86",
+    "source_file": "en-speech-14025ebe26d3a75ffd86.mp3"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_01.mp3",
+    "kind": "feedback",
+    "name": "en-effect-e58462905b34f2734748",
+    "source_file": "en-effect-e58462905b34f2734748.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/e9517e033e8467c3bcc83c30b392b2c7",
+    "kind": "speech",
+    "name": "en-speech-488c9462a05f4351d4e0",
+    "source_file": "en-speech-488c9462a05f4351d4e0.mp3"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_02.mp3",
+    "kind": "feedback",
+    "name": "en-effect-f18eab5d6c71711eeb8a",
+    "source_file": "en-effect-f18eab5d6c71711eeb8a.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/e29c3c4acb35655083c582cfdd29c9c2",
+    "kind": "speech",
+    "name": "en-speech-05a32b5f13c700e45b0d",
+    "source_file": "en-speech-05a32b5f13c700e45b0d.mp3"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_03.mp3",
+    "kind": "feedback",
+    "name": "en-effect-8a0a20e6f59bd0bc08c1",
+    "source_file": "en-effect-8a0a20e6f59bd0bc08c1.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/de1176cffb0cca987c07d38b1a892005",
+    "kind": "speech",
+    "name": "en-speech-07df91c33bc7fbd369c0",
+    "source_file": "en-speech-07df91c33bc7fbd369c0.mp3"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_04.mp3",
+    "kind": "feedback",
+    "name": "en-effect-a50a8c2310b6756b1abd",
+    "source_file": "en-effect-a50a8c2310b6756b1abd.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/2fc6449d5559398add4c9ceb2e0a1e5e",
+    "kind": "speech",
+    "name": "en-speech-a3c47554b3867ab35dc7",
+    "source_file": "en-speech-a3c47554b3867ab35dc7.mp3"
+  },
+  {
+    "url": "https://simg-ssl.duolingo.com/videos/sound/Match_Correct_A_A_05.mp3",
+    "kind": "feedback",
+    "name": "en-effect-4fa166758e4bc62dc61a",
+    "source_file": "en-effect-4fa166758e4bc62dc61a.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/55bd3deab9425f5e6928ed58c8136aca",
+    "kind": "speech",
+    "name": "en-speech-c5b9eec5594e0e32b303",
+    "source_file": "en-speech-c5b9eec5594e0e32b303.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/ebc13d5f376002080131a4b6cdcce8be",
+    "kind": "speech",
+    "name": "en-speech-47b15e9c8d9272c5e427",
+    "source_file": "en-speech-47b15e9c8d9272c5e427.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/3889b574c14fe6efefb58542ca6e8ccb",
+    "kind": "speech",
+    "name": "en-speech-7081aea174a83b92c391",
+    "source_file": "en-speech-7081aea174a83b92c391.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/miranda/f74c979c59d77200f716a74567f577c2",
+    "kind": "speech",
+    "name": "en-speech-77934f6e252ee13f4384",
+    "source_file": "en-speech-77934f6e252ee13f4384.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/harrison/178d41413279d7b86f8a930005c285bb",
+    "kind": "speech",
+    "name": "en-speech-ab69c2be1019af975eb1",
+    "source_file": "en-speech-ab69c2be1019af975eb1.mp3"
+  },
+  {
+    "url": "https://d1vq87e9lcf771.cloudfront.net/miranda/a75596c9c404a995cd67e4eca74f88b5",
+    "kind": "speech",
+    "name": "en-speech-fdd002fbb931ae742231",
+    "source_file": "en-speech-fdd002fbb931ae742231.mp3"
+  },
+  {
+    "name": "en-unit12-lesson3-result-observed-frame",
+    "url": "https://www.duolingo.com/lesson",
+    "kind": "home",
+    "source_file": "en-unit12-lesson3-result-observed-frame.svg",
+    "inline_svg": true,
+    "render_width": 310.359375,
+    "render_height": 329.3984375
+  },
+  {
+    "name": "en-pattern-context-indicator",
+    "url": "https://www.duolingo.com/lesson",
+    "kind": "home",
+    "source_file": "en-pattern-context-indicator.svg",
+    "inline_svg": true,
+    "render_width": 32,
+    "render_height": 32
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/icons/f5358b2d4087a109790fc809eedc08c5.svg",
+    "kind": "home",
+    "name": "en-home-4473449cf456ad652fde",
+    "source_file": "en-home-4473449cf456ad652fde.svg",
+    "render_width": 18,
+    "render_height": 22.734375
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/icons/9ace13520a375f5661415ff7d470f243.svg",
+    "kind": "home",
+    "name": "en-home-9120c55acdee00fba0bb",
+    "source_file": "en-home-9120c55acdee00fba0bb.svg",
+    "render_width": 28,
+    "render_height": 25
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/hearts/7631e3ee734dd4fe7792626b59457fa4.svg",
+    "kind": "home",
+    "name": "en-home-088202fb75fb12b0eec8",
+    "source_file": "en-home-088202fb75fb12b0eec8.svg"
+  },
+  {
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/sounds/2aae0ea735c8e9ed884107d6f0a09e35.mp3",
+    "kind": "feedback",
+    "name": "en-effect-12a1e12d8f2f9bc85536",
+    "source_file": "en-effect-12a1e12d8f2f9bc85536.mp3"
+  }
+]

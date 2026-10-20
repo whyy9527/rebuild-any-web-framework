@@ -1,0 +1,13 @@
+### Result
+"- heading \"来创建你的个人档案吧！\" [level=1]\n- paragraph: 创建档案就能保存学习进度，随时都可以继续免费学习后续内容。\n- button \"创建档案\"\n- button \"稍后再说\""
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"继续",exact:true}).click();return await page.locator("body").ariaSnapshot();})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson/unit/12/test)
+### Page
+- Page URL: https://www.duolingo.com/lesson/unit/12/test
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 46 errors, 0 warnings

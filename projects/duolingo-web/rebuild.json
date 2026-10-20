@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "name": "Duolingo 网页版到 Swift",
+  "source": "https://www.duolingo.com/；中文母语学习英语。线上访客状态与服务端状态不能靠刷新完全重置，按证据中的准备夹具和限制建立可比较状态。",
+  "target": "macOS SwiftUI 客户端及可复用教育核心",
+  "objective": "按原版重建用户体验，使用 RSI 发现模具遗漏，使用共同 E2E 复刻；保留内容、主页、交互和声音的一致性要求。",
+  "completion": [
+    "原版探索、数据准备与重置边界、共同场景、两端驱动和可复跑验收入口齐备；未知与不可访问部分明确报告。",
+    "按原版同状态同视口验证主页、导航、课程内容、布局、字体、图形、交互、反馈、动效、声音及进度恢复，已发现的产品差异得到解决；不以核心通过或音频非零替代 1:1。",
+    "探索使用历史与实际差异寻找遗漏，发现形成新契约并被实现和验证；不能以既有测试通过或待探索队列为空判定探索充分。",
+    "交付可启动 Swift 实现、复跑命令、需求级结果与剩余未知；按用户授权提交推送。"
+  ],
+  "inputs": {
+    "fixture": "projects/duolingo-web/fixture-reference-en-zh-v14.json",
+    "frontend_contract": "projects/duolingo-web/frontend-english-v80.json",
+    "exploration_history": "projects/duolingo-web/evidence/english-frontend-repair-v80/history.json",
+    "historical_frontend_result": "projects/duolingo-web/evidence/english-frontend-repair-v80/delivery-comparison/frontend.json",
+    "case_status": "projects/duolingo-web/STATUS.md"
+  },
+  "commands": {
+    "build": ["swift", "build", "--package-path", "projects/education-swift", "--product", "LingoSeed"],
+    "core": ["swift", "run", "--package-path", "projects/education-swift", "LearningCoreChecks"],
+    "launch": ["projects/education-swift/.build/debug/LingoSeed", "--fixture", "projects/duolingo-web/fixture-reference-en-zh-v14.json", "--progress", "{out}/progress.json"],
+    "replay": ["projects/duolingo-web/run-native-course.sh", "{out}", "projects/duolingo-web/fixture-reference-en-zh-v14.json", "--seed-progress", "projects/duolingo-web/evidence/english-unit12-lesson4-v1/seed-progress.json", "--seed-preferences", "projects/duolingo-web/evidence/english-unit12-lesson3-v1/native-final/progress.json.preferences.json", "--exercise-home-journey", "projects/duolingo-web/evidence/english-unit12-lesson4-v1/journey.json", "--source-viewport", "1192", "705"],
+    "compare": ["python3", "projects/duolingo-web/compare-frontend-repair.py", "--observed", "{observed}", "--out-dir", "{out}"]
+  }
+}

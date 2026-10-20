@@ -1,0 +1,3215 @@
+{
+  "observed_at": "2026-10-11T22:59:32.647Z",
+  "path": "/courses/zh",
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  },
+  "snapshot": "- link:\n  - /url: /learn\n  - img\n- link \"学习\":\n  - /url: /learn\n  - img\n  - text: 学习\n- link \"发音\":\n  - /url: /characters\n  - img\n  - text: 发音\n- link \"排行榜\":\n  - /url: /leaderboard\n  - img\n  - text: 排行榜\n- link \"特别任务\":\n  - /url: /quests\n  - img\n  - text: 特别任务\n- link \"宝石小店\":\n  - /url: /shop\n  - img\n  - text: 宝石小店\n- link \"个人档案\":\n  - /url: /learn?sign-up\n  - img\n  - text: 个人档案\n- button \"更多\":\n  - img\n  - text: 更多\n- img\n- heading \"用中文（简体）学习的课程\" [level=1]\n- text: 我说中文（简体）\n- img\n- combobox:\n  - option \"所有语言\"\n  - option \"Bahasa Indonesia\"\n  - option \"Čeština\"\n  - option \"Deutsch\"\n  - option \"English\"\n  - option \"Español\"\n  - option \"Français\"\n  - option \"Italiano\"\n  - option \"Magyar\"\n  - option \"Nederlands\"\n  - option \"Polski\"\n  - option \"Português\"\n  - option \"Română\"\n  - option \"svenska\"\n  - option \"Tagalog\"\n  - option \"Tiếng Việt\"\n  - option \"Türkçe\"\n  - option \"Ελληνικά\"\n  - option \"Русский\"\n  - option \"Українською\"\n  - option \"اُردُو\"\n  - option \"العربية\"\n  - option \"मराठी\"\n  - option \"हिंदी\"\n  - option \"বাংলা\"\n  - option \"ਪੰਜਾਬੀ\"\n  - option \"தமிழ்\"\n  - option \"తెలుగు\"\n  - option \"ಕನ್ನಡ\"\n  - option \"ภาษาไทย\"\n  - option \"한국어\"\n  - option \"中文\" [selected]\n  - option \"日本語\"\n- link \"英语 3190万 名学习者\":\n  - /url: /enroll/en/zh/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD\n  - img\n  - img\n  - text: 英语 3190万 名学习者\n- link \"日语 951万 名学习者\":\n  - /url: /enroll/ja/zh/%E5%AD%A6%E4%B9%A0-%E6%97%A5%E8%AF%AD\n  - img\n  - text: 日语 951万 名学习者\n- link \"中文（粤语） 872万 名学习者\":\n  - /url: /enroll/zh-HK/zh/%E5%AD%A6%E4%B9%A0-%E4%B8%AD%E6%96%87%EF%BC%88%E7%B2%A4%E8%AF%AD%EF%BC%89\n  - img\n  - text: 中文（粤语） 872万 名学习者\n- link \"韩语 660万 名学习者\":\n  - /url: /enroll/ko/zh/%E5%AD%A6%E4%B9%A0-%E9%9F%A9%E8%AF%AD\n  - img\n  - text: 韩语 660万 名学习者\n- link \"国际象棋\":\n  - /url: /enroll/chess/ch\n  - img\n  - text: 国际象棋\n- link \"法语 210万 名学习者\":\n  - /url: /enroll/fr/zh/%E5%AD%A6%E4%B9%A0-%E6%B3%95%E8%AF%AD\n  - img\n  - text: 法语 210万 名学习者\n- link \"西班牙语 181万 名学习者\":\n  - /url: /enroll/es/zh/%E5%AD%A6%E4%B9%A0-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD\n  - img\n  - text: 西班牙语 181万 名学习者\n- link \"德语 112万 名学习者\":\n  - /url: /enroll/de/zh/%E5%AD%A6%E4%B9%A0-%E5%BE%B7%E8%AF%AD\n  - img\n  - text: 德语 112万 名学习者\n- link \"意大利语 58.5万 名学习者\":\n  - /url: /enroll/it/zh/%E5%AD%A6%E4%B9%A0-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%AF%AD\n  - img\n  - text: 意大利语 58.5万 名学习者\n- link \"葡萄牙语 30.5万 名学习者\":\n  - /url: /enroll/pt/zh/%E5%AD%A6%E4%B9%A0-%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD\n  - img\n  - text: 葡萄牙语 30.5万 名学习者\n- img\n- text: Math 仅限 iOS 和安卓设备\n- img\n- text: 音乐 仅限 iOS 和安卓设备",
+  "radio_groups": [],
+  "select_groups": [
+    {
+      "rect": [
+        1008.59375,
+        24,
+        151.40625,
+        40
+      ],
+      "options": [
+        {
+          "label": "所有语言",
+          "value": "all",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Bahasa Indonesia",
+          "value": "id",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Čeština",
+          "value": "cs",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Deutsch",
+          "value": "de",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "English",
+          "value": "en",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Español",
+          "value": "es",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Français",
+          "value": "fr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Italiano",
+          "value": "it",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Magyar",
+          "value": "hu",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Nederlands",
+          "value": "nl-NL",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Polski",
+          "value": "pl",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Português",
+          "value": "pt",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Română",
+          "value": "ro",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "svenska",
+          "value": "sv",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Tagalog",
+          "value": "tl",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Tiếng Việt",
+          "value": "vi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Türkçe",
+          "value": "tr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Ελληνικά",
+          "value": "el",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Русский",
+          "value": "ru",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "Українською",
+          "value": "uk",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "اُردُو",
+          "value": "ur",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "العربية",
+          "value": "ar",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "मराठी",
+          "value": "mr",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "বাংলা",
+          "value": "bn",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "ਪੰਜਾਬੀ",
+          "value": "pa",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "தமிழ்",
+          "value": "ta",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "తెలుగు",
+          "value": "te",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "kn",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "ภาษาไทย",
+          "value": "th",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "한국어",
+          "value": "ko",
+          "selected": false,
+          "disabled": false
+        },
+        {
+          "label": "中文",
+          "value": "zh",
+          "selected": true,
+          "disabled": false
+        },
+        {
+          "label": "日本語",
+          "value": "ja",
+          "selected": false,
+          "disabled": false
+        }
+      ],
+      "source": "Rendered native UI options; selection outcomes not inferred"
+    }
+  ],
+  "scroll_regions": [],
+  "control_inventory": [
+    {
+      "index": 0,
+      "paint_visible": true,
+      "tag": "A",
+      "test": null,
+      "href": "/learn",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "",
+      "enabled": true,
+      "rect": [
+        32,
+        32,
+        128,
+        30
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 1,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "home-nav",
+      "href": "/learn",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "学习",
+      "enabled": true,
+      "rect": [
+        16,
+        92,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 2,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "characters-nav",
+      "href": "/characters",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "发音",
+      "enabled": true,
+      "rect": [
+        16,
+        152,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 3,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "leaderboard-nav",
+      "href": "/leaderboard",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "排行榜",
+      "enabled": true,
+      "rect": [
+        16,
+        212,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 4,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "quests-nav",
+      "href": "/quests",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "特别任务",
+      "enabled": true,
+      "rect": [
+        16,
+        272,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 5,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "shop-nav",
+      "href": "/shop",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "宝石小店",
+      "enabled": true,
+      "rect": [
+        16,
+        332,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 6,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "profile-tab",
+      "href": "/learn?sign-up",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "个人档案",
+      "enabled": true,
+      "rect": [
+        16,
+        392,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 7,
+      "paint_visible": true,
+      "tag": "SPAN",
+      "test": null,
+      "href": null,
+      "explicit_role": "button",
+      "input_type": null,
+      "name": "更多",
+      "enabled": true,
+      "rect": [
+        16,
+        452,
+        222,
+        52
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 8,
+      "paint_visible": false,
+      "tag": "SELECT",
+      "test": null,
+      "href": null,
+      "explicit_role": null,
+      "input_type": null,
+      "name": "所有语言\nBahasa Indonesia\nČeština\nDeutsch\nEnglish\nEspañol\nFrançais\nItaliano\nMagyar\nNederlands\nPolski\nPortuguês\nRomână\nsvenska\nTagalog\nTiếng Việt\nTürkçe\nΕλληνικά\nРусский\nУкраїнською\nاُردُو\nالعربية\nमराठी\nहिंदी\nবাংলা\nਪੰਜਾਬੀ\nதமிழ்\nతెలుగు\nಕನ್ನಡ\nภาษาไทย\n한국어\n中文\n日本語",
+      "enabled": true,
+      "rect": [
+        1008.59375,
+        24,
+        151.40625,
+        40
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 9,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-english language-card",
+      "href": "/enroll/en/zh/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "英语\n3190万 名学习者",
+      "enabled": true,
+      "rect": [
+        296,
+        100,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 10,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-japanese language-card",
+      "href": "/enroll/ja/zh/%E5%AD%A6%E4%B9%A0-%E6%97%A5%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "日语\n951万 名学习者",
+      "enabled": true,
+      "rect": [
+        518,
+        100,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 11,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-chinese language-card",
+      "href": "/enroll/zh-HK/zh/%E5%AD%A6%E4%B9%A0-%E4%B8%AD%E6%96%87%EF%BC%88%E7%B2%A4%E8%AF%AD%EF%BC%89",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "中文（粤语）\n872万 名学习者",
+      "enabled": true,
+      "rect": [
+        740,
+        100,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 12,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-korean language-card",
+      "href": "/enroll/ko/zh/%E5%AD%A6%E4%B9%A0-%E9%9F%A9%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "韩语\n660万 名学习者",
+      "enabled": true,
+      "rect": [
+        962,
+        100,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 13,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-chess language-card",
+      "href": "/enroll/chess/ch",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "国际象棋",
+      "enabled": true,
+      "rect": [
+        296,
+        341,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 14,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-french language-card",
+      "href": "/enroll/fr/zh/%E5%AD%A6%E4%B9%A0-%E6%B3%95%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "法语\n210万 名学习者",
+      "enabled": true,
+      "rect": [
+        518,
+        341,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 15,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-spanish language-card",
+      "href": "/enroll/es/zh/%E5%AD%A6%E4%B9%A0-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "西班牙语\n181万 名学习者",
+      "enabled": true,
+      "rect": [
+        740,
+        341,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 16,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-german language-card",
+      "href": "/enroll/de/zh/%E5%AD%A6%E4%B9%A0-%E5%BE%B7%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "德语\n112万 名学习者",
+      "enabled": true,
+      "rect": [
+        962,
+        341,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 17,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-italian language-card",
+      "href": "/enroll/it/zh/%E5%AD%A6%E4%B9%A0-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "意大利语\n58.5万 名学习者",
+      "enabled": true,
+      "rect": [
+        296,
+        582,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    },
+    {
+      "index": 18,
+      "paint_visible": true,
+      "tag": "A",
+      "test": "flag-portuguese language-card",
+      "href": "/enroll/pt/zh/%E5%AD%A6%E4%B9%A0-%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD",
+      "explicit_role": null,
+      "input_type": null,
+      "name": "葡萄牙语\n30.5万 名学习者",
+      "enabled": true,
+      "rect": [
+        518,
+        582,
+        200,
+        217
+      ],
+      "intersects_viewport": true,
+      "center_hit": true
+    }
+  ],
+  "control_inventory_limitations": [
+    "Transparent canonical inputs may remain actual hit targets; paint visibility recorded separately and is not executed coverage",
+    "Rendered DOM inventory only; offscreen or obscured controls are not executed coverage; Focus inventory and pointer-only candidates do not establish interaction semantics."
+  ],
+  "actions": [
+    {
+      "id": "href:/learn#0",
+      "paint_visible": true,
+      "test": null,
+      "href": "/learn",
+      "name": "",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        32,
+        32,
+        128,
+        30
+      ]
+    },
+    {
+      "id": "test:home-nav#0",
+      "paint_visible": true,
+      "test": "home-nav",
+      "href": "/learn",
+      "name": "学习",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        92,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "test:characters-nav#0",
+      "paint_visible": true,
+      "test": "characters-nav",
+      "href": "/characters",
+      "name": "发音",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        152,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "test:leaderboard-nav#0",
+      "paint_visible": true,
+      "test": "leaderboard-nav",
+      "href": "/leaderboard",
+      "name": "排行榜",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        212,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "test:quests-nav#0",
+      "paint_visible": true,
+      "test": "quests-nav",
+      "href": "/quests",
+      "name": "特别任务",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        272,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "test:shop-nav#0",
+      "paint_visible": true,
+      "test": "shop-nav",
+      "href": "/shop",
+      "name": "宝石小店",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        332,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "test:profile-tab#0",
+      "paint_visible": true,
+      "test": "profile-tab",
+      "href": "/learn?sign-up",
+      "name": "个人档案",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        392,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "SPAN:更多#0",
+      "paint_visible": true,
+      "test": null,
+      "href": null,
+      "name": "更多",
+      "hit_test": true,
+      "tag": "SPAN",
+      "role": "button",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        16,
+        452,
+        222,
+        52
+      ]
+    },
+    {
+      "id": "SELECT:所有语言\nBahasa Indonesia\nČeština\nDeutsch\nEnglish\nEspañol\nFrançais\nItaliano\nMagyar\nNederlands\nPolski\nPortuguês\nRomână\nsvenska\nTagalog\nTiếng Việt\nTürkçe\nΕλληνικά\nРусский\nУкраїнською\nاُردُو\nالعربية\nमराठी\nहिंदी\nবাংলা\nਪੰਜਾਬੀ\nதமிழ்\nతెలుగు\nಕನ್ನಡ\nภาษาไทย\n한국어\n中文\n日本語#0",
+      "paint_visible": false,
+      "test": null,
+      "href": null,
+      "name": "所有语言\nBahasa Indonesia\nČeština\nDeutsch\nEnglish\nEspañol\nFrançais\nItaliano\nMagyar\nNederlands\nPolski\nPortuguês\nRomână\nsvenska\nTagalog\nTiếng Việt\nTürkçe\nΕλληνικά\nРусский\nУкраїнською\nاُردُو\nالعربية\nमराठी\nहिंदी\nবাংলা\nਪੰਜਾਬੀ\nதமிழ்\nతెలుగు\nಕನ್ನಡ\nภาษาไทย\n한국어\n中文\n日本語",
+      "hit_test": true,
+      "tag": "SELECT",
+      "role": "combobox",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        1008.59375,
+        24,
+        151.40625,
+        40
+      ]
+    },
+    {
+      "id": "test:flag-english language-card#0",
+      "paint_visible": true,
+      "test": "flag-english language-card",
+      "href": "/enroll/en/zh/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD",
+      "name": "英语\n3190万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        296,
+        100,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-japanese language-card#0",
+      "paint_visible": true,
+      "test": "flag-japanese language-card",
+      "href": "/enroll/ja/zh/%E5%AD%A6%E4%B9%A0-%E6%97%A5%E8%AF%AD",
+      "name": "日语\n951万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        518,
+        100,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-chinese language-card#0",
+      "paint_visible": true,
+      "test": "flag-chinese language-card",
+      "href": "/enroll/zh-HK/zh/%E5%AD%A6%E4%B9%A0-%E4%B8%AD%E6%96%87%EF%BC%88%E7%B2%A4%E8%AF%AD%EF%BC%89",
+      "name": "中文（粤语）\n872万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        740,
+        100,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-korean language-card#0",
+      "paint_visible": true,
+      "test": "flag-korean language-card",
+      "href": "/enroll/ko/zh/%E5%AD%A6%E4%B9%A0-%E9%9F%A9%E8%AF%AD",
+      "name": "韩语\n660万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        962,
+        100,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-chess language-card#0",
+      "paint_visible": true,
+      "test": "flag-chess language-card",
+      "href": "/enroll/chess/ch",
+      "name": "国际象棋",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        296,
+        341,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-french language-card#0",
+      "paint_visible": true,
+      "test": "flag-french language-card",
+      "href": "/enroll/fr/zh/%E5%AD%A6%E4%B9%A0-%E6%B3%95%E8%AF%AD",
+      "name": "法语\n210万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        518,
+        341,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-spanish language-card#0",
+      "paint_visible": true,
+      "test": "flag-spanish language-card",
+      "href": "/enroll/es/zh/%E5%AD%A6%E4%B9%A0-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD",
+      "name": "西班牙语\n181万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        740,
+        341,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-german language-card#0",
+      "paint_visible": true,
+      "test": "flag-german language-card",
+      "href": "/enroll/de/zh/%E5%AD%A6%E4%B9%A0-%E5%BE%B7%E8%AF%AD",
+      "name": "德语\n112万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        962,
+        341,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-italian language-card#0",
+      "paint_visible": true,
+      "test": "flag-italian language-card",
+      "href": "/enroll/it/zh/%E5%AD%A6%E4%B9%A0-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%AF%AD",
+      "name": "意大利语\n58.5万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        296,
+        582,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "test:flag-portuguese language-card#0",
+      "paint_visible": true,
+      "test": "flag-portuguese language-card",
+      "href": "/enroll/pt/zh/%E5%AD%A6%E4%B9%A0-%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD",
+      "name": "葡萄牙语\n30.5万 名学习者",
+      "hit_test": true,
+      "tag": "A",
+      "role": "link",
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        518,
+        582,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "pointer:DIV:Math\n仅限 iOS 和安卓设备#0",
+      "paint_visible": true,
+      "test": null,
+      "href": null,
+      "name": "Math\n仅限 iOS 和安卓设备",
+      "kind": "pointer_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": false,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        740,
+        582,
+        200,
+        217
+      ]
+    },
+    {
+      "id": "pointer:DIV:音乐\n仅限 iOS 和安卓设备#0",
+      "paint_visible": true,
+      "test": null,
+      "href": null,
+      "name": "音乐\n仅限 iOS 和安卓设备",
+      "kind": "pointer_candidate",
+      "semantic_role": "unclassified",
+      "limitations": "Observed focus/cursor candidate; actual interaction outcome must be explored",
+      "hit_test": false,
+      "tag": "DIV",
+      "role": null,
+      "enabled": true,
+      "checked": null,
+      "rect": [
+        962,
+        582,
+        200,
+        217
+      ]
+    }
+  ],
+  "text_runs": [
+    {
+      "text": "学习",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        109,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "发音",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        169,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "排行榜",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        229,
+        47.40625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "特别任务",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        289,
+        63.203125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "宝石小店",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        349,
+        63.203125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "个人档案",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        409,
+        63.203125,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "更多",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        84,
+        469,
+        31.6015625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "25px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "用中文（简体）学习的课程",
+      "tag": "H1",
+      "test": null,
+      "rect": [
+        296,
+        30,
+        288,
+        28
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "40px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "我说中文（简体）",
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        1008.59375,
+        35,
+        126.40625,
+        18
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "18px",
+        "color": "rgb(175, 175, 175)",
+        "letterSpacing": "0.8px"
+      }
+    },
+    {
+      "text": "英语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        379,
+        236,
+        34,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "3190万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        335.109375,
+        262.3984375,
+        121.7734375,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "日语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        601,
+        236,
+        34,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "951万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        561.3671875,
+        262.3984375,
+        113.2578125,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "中文（粤语）",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        789,
+        236,
+        102,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "872万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        783.2578125,
+        262.3984375,
+        113.4765625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "韩语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        1045,
+        236,
+        34,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "660万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        1004.7109375,
+        262.3984375,
+        114.5703125,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "国际象棋",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        362,
+        477,
+        68,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "法语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        601,
+        477,
+        34,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "210万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        561.4921875,
+        503.3984375,
+        113.0078125,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "西班牙语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        806,
+        477,
+        68,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "181万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        783.578125,
+        503.3984375,
+        112.8359375,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "德语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        1045,
+        477,
+        34,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "112万 名学习者",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        1005.9453125,
+        503.3984375,
+        112.1015625,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20px",
+        "color": "rgb(119, 119, 119)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "意大利语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        362,
+        718,
+        68,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "葡萄牙语",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        584,
+        718,
+        68,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "Math",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        821.171875,
+        718,
+        37.6484375,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    },
+    {
+      "text": "音乐",
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        1045,
+        718,
+        34,
+        20
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "700",
+        "fontVariationSettings": "normal",
+        "lineHeight": "20.4px",
+        "color": "rgb(75, 75, 75)",
+        "letterSpacing": "normal"
+      }
+    }
+  ],
+  "rendered_text_groups": [],
+  "text_run_limitations": [
+    "DOM text ranges and computed CSS are not OCR or actual fallback font resolution; clipped animation digits may still appear."
+  ],
+  "media": [
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/70a4be81077a8037698067f583816ff9.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        32,
+        128,
+        30
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        300,
+        70
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/784035717e2ff1d448c0f6cc4efc89fb.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        102,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        32,
+        32
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/3b4928101472fce4e9edac920c1b3817.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        162,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        41,
+        40
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ca9178510134b4b0893dbac30b6670aa.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        222,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        46,
+        46
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7ef36bae3f9d68fc763d3451b5167836.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        282,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        32,
+        32
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/0e58a94dda219766d98c7796b910beee.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        342,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        46,
+        46
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/24e0dcdc06870ead47b3600f0d41eb5b.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        402,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        46,
+        46
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7159c0b5d4250a5aea4f396d53f17f0c.svg",
+      "source_kind": "url",
+      "rect": [
+        32,
+        462,
+        32,
+        32
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        46,
+        46
+      ]
+    },
+    {
+      "tag": "svg",
+      "svg": "<svg class=\"_3N2pE\" viewBox=\"0 0 15 9\"><path d=\"M0.43934 0.43934C1.02513 -0.146447 1.97487 -0.146447 2.56066 0.43934L7.5 5.37868L12.4393 0.43934C13.0251 -0.146447 13.9749 -0.146447 14.5607 0.43934C15.1464 1.02513 15.1464 1.97487 14.5607 2.56066L8.56066 8.56066C7.97487 9.14645 7.02513 9.14645 6.43934 8.56066L0.43934 2.56066C-0.146447 1.97487 -0.146447 1.02513 0.43934 0.43934Z\" fill=\"currentColor\"></path></svg>",
+      "alt": null,
+      "test": null,
+      "src": null,
+      "source_kind": null,
+      "rect": [
+        1145,
+        39.5,
+        15,
+        9
+      ],
+      "objectFit": "fill",
+      "intrinsic": null
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/512eb76d3f55365106b6553583884c81.svg",
+      "source_kind": "url",
+      "rect": [
+        461,
+        121.5,
+        16,
+        11
+      ],
+      "objectFit": "fill",
+      "intrinsic": [
+        29,
+        20
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bbe17e16aa4a106032d8e3521eaed13e.svg",
+      "source_kind": "url",
+      "rect": [
+        352,
+        146,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/edea4fa18ff3e7d8c0282de3f102aaed.svg",
+      "source_kind": "url",
+      "rect": [
+        574,
+        146,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/9905aa3a86fcb9e351b0b3bfaf04d8b9.svg",
+      "source_kind": "url",
+      "rect": [
+        796,
+        146,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ec5835ac9f465ff3dad4b1b8725d4314.svg",
+      "source_kind": "url",
+      "rect": [
+        1018,
+        146,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/c8bad7c09aaf7bc29ddddc50808adb54.svg",
+      "source_kind": "url",
+      "rect": [
+        352,
+        387,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/482fda142ee4abd728ebf4ccce5d3307.svg",
+      "source_kind": "url",
+      "rect": [
+        574,
+        387,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/59a90a2cedd48b751a8fd22014768fd7.svg",
+      "source_kind": "url",
+      "rect": [
+        796,
+        387,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/c71db846ffab7e0a74bc6971e34ad82e.svg",
+      "source_kind": "url",
+      "rect": [
+        1018,
+        387,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/635a09df9323279d39934a991edd4510.svg",
+      "source_kind": "url",
+      "rect": [
+        352,
+        628,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/27d253ae1272917fc9f4a79459aacd53.svg",
+      "source_kind": "url",
+      "rect": [
+        574,
+        628,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/395c8a6ee9783610b578b02fda405e85.svg",
+      "source_kind": "url",
+      "rect": [
+        796,
+        628,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    },
+    {
+      "tag": "IMG",
+      "svg": null,
+      "alt": null,
+      "test": null,
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7fee27d21187165ccb88aef0234b6101.svg",
+      "source_kind": "url",
+      "rect": [
+        1018,
+        628,
+        88,
+        67.8828125
+      ],
+      "objectFit": "cover",
+      "intrinsic": [
+        70,
+        54
+      ]
+    }
+  ],
+  "background_media": [],
+  "pseudo_elements": [],
+  "pseudo_limitations": [
+    "Computed CSS and parent bounds only; pseudo-elements have no independently measured DOM bounding rectangle."
+  ],
+  "visible": [
+    {
+      "test": "home-nav",
+      "tag": "A",
+      "role": null,
+      "text": "学习",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        92,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 238)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "characters-nav",
+      "tag": "A",
+      "role": null,
+      "text": "发音",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        152,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 238)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "leaderboard-nav",
+      "tag": "A",
+      "role": null,
+      "text": "排行榜",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        212,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 238)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "quests-nav",
+      "tag": "A",
+      "role": null,
+      "text": "特别任务",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        272,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 238)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "shop-nav",
+      "tag": "A",
+      "role": null,
+      "text": "宝石小店",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        332,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 238)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "profile-tab",
+      "tag": "A",
+      "role": null,
+      "text": "个人档案",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        392,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(0, 0, 238)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "more-nav",
+      "tag": "DIV",
+      "role": null,
+      "text": "更多",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        452,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(175, 175, 175)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(175, 175, 175)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "SPAN",
+      "role": "button",
+      "text": "更多",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        16,
+        452,
+        222,
+        52
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "25px",
+        "color": "rgb(175, 175, 175)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(175, 175, 175)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": null,
+      "tag": "H1",
+      "role": null,
+      "text": "用中文（简体）学习的课程",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        296,
+        24,
+        288,
+        40
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "color": "rgb(75, 75, 75)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "borderWidth": "0px",
+        "borderColor": "rgb(75, 75, 75)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-english language-card",
+      "tag": "A",
+      "role": null,
+      "text": "英语\n3190万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        296,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-japanese language-card",
+      "tag": "A",
+      "role": null,
+      "text": "日语\n951万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        518,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-chinese language-card",
+      "tag": "A",
+      "role": null,
+      "text": "中文（粤语）\n872万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        740,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-korean language-card",
+      "tag": "A",
+      "role": null,
+      "text": "韩语\n660万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        962,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-chess language-card",
+      "tag": "A",
+      "role": null,
+      "text": "国际象棋",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        296,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-french language-card",
+      "tag": "A",
+      "role": null,
+      "text": "法语\n210万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        518,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-spanish language-card",
+      "tag": "A",
+      "role": null,
+      "text": "西班牙语\n181万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        740,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-german language-card",
+      "tag": "A",
+      "role": null,
+      "text": "德语\n112万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        962,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-italian language-card",
+      "tag": "A",
+      "role": null,
+      "text": "意大利语\n58.5万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        296,
+        582,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    },
+    {
+      "test": "flag-portuguese language-card",
+      "tag": "A",
+      "role": null,
+      "text": "葡萄牙语\n30.5万 名学习者",
+      "enabled": true,
+      "pressed": null,
+      "checked": null,
+      "rect": [
+        518,
+        582,
+        200,
+        217
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "16px",
+        "borderWidth": "2px 2px 4px",
+        "borderColor": "rgb(229, 229, 229)"
+      },
+      "icons": [],
+      "images": [],
+      "iconDetails": [],
+      "ancestors": []
+    }
+  ],
+  "painted_boxes": [
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        0,
+        0,
+        256,
+        732
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(175, 175, 175) rgb(229, 229, 229) rgb(175, 175, 175) rgb(175, 175, 175)",
+        "borderWidth": "0px 2px 0px 0px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        92,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        152,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        212,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        272,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        332,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        392,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        52,
+        402,
+        12,
+        12
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 75, 75)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "2px",
+        "borderRadius": "50%",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "test": null,
+      "rect": [
+        16,
+        452,
+        222,
+        52
+      ],
+      "css": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "2px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        272,
+        24,
+        912,
+        823
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(60, 60, 60)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-english language-card",
+      "rect": [
+        296,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        456,
+        114,
+        26,
+        26
+      ],
+      "css": {
+        "backgroundColor": "rgb(88, 167, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "0px",
+        "borderRadius": "5px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        352,
+        146,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-japanese language-card",
+      "rect": [
+        518,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        574,
+        146,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-chinese language-card",
+      "rect": [
+        740,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        796,
+        146,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-korean language-card",
+      "rect": [
+        962,
+        100,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        1018,
+        146,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-chess language-card",
+      "rect": [
+        296,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        352,
+        387,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-french language-card",
+      "rect": [
+        518,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        574,
+        387,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-spanish language-card",
+      "rect": [
+        740,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        796,
+        387,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-german language-card",
+      "rect": [
+        962,
+        341,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        1018,
+        387,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-italian language-card",
+      "rect": [
+        296,
+        582,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        352,
+        628,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "test": "flag-portuguese language-card",
+      "rect": [
+        518,
+        582,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px 2px 4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        574,
+        628,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        740,
+        582,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        796,
+        628,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(247, 247, 247)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "test": null,
+      "rect": [
+        962,
+        582,
+        200,
+        217
+      ],
+      "css": {
+        "backgroundColor": "rgb(247, 247, 247)",
+        "borderColor": "rgb(229, 229, 229)",
+        "borderWidth": "2px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    },
+    {
+      "tag": "IMG",
+      "test": null,
+      "rect": [
+        1018,
+        628,
+        88,
+        67.8828125
+      ],
+      "css": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(247, 247, 247)",
+        "borderWidth": "4px",
+        "borderRadius": "16px",
+        "boxShadow": "none"
+      }
+    }
+  ],
+  "focus": {
+    "tag": "BODY",
+    "test": null,
+    "name": "",
+    "tab_index": -1,
+    "focus_visible": false,
+    "rect": [
+      0,
+      0,
+      1200,
+      847
+    ],
+    "css": {
+      "outline": "rgb(60, 60, 60) none 3px",
+      "boxShadow": "none"
+    }
+  },
+  "capture_geometry": {
+    "content_rect_points": [
+      0,
+      0,
+      1200,
+      732
+    ],
+    "window_points": [
+      1200,
+      732
+    ],
+    "backing_scale": 2,
+    "reported_dom_dpr": 1,
+    "measurement": "CDP physical/css visual viewport ratio, not inferred from PNG",
+    "state_consistent": true
+  },
+  "capture_layout_metrics": {
+    "layoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2400,
+      "clientHeight": 1464
+    },
+    "visualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 2400,
+      "clientHeight": 1464,
+      "scale": 1,
+      "zoom": 1
+    },
+    "contentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 2400,
+      "height": 1754
+    },
+    "cssLayoutViewport": {
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1200,
+      "clientHeight": 732
+    },
+    "cssVisualViewport": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "pageX": 0,
+      "pageY": 0,
+      "clientWidth": 1200,
+      "clientHeight": 732,
+      "scale": 1,
+      "zoom": 1
+    },
+    "cssContentSize": {
+      "x": 0,
+      "y": 0,
+      "width": 1200,
+      "height": 877
+    }
+  },
+  "snapshot_after_capture": "- link:\n  - /url: /learn\n  - img\n- link \"学习\":\n  - /url: /learn\n  - img\n  - text: 学习\n- link \"发音\":\n  - /url: /characters\n  - img\n  - text: 发音\n- link \"排行榜\":\n  - /url: /leaderboard\n  - img\n  - text: 排行榜\n- link \"特别任务\":\n  - /url: /quests\n  - img\n  - text: 特别任务\n- link \"宝石小店\":\n  - /url: /shop\n  - img\n  - text: 宝石小店\n- link \"个人档案\":\n  - /url: /learn?sign-up\n  - img\n  - text: 个人档案\n- button \"更多\":\n  - img\n  - text: 更多\n- img\n- heading \"用中文（简体）学习的课程\" [level=1]\n- text: 我说中文（简体）\n- img\n- combobox:\n  - option \"所有语言\"\n  - option \"Bahasa Indonesia\"\n  - option \"Čeština\"\n  - option \"Deutsch\"\n  - option \"English\"\n  - option \"Español\"\n  - option \"Français\"\n  - option \"Italiano\"\n  - option \"Magyar\"\n  - option \"Nederlands\"\n  - option \"Polski\"\n  - option \"Português\"\n  - option \"Română\"\n  - option \"svenska\"\n  - option \"Tagalog\"\n  - option \"Tiếng Việt\"\n  - option \"Türkçe\"\n  - option \"Ελληνικά\"\n  - option \"Русский\"\n  - option \"Українською\"\n  - option \"اُردُو\"\n  - option \"العربية\"\n  - option \"मराठी\"\n  - option \"हिंदी\"\n  - option \"বাংলা\"\n  - option \"ਪੰਜਾਬੀ\"\n  - option \"தமிழ்\"\n  - option \"తెలుగు\"\n  - option \"ಕನ್ನಡ\"\n  - option \"ภาษาไทย\"\n  - option \"한국어\"\n  - option \"中文\" [selected]\n  - option \"日本語\"\n- link \"英语 3190万 名学习者\":\n  - /url: /enroll/en/zh/%E5%AD%A6%E4%B9%A0-%E8%8B%B1%E8%AF%AD\n  - img\n  - img\n  - text: 英语 3190万 名学习者\n- link \"日语 951万 名学习者\":\n  - /url: /enroll/ja/zh/%E5%AD%A6%E4%B9%A0-%E6%97%A5%E8%AF%AD\n  - img\n  - text: 日语 951万 名学习者\n- link \"中文（粤语） 872万 名学习者\":\n  - /url: /enroll/zh-HK/zh/%E5%AD%A6%E4%B9%A0-%E4%B8%AD%E6%96%87%EF%BC%88%E7%B2%A4%E8%AF%AD%EF%BC%89\n  - img\n  - text: 中文（粤语） 872万 名学习者\n- link \"韩语 660万 名学习者\":\n  - /url: /enroll/ko/zh/%E5%AD%A6%E4%B9%A0-%E9%9F%A9%E8%AF%AD\n  - img\n  - text: 韩语 660万 名学习者\n- link \"国际象棋\":\n  - /url: /enroll/chess/ch\n  - img\n  - text: 国际象棋\n- link \"法语 210万 名学习者\":\n  - /url: /enroll/fr/zh/%E5%AD%A6%E4%B9%A0-%E6%B3%95%E8%AF%AD\n  - img\n  - text: 法语 210万 名学习者\n- link \"西班牙语 181万 名学习者\":\n  - /url: /enroll/es/zh/%E5%AD%A6%E4%B9%A0-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD\n  - img\n  - text: 西班牙语 181万 名学习者\n- link \"德语 112万 名学习者\":\n  - /url: /enroll/de/zh/%E5%AD%A6%E4%B9%A0-%E5%BE%B7%E8%AF%AD\n  - img\n  - text: 德语 112万 名学习者\n- link \"意大利语 58.5万 名学习者\":\n  - /url: /enroll/it/zh/%E5%AD%A6%E4%B9%A0-%E6%84%8F%E5%A4%A7%E5%88%A9%E8%AF%AD\n  - img\n  - text: 意大利语 58.5万 名学习者\n- link \"葡萄牙语 30.5万 名学习者\":\n  - /url: /enroll/pt/zh/%E5%AD%A6%E4%B9%A0-%E8%91%A1%E8%90%84%E7%89%99%E8%AF%AD\n  - img\n  - text: 葡萄牙语 30.5万 名学习者\n- img\n- text: Math 仅限 iOS 和安卓设备\n- img\n- text: 音乐 仅限 iOS 和安卓设备",
+  "capture_state_consistent": true,
+  "capture_method": "visible-page-cdp",
+  "screenshot": "courses-zh-options-state.png"
+}

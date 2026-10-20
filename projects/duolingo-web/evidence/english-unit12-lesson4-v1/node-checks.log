@@ -1,0 +1,34 @@
+✔ real cropped surface is rejected despite matching DOM snapshots (2.396541ms)
+✔ real explicit CDP clip matches independently measured physical geometry (2.263167ms)
+✔ invalid image or absent independent measurement cannot become a reference (0.41675ms)
+✔ real screenshot viewport mutation is rejected even with identical ARIA (0.626334ms)
+✔ real scrolled home requires document clip origin, despite valid PNG size (1.375708ms)
+✔ current renderer reads a replacement without consulting stale session or private state (0.842541ms)
+✔ transition mismatch and missing current challenge never fall back to an initial list (0.194333ms)
+✔ shared public projection retains all actually frozen source content (2.414125ms)
+✔ tracking and state values never enter the public content projection (0.1785ms)
+✔ current challenge observation preserves an existing frame before accessing browser (58.985458ms)
+✔ actual audio pairs accept shuffling, but missing or duplicated visible targets fail (2.535583ms)
+✔ same isolation choices cannot hide a different sentence (0.728917ms)
+✔ actual listening playback and completion context both identify the question (3.68825ms)
+✔ a pre-existing screenshot stops both answer tools before invoking a browser (112.041417ms)
+✔ actual placement name and picture completion are supported only with current identity (0.509167ms)
+✔ observed multiword gap identifies scaffold and example without accepting drift (0.577292ms)
+✔ actual fragmented tap sentence keeps lexical and word-bank identity (0.601125ms)
+✔ actual unit gapFill requires observed completion context and complete choices (0.698917ms)
+✔ actual captured introduction can continue, result/profile cannot (1.389125ms)
+✔ old feedback and ambiguous challenge cannot be treated as a fresh question (0.084584ms)
+✔ actual keyboard challenge has a solution without fabricating a word bank (0.529167ms)
+✔ actual level-review entry starts only its observed exercise route (1.115542ms)
+✔ actual reverse translation uses the entire accepted sentence, not only blank tokens (1.303958ms)
+✔ actual placement encouragement is an interlude only on the observed exercise route (0.502375ms)
+✔ structural placement encouragement accepts new messages but refuses settlement continue (1.780458ms)
+✔ actual unit-12 route and roleless quit overlay cannot be confused with ready exercise (0.818167ms)
+ℹ tests 26
+ℹ suites 0
+ℹ pass 26
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 198.209042

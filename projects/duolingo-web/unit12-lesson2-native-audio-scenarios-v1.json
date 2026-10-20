@@ -1,0 +1,587 @@
+{
+  "journeys": [
+    {
+      "id": "actual-coach-radio-next-course",
+      "steps": [
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-pronunciation-coach",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "nav-pronunciation",
+          "operation": "pointer_click",
+          "x_fraction": 0.25,
+          "state": "unit12-coach-pronunciation-native",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "pronunciation-coach-dismiss",
+          "operation": "pointer_click",
+          "state": "unit12-coach-dismissed",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "nav-learn",
+          "state": "unit12-coach-home-returned",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "unit12-path-2",
+          "state": "unit12-radio-locked",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "unit12-path-2"
+        },
+        {
+          "native_action": "unit12-path-0",
+          "state": "unit12-next-popup",
+          "element_aliases": {
+            "unit12-next-popup-action-31": "stage2-lesson-confirm"
+          }
+        },
+        {
+          "native_action": "stage2-lesson-confirm",
+          "state": "unit12-next-q0-before",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "option-0",
+          "operation": "record_audio",
+          "recording": "lesson2-select-living-room",
+          "duration_seconds": 5
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-next-q0-feedback",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q1-before",
+          "element_aliases": {
+            "unit12-lesson2-q1-before-action-0": "exit",
+            "unit12-lesson2-q1-before-action-1": "option-0",
+            "unit12-lesson2-q1-before-action-2": "option-1",
+            "unit12-lesson2-q1-before-action-3": "option-2",
+            "unit12-lesson2-q1-before-action-4": "skip",
+            "unit12-lesson2-q1-before-action-5": "check"
+          }
+        },
+        {
+          "native_action": "option-0"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q1-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q1-feedback-action-0": "exit",
+            "unit12-lesson2-q1-feedback-action-1": "option-0",
+            "unit12-lesson2-q1-feedback-action-2": "option-1",
+            "unit12-lesson2-q1-feedback-action-3": "option-2",
+            "unit12-lesson2-q1-feedback-action-7": "continue"
+          },
+          "operation": "record_audio",
+          "recording": "lesson2-assist-feedback",
+          "duration_seconds": 5
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-speech",
+          "element_aliases": {
+            "unit12-lesson2-speech-action-0": "exit",
+            "unit12-lesson2-speech-action-3": "speech-decline",
+            "unit12-lesson2-speech-action-4": "check"
+          }
+        },
+        {
+          "native_action": "speech-decline",
+          "state": "unit12-lesson2-speech-declined",
+          "element_aliases": {
+            "unit12-lesson2-speech-declined-action-0": "exit",
+            "unit12-lesson2-speech-declined-action-6": "speech-continue"
+          }
+        },
+        {
+          "native_action": "speech-continue",
+          "state": "unit12-lesson2-q3-before",
+          "element_aliases": {
+            "unit12-lesson2-q3-before-action-0": "exit",
+            "unit12-lesson2-q3-before-action-3": "word-bank-word-1",
+            "unit12-lesson2-q3-before-action-10": "word-bank-word-0",
+            "unit12-lesson2-q3-before-action-11": "word-bank-word-1",
+            "unit12-lesson2-q3-before-action-12": "skip",
+            "unit12-lesson2-q3-before-action-13": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q3-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q3-feedback-action-0": "exit",
+            "unit12-lesson2-q3-feedback-action-3": "selected-word-word-1",
+            "unit12-lesson2-q3-feedback-action-8": "selected-word-word-1",
+            "unit12-lesson2-q3-feedback-action-9": "selected-word-word-0",
+            "unit12-lesson2-q3-feedback-action-12": "selected-word-word-0",
+            "unit12-lesson2-q3-feedback-action-13": "selected-word-word-1",
+            "unit12-lesson2-q3-feedback-action-17": "continue"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q4-before",
+          "element_aliases": {
+            "unit12-lesson2-q4-before-action-0": "exit",
+            "unit12-lesson2-q4-before-action-1": "option-0",
+            "unit12-lesson2-q4-before-action-2": "option-1",
+            "unit12-lesson2-q4-before-action-3": "option-2",
+            "unit12-lesson2-q4-before-action-4": "skip",
+            "unit12-lesson2-q4-before-action-5": "check"
+          }
+        },
+        {
+          "native_action": "option-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q4-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q4-feedback-action-0": "exit",
+            "unit12-lesson2-q4-feedback-action-1": "option-0",
+            "unit12-lesson2-q4-feedback-action-2": "option-1",
+            "unit12-lesson2-q4-feedback-action-3": "option-2",
+            "unit12-lesson2-q4-feedback-action-7": "continue"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q5-before",
+          "element_aliases": {
+            "unit12-lesson2-q5-before-action-0": "exit",
+            "unit12-lesson2-q5-before-action-6": "word-bank-word-0",
+            "unit12-lesson2-q5-before-action-7": "word-bank-word-1",
+            "unit12-lesson2-q5-before-action-8": "word-bank-word-2",
+            "unit12-lesson2-q5-before-action-9": "word-bank-word-3",
+            "unit12-lesson2-q5-before-action-10": "skip",
+            "unit12-lesson2-q5-before-action-11": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q5-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q5-feedback-action-0": "exit",
+            "unit12-lesson2-q5-feedback-action-6": "word-bank-word-0",
+            "unit12-lesson2-q5-feedback-action-7": "word-bank-word-1",
+            "unit12-lesson2-q5-feedback-action-8": "word-bank-word-2",
+            "unit12-lesson2-q5-feedback-action-9": "selected-word-word-3",
+            "unit12-lesson2-q5-feedback-action-13": "continue",
+            "unit12-lesson2-q5-feedback-action-14": "selected-word-word-3"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q6-before",
+          "element_aliases": {
+            "unit12-lesson2-q6-before-action-0": "exit",
+            "unit12-lesson2-q6-before-action-3": "word-bank-word-0",
+            "unit12-lesson2-q6-before-action-11": "word-bank-word-0",
+            "unit12-lesson2-q6-before-action-12": "word-bank-word-1",
+            "unit12-lesson2-q6-before-action-13": "skip",
+            "unit12-lesson2-q6-before-action-14": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q6-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q6-feedback-action-0": "exit",
+            "unit12-lesson2-q6-feedback-action-3": "selected-word-word-0",
+            "unit12-lesson2-q6-feedback-action-9": "selected-word-word-0",
+            "unit12-lesson2-q6-feedback-action-10": "selected-word-word-1",
+            "unit12-lesson2-q6-feedback-action-13": "selected-word-word-0",
+            "unit12-lesson2-q6-feedback-action-14": "selected-word-word-1",
+            "unit12-lesson2-q6-feedback-action-18": "continue"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q7-before",
+          "element_aliases": {
+            "unit12-lesson2-q7-before-action-0": "exit",
+            "unit12-lesson2-q7-before-action-7": "word-bank-word-0",
+            "unit12-lesson2-q7-before-action-8": "word-bank-word-1",
+            "unit12-lesson2-q7-before-action-9": "word-bank-word-2",
+            "unit12-lesson2-q7-before-action-10": "word-bank-word-3",
+            "unit12-lesson2-q7-before-action-11": "word-bank-word-4",
+            "unit12-lesson2-q7-before-action-12": "skip",
+            "unit12-lesson2-q7-before-action-13": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q7-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q7-feedback-action-0": "exit",
+            "unit12-lesson2-q7-feedback-action-7": "selected-word-word-0",
+            "unit12-lesson2-q7-feedback-action-8": "word-bank-word-1",
+            "unit12-lesson2-q7-feedback-action-9": "selected-word-word-2",
+            "unit12-lesson2-q7-feedback-action-10": "selected-word-word-3",
+            "unit12-lesson2-q7-feedback-action-11": "selected-word-word-4",
+            "unit12-lesson2-q7-feedback-action-15": "continue",
+            "unit12-lesson2-q7-feedback-action-16": "selected-word-word-2",
+            "unit12-lesson2-q7-feedback-action-17": "selected-word-word-3",
+            "unit12-lesson2-q7-feedback-action-18": "selected-word-word-4",
+            "unit12-lesson2-q7-feedback-action-19": "selected-word-word-0"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q8-before",
+          "element_aliases": {
+            "unit12-lesson2-q8-before-action-0": "exit",
+            "unit12-lesson2-q8-before-action-4": "word-bank-word-0",
+            "unit12-lesson2-q8-before-action-5": "word-bank-word-1",
+            "unit12-lesson2-q8-before-action-6": "word-bank-word-2",
+            "unit12-lesson2-q8-before-action-7": "word-bank-word-3",
+            "unit12-lesson2-q8-before-action-8": "skip",
+            "unit12-lesson2-q8-before-action-9": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q8-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q8-feedback-action-0": "exit",
+            "unit12-lesson2-q8-feedback-action-4": "word-bank-word-0",
+            "unit12-lesson2-q8-feedback-action-5": "selected-word-word-1",
+            "unit12-lesson2-q8-feedback-action-6": "word-bank-word-2",
+            "unit12-lesson2-q8-feedback-action-7": "word-bank-word-3",
+            "unit12-lesson2-q8-feedback-action-11": "continue",
+            "unit12-lesson2-q8-feedback-action-12": "selected-word-word-1"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q9-before",
+          "element_aliases": {
+            "unit12-lesson2-q9-before-action-0": "exit",
+            "unit12-lesson2-q9-before-action-3": "word-bank-word-0",
+            "unit12-lesson2-q9-before-action-4": "word-bank-word-1",
+            "unit12-lesson2-q9-before-action-5": "word-bank-word-2",
+            "unit12-lesson2-q9-before-action-6": "word-bank-word-3",
+            "unit12-lesson2-q9-before-action-9": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q9-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q9-feedback-action-0": "exit",
+            "unit12-lesson2-q9-feedback-action-3": "selected-word-word-0",
+            "unit12-lesson2-q9-feedback-action-4": "selected-word-word-1",
+            "unit12-lesson2-q9-feedback-action-5": "selected-word-word-2",
+            "unit12-lesson2-q9-feedback-action-6": "word-bank-word-3",
+            "unit12-lesson2-q9-feedback-action-10": "continue",
+            "unit12-lesson2-q9-feedback-action-11": "selected-word-word-1",
+            "unit12-lesson2-q9-feedback-action-12": "selected-word-word-0",
+            "unit12-lesson2-q9-feedback-action-13": "selected-word-word-2"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-interlude-0",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "interlude-continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q10-before",
+          "element_aliases": {
+            "unit12-lesson2-q10-before-action-0": "exit",
+            "unit12-lesson2-q10-before-action-6": "word-bank-word-0",
+            "unit12-lesson2-q10-before-action-7": "word-bank-word-1",
+            "unit12-lesson2-q10-before-action-8": "word-bank-word-2",
+            "unit12-lesson2-q10-before-action-9": "word-bank-word-3",
+            "unit12-lesson2-q10-before-action-10": "word-bank-word-4",
+            "unit12-lesson2-q10-before-action-11": "word-bank-word-5",
+            "unit12-lesson2-q10-before-action-12": "word-bank-word-6",
+            "unit12-lesson2-q10-before-action-13": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-6"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q10-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q10-feedback-action-0": "exit",
+            "unit12-lesson2-q10-feedback-action-6": "selected-word-word-6",
+            "unit12-lesson2-q10-feedback-action-7": "selected-word-word-0",
+            "unit12-lesson2-q10-feedback-action-8": "selected-word-word-1",
+            "unit12-lesson2-q10-feedback-action-9": "selected-word-word-2",
+            "unit12-lesson2-q10-feedback-action-10": "word-bank-word-3",
+            "unit12-lesson2-q10-feedback-action-11": "selected-word-word-4",
+            "unit12-lesson2-q10-feedback-action-12": "selected-word-word-5",
+            "unit12-lesson2-q10-feedback-action-13": "selected-word-word-6",
+            "unit12-lesson2-q10-feedback-action-17": "continue",
+            "unit12-lesson2-q10-feedback-action-18": "selected-word-word-1",
+            "unit12-lesson2-q10-feedback-action-19": "selected-word-word-4",
+            "unit12-lesson2-q10-feedback-action-20": "selected-word-word-2",
+            "unit12-lesson2-q10-feedback-action-21": "selected-word-word-0",
+            "unit12-lesson2-q10-feedback-action-22": "selected-word-word-5"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-interlude-1",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "interlude-continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q11-before",
+          "element_aliases": {
+            "unit12-lesson2-q11-before-action-0": "exit",
+            "unit12-lesson2-q11-before-action-5": "word-bank-word-0",
+            "unit12-lesson2-q11-before-action-6": "word-bank-word-1",
+            "unit12-lesson2-q11-before-action-7": "word-bank-word-2",
+            "unit12-lesson2-q11-before-action-8": "word-bank-word-3",
+            "unit12-lesson2-q11-before-action-9": "word-bank-word-4",
+            "unit12-lesson2-q11-before-action-10": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q11-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q11-feedback-action-0": "exit",
+            "unit12-lesson2-q11-feedback-action-5": "selected-word-word-0",
+            "unit12-lesson2-q11-feedback-action-6": "word-bank-word-1",
+            "unit12-lesson2-q11-feedback-action-7": "selected-word-word-2",
+            "unit12-lesson2-q11-feedback-action-8": "selected-word-word-3",
+            "unit12-lesson2-q11-feedback-action-9": "selected-word-word-4",
+            "unit12-lesson2-q11-feedback-action-13": "continue",
+            "unit12-lesson2-q11-feedback-action-14": "selected-word-word-0",
+            "unit12-lesson2-q11-feedback-action-15": "selected-word-word-3",
+            "unit12-lesson2-q11-feedback-action-16": "selected-word-word-4",
+            "unit12-lesson2-q11-feedback-action-17": "selected-word-word-2"
+          }
+        },
+        {
+          "native_action": "continue"
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "observe",
+          "state": "unit12-lesson2-q12-before",
+          "element_aliases": {
+            "unit12-lesson2-q12-before-action-0": "exit",
+            "unit12-lesson2-q12-before-action-6": "word-bank-word-0",
+            "unit12-lesson2-q12-before-action-7": "word-bank-word-1",
+            "unit12-lesson2-q12-before-action-8": "word-bank-word-2",
+            "unit12-lesson2-q12-before-action-9": "word-bank-word-3",
+            "unit12-lesson2-q12-before-action-10": "word-bank-word-4",
+            "unit12-lesson2-q12-before-action-11": "word-bank-word-5",
+            "unit12-lesson2-q12-before-action-12": "skip",
+            "unit12-lesson2-q12-before-action-14": "check"
+          }
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "unit12-lesson2-q12-feedback",
+          "element_aliases": {
+            "unit12-lesson2-q12-feedback-action-0": "exit",
+            "unit12-lesson2-q12-feedback-action-6": "selected-word-word-1",
+            "unit12-lesson2-q12-feedback-action-7": "selected-word-word-0",
+            "unit12-lesson2-q12-feedback-action-8": "selected-word-word-1",
+            "unit12-lesson2-q12-feedback-action-9": "selected-word-word-2",
+            "unit12-lesson2-q12-feedback-action-10": "word-bank-word-3",
+            "unit12-lesson2-q12-feedback-action-11": "selected-word-word-4",
+            "unit12-lesson2-q12-feedback-action-12": "selected-word-word-5",
+            "unit12-lesson2-q12-feedback-action-16": "continue",
+            "unit12-lesson2-q12-feedback-action-17": "selected-word-word-5",
+            "unit12-lesson2-q12-feedback-action-18": "selected-word-word-2",
+            "unit12-lesson2-q12-feedback-action-19": "selected-word-word-4",
+            "unit12-lesson2-q12-feedback-action-20": "selected-word-word-0"
+          }
+        },
+        {
+          "native_action": "continue",
+          "state": "unit12-lesson2-result",
+          "element_aliases": {
+            "unit12-lesson2-result-action-0": "settlement-secondary",
+            "unit12-lesson2-result-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-secondary",
+          "state": "unit12-lesson2-review",
+          "element_aliases": {
+            "unit12-lesson2-review-action-0": "settlement-secondary",
+            "unit12-lesson2-review-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "result-review-close"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "unit12-lesson2-profile",
+          "element_aliases": {
+            "unit12-lesson2-profile-action-1": "settlement-continue"
+          }
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "unit12-lesson2-home-after",
+          "element_aliases": {
+            "unit12-lesson2-home-after-action-1": "nav-learn",
+            "unit12-lesson2-home-after-action-2": "nav-pronunciation"
+          }
+        },
+        {
+          "native_action": "course-entry",
+          "operation": "restart",
+          "state": "unit12-lesson2-home-restarted",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "unit12-path-0",
+          "state": "unit12-lesson3-popup",
+          "element_aliases": {}
+        }
+      ]
+    }
+  ]
+}

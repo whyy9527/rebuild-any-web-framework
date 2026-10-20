@@ -1,0 +1,5 @@
+{
+  "before": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 一起来复习一下之前你不太熟练的部分吧！\n- button \"继续\"",
+  "after": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 错题重练\n- heading \"哪个是“咖啡”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"sugar 1\"\n  - radio \"tea 2\"\n  - radio \"coffee 3\"\n- img\n- text: 一起来复习一下之前你不太熟练的部分吧！\n- button \"检查\" [disabled]",
+  "url": "https://www.duolingo.com/lesson"
+}

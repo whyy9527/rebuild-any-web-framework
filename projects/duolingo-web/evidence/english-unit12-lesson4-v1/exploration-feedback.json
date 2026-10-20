@@ -1,0 +1,62 @@
+{
+  "prior": "projects/duolingo-web/evidence/english-unit12-lesson3-v1/exploration-feedback.json",
+  "source": "Main-agent actual source exploration and strict frontend comparison, following unfinished lesson/story/radio feedback",
+  "discoveries": [
+    {
+      "omission": "Keyboard input is a distinct visible state and preference persists",
+      "evidence": [
+        "source/q14-keyboard.json",
+        "source/q14-keyboard-filled.json",
+        "source/q14-answer.json",
+        "source/q15-before.json"
+      ],
+      "repair": "Actual pointer-click native trajectory and core preference regression"
+    },
+    {
+      "omission": "Achievement upgrade interrupts result→profile sequence",
+      "evidence": [
+        "source/after-result.json",
+        "source/after-achievement.json"
+      ],
+      "repair": "Original achievement art and measured layout consumer"
+    },
+    {
+      "omission": "Visible-source geometry and PNG dimensions cannot establish correct scrolled image origin",
+      "evidence": [
+        "source/home-after.json",
+        "source/home-after-fixed.json",
+        "source/home-reference-reset.json"
+      ],
+      "repair": "CDP clip uses independently measured document pageX/pageY; wrong reference preserved"
+    },
+    {
+      "omission": "Canonical action inventory omitted TEXTAREA",
+      "evidence": [
+        "source/q14-keyboard.json",
+        "source/q14-keyboard-typed.json"
+      ],
+      "repair": "Collector includes textarea/value; existing visible geometry compared independently. Corrected action inventory needs live same-state reobservation"
+    },
+    {
+      "omission": "Lesson5 home progress ring has distinct original arc, not generic gray ellipse",
+      "evidence": [
+        "source/home-ring-art.json"
+      ],
+      "repair": "Original paths with actual computed fills and measured transformed dimensions"
+    },
+    {
+      "omission": "Radio remains locked after fourth home lesson",
+      "evidence": [
+        "source/radio-after-fourth.json"
+      ],
+      "repair": "Continue upstream fifth/sixth and next skill; do not mark locked content as explored"
+    }
+  ],
+  "next_exploration": [
+    "Strict-image failures for shared header, feedback, profile, missing actors and listening controls; inspect actual rendered pixels, not test counts",
+    "Fifth/sixth lesson and second skill dependencies toward apartment radio; prior-unit story independent access",
+    "Live textarea inventory including value and missing slow playback invocation windows",
+    "Use retained real failures as model revision input and execute preregistered matched-budget product-quality comparison"
+  ],
+  "causal_status": "This batch is main-agent/human-steered feedback closure. Earlier real model deployments and negative04 comparison remain unchanged. No new independent RSI effect estimate or product ablation result claimed."
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "seed": "projects/dream-rsi-check/seed",
+  "root_observation": {"task": "Explore executable total() implementations against independent cases"},
+  "score_semantics": "Fraction of four fixed total() checks passed by executing candidate.py; higher is better",
+  "initial_policy": "projects/dream-rsi-check/policy.py",
+  "fixed_inputs": ["projects/dream-rsi-check/worker.py"],
+  "agent": ["python3", "projects/dream-rsi-check/worker.py", "agent"],
+  "evaluator": ["python3", "projects/dream-rsi-check/worker.py", "evaluator"],
+  "reviser": ["python3", "projects/dream-rsi-check/worker.py", "reviser"],
+  "timeout_seconds": 30,
+  "workers": 2,
+  "online_rounds": 4,
+  "replay_rounds": 4,
+  "versions": 2,
+  "parallelism_penalty": 0.05
+}

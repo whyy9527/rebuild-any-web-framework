@@ -1,0 +1,84 @@
+[
+  {
+    "name": "en-stage2-path-8a89b7151329327c",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/ef9c771afdb674f0ff82fae25c6a7b0a.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-8a89b7151329327c.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-2c90a7738d762cd6",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/9f3118f48729b85c884b43f81a24e0ab.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-2c90a7738d762cd6.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-870244457e094ddd",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/ddd21f172a2db0f5ef169c09b4d3badb.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-870244457e094ddd.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-61d1cdc46a05779b",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/09f58d40e31d28e089395af4c54d0c20.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-61d1cdc46a05779b.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-d4ccf5b8ffafd28c",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/7d84afaa096ff1f1d3f8c86d6c2c9542.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-d4ccf5b8ffafd28c.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-4358c54c80ef1fb9",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/5e4203031e39fc43d94371565fd0d369.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-4358c54c80ef1fb9.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-ba7d287055bfdfe6",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/f5d7269148d87e945a139254e4477a5e.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-ba7d287055bfdfe6.svg",
+    "render_width": 42,
+    "render_height": 34
+  },
+  {
+    "name": "en-stage2-path-30a261324243ea14",
+    "url": "https://www.duolingo.com/learn",
+    "kind": "image",
+    "source_file": "en-stage2-path-30a261324243ea14.svg",
+    "render_width": 243,
+    "render_height": 236,
+    "source": "Actual original rendered SVG frame; animation fidelity remains unverified",
+    "inline_svg": true
+  },
+  {
+    "name": "en-stage2-path-7d36d4d803895def",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/b841637c196f5be786d8b8578a42ffbf.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-7d36d4d803895def.svg",
+    "render_width": 80,
+    "render_height": 90
+  },
+  {
+    "name": "en-stage2-path-b402be31239279c4",
+    "url": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/e013fd27fc6bd1d2fea85fe707b615cd.svg",
+    "kind": "image",
+    "source_file": "en-stage2-path-b402be31239279c4.svg",
+    "render_width": 16,
+    "render_height": 16
+  }
+]

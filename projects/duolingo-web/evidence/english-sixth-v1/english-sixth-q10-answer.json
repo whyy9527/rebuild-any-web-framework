@@ -1,0 +1,9 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"2\"\n- heading \"输入所缺单词\" [level=1]\n- img\n- text: Sugar or\n- textbox \"Sugar or ?\"\n- text: \"?\"\n- button \"跳过\"\n- button \"加大难度\"\n- button \"检查\" [disabled]",
+  "input_label": "Sugar or ?",
+  "input": "milk",
+  "feedback": "- button:\n  - img\n- progressbar: 连对 10 题\n- img\n- text: \"2\"\n- heading \"输入所缺单词\" [level=1]\n- img\n- text: Sugar or\n- textbox \"Sugar or ?\" [disabled]: milk\n- text: \"?\"\n- heading \"不错哦！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "rejected": false,
+  "next_action": "Inspect receipt before a separate Continue action",
+  "observed_at": "2026-10-10T19:10:05.699Z"
+}

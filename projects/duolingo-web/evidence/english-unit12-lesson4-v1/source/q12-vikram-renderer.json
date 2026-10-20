@@ -1,0 +1,166 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"两个\"\n- button \"这\"\n- button \"洗手间\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "prompt": "新单词\n用中文（简体）写出这句话\ntwo bathrooms\n两个\n这\n洗手间",
+  "metadata": {
+    "width": 236,
+    "height": 350,
+    "rect": {
+      "x": 287.72637939453125,
+      "y": 162.94033813476562,
+      "width": 135.70001220703125,
+      "height": 201.25,
+      "top": 162.94033813476562,
+      "right": 423.4263916015625,
+      "bottom": 364.1903381347656,
+      "left": 287.72637939453125
+    },
+    "style": "vertical-align: top; width: 118px; height: 175px;",
+    "parent_style": "width: 100%; height: 100%; transform: scale(1.15) translate(-6.94444%, -5.68182%);",
+    "ancestors": [
+      {
+        "tag": "DIV",
+        "style": "width: 100%; height: 100%; transform: scale(1.15) translate(-6.94444%, -5.68182%);",
+        "rect": {
+          "x": 287.72637939453125,
+          "y": 162.94033813476562,
+          "width": 135.70001220703125,
+          "height": 201.25,
+          "top": 162.94033813476562,
+          "right": 423.4263916015625,
+          "bottom": 364.1903381347656,
+          "left": 287.72637939453125
+        }
+      },
+      {
+        "tag": "DIV",
+        "style": "",
+        "rect": {
+          "x": 306,
+          "y": 187.5,
+          "width": 118,
+          "height": 175,
+          "top": 187.5,
+          "right": 424,
+          "bottom": 362.5,
+          "left": 306
+        }
+      },
+      {
+        "tag": "DIV",
+        "style": "",
+        "rect": {
+          "x": 306,
+          "y": 187.5,
+          "width": 590,
+          "height": 175,
+          "top": 187.5,
+          "right": 896,
+          "bottom": 362.5,
+          "left": 306
+        }
+      }
+    ]
+  },
+  "renderer": {
+    "animation": {
+      "artBoardName": "character",
+      "correctStateName": "correct_trig",
+      "darkModeStateName": "darkmode_bool",
+      "incorrectStateName": "incorrect_trig",
+      "notSetStateName": "reset_trig",
+      "rtlStateName": "rtl_bool",
+      "scale": 1.15,
+      "stateMachineName": "character_statemachine",
+      "type": "maker",
+      "xOffset": -10,
+      "yOffset": 10,
+      "url": "https://d35aaqx5ub95lt.cloudfront.net/rive/makerInLesson/201fc4b2342fb3a92f46aa205a29d80a.riv",
+      "xOffsetPercentage": -6.944444444444445,
+      "yOffsetPercentage": 5.681818181818182
+    },
+    "correct": null,
+    "buffer": {
+      "file": "q12-vikram-renderer.riv",
+      "bytes": 277617,
+      "sha256": "aea76319b266881fc2271f42268c831bf9bcf0e64284f8025bdd636ea72b3d9d"
+    }
+  },
+  "frames": [
+    {
+      "at": 11995094.5,
+      "file": "q12-vikram-renderer-buffer-00.png",
+      "bytes": 10357,
+      "sha256": "e38ecb5a7202fcca1556b6c20cb381377566bf05ed9eee96e21e075e9ea7c6ec"
+    },
+    {
+      "at": 11995271.900000095,
+      "file": "q12-vikram-renderer-buffer-01.png",
+      "bytes": 10093,
+      "sha256": "dadcb3811e95360f4828b726e89681b8fbffae13aa2e9a55d4e36f1d0d7c12c4"
+    },
+    {
+      "at": 11995445.100000143,
+      "file": "q12-vikram-renderer-buffer-02.png",
+      "bytes": 10214,
+      "sha256": "488293d6f13cb406f487c5d6f94111f2726bbc3f9b426750c87fa580cf6f7937"
+    },
+    {
+      "at": 11995611.600000143,
+      "file": "q12-vikram-renderer-buffer-03.png",
+      "bytes": 10202,
+      "sha256": "e91568afed87354a1c4de79b99b0c0d760952c9ad1a5b09333ccf43fe7e4d3e2"
+    },
+    {
+      "at": 11995778.299999952,
+      "file": "q12-vikram-renderer-buffer-04.png",
+      "bytes": 10408,
+      "sha256": "27432375126546101c2b9e3f63e8626fcc46ac42bb4e2f6b4d99e069e400f30a"
+    },
+    {
+      "at": 11995946.299999952,
+      "file": "q12-vikram-renderer-buffer-05.png",
+      "bytes": 10482,
+      "sha256": "084c52ad90a32577c38fd232e594bfd17c3e1f2d702609a9505de2ef0db5cd03"
+    },
+    {
+      "at": 11996110.799999952,
+      "file": "q12-vikram-renderer-buffer-06.png",
+      "bytes": 10424,
+      "sha256": "c040a510179b3c08221ea6acf74ebea49afb2454e7de031d8742d837ee0d373b"
+    },
+    {
+      "at": 11996273.400000095,
+      "file": "q12-vikram-renderer-buffer-07.png",
+      "bytes": 10407,
+      "sha256": "330c943f985a0245e58a13d08b62d277e8661ae6064872c07e25eafc5e27312b"
+    },
+    {
+      "at": 11996444.700000048,
+      "file": "q12-vikram-renderer-buffer-08.png",
+      "bytes": 10418,
+      "sha256": "e31439d28312bc419864ae866ec9d864bfdcfb675d5652849b61a88f4edcbf9a"
+    },
+    {
+      "at": 11996612.700000048,
+      "file": "q12-vikram-renderer-buffer-09.png",
+      "bytes": 10418,
+      "sha256": "e31439d28312bc419864ae866ec9d864bfdcfb675d5652849b61a88f4edcbf9a"
+    },
+    {
+      "at": 11996777.700000048,
+      "file": "q12-vikram-renderer-buffer-10.png",
+      "bytes": 10120,
+      "sha256": "9a3dace452d845438c19b8c9c3d13b7d7f829e79357e15ea2f0e8ad223289991"
+    },
+    {
+      "at": 11996948.799999952,
+      "file": "q12-vikram-renderer-buffer-11.png",
+      "bytes": 10266,
+      "sha256": "fd8ffdf072ef9f8e976a5522c07c86364590c52a40023cabd94dea5906ac110a"
+    }
+  ],
+  "after": "- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- img\n- text: 新单词\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"两个\"\n- button \"这\"\n- button \"洗手间\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "drawing_buffer_only": true,
+  "observed_at": "2026-10-12T00:23:50.567Z",
+  "source": "Actual source drawing buffer, captured within requestAnimationFrame; composited region retained separately; timing and native fidelity not yet verified"
+}

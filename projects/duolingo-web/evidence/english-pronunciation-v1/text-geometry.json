@@ -1,0 +1,77 @@
+{
+  "path": "/characters",
+  "facts": [
+    {
+      "text": "一起来学英语发音！",
+      "tag": "DIV",
+      "rect": [
+        324,
+        43,
+        392,
+        51.1953125
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "51.2px",
+        "color": "rgb(75, 75, 75)",
+        "margin": "0px 0px 10px"
+      }
+    },
+    {
+      "text": "磨耳朵，练就地道英语发音",
+      "tag": "DIV",
+      "rect": [
+        324,
+        104.1953125,
+        392,
+        26.59375
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "19px",
+        "fontWeight": "500",
+        "lineHeight": "26.6px",
+        "color": "rgb(119, 119, 119)",
+        "margin": "0px"
+      }
+    },
+    {
+      "text": "元音",
+      "tag": "DIV",
+      "rect": [
+        280,
+        227.7890625,
+        480,
+        44
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(75, 75, 75)",
+        "margin": "0px"
+      }
+    },
+    {
+      "text": "辅音",
+      "tag": "DIV",
+      "rect": [
+        280,
+        663.7890625,
+        480,
+        44
+      ],
+      "css": {
+        "fontFamily": "duolingo-sans, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "700",
+        "lineHeight": "24px",
+        "color": "rgb(75, 75, 75)",
+        "margin": "0px"
+      }
+    }
+  ]
+}

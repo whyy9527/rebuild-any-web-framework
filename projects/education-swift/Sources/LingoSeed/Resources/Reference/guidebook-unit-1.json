@@ -1,0 +1,45 @@
+{
+  "title": "Unit 1 Guidebook",
+  "subtitle": "Explore grammar tips and key phrases for this unit",
+  "phrases": [
+    {
+      "spanish": "Un vaso de agua, por favor.",
+      "english": "A glass of water, please.",
+      "audioResource": "speech-b3d27b783ccba37e02cb.mp3"
+    },
+    {
+      "spanish": "Hola, quiero un té con azúcar.",
+      "english": "Hello, I want a tea with sugar.",
+      "audioResource": "speech-d18fe04f91096020e2d3.mp3"
+    },
+    {
+      "spanish": "Quiero un helado y un vaso de agua.",
+      "english": "I want an ice cream and a glass of water.",
+      "audioResource": "speech-0b55859f1f1d883aa708.mp3"
+    },
+    {
+      "spanish": "¿Un café o un té?",
+      "english": "A coffee or a tea?",
+      "audioResource": "speech-dc874ebdabe59063f768.mp3"
+    },
+    {
+      "spanish": "Un sándwich y un café, por favor.",
+      "english": "A sandwich and a coffee, please.",
+      "audioResource": "speech-345a6f413bcad17ad77e.mp3"
+    }
+  ],
+  "tipTitle": "Conjunctions: y & o",
+  "tipDescription": "Spanish uses y (and) and o (or) to connect words, just like in English.",
+  "examples": [
+    {
+      "spanish": "Un café y un helado.",
+      "english": "A coffee and an ice cream.",
+      "audioResource": "speech-91c17a790141fe2e92ea.mp3"
+    },
+    {
+      "spanish": "¿Un café o un té?",
+      "english": "A coffee or a tea?",
+      "audioResource": "speech-dc874ebdabe59063f768.mp3"
+    }
+  ]
+}

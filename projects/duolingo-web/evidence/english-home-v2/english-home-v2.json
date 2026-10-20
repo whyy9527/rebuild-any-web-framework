@@ -1,0 +1,352 @@
+{
+  "popup": "- link:\n  - /url: /learn\n  - img\n- link \"学习\":\n  - /url: /learn\n  - img\n  - text: 学习\n- link \"发音\":\n  - /url: /characters\n  - img\n  - text: 发音\n- link \"排行榜\":\n  - /url: /leaderboard\n  - img\n  - text: 排行榜\n- link \"特别任务\":\n  - /url: /quests\n  - img\n  - text: 特别任务\n- link \"宝石小店\":\n  - /url: /shop\n  - img\n  - text: 宝石小店\n- link \"个人档案\":\n  - /url: /learn?sign-up\n  - img\n  - text: 个人档案\n- button \"更多\":\n  - img\n  - text: 更多\n- img\n- button \"5\":\n  - img\n  - text: \"5\"\n- button \"1\":\n  - img\n  - text: \"1\"\n- button \"505\":\n  - img\n  - text: \"505\"\n- button \"4\":\n  - img\n  - text: \"4\"\n- heading \"来解锁排行榜吧！\" [level=2]\n- img\n- text: 再学 2 个单元，就能参加排行榜挑战了\n- heading \"每日特别任务\" [level=2]\n- link \"显示全部\":\n  - /url: /quests\n- img\n- text: 获取 10 经验\n- progressbar: 10 / 10 10 / 10\n- img\n- heading \"创建个人档案，保存学习进度！\" [level=2]\n- button \"创建档案\"\n- button \"登录\"\n- list:\n  - listitem:\n    - link \"关于我们\":\n      - /url: https://about.duolingo.com\n  - listitem:\n    - link \"宝石小店\":\n      - /url: https://store.duolingo.com/\n  - listitem:\n    - link \"有效性\":\n      - /url: /efficacy\n  - listitem:\n    - link \"招聘贤才\":\n      - /url: https://careers.duolingo.com\n  - listitem:\n    - link \"投资者\":\n      - /url: https://investors.duolingo.com\n  - listitem:\n    - link \"条款\":\n      - /url: /terms\n  - listitem:\n    - link \"隐私\":\n      - /url: /privacy\n- link \"第 1 阶段，第 1 部分\":\n  - /url: /sections\n  - img\n  - heading \"第 1 阶段，第 1 部分\" [level=1]\n- text: 提供或接受饮料\n- link \"打开这个部分的指南\":\n  - /url: /guidebook/en/1\n  - img \"指南\"\n  - text: 指南\n- img\n- button \"Lesson 2 of 4\":\n  - img\n  - button \"Lesson 2 of 4\"\n- heading \"提供或接受饮料\" [level=1]\n- paragraph: 第 2/4 单元\n- link \"开始 +10 经验\":\n  - /url: /lesson\n- button \"Lesson\":\n  - button \"Lesson\"\n- button \"宝箱\" [disabled]:\n  - img\n- button \"Practice\":\n  - button \"Practice\"\n- button \"复习该部分\":\n  - button \"复习该部分\"\n- separator\n- heading \"谈论祖籍国家\" [level=2]\n- separator\n- link \"跳到第 2 部分\":\n  - /url: /lesson/unit/2/test\n- button \"Lesson\":\n  - button \"Lesson\"\n- button \"宝箱\" [disabled]:\n  - img\n- button \"Practice\":\n  - button \"Practice\"\n- button \"复习该部分\":\n  - button \"复习该部分\"\n- separator\n- heading \"介绍家庭成员\" [level=2]\n- separator\n- link \"跳到第 3 部分\":\n  - /url: /lesson/unit/3/test\n- button \"Lesson\":\n  - button \"Lesson\"\n- button \"宝箱\" [disabled]:\n  - img\n- button \"Practice\":\n  - button \"Practice\"\n- button \"复习该部分\":\n  - button \"复习该部分\"\n- paragraph: 下一级\n- heading \"第 2 阶段\" [level=2]\n- paragraph: 学会日常交流中基础的单词、短语和语法概念\n- button \"跳级到这儿？\"",
+  "after": "- link:\n  - /url: /learn\n  - img\n- link \"学习\":\n  - /url: /learn\n  - img\n  - text: 学习\n- link \"发音\":\n  - /url: /characters\n  - img\n  - text: 发音\n- link \"排行榜\":\n  - /url: /leaderboard\n  - img\n  - text: 排行榜\n- link \"特别任务\":\n  - /url: /quests\n  - img\n  - text: 特别任务\n- link \"宝石小店\":\n  - /url: /shop\n  - img\n  - text: 宝石小店\n- link \"个人档案\":\n  - /url: /learn?sign-up\n  - img\n  - text: 个人档案\n- button \"更多\":\n  - img\n  - text: 更多\n- img\n- button \"5\":\n  - img\n  - text: \"5\"\n- button \"1\":\n  - img\n  - text: \"1\"\n- button \"505\":\n  - img\n  - text: \"505\"\n- button \"4\":\n  - img\n  - text: \"4\"\n- heading \"来解锁排行榜吧！\" [level=2]\n- img\n- text: 再学 2 个单元，就能参加排行榜挑战了\n- heading \"每日特别任务\" [level=2]\n- link \"显示全部\":\n  - /url: /quests\n- img\n- text: 获取 10 经验\n- progressbar: 10 / 10 10 / 10\n- img\n- heading \"创建个人档案，保存学习进度！\" [level=2]\n- button \"创建档案\"\n- button \"登录\"\n- list:\n  - listitem:\n    - link \"关于我们\":\n      - /url: https://about.duolingo.com\n  - listitem:\n    - link \"宝石小店\":\n      - /url: https://store.duolingo.com/\n  - listitem:\n    - link \"有效性\":\n      - /url: /efficacy\n  - listitem:\n    - link \"招聘贤才\":\n      - /url: https://careers.duolingo.com\n  - listitem:\n    - link \"投资者\":\n      - /url: https://investors.duolingo.com\n  - listitem:\n    - link \"条款\":\n      - /url: /terms\n  - listitem:\n    - link \"隐私\":\n      - /url: /privacy\n- link \"第 1 阶段，第 1 部分\":\n  - /url: /sections\n  - img\n  - heading \"第 1 阶段，第 1 部分\" [level=1]\n- text: 提供或接受饮料\n- link \"打开这个部分的指南\":\n  - /url: /guidebook/en/1\n  - img \"指南\"\n  - text: 指南\n- img\n- button \"Lesson 2 of 4\":\n  - img\n  - button \"Lesson 2 of 4\"\n- heading \"提供或接受饮料\" [level=1]\n- paragraph: 第 2/4 单元\n- link \"开始 +10 经验\":\n  - /url: /lesson\n- button \"Lesson\":\n  - button \"Lesson\"\n- button \"宝箱\" [disabled]:\n  - img\n- button \"Practice\":\n  - button \"Practice\"\n- button \"复习该部分\":\n  - button \"复习该部分\"\n- separator\n- heading \"谈论祖籍国家\" [level=2]\n- separator\n- link \"跳到第 2 部分\":\n  - /url: /lesson/unit/2/test\n- button \"Lesson\":\n  - button \"Lesson\"\n- button \"宝箱\" [disabled]:\n  - img\n- button \"Practice\":\n  - button \"Practice\"\n- button \"复习该部分\":\n  - button \"复习该部分\"\n- separator\n- heading \"介绍家庭成员\" [level=2]\n- separator\n- link \"跳到第 3 部分\":\n  - /url: /lesson/unit/3/test\n- button \"Lesson\":\n  - button \"Lesson\"\n- button \"宝箱\" [disabled]:\n  - img\n- button \"Practice\":\n  - button \"Practice\"\n- button \"复习该部分\":\n  - button \"复习该部分\"\n- paragraph: 下一级\n- heading \"第 2 阶段\" [level=2]\n- paragraph: 学会日常交流中基础的单词、短语和语法概念\n- button \"跳级到这儿？\"",
+  "assets": [
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/70a4be81077a8037698067f583816ff9.svg",
+      "box": [
+        32,
+        32,
+        128,
+        30
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/0cecd302cf0bcd0f73d51768feff75fe.svg",
+      "box": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/784035717e2ff1d448c0f6cc4efc89fb.svg",
+      "box": [
+        32,
+        102,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/3b4928101472fce4e9edac920c1b3817.svg",
+      "box": [
+        32,
+        162,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/ca9178510134b4b0893dbac30b6670aa.svg",
+      "box": [
+        32,
+        222,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7ef36bae3f9d68fc763d3451b5167836.svg",
+      "box": [
+        32,
+        282,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/0e58a94dda219766d98c7796b910beee.svg",
+      "box": [
+        32,
+        342,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/24e0dcdc06870ead47b3600f0d41eb5b.svg",
+      "box": [
+        32,
+        402,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/7159c0b5d4250a5aea4f396d53f17f0c.svg",
+      "box": [
+        32,
+        462,
+        32,
+        32
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/vendor/bbe17e16aa4a106032d8e3521eaed13e.svg",
+      "box": [
+        821,
+        34.0390625,
+        31,
+        23.9140625
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/icons/398e4298a3b39ce566050e5c041949ef.svg",
+      "box": [
+        921.84375,
+        32,
+        23.328125,
+        28
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/gems/45c14e05be9c1af1d7d0b54c6eed7eee.svg",
+      "box": [
+        1011.15625,
+        32,
+        22.3984375,
+        28
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/hearts/8fdba477c56a8eeb23f0f7e67fdec6d9.svg",
+      "box": [
+        1114,
+        32,
+        28,
+        28
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/leagues/d4280fdf64d66de7390fe84802432a53.svg",
+      "box": [
+        828,
+        168,
+        70,
+        50
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/goals/2b5a211d830a24fab92e291d50f65d1d.svg",
+      "box": [
+        828,
+        331.5,
+        60,
+        60
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/goals/33af8ba58d22f3ea21279e9a84756833.svg",
+      "box": [
+        1117,
+        358,
+        35,
+        35
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/e013fd27fc6bd1d2fea85fe707b615cd.svg",
+      "box": [
+        296,
+        68,
+        16,
+        16
+      ]
+    },
+    {
+      "alt": "指南",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/5b531828e59ae83aadb3d88e6b3a98a8.svg",
+      "box": [
+        660.3984375,
+        80,
+        24,
+        24
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/ef9c771afdb674f0ff82fae25c6a7b0a.svg",
+      "box": [
+        499,
+        230.5,
+        42,
+        34
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/ddd21f172a2db0f5ef169c09b4d3badb.svg",
+      "box": [
+        454.1171875,
+        321.3515625,
+        42,
+        34
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/b841637c196f5be786d8b8578a42ffbf.svg",
+      "box": [
+        410,
+        400.2265625,
+        80,
+        90
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/ddd21f172a2db0f5ef169c09b4d3badb.svg",
+      "box": [
+        454.1171875,
+        517.1015625,
+        42,
+        34
+      ]
+    },
+    {
+      "alt": "",
+      "src": "https://d35aaqx5ub95lt.cloudfront.net/images/path/icons/7d84afaa096ff1f1d3f8c86d6c2c9542.svg",
+      "box": [
+        499,
+        593.953125,
+        42,
+        34
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "test": "skill-path-level-0 skill-path-level-skill",
+      "label": "Lesson 2 of 4",
+      "disabled": false,
+      "rect": [
+        485,
+        219,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-1 skill-path-level-skill",
+      "label": "Lesson",
+      "disabled": false,
+      "rect": [
+        440.1171875,
+        309.8515625,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-3 skill-path-level-practice",
+      "label": "Practice",
+      "disabled": false,
+      "rect": [
+        440.1171875,
+        505.6015625,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-4 skill-path-level-unit_review",
+      "label": "复习该部分",
+      "disabled": false,
+      "rect": [
+        485,
+        582.453125,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-1 skill-path-level-skill",
+      "label": "Lesson",
+      "disabled": false,
+      "rect": [
+        529.8828125,
+        913.3046875,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-3 skill-path-level-practice",
+      "label": "Practice",
+      "disabled": false,
+      "rect": [
+        529.8828125,
+        1109.0546875,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-4 skill-path-level-unit_review",
+      "label": "复习该部分",
+      "disabled": false,
+      "rect": [
+        485,
+        1185.90625,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-1 skill-path-level-skill",
+      "label": "Lesson",
+      "disabled": false,
+      "rect": [
+        440.1171875,
+        1516.7578125,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-3 skill-path-level-practice",
+      "label": "Practice",
+      "disabled": false,
+      "rect": [
+        440.1171875,
+        1712.5078125,
+        70,
+        65
+      ]
+    },
+    {
+      "test": "skill-path-level-4 skill-path-level-unit_review",
+      "label": "复习该部分",
+      "disabled": false,
+      "rect": [
+        485,
+        1789.359375,
+        70,
+        65
+      ]
+    }
+  ],
+  "viewport": {
+    "width": 1200,
+    "height": 732
+  }
+}

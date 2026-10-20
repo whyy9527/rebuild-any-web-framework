@@ -1,0 +1,404 @@
+{
+  "unit12-l4-after-achievement": {
+    "unit12-l4-after-achievement-action-0": "settlement-secondary",
+    "unit12-l4-after-achievement-action-1": "settlement-continue",
+    "unit12-l4-after-achievement-heading-run": "settlement-title",
+    "unit12-l4-after-achievement-profile-art": "settlement-profile-art"
+  },
+  "unit12-l4-after-result": {
+    "unit12-l4-after-result-action-0": "settlement-secondary",
+    "unit12-l4-after-result-action-1": "settlement-continue"
+  },
+  "unit12-l4-fourth-popup-open": {},
+  "unit12-l4-fourth-popup": {},
+  "unit12-l4-hard-introduction": {
+    "unit12-l4-hard-introduction-action-0": "practice-quit",
+    "unit12-l4-hard-introduction-action-1": "interlude-continue"
+  },
+  "unit12-l4-home-after": {},
+  "unit12-l4-home-before": {},
+  "unit12-l4-q0-before": {
+    "unit12-l4-q0-before-action-0": "practice-quit",
+    "unit12-l4-q0-before-action-1": "option-0",
+    "unit12-l4-q0-before-action-2": "option-1",
+    "unit12-l4-q0-before-action-3": "option-2",
+    "unit12-l4-q0-before-action-4": "skip",
+    "unit12-l4-q0-before-action-5": "check"
+  },
+  "unit12-l4-q0-feedback": {
+    "unit12-l4-q0-feedback-action-0": "practice-quit",
+    "unit12-l4-q0-feedback-action-1": "option-0",
+    "unit12-l4-q0-feedback-action-2": "option-1",
+    "unit12-l4-q0-feedback-action-3": "option-2",
+    "unit12-l4-q0-feedback-action-7": "continue"
+  },
+  "unit12-l4-q1-before": {
+    "unit12-l4-q1-before-action-0": "practice-quit",
+    "unit12-l4-q1-before-action-2": "word-bank-word-0",
+    "unit12-l4-q1-before-action-3": "word-bank-word-1",
+    "unit12-l4-q1-before-action-4": "skip",
+    "unit12-l4-q1-before-action-5": "check"
+  },
+  "unit12-l4-q1-feedback": {
+    "unit12-l4-q1-feedback-action-0": "practice-quit",
+    "unit12-l4-q1-feedback-action-2": "selected-word-word-1",
+    "unit12-l4-q1-feedback-action-3": "word-bank-word-0",
+    "unit12-l4-q1-feedback-action-4": "word-bank-word-1",
+    "unit12-l4-q1-feedback-action-8": "continue"
+  },
+  "unit12-l4-q10-before": {
+    "unit12-l4-q10-before-action-0": "practice-quit",
+    "unit12-l4-q10-before-action-2": "speech-record",
+    "unit12-l4-q10-before-action-3": "speech-decline",
+    "unit12-l4-q10-before-action-4": "check"
+  },
+  "unit12-l4-q10-closed": {
+    "unit12-l4-q10-closed-action-0": "practice-quit",
+    "unit12-l4-q10-closed-action-2": "speech-record",
+    "unit12-l4-q10-closed-action-6": "speech-continue"
+  },
+  "unit12-l4-q11-before": {
+    "unit12-l4-q11-before-action-0": "practice-quit",
+    "unit12-l4-q11-before-action-2": "word-bank-word-0",
+    "unit12-l4-q11-before-action-3": "word-bank-word-1",
+    "unit12-l4-q11-before-action-4": "word-bank-word-2",
+    "unit12-l4-q11-before-action-5": "word-bank-word-3",
+    "unit12-l4-q11-before-action-6": "skip",
+    "unit12-l4-q11-before-action-7": "check"
+  },
+  "unit12-l4-q11-feedback": {
+    "unit12-l4-q11-feedback-action-0": "practice-quit",
+    "unit12-l4-q11-feedback-action-2": "selected-word-word-2",
+    "unit12-l4-q11-feedback-action-3": "selected-word-word-3",
+    "unit12-l4-q11-feedback-action-4": "selected-word-word-1",
+    "unit12-l4-q11-feedback-action-5": "word-bank-word-0",
+    "unit12-l4-q11-feedback-action-6": "word-bank-word-1",
+    "unit12-l4-q11-feedback-action-7": "word-bank-word-2",
+    "unit12-l4-q11-feedback-action-8": "word-bank-word-3",
+    "unit12-l4-q11-feedback-action-12": "continue"
+  },
+  "unit12-l4-q12-before": {
+    "unit12-l4-q12-before-action-0": "practice-quit",
+    "unit12-l4-q12-before-action-2": "word-bank-word-0",
+    "unit12-l4-q12-before-action-3": "word-bank-word-1",
+    "unit12-l4-q12-before-action-4": "word-bank-word-2",
+    "unit12-l4-q12-before-action-5": "skip",
+    "unit12-l4-q12-before-action-6": "check",
+    "unit12-l4-q12-before-heading-run": "question-title",
+    "unit12-l4-q12-before-character-canvas": "question-character"
+  },
+  "unit12-l4-q12-feedback": {
+    "unit12-l4-q12-feedback-action-0": "practice-quit",
+    "unit12-l4-q12-feedback-action-2": "selected-word-word-0",
+    "unit12-l4-q12-feedback-action-3": "selected-word-word-2",
+    "unit12-l4-q12-feedback-action-4": "word-bank-word-0",
+    "unit12-l4-q12-feedback-action-5": "word-bank-word-1",
+    "unit12-l4-q12-feedback-action-6": "word-bank-word-2",
+    "unit12-l4-q12-feedback-action-10": "continue",
+    "unit12-l4-q12-feedback-heading-run": "question-title",
+    "unit12-l4-q12-feedback-character-canvas": "question-character"
+  },
+  "unit12-l4-q13-before": {
+    "unit12-l4-q13-before-action-0": "practice-quit",
+    "unit12-l4-q13-before-action-2": "word-bank-word-0",
+    "unit12-l4-q13-before-action-3": "word-bank-word-1",
+    "unit12-l4-q13-before-action-4": "word-bank-word-2",
+    "unit12-l4-q13-before-action-5": "word-bank-word-3",
+    "unit12-l4-q13-before-action-6": "skip",
+    "unit12-l4-q13-before-action-7": "check"
+  },
+  "unit12-l4-q13-feedback": {
+    "unit12-l4-q13-feedback-action-0": "practice-quit",
+    "unit12-l4-q13-feedback-action-2": "selected-word-word-0",
+    "unit12-l4-q13-feedback-action-3": "selected-word-word-3",
+    "unit12-l4-q13-feedback-action-4": "selected-word-word-1",
+    "unit12-l4-q13-feedback-action-5": "word-bank-word-0",
+    "unit12-l4-q13-feedback-action-6": "word-bank-word-1",
+    "unit12-l4-q13-feedback-action-7": "word-bank-word-2",
+    "unit12-l4-q13-feedback-action-8": "word-bank-word-3",
+    "unit12-l4-q13-feedback-action-12": "continue"
+  },
+  "unit12-l4-q14-before": {
+    "unit12-l4-q14-before-action-0": "practice-quit",
+    "unit12-l4-q14-before-action-3": "word-bank-word-0",
+    "unit12-l4-q14-before-action-4": "word-bank-word-1",
+    "unit12-l4-q14-before-action-5": "word-bank-word-2",
+    "unit12-l4-q14-before-action-6": "skip",
+    "unit12-l4-q14-before-action-7": "toggle-input-mode",
+    "unit12-l4-q14-before-action-8": "check"
+  },
+  "unit12-l4-q14-feedback": {
+    "unit12-l4-q14-feedback-action-0": "practice-quit",
+    "unit12-l4-q14-feedback-action-6": "continue",
+    "unit12-l4-q14-feedback-textarea-0": "answer-input"
+  },
+  "unit12-l4-q14-keyboard-filled": {
+    "unit12-l4-q14-keyboard-filled-action-0": "practice-quit",
+    "unit12-l4-q14-keyboard-filled-action-3": "skip",
+    "unit12-l4-q14-keyboard-filled-action-4": "toggle-input-mode",
+    "unit12-l4-q14-keyboard-filled-action-5": "check",
+    "unit12-l4-q14-keyboard-filled-textarea-0": "answer-input"
+  },
+  "unit12-l4-q14-keyboard": {
+    "unit12-l4-q14-keyboard-action-0": "practice-quit",
+    "unit12-l4-q14-keyboard-action-3": "skip",
+    "unit12-l4-q14-keyboard-action-4": "toggle-input-mode",
+    "unit12-l4-q14-keyboard-action-5": "check",
+    "unit12-l4-q14-keyboard-textarea-0": "answer-input"
+  },
+  "unit12-l4-q15-before": {
+    "unit12-l4-q15-before-action-0": "practice-quit",
+    "unit12-l4-q15-before-action-1": "skip",
+    "unit12-l4-q15-before-action-2": "toggle-input-mode",
+    "unit12-l4-q15-before-action-3": "check",
+    "unit12-l4-q15-before-textarea-0": "answer-input"
+  },
+  "unit12-l4-q15-feedback": {
+    "unit12-l4-q15-feedback-action-0": "practice-quit",
+    "unit12-l4-q15-feedback-action-1": "selected-word-word-4",
+    "unit12-l4-q15-feedback-action-2": "selected-word-word-5",
+    "unit12-l4-q15-feedback-action-3": "selected-word-word-7",
+    "unit12-l4-q15-feedback-action-4": "selected-word-word-0",
+    "unit12-l4-q15-feedback-action-5": "selected-word-word-6",
+    "unit12-l4-q15-feedback-action-6": "selected-word-word-2",
+    "unit12-l4-q15-feedback-action-7": "selected-word-word-3",
+    "unit12-l4-q15-feedback-action-8": "word-bank-word-0",
+    "unit12-l4-q15-feedback-action-9": "word-bank-word-1",
+    "unit12-l4-q15-feedback-action-10": "word-bank-word-2",
+    "unit12-l4-q15-feedback-action-11": "word-bank-word-3",
+    "unit12-l4-q15-feedback-action-12": "word-bank-word-4",
+    "unit12-l4-q15-feedback-action-13": "word-bank-word-5",
+    "unit12-l4-q15-feedback-action-14": "word-bank-word-6",
+    "unit12-l4-q15-feedback-action-15": "word-bank-word-7",
+    "unit12-l4-q15-feedback-action-19": "continue"
+  },
+  "unit12-l4-q15-wordbank": {
+    "unit12-l4-q15-wordbank-action-0": "practice-quit",
+    "unit12-l4-q15-wordbank-action-1": "word-bank-word-0",
+    "unit12-l4-q15-wordbank-action-2": "word-bank-word-1",
+    "unit12-l4-q15-wordbank-action-3": "word-bank-word-2",
+    "unit12-l4-q15-wordbank-action-4": "word-bank-word-3",
+    "unit12-l4-q15-wordbank-action-5": "word-bank-word-4",
+    "unit12-l4-q15-wordbank-action-6": "word-bank-word-5",
+    "unit12-l4-q15-wordbank-action-7": "word-bank-word-6",
+    "unit12-l4-q15-wordbank-action-8": "word-bank-word-7",
+    "unit12-l4-q15-wordbank-action-9": "skip",
+    "unit12-l4-q15-wordbank-action-10": "toggle-input-mode",
+    "unit12-l4-q15-wordbank-action-11": "check"
+  },
+  "unit12-l4-q16-before": {
+    "unit12-l4-q16-before-action-0": "practice-quit",
+    "unit12-l4-q16-before-action-1": "word-bank-word-0",
+    "unit12-l4-q16-before-action-2": "word-bank-word-1",
+    "unit12-l4-q16-before-action-3": "word-bank-word-2",
+    "unit12-l4-q16-before-action-4": "word-bank-word-3",
+    "unit12-l4-q16-before-action-5": "word-bank-word-4",
+    "unit12-l4-q16-before-action-6": "word-bank-word-5",
+    "unit12-l4-q16-before-action-7": "word-bank-word-6",
+    "unit12-l4-q16-before-action-8": "skip",
+    "unit12-l4-q16-before-action-9": "toggle-input-mode",
+    "unit12-l4-q16-before-action-10": "check"
+  },
+  "unit12-l4-q16-feedback": {
+    "unit12-l4-q16-feedback-action-0": "practice-quit",
+    "unit12-l4-q16-feedback-action-1": "selected-word-word-2",
+    "unit12-l4-q16-feedback-action-2": "selected-word-word-6",
+    "unit12-l4-q16-feedback-action-3": "selected-word-word-0",
+    "unit12-l4-q16-feedback-action-4": "selected-word-word-5",
+    "unit12-l4-q16-feedback-action-5": "selected-word-word-4",
+    "unit12-l4-q16-feedback-action-6": "selected-word-word-1",
+    "unit12-l4-q16-feedback-action-7": "word-bank-word-0",
+    "unit12-l4-q16-feedback-action-8": "word-bank-word-1",
+    "unit12-l4-q16-feedback-action-9": "word-bank-word-2",
+    "unit12-l4-q16-feedback-action-10": "word-bank-word-3",
+    "unit12-l4-q16-feedback-action-11": "word-bank-word-4",
+    "unit12-l4-q16-feedback-action-12": "word-bank-word-5",
+    "unit12-l4-q16-feedback-action-13": "word-bank-word-6",
+    "unit12-l4-q16-feedback-action-17": "continue"
+  },
+  "unit12-l4-q17-before": {
+    "unit12-l4-q17-before-action-0": "practice-quit",
+    "unit12-l4-q17-before-action-1": "word-bank-word-0",
+    "unit12-l4-q17-before-action-2": "word-bank-word-1",
+    "unit12-l4-q17-before-action-3": "word-bank-word-2",
+    "unit12-l4-q17-before-action-4": "word-bank-word-3",
+    "unit12-l4-q17-before-action-5": "word-bank-word-4",
+    "unit12-l4-q17-before-action-6": "word-bank-word-5",
+    "unit12-l4-q17-before-action-7": "skip",
+    "unit12-l4-q17-before-action-8": "toggle-input-mode",
+    "unit12-l4-q17-before-action-9": "check"
+  },
+  "unit12-l4-q17-feedback": {
+    "unit12-l4-q17-feedback-action-0": "practice-quit",
+    "unit12-l4-q17-feedback-action-1": "selected-word-word-0",
+    "unit12-l4-q17-feedback-action-2": "selected-word-word-2",
+    "unit12-l4-q17-feedback-action-3": "selected-word-word-5",
+    "unit12-l4-q17-feedback-action-4": "selected-word-word-3",
+    "unit12-l4-q17-feedback-action-5": "selected-word-word-1",
+    "unit12-l4-q17-feedback-action-6": "word-bank-word-0",
+    "unit12-l4-q17-feedback-action-7": "word-bank-word-1",
+    "unit12-l4-q17-feedback-action-8": "word-bank-word-2",
+    "unit12-l4-q17-feedback-action-9": "word-bank-word-3",
+    "unit12-l4-q17-feedback-action-10": "word-bank-word-4",
+    "unit12-l4-q17-feedback-action-11": "word-bank-word-5",
+    "unit12-l4-q17-feedback-action-15": "continue"
+  },
+  "unit12-l4-q2-before": {
+    "unit12-l4-q2-before-action-0": "practice-quit",
+    "unit12-l4-q2-before-action-1": "option-0",
+    "unit12-l4-q2-before-action-2": "option-1",
+    "unit12-l4-q2-before-action-3": "option-2",
+    "unit12-l4-q2-before-action-4": "skip",
+    "unit12-l4-q2-before-action-5": "check"
+  },
+  "unit12-l4-q2-feedback": {
+    "unit12-l4-q2-feedback-action-0": "practice-quit",
+    "unit12-l4-q2-feedback-action-1": "option-0",
+    "unit12-l4-q2-feedback-action-2": "option-1",
+    "unit12-l4-q2-feedback-action-3": "option-2",
+    "unit12-l4-q2-feedback-action-7": "continue"
+  },
+  "unit12-l4-q3-before": {
+    "unit12-l4-q3-before-action-0": "practice-quit",
+    "unit12-l4-q3-before-action-1": "word-bank-word-0",
+    "unit12-l4-q3-before-action-2": "word-bank-word-1",
+    "unit12-l4-q3-before-action-3": "skip",
+    "unit12-l4-q3-before-action-4": "check"
+  },
+  "unit12-l4-q3-feedback": {
+    "unit12-l4-q3-feedback-action-0": "practice-quit",
+    "unit12-l4-q3-feedback-action-1": "selected-word-word-0",
+    "unit12-l4-q3-feedback-action-2": "word-bank-word-0",
+    "unit12-l4-q3-feedback-action-3": "word-bank-word-1",
+    "unit12-l4-q3-feedback-action-7": "continue"
+  },
+  "unit12-l4-q4-before": {
+    "unit12-l4-q4-before-action-0": "practice-quit",
+    "unit12-l4-q4-before-action-2": "word-bank-word-0",
+    "unit12-l4-q4-before-action-3": "word-bank-word-1",
+    "unit12-l4-q4-before-action-4": "word-bank-word-2",
+    "unit12-l4-q4-before-action-5": "word-bank-word-3",
+    "unit12-l4-q4-before-action-6": "word-bank-word-4",
+    "unit12-l4-q4-before-action-7": "skip",
+    "unit12-l4-q4-before-action-8": "check"
+  },
+  "unit12-l4-q4-feedback": {
+    "unit12-l4-q4-feedback-action-0": "practice-quit",
+    "unit12-l4-q4-feedback-action-2": "selected-word-word-3",
+    "unit12-l4-q4-feedback-action-3": "selected-word-word-1",
+    "unit12-l4-q4-feedback-action-4": "selected-word-word-4",
+    "unit12-l4-q4-feedback-action-5": "selected-word-word-2",
+    "unit12-l4-q4-feedback-action-6": "word-bank-word-0",
+    "unit12-l4-q4-feedback-action-7": "word-bank-word-1",
+    "unit12-l4-q4-feedback-action-8": "word-bank-word-2",
+    "unit12-l4-q4-feedback-action-9": "word-bank-word-3",
+    "unit12-l4-q4-feedback-action-10": "word-bank-word-4",
+    "unit12-l4-q4-feedback-action-14": "continue"
+  },
+  "unit12-l4-q5-before": {
+    "unit12-l4-q5-before-action-0": "practice-quit",
+    "unit12-l4-q5-before-action-1": "word-bank-word-0",
+    "unit12-l4-q5-before-action-2": "word-bank-word-1",
+    "unit12-l4-q5-before-action-3": "word-bank-word-2",
+    "unit12-l4-q5-before-action-4": "word-bank-word-3",
+    "unit12-l4-q5-before-action-5": "skip",
+    "unit12-l4-q5-before-action-6": "check"
+  },
+  "unit12-l4-q5-feedback": {
+    "unit12-l4-q5-feedback-action-0": "practice-quit",
+    "unit12-l4-q5-feedback-action-1": "selected-word-word-2",
+    "unit12-l4-q5-feedback-action-2": "word-bank-word-0",
+    "unit12-l4-q5-feedback-action-3": "word-bank-word-1",
+    "unit12-l4-q5-feedback-action-4": "word-bank-word-2",
+    "unit12-l4-q5-feedback-action-5": "word-bank-word-3",
+    "unit12-l4-q5-feedback-action-9": "continue"
+  },
+  "unit12-l4-q6-before": {
+    "unit12-l4-q6-before-action-0": "practice-quit",
+    "unit12-l4-q6-before-action-2": "word-bank-word-0",
+    "unit12-l4-q6-before-action-3": "word-bank-word-1",
+    "unit12-l4-q6-before-action-4": "word-bank-word-2",
+    "unit12-l4-q6-before-action-5": "word-bank-word-3",
+    "unit12-l4-q6-before-action-6": "word-bank-word-4",
+    "unit12-l4-q6-before-action-7": "skip",
+    "unit12-l4-q6-before-action-8": "check",
+    "unit12-l4-q6-before-heading-run": "question-title",
+    "unit12-l4-q6-before-character-canvas": "question-character"
+  },
+  "unit12-l4-q6-feedback": {
+    "unit12-l4-q6-feedback-action-0": "practice-quit",
+    "unit12-l4-q6-feedback-action-2": "selected-word-word-3",
+    "unit12-l4-q6-feedback-action-3": "selected-word-word-0",
+    "unit12-l4-q6-feedback-action-4": "selected-word-word-1",
+    "unit12-l4-q6-feedback-action-5": "selected-word-word-4",
+    "unit12-l4-q6-feedback-action-6": "word-bank-word-0",
+    "unit12-l4-q6-feedback-action-7": "word-bank-word-1",
+    "unit12-l4-q6-feedback-action-8": "word-bank-word-2",
+    "unit12-l4-q6-feedback-action-9": "word-bank-word-3",
+    "unit12-l4-q6-feedback-action-10": "word-bank-word-4",
+    "unit12-l4-q6-feedback-action-14": "continue"
+  },
+  "unit12-l4-q7-before": {
+    "unit12-l4-q7-before-action-0": "practice-quit",
+    "unit12-l4-q7-before-action-1": "option-0",
+    "unit12-l4-q7-before-action-2": "option-1",
+    "unit12-l4-q7-before-action-3": "option-2",
+    "unit12-l4-q7-before-action-4": "skip",
+    "unit12-l4-q7-before-action-5": "check"
+  },
+  "unit12-l4-q7-feedback": {
+    "unit12-l4-q7-feedback-action-0": "practice-quit",
+    "unit12-l4-q7-feedback-action-1": "option-0",
+    "unit12-l4-q7-feedback-action-2": "option-1",
+    "unit12-l4-q7-feedback-action-3": "option-2",
+    "unit12-l4-q7-feedback-action-7": "continue"
+  },
+  "unit12-l4-q8-before": {
+    "unit12-l4-q8-before-action-0": "practice-quit",
+    "unit12-l4-q8-before-action-2": "word-bank-word-0",
+    "unit12-l4-q8-before-action-3": "word-bank-word-1",
+    "unit12-l4-q8-before-action-4": "word-bank-word-2",
+    "unit12-l4-q8-before-action-5": "word-bank-word-3",
+    "unit12-l4-q8-before-action-6": "word-bank-word-4",
+    "unit12-l4-q8-before-action-7": "skip",
+    "unit12-l4-q8-before-action-8": "check"
+  },
+  "unit12-l4-q8-feedback": {
+    "unit12-l4-q8-feedback-action-0": "practice-quit",
+    "unit12-l4-q8-feedback-action-2": "selected-word-word-0",
+    "unit12-l4-q8-feedback-action-3": "selected-word-word-2",
+    "unit12-l4-q8-feedback-action-4": "selected-word-word-1",
+    "unit12-l4-q8-feedback-action-5": "selected-word-word-4",
+    "unit12-l4-q8-feedback-action-6": "word-bank-word-0",
+    "unit12-l4-q8-feedback-action-7": "word-bank-word-1",
+    "unit12-l4-q8-feedback-action-8": "word-bank-word-2",
+    "unit12-l4-q8-feedback-action-9": "word-bank-word-3",
+    "unit12-l4-q8-feedback-action-10": "word-bank-word-4",
+    "unit12-l4-q8-feedback-action-14": "continue"
+  },
+  "unit12-l4-q9-before": {
+    "unit12-l4-q9-before-action-0": "practice-quit",
+    "unit12-l4-q9-before-action-1": "option-0",
+    "unit12-l4-q9-before-action-2": "option-1",
+    "unit12-l4-q9-before-action-3": "option-2",
+    "unit12-l4-q9-before-action-4": "skip",
+    "unit12-l4-q9-before-action-5": "check"
+  },
+  "unit12-l4-q9-feedback": {
+    "unit12-l4-q9-feedback-action-0": "practice-quit",
+    "unit12-l4-q9-feedback-action-1": "option-0",
+    "unit12-l4-q9-feedback-action-2": "option-1",
+    "unit12-l4-q9-feedback-action-3": "option-2",
+    "unit12-l4-q9-feedback-action-7": "continue"
+  },
+  "unit12-l4-settlement-current": {
+    "unit12-l4-settlement-current-action-0": "settlement-secondary",
+    "unit12-l4-settlement-current-action-1": "settlement-continue"
+  },
+  "unit12-l4-settlement-review": {
+    "unit12-l4-settlement-review-action-1": "continue"
+  },
+  "unit12-l4-radio-after-fourth-view": {},
+  "unit12-l4-radio-stable-after-helper": {},
+  "unit12-l4-home-after-fixed": {}
+}

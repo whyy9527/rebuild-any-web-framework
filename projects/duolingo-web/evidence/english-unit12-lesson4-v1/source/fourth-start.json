@@ -1,0 +1,4 @@
+{
+  "snapshot": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"5\"\n- img\n- text: 新单词\n- heading \"哪个是“食物”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"food 1\":\n    - text: food 1\n    - img\n    - img\n  - radio \"living room 2\":\n    - text: living room 2\n    - img\n    - img\n  - radio \"Japan 3\":\n    - text: Japan 3\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "played": []
+}

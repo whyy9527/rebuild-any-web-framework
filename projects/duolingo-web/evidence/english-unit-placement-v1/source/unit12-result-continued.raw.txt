@@ -1,0 +1,13 @@
+### Result
+"- img\n- text: 10 离提升你的英语分数又近了一步！ 10\n- progressbar\n- text: \"11\"\n- button \"继续\""
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"继续",exact:true}).click();return await page.locator("body").ariaSnapshot();})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson/unit/12/test)
+### Page
+- Page URL: https://www.duolingo.com/lesson/unit/12/test
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 44 errors, 0 warnings

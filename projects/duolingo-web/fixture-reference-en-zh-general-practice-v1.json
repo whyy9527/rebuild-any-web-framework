@@ -1,0 +1,553 @@
+{
+  "provenance": {
+    "source": "Actual GLOBAL_PRACTICE 16 graded, speech-decline insertion, challenge replacements, one wrong and review, result and heart reward",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-general-practice-v1/README.md",
+      "projects/duolingo-web/evidence/english-general-practice-native-v1/source-probe/wrong-assist-exit.json"
+    ],
+    "unknown": "Adaptive selection, normal oral, new instances, general reward cap/score rules, full pixels and actual acoustic equality; original SVGs for visually identified inserted/replacement characters are not proof of exact animation frames."
+  },
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-en-zh-global-practice",
+      "title": "英语练习",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "mistakeHeartCost": 0,
+      "lessons": [
+        {
+          "id": "general-practice-1",
+          "title": "英语练习",
+          "questions": [
+            {
+              "id": "general-practice-q0",
+              "prompt": "选择配对",
+              "sourceType": "listenMatch",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "kind": "matching",
+              "pairs": [
+                {
+                  "id": "0",
+                  "left": "1",
+                  "right": "你好",
+                  "audioResource": "en-speech-175251e533d17144cadd.mp3"
+                },
+                {
+                  "id": "1",
+                  "left": "2",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "2",
+                  "left": "3",
+                  "right": "热",
+                  "audioResource": "en-speech-81635783a3ad9a682e95.mp3"
+                },
+                {
+                  "id": "3",
+                  "left": "4",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                }
+              ],
+              "rightOrder": [
+                "2",
+                "1",
+                "3",
+                "0"
+              ],
+              "matchedAudioResources": [
+                "en-effect-e58462905b34f2734748.mp3",
+                "en-effect-f18eab5d6c71711eeb8a.mp3",
+                "en-effect-8a0a20e6f59bd0bc08c1.mp3",
+                "en-effect-a50a8c2310b6756b1abd.mp3"
+              ],
+              "listeningDecline": {
+                "label": "现在不做听力题",
+                "title": "听力练习已关闭",
+                "body": "将在 15 分钟后恢复"
+              },
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3"
+            },
+            {
+              "id": "general-practice-q1",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "choice",
+              "hint": "热",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "welcome"
+                },
+                {
+                  "id": "1",
+                  "text": "hot",
+                  "audioResource": "en-speech-7844b90f53b2e2f8c7e3.mp3"
+                },
+                {
+                  "id": "2",
+                  "text": "coffee"
+                }
+              ],
+              "answer": "1",
+              "incorrectFeedbackAudioResource": "en-effect-a44cfc86705b56e70cd1.mp3",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "general-practice-q2",
+              "prompt": "选择配对",
+              "sourceType": "listenMatch",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "kind": "matching",
+              "pairs": [
+                {
+                  "id": "0",
+                  "left": "1",
+                  "right": "咖啡",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                },
+                {
+                  "id": "1",
+                  "left": "2",
+                  "right": "热",
+                  "audioResource": "en-speech-8a0d9ca5f303c427a11e.mp3"
+                },
+                {
+                  "id": "2",
+                  "left": "3",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "3",
+                  "left": "4",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                }
+              ],
+              "rightOrder": [
+                "1",
+                "0",
+                "2",
+                "3"
+              ],
+              "matchedAudioResources": [
+                "en-effect-e58462905b34f2734748.mp3",
+                "en-effect-f18eab5d6c71711eeb8a.mp3",
+                "en-effect-8a0a20e6f59bd0bc08c1.mp3",
+                "en-effect-a50a8c2310b6756b1abd.mp3"
+              ],
+              "listeningDecline": {
+                "label": "现在不做听力题",
+                "title": "听力练习已关闭",
+                "body": "将在 15 分钟后恢复"
+              },
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3"
+            },
+            {
+              "id": "general-practice-q3",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "choice",
+              "hint": "你好",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "good morning"
+                },
+                {
+                  "id": "1",
+                  "text": "hot"
+                },
+                {
+                  "id": "2",
+                  "text": "hello",
+                  "audioResource": "en-speech-c3ebd55b34b69e1603fb.mp3"
+                }
+              ],
+              "answer": "2",
+              "incorrectFeedbackAudioResource": "en-effect-a44cfc86705b56e70cd1.mp3",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "general-practice-q4",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "audioResource": "en-speech-dbd38a164a5a40601b18.mp3",
+              "characterResource": "en-image-19d527c8f3f0c4af501f",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-1",
+                  "text": "糖"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "hint": "Thank you.",
+              "sourceLanguage": "en",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "general-practice-q5",
+              "prompt": "选择音频填空",
+              "sourceType": "listenIsolation",
+              "explanation": "意思是： 不要冰，谢谢。",
+              "correctFeedback": "正确！",
+              "audioResource": "en-speech-c0f82c04c7b53cac1881.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "choice",
+              "hint": "No __, please.",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "1",
+                  "audioResource": "en-speech-7a674c6380f6e9f0bb22.mp3",
+                  "imageResource": "en-seventh-isolation-wave-1"
+                },
+                {
+                  "id": "1",
+                  "text": "2",
+                  "audioResource": "en-speech-826663acdf1f5adb325f.mp3",
+                  "imageResource": "en-seventh-isolation-wave-2"
+                }
+              ],
+              "answer": "1",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3"
+            },
+            {
+              "id": "general-practice-q6",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "audioResource": "en-speech-2c4c7618d3e341e07e28.mp3",
+              "slowAudioResource": "en-speech-1d353cc7f6fcc180adf1.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "Hello",
+                  "audioResource": "en-speech-175251e533d17144cadd.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "good",
+                  "audioResource": "en-speech-48e9e4705a8dfc1b346f.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "ice",
+                  "audioResource": "en-speech-6d94cf7ed17fde8eab2b.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "morning",
+                  "audioResource": "en-speech-6517641c672dd5912b51.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1",
+                "word-3"
+              ],
+              "keyboardAnswer": "Hello, good morning!",
+              "keyboardPrompt": "键入你听到的内容"
+            },
+            {
+              "id": "general-practice-inserted",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "Tea, please.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "谢谢你"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-2",
+                  "text": "茶"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-1"
+              ],
+              "explanation": "",
+              "correctFeedback": "你太棒了！",
+              "audioResource": "en-speech-37cab590c42bbc0895f9.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "general-practice-q8",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "audioResource": "en-speech-1aa8208b0723f12cbb48.mp3",
+              "slowAudioResource": "en-speech-84d5fd6595373e47f5b0.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "or",
+                  "audioResource": "en-speech-278f44acd9dc9ac6e054.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "Hot",
+                  "audioResource": "en-speech-8a0d9ca5f303c427a11e.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "i'd like",
+                  "audioResource": "en-speech-35d4a73cac0cf2330958.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "coffee",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2",
+                "word-0",
+                "word-4"
+              ],
+              "keyboardAnswer": "Hot tea or coffee?",
+              "keyboardPrompt": "键入你听到的内容",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3"
+            },
+            {
+              "id": "general-practice-q9",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "I'd",
+                  "audioResource": "en-speech-1def2ff9d4d8ffd9badc.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "like",
+                  "audioResource": "en-speech-11333aa78585922c6d62.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "coffee",
+                  "audioResource": "en-speech-c5659ae41d278d110bc2.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "and",
+                  "audioResource": "en-speech-48570e880abf86c4b344.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "water",
+                  "audioResource": "en-speech-1428070f928b311c8112.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "thank you",
+                  "audioResource": "en-speech-50e2c1a127dd595c4e9e.mp3"
+                },
+                {
+                  "id": "word-6",
+                  "text": "please",
+                  "audioResource": "en-speech-659aafd23d801ccc0eb9.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1",
+                "word-4",
+                "word-3",
+                "word-2",
+                "word-6"
+              ],
+              "hint": "我想要水和咖啡，谢谢。",
+              "sourceLanguage": "zh",
+              "keyboardAnswer": "I'd like water and coffee, please.",
+              "keyboardPrompt": "用英语写出这句话",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "general-practice-q10",
+              "prompt": "输入所缺单词",
+              "sourceType": "listenComplete",
+              "explanation": "意思是： 茶还是咖啡？",
+              "correctFeedback": "泰裤辣！",
+              "audioResource": "en-speech-d72470a1af80f775a193.mp3",
+              "slowAudioResource": "en-speech-70fbd755922d8d241368.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "text_entry",
+              "answer": "Tea",
+              "completionPrefix": "",
+              "completionSuffix": " or coffee?"
+            },
+            {
+              "id": "general-practice-q11",
+              "prompt": "键入你听到的内容",
+              "sourceType": "listen",
+              "explanation": "",
+              "correctFeedback": "真厉害！",
+              "audioResource": "en-speech-0f41bc83d69e086fd1ef.mp3",
+              "slowAudioResource": "en-speech-bea2dfd6230029ed148b.mp3",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "kind": "text_entry",
+              "answer": "Coffee or tea?"
+            },
+            {
+              "id": "general-practice-q12",
+              "prompt": "输入所缺单词",
+              "sourceType": "listenComplete",
+              "explanation": "意思是： 茶和咖啡",
+              "correctFeedback": "不错哦！",
+              "audioResource": "en-speech-c82aee4567c1ee0f47d2.mp3",
+              "slowAudioResource": "en-speech-d0b8450e2e265bfc9c79.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "text_entry",
+              "answer": "and",
+              "completionPrefix": "tea ",
+              "completionSuffix": " coffee",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3"
+            },
+            {
+              "id": "general-practice-replacement13",
+              "kind": "text_entry",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "prompt": "用英语写出这句话",
+              "hint": "我想要咖啡加冰，谢谢。",
+              "answer": "I'd like coffee with ice, please.",
+              "explanation": "",
+              "correctFeedback": "正确！",
+              "indicator": "挑战题",
+              "skipLabel": "跳过",
+              "characterResource": "en-image-250713e426e55dbf7608"
+            },
+            {
+              "id": "general-practice-replacement14",
+              "kind": "text_entry",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "prompt": "用英语写出这句话",
+              "hint": "不要冰，不要水，谢谢。",
+              "answer": "No ice, no water, please.",
+              "explanation": "",
+              "correctFeedback": "其他正确答案：",
+              "indicator": "挑战题",
+              "skipLabel": "跳过",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1"
+            },
+            {
+              "id": "general-practice-replacement15",
+              "kind": "text_entry",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "prompt": "用英语写出这句话",
+              "hint": "早上好，我想要咖啡加牛奶。",
+              "answer": "Good morning, I'd like coffee with milk.",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "indicator": "挑战题",
+              "skipLabel": "跳过",
+              "characterResource": "en-image-58f00fb33fb90339eef1"
+            }
+          ],
+          "initialKeyboardForTiles": true,
+          "deferredSpeech": [
+            {
+              "id": "general-practice-speech",
+              "beforeQuestionID": "general-practice-inserted",
+              "title": "朗读下面的句子",
+              "phrase": "Tea, please.",
+              "audioResource": "en-speech-37cab590c42bbc0895f9.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复"
+            }
+          ],
+          "interludes": [
+            {
+              "id": "general-practice-challenge-intro",
+              "afterQuestionID": "general-practice-q12",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ],
+          "reviewInterlude": {
+            "id": "general-practice-review-intro",
+            "afterQuestionID": "general-practice-replacement15",
+            "text": "一起来复习一下之前你不太熟练的部分吧！"
+          },
+          "settlement": [
+            {
+              "id": "general-practice-result",
+              "kind": "result",
+              "title": "你莫不是特工？",
+              "body": "本单元中，你完成了 8 项听力挑战",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "retryLabel": "重新练习",
+              "experience": 5,
+              "observedAccuracy": 94,
+              "observedMistakes": 1,
+              "accuracyLabel": "棒棒哒！"
+            },
+            {
+              "id": "general-practice-heart",
+              "kind": "practice_heart",
+              "title": "你又获取了一颗红心！",
+              "body": "学习新单元需要红心！",
+              "continueLabel": "继续"
+            },
+            {
+              "id": "general-practice-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

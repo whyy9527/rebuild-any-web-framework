@@ -1,0 +1,549 @@
+{
+  "revision": "actual-skip-review-geometry-v2",
+  "requirements": [
+    {
+      "id": "en-zh-l7-q0-text-0",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "2",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-1",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-2",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "谢谢你",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-3",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "和",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-4",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "茶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-5",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-6",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-text-7",
+      "state": "en-zh-l7-q0",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-pixels",
+      "state": "en-zh-l7-q0",
+      "kind": "pending",
+      "description": "Actual pixels equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-actual-audio",
+      "state": "en-zh-l7-q0",
+      "kind": "pending",
+      "description": "Actual actual-audio equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-0",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "2",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-1",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-2",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "谢谢你",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-3",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "和",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-4",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "茶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-5",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-6",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "正确答案：",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-7",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "茶和咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-8",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-9",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-10",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-text-11",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-pixels",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "pending",
+      "description": "Actual pixels equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-actual-audio",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "pending",
+      "description": "Actual actual-audio equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-0",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "3",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-1",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "错题重练",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-2",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-3",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "和",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-4",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "茶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-5",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-6",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "谢谢你",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-7",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "跳过",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-8",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "检查",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-text-9",
+      "state": "en-zh-l7-review-q0",
+      "kind": "accessible_text",
+      "text": "tea and coffee",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-pixels",
+      "state": "en-zh-l7-review-q0",
+      "kind": "pending",
+      "description": "Actual pixels equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-actual-audio",
+      "state": "en-zh-l7-review-q0",
+      "kind": "pending",
+      "description": "Actual actual-audio equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-0",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "连对 15 题",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-1",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "3",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-2",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "错题重练",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-3",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "用中文（简体）写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-4",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "和",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-5",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "茶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-6",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "咖啡",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-7",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "谢谢你",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-8",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "真厉害！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-9",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "太简单",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-10",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "太难",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-11",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "报错",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-text-12",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-pixels",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "pending",
+      "description": "Actual pixels equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-q0-feedback-actual-audio",
+      "state": "en-zh-l7-review-q0-feedback",
+      "kind": "pending",
+      "description": "Actual actual-audio equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-intro-text-0",
+      "state": "en-zh-l7-review-intro",
+      "kind": "accessible_text",
+      "text": "3",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-intro.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-intro-text-1",
+      "state": "en-zh-l7-review-intro",
+      "kind": "accessible_text",
+      "text": "一起来复习一下之前你不太熟练的部分吧！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-intro.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-intro-text-2",
+      "state": "en-zh-l7-review-intro",
+      "kind": "accessible_text",
+      "text": "继续",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-intro.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-intro-pixels",
+      "state": "en-zh-l7-review-intro",
+      "kind": "pending",
+      "description": "Actual pixels equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-intro.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-review-intro-actual-audio",
+      "state": "en-zh-l7-review-intro",
+      "kind": "pending",
+      "description": "Actual actual-audio equivalence not verified for this source state",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-intro.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-hearts_unchanged",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "interaction_boolean",
+      "field": "hearts_unchanged",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json",
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json",
+        "projects/duolingo-web/evidence/english-seventh-v1/settlement-visual.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skipped-original_question_reviewed",
+      "state": "en-zh-l7-q0-skipped",
+      "kind": "interaction_boolean",
+      "field": "original_question_reviewed",
+      "expected": true,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-q0-skipped.json",
+        "projects/duolingo-web/evidence/english-seventh-v1/seventh-review-q0-answer.json",
+        "projects/duolingo-web/evidence/english-seventh-v1/settlement-visual.json"
+      ]
+    },
+    {
+      "id": "en-zh-l7-q0-skip-geometry",
+      "state": "en-zh-l7-q0",
+      "kind": "element_geometry",
+      "element": "skip",
+      "rect": [
+        140,
+        639,
+        150,
+        50
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-secondary-actions-v1/secondary-reset-q0.json"
+      ]
+    }
+  ]
+}

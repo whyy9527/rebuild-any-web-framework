@@ -1,0 +1,15 @@
+### Result
+{"path":"/lesson","snapshot":"- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- img\n- text: 新单词\n- heading \"哪个是“客厅”呢？\" [level=1]\n- radiogroup \"choice\":\n  - radio \"living room 1\":\n    - text: living room 1\n    - img\n    - img\n  - radio \"ice 2\":\n    - text: ice 2\n    - img\n    - img\n  - radio \"water 3\":\n    - text: water 3\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]"}
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole('link',{name:'开始 +10 经验',exact:true}).click({timeout:10000});await page.locator('[data-test~=challenge]').waitFor({timeout:15000});return {path:new URL(page.url()).pathname,snapshot:await page.locator('body').ariaSnapshot()}})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+### Page
+- Page URL: https://www.duolingo.com/lesson
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 56 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T19-01-01-875Z.log#L131-L133

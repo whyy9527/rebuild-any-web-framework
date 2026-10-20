@@ -1,0 +1,28 @@
+{
+  "journeys": [
+    {
+      "id": "profile",
+      "native_action": "nav-profile",
+      "native_return": "registration-back",
+      "operation": "click"
+    },
+    {
+      "id": "login",
+      "native_action": "sign-in",
+      "native_return": "login-close",
+      "operation": "click"
+    },
+    {
+      "id": "shop",
+      "native_action": "nav-shop",
+      "native_return": "nav-learn",
+      "operation": "click"
+    },
+    {
+      "id": "more",
+      "native_action": "nav-more",
+      "native_return": "nav-learn",
+      "operation": "hover"
+    }
+  ]
+}

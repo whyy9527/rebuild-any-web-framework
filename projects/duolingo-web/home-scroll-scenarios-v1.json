@@ -1,0 +1,90 @@
+{
+  "journeys": [
+    {
+      "id": "actual-shopping-guide-five-plays-scroll-return",
+      "steps": [
+        {
+          "native_action": "open-guide",
+          "state": "home-scroll-guide-top-stable",
+          "element_aliases": {
+            "home-scroll-guide-top-stable-action-1": "nav-learn",
+            "home-scroll-guide-top-stable-action-2": "nav-pronunciation",
+            "home-scroll-guide-top-stable-action-3": "nav-leaderboards",
+            "home-scroll-guide-top-stable-action-4": "nav-quests",
+            "home-scroll-guide-top-stable-action-5": "nav-shop",
+            "home-scroll-guide-top-stable-action-6": "nav-profile",
+            "home-scroll-guide-top-stable-action-12": "view-leaderboards",
+            "home-scroll-guide-top-stable-action-13": "view-quests",
+            "home-scroll-guide-top-stable-action-14": "view-profile",
+            "home-scroll-guide-top-stable-action-15": "sign-in",
+            "home-scroll-guide-top-stable-action-23": "close-guide",
+            "home-scroll-guide-top-stable-action-24": "guide-speech-0",
+            "home-scroll-guide-top-stable-action-25": "guide-speech-1",
+            "home-scroll-guide-top-stable-action-26": "guide-speech-2"
+          }
+        },
+        {
+          "native_action": "guide-speech-0",
+          "operation": "record_audio",
+          "recording": "shopping-guide-speech-0",
+          "duration_seconds": 7
+        },
+        {
+          "native_action": "guide-speech-1"
+        },
+        {
+          "native_action": "guide-speech-2"
+        },
+        {
+          "native_action": "guide-speech-2",
+          "operation": "scroll",
+          "scroll_anchor": "shopping-phrase-0-english",
+          "scroll_pixels": -700,
+          "state": "home-scroll-guide-bottom",
+          "element_aliases": {
+            "home-scroll-guide-bottom-action-1": "nav-learn",
+            "home-scroll-guide-bottom-action-2": "nav-pronunciation",
+            "home-scroll-guide-bottom-action-3": "nav-leaderboards",
+            "home-scroll-guide-bottom-action-4": "nav-quests",
+            "home-scroll-guide-bottom-action-5": "nav-shop",
+            "home-scroll-guide-bottom-action-6": "nav-profile",
+            "home-scroll-guide-bottom-action-12": "view-leaderboards",
+            "home-scroll-guide-bottom-action-13": "view-quests",
+            "home-scroll-guide-bottom-action-14": "view-profile",
+            "home-scroll-guide-bottom-action-15": "sign-in",
+            "home-scroll-guide-bottom-action-23": "close-guide",
+            "home-scroll-guide-bottom-action-24": "guide-speech-0",
+            "home-scroll-guide-bottom-action-25": "guide-speech-1",
+            "home-scroll-guide-bottom-action-26": "guide-speech-2",
+            "home-scroll-guide-bottom-action-27": "guide-speech-3",
+            "home-scroll-guide-bottom-action-28": "guide-speech-4"
+          }
+        },
+        {
+          "native_action": "guide-speech-3"
+        },
+        {
+          "native_action": "guide-speech-4"
+        },
+        {
+          "native_action": "guide-speech-2",
+          "operation": "scroll",
+          "scroll_anchor": "shopping-phrase-0-english",
+          "scroll_pixels": 700,
+          "state": "shopping-guide-scroll-returned",
+          "element_aliases": {}
+        },
+        {
+          "native_action": "close-guide",
+          "state": "shopping-guide-return",
+          "element_aliases": {
+            "shopping-guide-action-1": "nav-learn",
+            "shopping-guide-action-12": "view-leaderboards",
+            "shopping-guide-action-13": "view-quests",
+            "shopping-guide-action-24": "open-guide"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+### Result
+"- img\n- heading \"你解锁了第 2 部分！\" [level=2]\n- button \"回顾本单元\"\n- button \"继续\""
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"继续",exact:true}).click();return await page.locator("body").ariaSnapshot();})(page);
+```

@@ -1,0 +1,77 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "source-feedback-sugar",
+      "title": "提供或接受饮料",
+      "interfaceLanguage": "zh",
+      "speechLanguage": "en",
+      "lessons": [
+        {
+          "id": "feedback-probe",
+          "title": "反馈动作",
+          "questions": [
+            {
+              "id": "en-zh-feedback-sugar",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "sugar",
+              "words": [
+                {
+                  "id": "w0",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "w1",
+                  "text": "糖"
+                }
+              ],
+              "answer_words": [
+                "w1"
+              ],
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "feedbackReportReasons": [
+                "音频听起来不正确",
+                "提示有误",
+                "缺少音频",
+                "提示缺失",
+                "我的答案不应被接受",
+                "其他问题"
+              ]
+            }
+          ]
+        }
+      ],
+      "pathNodes": [
+        {
+          "kind": "star",
+          "lessonIDs": [
+            "feedback-probe"
+          ],
+          "lessonCount": 4
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "scope": "Actual accepted sugar feedback and local report open/select/close; not whole sixth lesson",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/sugar-answer.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-easy-selected.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-hard-selected.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-deselected.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-open.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-other-selected.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-two-selected.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-cancelled.json",
+      "projects/duolingo-web/evidence/english-feedback-actions-v1/english-feedback-report-reopened.json"
+    ],
+    "unknown": [
+      "Actual prompt/character audio and renderer binding",
+      "Report submission service/acknowledgement",
+      "Source earlier-question progress context",
+      "Report options on other challenge types"
+    ]
+  }
+}

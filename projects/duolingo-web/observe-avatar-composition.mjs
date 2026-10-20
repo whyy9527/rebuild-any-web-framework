@@ -1,0 +1,22 @@
+// Actual category layout and multi-property save/reload; no state injection.
+import {spawnSync} from 'node:child_process';import {mkdirSync,writeFileSync,existsSync} from 'node:fs';import {resolve} from 'node:path';
+const get=n=>process.argv[process.argv.indexOf(n)+1];for(const n of ['--cli','--session','--out'])if(!process.argv.includes(n))throw Error('Required '+n);
+const out=resolve(get('--out'));if(existsSync(out))throw Error('Fresh output required');mkdirSync(out,{recursive:true});let count=0;
+function run(fn){const r=spawnSync(get('--cli'),['-s='+get('--session'),'run-code',fn],{cwd:resolve('artifacts/output/playwright'),encoding:'utf8',timeout:60000,maxBuffer:8*1024*1024});writeFileSync(out+'/action-'+count+++'.raw.txt',(r.stdout||'')+(r.stderr||''));if(r.status!==0||!r.stdout.includes('### Result\n'))throw Error('Inspect current source before continuing');return JSON.parse(r.stdout.split('### Result\n')[1].split('\n### Ran')[0]);}
+function capture(stem){const r=spawnSync(process.execPath,['projects/duolingo-web/capture-visible-state.mjs','--cli',get('--cli'),'--session',get('--session'),'--out',out+'/'+stem],{encoding:'utf8',timeout:65000});if(r.status!==0)throw Error(r.stderr||r.stdout);}
+const layouts=[];const transitions=[];
+for(let i=0;i<9;i++){
+ layouts.push(run(`async page=>{await page.locator('._1qsHg > div').nth(${i}).click();const groups=await page.getByRole('radiogroup').evaluateAll(ns=>ns.map(g=>{const h=g.previousElementSibling,r=g.getBoundingClientRect(),hr=h.getBoundingClientRect();return {label:h.textContent.trim(),header_rect:[hr.x,hr.y,hr.width,hr.height],rect:[r.x,r.y,r.width,r.height],options:[...g.querySelectorAll('[role="radio"]')].map(n=>{const r=n.getBoundingClientRect();return {rect:[r.x,r.y,r.width,r.height],checked:n.getAttribute('aria-checked')==='true'};})};}));const region=await page.getByRole('radiogroup').first().evaluate(g=>{let n=g.parentElement;while(n&&getComputedStyle(n).overflowY!=='auto'&&getComputedStyle(n).overflowY!=='scroll')n=n.parentElement;if(!n)return null;const r=n.getBoundingClientRect();return {rect:[r.x,r.y,r.width,r.height],scrollHeight:n.scrollHeight,scrollTop:n.scrollTop};});return {category:${i},groups,region};}`));
+}
+writeFileSync(out+'/layouts.json',JSON.stringify(layouts,null,2)+'\n');
+for(const [i,e] of [{category:1,group:'身体',index:0},{category:3,group:'发型',index:1},{category:4,group:'鼻环',index:1},{category:8,group:'背景颜色',index:1}].entries()){
+ transitions.push(run(`async page=>{await page.locator('._1qsHg > div').nth(${e.category}).click();const gs=page.getByRole('radiogroup');const names=await gs.evaluateAll(ns=>ns.map(n=>n.previousElementSibling?.textContent.trim()));const g=names.indexOf(${JSON.stringify(e.group)});if(g<0)throw Error('Missing observed group');const rs=gs.nth(g).getByRole('radio');const before=await rs.evaluateAll(ns=>ns.map(n=>n.getAttribute('aria-checked')));await rs.nth(${e.index}).scrollIntoViewIfNeeded();await rs.nth(${e.index}).click();return {operation:'select',category:${e.category},group:${JSON.stringify(e.group)},index:${e.index},before,after:await rs.evaluateAll(ns=>ns.map(n=>n.getAttribute('aria-checked')))};}`));
+ writeFileSync(out+'/transitions.json',JSON.stringify(transitions,null,2)+'\n');capture('selected-'+i);
+}
+transitions.push(run(`async page=>{const b=page.getByRole('button',{name:'完成',exact:true});await b.scrollIntoViewIfNeeded();await b.click();return {operation:'Done',path:new URL(page.url()).pathname,snapshot:await page.locator('body').ariaSnapshot()};}`));writeFileSync(out+'/transitions.json',JSON.stringify(transitions,null,2)+'\n');capture('saved');
+run(`async page=>{await page.getByRole('button',{name:'继续编辑虚拟头像',exact:true}).click();return {operation:'Continue',path:new URL(page.url()).pathname};}`);
+// Dirty beforeunload may require explicit CLI dialog handling; do not assume success.
+run(`async page=>{await page.reload({waitUntil:'domcontentloaded'});await page.getByText('肤色',{exact:true}).waitFor({state:'visible'});await page.waitForFunction(()=>document.querySelectorAll('[role=radio]').length===15);return {operation:'reload',path:new URL(page.url()).pathname};}`);
+capture('reloaded');
+for(let i=0;i<9;i++){run(`async page=>{await page.locator('._1qsHg > div').nth(${i}).click();return {operation:'revisit_after_reload',category:${i}};}`);capture('restored-'+i);}
+console.log('Collected actual composition save/reload and nine restored category states');

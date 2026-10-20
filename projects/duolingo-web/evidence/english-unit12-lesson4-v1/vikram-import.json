@@ -1,0 +1,30 @@
+{
+  "public_svg": "https://d2pur3iezf4d1j.cloudfront.net/images/52a5a774c4de18f4a4e8c91d91788347",
+  "public_rive": "https://d35aaqx5ub95lt.cloudfront.net/rive/makerInLesson/201fc4b2342fb3a92f46aa205a29d80a.riv",
+  "resource": "en-character-vikram.riv",
+  "wire_bytes": 59273,
+  "wire_sha256": "382861d702228f062432496d47f9e158702403abcbffe904c647e1ee2a783f66",
+  "decoded_bytes": 277617,
+  "decoded_sha256": "aea76319b266881fc2271f42268c831bf9bcf0e64284f8025bdd636ea72b3d9d",
+  "source_buffer_equal": true,
+  "configuration_key": "en-image-19d527c8f3f0c4af501f",
+  "configuration": {
+    "resource": "en-character-vikram.riv",
+    "name": "VIKRAM",
+    "artboard": "character",
+    "stateMachine": "character_statemachine",
+    "correctTrigger": "correct_trig",
+    "incorrectTrigger": "incorrect_trig",
+    "resetTrigger": "reset_trig",
+    "darkModeInput": "darkmode_bool",
+    "rtlInput": "rtl_bool",
+    "scale": 1.15,
+    "xOffsetPercentage": -6.944444444444445,
+    "yOffsetPercentage": 5.681818181818182
+  },
+  "source_current": "q12-current-character.json",
+  "source_renderer": "q12-vikram-renderer.json",
+  "limitations": [
+    "Asset identity and observed renderer parameters only; native pose, timing, geometry and sound require separate verification."
+  ]
+}

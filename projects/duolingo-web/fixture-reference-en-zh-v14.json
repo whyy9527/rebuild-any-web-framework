@@ -1,0 +1,4023 @@
+{
+  "data": {
+    "candidate_course": {
+      "id": "duolingo-en-zh-unit-1",
+      "title": "提供或接受饮料",
+      "speechLanguage": "en",
+      "interfaceLanguage": "zh",
+      "lessons": [
+        {
+          "id": "lesson-1",
+          "title": "Lesson 1 of 4",
+          "questions": [
+            {
+              "id": "en-zh-q0",
+              "prompt": "哪个是“咖啡”呢？",
+              "sourceType": "select",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "coffee",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3",
+                  "imageResource": "en-image-317610e108c70a90c973"
+                },
+                {
+                  "id": "option-1",
+                  "text": "sugar",
+                  "audioResource": "en-speech-35bd5a20e33a54ba2838.mp3",
+                  "imageResource": "en-image-13c5cd1e78c1bfb40fa9"
+                },
+                {
+                  "id": "option-2",
+                  "text": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3",
+                  "imageResource": "en-image-62a0fee28f82c46d722a"
+                }
+              ],
+              "answer": "option-0"
+            },
+            {
+              "id": "en-zh-q1",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-5a3854cd2f91545f5bd0",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "welcome"
+                },
+                {
+                  "id": "option-1",
+                  "text": "coffee",
+                  "audioResource": "en-speech-feeb391bc7e8300a86e8.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "hot"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "咖啡"
+            },
+            {
+              "id": "en-zh-q2",
+              "prompt": "哪个是“茶”呢？",
+              "sourceType": "select",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "coffee",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3",
+                  "imageResource": "en-image-317610e108c70a90c973"
+                },
+                {
+                  "id": "option-1",
+                  "text": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3",
+                  "imageResource": "en-image-62a0fee28f82c46d722a"
+                },
+                {
+                  "id": "option-2",
+                  "text": "milk",
+                  "audioResource": "en-speech-eac022f34e90bbc78d7d.mp3",
+                  "imageResource": "en-image-c9fe55c843bac35bd317"
+                }
+              ],
+              "answer": "option-1"
+            },
+            {
+              "id": "en-zh-q3",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-643a2661d1383fefd1a1.mp3",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "kind": "word_tiles",
+              "hint": "welcome",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "欢迎"
+                },
+                {
+                  "id": "word-1",
+                  "text": "我"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-q4",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-5a3854cd2f91545f5bd0",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "welcome"
+                },
+                {
+                  "id": "option-1",
+                  "text": "tea",
+                  "audioResource": "en-speech-9a2c3fb972ba3e428792.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "hot"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "茶"
+            },
+            {
+              "id": "en-zh-q5",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-37cab590c42bbc0895f9.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "word_tiles",
+              "hint": "Tea, please.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-2",
+                  "text": "谢谢"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2"
+              ]
+            },
+            {
+              "id": "en-zh-q6",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "hot"
+                },
+                {
+                  "id": "option-1",
+                  "text": "welcome",
+                  "audioResource": "en-speech-7941bc48f08f9c35d8b5.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "tea"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "欢迎"
+            },
+            {
+              "id": "en-zh-q7",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-762a93cfd11a015351ba.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "I'd like coffee.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "想要"
+                },
+                {
+                  "id": "word-1",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-2",
+                  "text": "再见"
+                },
+                {
+                  "id": "word-3",
+                  "text": "我"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-0",
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-q8",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-4018d9b429936ba45c7a.mp3",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "kind": "word_tiles",
+              "hint": "Coffee, please.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-2",
+                  "text": "欢迎"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-q9",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "茶",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-5741dae0c22462eb1f71.mp3",
+              "slowAudioResource": "en-speech-4791f9672da8c5fdb775.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "tea",
+                  "audioResource": "en-speech-5741dae0c22462eb1f71.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "water",
+                  "audioResource": "en-speech-49240b4f2dfc3c208ab4.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-q10",
+              "prompt": "完成对话",
+              "sourceType": "dialogue",
+              "newWord": false,
+              "explanation": "咖啡，谢谢。",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "Coffee, please."
+                },
+                {
+                  "id": "option-1",
+                  "text": "Welcome!"
+                }
+              ],
+              "answer": "option-0",
+              "hint": "Tea or coffee?",
+              "dialogueAvatars": [
+                "en-avatar-c8ad8e65b460e8fa7889",
+                "en-avatar-7ef6146da32c19e43b36"
+              ],
+              "audioResource": "en-speech-19b098f65ab12b270c6f.mp3"
+            },
+            {
+              "id": "en-zh-q11",
+              "prompt": "选择配对",
+              "sourceType": "match",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "matching",
+              "pairs": [
+                {
+                  "id": "pair-0",
+                  "left": "茶",
+                  "right": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "pair-1",
+                  "left": "欢迎",
+                  "right": "welcome",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "热",
+                  "right": "hot",
+                  "audioResource": "en-speech-81635783a3ad9a682e95.mp3"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "咖啡",
+                  "right": "coffee",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                }
+              ],
+              "rightOrder": [
+                "pair-0",
+                "pair-2",
+                "pair-3",
+                "pair-1"
+              ]
+            },
+            {
+              "id": "en-zh-q12",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "咖啡",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-6fb85e2316dac3c53313.mp3",
+              "slowAudioResource": "en-speech-8f8c79fc78101a7019d4.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "sugar",
+                  "audioResource": "en-speech-2cae1e5c6d8e699acfc1.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "coffee",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-q13",
+              "prompt": "完成对话",
+              "sourceType": "dialogue",
+              "newWord": false,
+              "explanation": "茶，谢谢。",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "Tea, please."
+                },
+                {
+                  "id": "option-1",
+                  "text": "Welcome!"
+                }
+              ],
+              "answer": "option-0",
+              "hint": "Coffee or tea?",
+              "dialogueAvatars": [
+                "en-avatar-617787218e22c27b30e1",
+                "en-avatar-26759a41d9632777f004"
+              ],
+              "audioResource": "en-speech-94b17faa72deaf3d5f40.mp3"
+            },
+            {
+              "id": "en-zh-q14",
+              "prompt": "选择配对",
+              "sourceType": "match",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "matching",
+              "pairs": [
+                {
+                  "id": "pair-0",
+                  "left": "热",
+                  "right": "hot",
+                  "audioResource": "en-speech-8a0d9ca5f303c427a11e.mp3"
+                },
+                {
+                  "id": "pair-1",
+                  "left": "茶",
+                  "right": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "pair-2",
+                  "left": "咖啡",
+                  "right": "coffee",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                },
+                {
+                  "id": "pair-3",
+                  "left": "欢迎",
+                  "right": "welcome",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                }
+              ],
+              "rightOrder": [
+                "pair-3",
+                "pair-2",
+                "pair-1",
+                "pair-0"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lesson-2",
+          "title": "Lesson 2 of 4",
+          "questions": [
+            {
+              "id": "en-zh-l2-q0",
+              "prompt": "哪个是“牛奶”呢？",
+              "sourceType": "select",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "milk",
+                  "audioResource": "en-speech-4c12f0d5e25afb8b430e.mp3",
+                  "imageResource": "en-image-c9fe55c843bac35bd317"
+                },
+                {
+                  "id": "option-1",
+                  "text": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3",
+                  "imageResource": "en-image-62a0fee28f82c46d722a"
+                },
+                {
+                  "id": "option-2",
+                  "text": "sugar",
+                  "audioResource": "en-speech-35bd5a20e33a54ba2838.mp3",
+                  "imageResource": "en-image-13c5cd1e78c1bfb40fa9"
+                }
+              ],
+              "answer": "option-0"
+            },
+            {
+              "id": "en-zh-l2-q1",
+              "prompt": "哪个是“糖”呢？",
+              "sourceType": "select",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3",
+                  "imageResource": "en-image-62a0fee28f82c46d722a"
+                },
+                {
+                  "id": "option-1",
+                  "text": "milk",
+                  "audioResource": "en-speech-4c12f0d5e25afb8b430e.mp3",
+                  "imageResource": "en-image-c9fe55c843bac35bd317"
+                },
+                {
+                  "id": "option-2",
+                  "text": "sugar",
+                  "audioResource": "en-speech-35bd5a20e33a54ba2838.mp3",
+                  "imageResource": "en-image-13c5cd1e78c1bfb40fa9"
+                }
+              ],
+              "answer": "option-2"
+            },
+            {
+              "id": "en-zh-l2-q2",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-19d527c8f3f0c4af501f",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "milk",
+                  "audioResource": "en-speech-0e3813e2d36e94f45ae8.mp3"
+                },
+                {
+                  "id": "option-1",
+                  "text": "sugar"
+                },
+                {
+                  "id": "option-2",
+                  "text": "hot"
+                }
+              ],
+              "answer": "option-0",
+              "hint": "牛奶"
+            },
+            {
+              "id": "en-zh-l2-q3",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "sugar",
+                  "audioResource": "en-speech-7533cc34fba86f763967.mp3"
+                },
+                {
+                  "id": "option-1",
+                  "text": "coffee"
+                },
+                {
+                  "id": "option-2",
+                  "text": "hot"
+                }
+              ],
+              "answer": "option-0",
+              "hint": "糖"
+            },
+            {
+              "id": "en-zh-l2-q4",
+              "prompt": "找规律，跟着练",
+              "sourceType": "orderTapComplete",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-61a48b21ebc123dcd208.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "with",
+                  "audioResource": "en-speech-5811e03b31afe3104d70.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "milk",
+                  "audioResource": "en-speech-f2c97230f13774b8d511.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1"
+              ],
+              "completionPrefix": "Coffee ",
+              "completionSuffix": ".",
+              "indicator": "新词形",
+              "example": "Tea with sugar.",
+              "exampleAudioResource": "en-speech-016163dd9eb60de69c04.mp3"
+            },
+            {
+              "id": "en-zh-l2-q5",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-c3ebd55b34b69e1603fb.mp3",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "word_tiles",
+              "hint": "hello",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "冰"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-fe1c54e51e569e9ca91b.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "Good morning!",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "早上好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "最"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q7",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-016163dd9eb60de69c04.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "tea with sugar",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "欢迎"
+                },
+                {
+                  "id": "word-2",
+                  "text": "加糖"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q8",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "coffee"
+                },
+                {
+                  "id": "option-1",
+                  "text": "hello",
+                  "audioResource": "en-speech-c3ebd55b34b69e1603fb.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "good morning"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "你好"
+            },
+            {
+              "id": "en-zh-l2-q9",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "hot"
+                },
+                {
+                  "id": "option-1",
+                  "text": "hello"
+                },
+                {
+                  "id": "option-2",
+                  "text": "good morning",
+                  "audioResource": "en-speech-f59851194ca3551d4ecb.mp3"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "早上好"
+            },
+            {
+              "id": "en-zh-l2-q10",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-be434d385dc8c6e3c88b.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "coffee with sugar",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-2",
+                  "text": "加糖"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q11",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "牛奶",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-eac022f34e90bbc78d7d.mp3",
+              "slowAudioResource": "en-speech-db301d940ac741ab289a.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "milk",
+                  "audioResource": "en-speech-eac022f34e90bbc78d7d.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "ice",
+                  "audioResource": "en-speech-e7cab8ab74be8fdfba45.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q12",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "indicator": "挑战题",
+              "hint": "咖啡加牛奶",
+              "sourceLanguage": "zh",
+              "newWord": false,
+              "explanation": "",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "coffee"
+                },
+                {
+                  "id": "word-1",
+                  "text": "with"
+                },
+                {
+                  "id": "word-2",
+                  "text": "hello"
+                },
+                {
+                  "id": "word-3",
+                  "text": "milk"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1",
+                "word-3"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q13",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "indicator": "挑战题",
+              "hint": "你好，我想再来点茶，谢谢。",
+              "sourceLanguage": "zh",
+              "newWord": false,
+              "explanation": "",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "Hello"
+                },
+                {
+                  "id": "word-1",
+                  "text": "I'd"
+                },
+                {
+                  "id": "word-2",
+                  "text": "more"
+                },
+                {
+                  "id": "word-3",
+                  "text": "tea"
+                },
+                {
+                  "id": "word-4",
+                  "text": "please"
+                },
+                {
+                  "id": "word-5",
+                  "text": "thank you"
+                },
+                {
+                  "id": "word-6",
+                  "text": "like"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1",
+                "word-6",
+                "word-2",
+                "word-3",
+                "word-4"
+              ]
+            },
+            {
+              "id": "en-zh-l2-q14",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "indicator": "挑战题",
+              "hint": "你好，我想再来点咖啡，谢谢。",
+              "sourceLanguage": "zh",
+              "newWord": false,
+              "explanation": "",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "tea"
+                },
+                {
+                  "id": "word-1",
+                  "text": "more"
+                },
+                {
+                  "id": "word-2",
+                  "text": "I'd"
+                },
+                {
+                  "id": "word-3",
+                  "text": "please"
+                },
+                {
+                  "id": "word-4",
+                  "text": "Hello"
+                },
+                {
+                  "id": "word-5",
+                  "text": "like"
+                },
+                {
+                  "id": "word-6",
+                  "text": "coffee"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-2",
+                "word-5",
+                "word-1",
+                "word-6",
+                "word-3"
+              ]
+            }
+          ],
+          "interludes": [
+            {
+              "id": "en-zh-l2-interlude-0",
+              "afterQuestionID": "en-zh-l2-q4",
+              "text": "你的辛勤付出得到了回报！"
+            },
+            {
+              "id": "en-zh-l2-interlude-1",
+              "afterQuestionID": "en-zh-l2-q9",
+              "text": "你是最棒的！"
+            },
+            {
+              "id": "en-zh-l2-interlude-2",
+              "afterQuestionID": "en-zh-l2-q11",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ]
+        },
+        {
+          "id": "lesson-3",
+          "title": "Lesson 3 of 4",
+          "questions": [
+            {
+              "id": "en-zh-l3-q0",
+              "prompt": "哪个是“水”呢？",
+              "sourceType": "select",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "water",
+                  "audioResource": "en-speech-4b5243bfcebe0c7189e0.mp3",
+                  "imageResource": "en-image-02020fc68eec74b1937a"
+                },
+                {
+                  "id": "option-1",
+                  "text": "sugar",
+                  "audioResource": "en-speech-35bd5a20e33a54ba2838.mp3",
+                  "imageResource": "en-image-13c5cd1e78c1bfb40fa9"
+                },
+                {
+                  "id": "option-2",
+                  "text": "ice",
+                  "audioResource": "en-speech-e7cab8ab74be8fdfba45.mp3",
+                  "imageResource": "en-image-609c327609a2de41a602"
+                }
+              ],
+              "answer": "option-0"
+            },
+            {
+              "id": "en-zh-l3-q1",
+              "prompt": "哪个是“冰”呢？",
+              "sourceType": "select",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "ice",
+                  "audioResource": "en-speech-e7cab8ab74be8fdfba45.mp3",
+                  "imageResource": "en-image-609c327609a2de41a602"
+                },
+                {
+                  "id": "option-1",
+                  "text": "water",
+                  "audioResource": "en-speech-4b5243bfcebe0c7189e0.mp3",
+                  "imageResource": "en-image-02020fc68eec74b1937a"
+                },
+                {
+                  "id": "option-2",
+                  "text": "milk",
+                  "audioResource": "en-speech-eac022f34e90bbc78d7d.mp3",
+                  "imageResource": "en-image-c9fe55c843bac35bd317"
+                }
+              ],
+              "answer": "option-0"
+            },
+            {
+              "id": "en-zh-l3-q2",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-1ac9e4e596f9507710e0.mp3",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "kind": "word_tiles",
+              "hint": "water",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "也"
+                },
+                {
+                  "id": "word-1",
+                  "text": "水"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q3",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-b683291b9f02b728ee3c.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "Goodbye.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "也"
+                },
+                {
+                  "id": "word-1",
+                  "text": "再见"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q4",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-6b2073f38e266ea3c2e3.mp3",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "word_tiles",
+              "hint": "Thank you!",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "客气"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q5",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "ice",
+                  "audioResource": "en-speech-8da32612d30520802df4.mp3"
+                },
+                {
+                  "id": "option-1",
+                  "text": "thank you"
+                },
+                {
+                  "id": "option-2",
+                  "text": "water"
+                }
+              ],
+              "answer": "option-0",
+              "hint": "冰"
+            },
+            {
+              "id": "en-zh-l3-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-c0f82c04c7b53cac1881.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "No ice, please.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "牛奶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-2",
+                  "text": "不要"
+                },
+                {
+                  "id": "word-3",
+                  "text": "冰"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-3",
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q7",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-70c764cda97405aa673c.mp3",
+              "characterResource": "en-image-cf56f9ea0c179f90206b",
+              "kind": "word_tiles",
+              "hint": "You're welcome, goodbye!",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "再见"
+                },
+                {
+                  "id": "word-1",
+                  "text": "加冰"
+                },
+                {
+                  "id": "word-2",
+                  "text": "客气"
+                },
+                {
+                  "id": "word-3",
+                  "text": "不"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-2",
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q8",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "sugar"
+                },
+                {
+                  "id": "option-1",
+                  "text": "thank you",
+                  "audioResource": "en-speech-9d81628ff32cb0678e8a.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "welcome"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "谢谢你"
+            },
+            {
+              "id": "en-zh-l3-q9",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": true,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-538e9017af54078fd12d.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "word_tiles",
+              "hint": "No milk and no sugar, please.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "牛奶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "也"
+                },
+                {
+                  "id": "word-2",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-3",
+                  "text": "糖"
+                },
+                {
+                  "id": "word-4",
+                  "text": "不要"
+                },
+                {
+                  "id": "word-5",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-6",
+                  "text": "不要"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-0",
+                "word-1",
+                "word-6",
+                "word-3",
+                "word-5"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q10",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "goodbye"
+                },
+                {
+                  "id": "option-1",
+                  "text": "hot"
+                },
+                {
+                  "id": "option-2",
+                  "text": "you're welcome",
+                  "audioResource": "en-speech-c8b59ac4580de42586a4.mp3"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "不客气"
+            },
+            {
+              "id": "en-zh-l3-q11",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-c5cdc372e0df01fe311c.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "word_tiles",
+              "hint": "water and tea",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "水"
+                },
+                {
+                  "id": "word-2",
+                  "text": "和"
+                },
+                {
+                  "id": "word-3",
+                  "text": "不"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2",
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q12",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "indicator": "挑战题",
+              "hint": "糖和牛奶",
+              "sourceLanguage": "zh",
+              "newWord": false,
+              "explanation": "",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "and"
+                },
+                {
+                  "id": "word-1",
+                  "text": "no"
+                },
+                {
+                  "id": "word-2",
+                  "text": "milk"
+                },
+                {
+                  "id": "word-3",
+                  "text": "sugar"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-0",
+                "word-2"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q13",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "indicator": "挑战题",
+              "hint": "茶和咖啡",
+              "sourceLanguage": "zh",
+              "newWord": false,
+              "explanation": "",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "coffee"
+                },
+                {
+                  "id": "word-1",
+                  "text": "tea"
+                },
+                {
+                  "id": "word-2",
+                  "text": "and"
+                },
+                {
+                  "id": "word-3",
+                  "text": "no"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2",
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l3-q14",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "indicator": "挑战题",
+              "hint": "不要冰，不要水，谢谢。",
+              "sourceLanguage": "zh",
+              "newWord": false,
+              "explanation": "",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "water"
+                },
+                {
+                  "id": "word-1",
+                  "text": "ice"
+                },
+                {
+                  "id": "word-2",
+                  "text": "no"
+                },
+                {
+                  "id": "word-3",
+                  "text": "No"
+                },
+                {
+                  "id": "word-4",
+                  "text": "please"
+                },
+                {
+                  "id": "word-5",
+                  "text": "and"
+                },
+                {
+                  "id": "word-6",
+                  "text": "hot"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-1",
+                "word-5",
+                "word-2",
+                "word-0",
+                "word-4"
+              ]
+            }
+          ],
+          "interludes": [
+            {
+              "id": "en-zh-l3-interlude-0",
+              "afterQuestionID": "en-zh-l3-q4",
+              "text": "真是泰裤辣！"
+            },
+            {
+              "id": "en-zh-l3-interlude-1",
+              "afterQuestionID": "en-zh-l3-q9",
+              "text": "厉害！有志竟成！"
+            },
+            {
+              "id": "en-zh-l3-interlude-2",
+              "afterQuestionID": "en-zh-l3-q11",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ]
+        },
+        {
+          "id": "lesson-4",
+          "title": "Lesson 4 of 4",
+          "questions": [
+            {
+              "id": "en-zh-l4-q0",
+              "prompt": "哪个是“咖啡”呢？",
+              "sourceType": "select",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "milk",
+                  "audioResource": "en-speech-4c12f0d5e25afb8b430e.mp3",
+                  "imageResource": "en-image-c9fe55c843bac35bd317"
+                },
+                {
+                  "id": "option-1",
+                  "text": "coffee",
+                  "audioResource": "en-speech-1c0b0ca0aaac2febdf32.mp3",
+                  "imageResource": "en-image-317610e108c70a90c973"
+                },
+                {
+                  "id": "option-2",
+                  "text": "tea",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3",
+                  "imageResource": "en-image-62a0fee28f82c46d722a"
+                }
+              ],
+              "answer": "option-1",
+              "indicator": "错题重练"
+            },
+            {
+              "id": "en-zh-l4-q1",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "hello"
+                },
+                {
+                  "id": "option-1",
+                  "text": "goodbye"
+                },
+                {
+                  "id": "option-2",
+                  "text": "ice",
+                  "audioResource": "en-speech-8da32612d30520802df4.mp3"
+                }
+              ],
+              "answer": "option-2",
+              "hint": "冰"
+            },
+            {
+              "id": "en-zh-l4-q2",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-b27ef10317fc928ca1fd.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "word_tiles",
+              "hint": "Hello, good morning!",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "早上好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-2",
+                  "text": "谢谢"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l4-q3",
+              "prompt": "选择正确的答案",
+              "sourceType": "assist",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "good morning"
+                },
+                {
+                  "id": "option-1",
+                  "text": "hello",
+                  "audioResource": "en-speech-c3ebd55b34b69e1603fb.mp3"
+                },
+                {
+                  "id": "option-2",
+                  "text": "hot"
+                }
+              ],
+              "answer": "option-1",
+              "hint": "你好"
+            },
+            {
+              "id": "en-zh-l4-q4",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-538e9017af54078fd12d.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "word_tiles",
+              "hint": "No milk and no sugar, please.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "糖"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-2",
+                  "text": "不要"
+                },
+                {
+                  "id": "word-3",
+                  "text": "想要"
+                },
+                {
+                  "id": "word-4",
+                  "text": "不要"
+                },
+                {
+                  "id": "word-5",
+                  "text": "牛奶"
+                },
+                {
+                  "id": "word-6",
+                  "text": "也"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-5",
+                "word-6",
+                "word-4",
+                "word-0",
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-l4-q5",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "你好，我想再来点咖啡，谢谢。",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-c786802f7eb9069066af.mp3",
+              "slowAudioResource": "en-speech-20a84131e19c39cbac30.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "I'd",
+                  "audioResource": "en-speech-df785dcec4cfb0684548.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "like",
+                  "audioResource": "en-speech-36a25a44ecb7fcfaa28b.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "you're welcome",
+                  "audioResource": "en-speech-301af80d52e80a1fc9d2.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "more",
+                  "audioResource": "en-speech-8872fc336bace2e08148.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "coffee",
+                  "audioResource": "en-speech-1c0b0ca0aaac2febdf32.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "please",
+                  "audioResource": "en-speech-4bb8f36dced02fe2487a.mp3"
+                },
+                {
+                  "id": "word-6",
+                  "text": "Hello",
+                  "audioResource": "en-speech-d0277769d607f54c7394.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-6",
+                "word-0",
+                "word-1",
+                "word-3",
+                "word-4",
+                "word-5"
+              ],
+              "indicator": "挑战题"
+            },
+            {
+              "id": "en-zh-l4-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-016163dd9eb60de69c04.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "tea with sugar",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "加糖"
+                },
+                {
+                  "id": "word-1",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-2",
+                  "text": "想"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-0"
+              ]
+            },
+            {
+              "id": "en-zh-l4-q7",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "不加糖，谢谢。",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-67d2952493e40e6aacef.mp3",
+              "slowAudioResource": "en-speech-c126ab3b0eadbaa297d6.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "thank",
+                  "audioResource": "en-speech-921f6882653c1b291c44.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "you",
+                  "audioResource": "en-speech-e1b71deac2ac4077de77.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "No",
+                  "audioResource": "en-speech-7ed651580eae106d058e.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "welcome",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "sugar",
+                  "audioResource": "en-speech-2cae1e5c6d8e699acfc1.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-4",
+                "word-0",
+                "word-1"
+              ]
+            },
+            {
+              "id": "en-zh-l4-q8",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-9d61e2eae29900a18267.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "word_tiles",
+              "hint": "No coffee, thank you.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "不要"
+                },
+                {
+                  "id": "word-1",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-2",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-3",
+                  "text": "谢谢"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2",
+                "word-3"
+              ]
+            },
+            {
+              "id": "en-zh-l4-q9",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "我想要热茶，谢谢。",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-b99f731c4b233db370e9.mp3",
+              "slowAudioResource": "en-speech-bdeeb6397e3e6d646f8a.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "please",
+                  "audioResource": "en-speech-4bb8f36dced02fe2487a.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "hot",
+                  "audioResource": "en-speech-81635783a3ad9a682e95.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "no",
+                  "audioResource": "en-speech-bd6393758227b819313a.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "I'd",
+                  "audioResource": "en-speech-df785dcec4cfb0684548.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "tea",
+                  "audioResource": "en-speech-186198050de403e37eb9.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "like",
+                  "audioResource": "en-speech-36a25a44ecb7fcfaa28b.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-3",
+                "word-5",
+                "word-1",
+                "word-4",
+                "word-0"
+              ],
+              "indicator": "挑战题"
+            },
+            {
+              "id": "en-zh-l4-q10",
+              "prompt": "完成对话",
+              "sourceType": "dialogue",
+              "newWord": false,
+              "explanation": "咖啡，谢谢。",
+              "sourceLanguage": "en",
+              "kind": "choice",
+              "options": [
+                {
+                  "id": "option-0",
+                  "text": "Welcome."
+                },
+                {
+                  "id": "option-1",
+                  "text": "Coffee, please."
+                }
+              ],
+              "answer": "option-1",
+              "hint": "Coffee or tea?",
+              "dialogueAvatars": [
+                "en-avatar-c8ad8e65b460e8fa7889",
+                "en-avatar-26759a41d9632777f004"
+              ],
+              "audioResource": "en-speech-44aaf88f22b3dff06ecd.mp3"
+            },
+            {
+              "id": "en-zh-l4-q11",
+              "prompt": "选择听到的内容",
+              "sourceType": "listenTap",
+              "newWord": false,
+              "explanation": "早上好，我想要再多一些糖。",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-2f9b26bcdea106706c7d.mp3",
+              "slowAudioResource": "en-speech-c943c1f811e08eb1ccfe.mp3",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "ice",
+                  "audioResource": "en-speech-e7cab8ab74be8fdfba45.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "morning",
+                  "audioResource": "en-speech-cfac8747d9bb2405625b.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "I'd",
+                  "audioResource": "en-speech-df785dcec4cfb0684548.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "more",
+                  "audioResource": "en-speech-8872fc336bace2e08148.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "sugar",
+                  "audioResource": "en-speech-35bd5a20e33a54ba2838.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "Good",
+                  "audioResource": "en-speech-3fde84ae13697a14807d.mp3"
+                },
+                {
+                  "id": "word-6",
+                  "text": "like",
+                  "audioResource": "en-speech-36a25a44ecb7fcfaa28b.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-5",
+                "word-1",
+                "word-2",
+                "word-6",
+                "word-3",
+                "word-4"
+              ],
+              "indicator": "挑战题"
+            }
+          ],
+          "entry": {
+            "id": "en-zh-l4-entry",
+            "title": "来复习一下这个等级，完成后有惊喜哦！",
+            "startLabel": "开始挑战 +20 经验",
+            "declineLabel": "下次再说"
+          },
+          "initialInterlude": {
+            "id": "en-zh-l4-review-intro",
+            "afterQuestionID": "",
+            "text": "一起来复习一下之前你不太熟练的部分吧！"
+          },
+          "interludes": [
+            {
+              "id": "en-zh-l4-hard-intro",
+              "afterQuestionID": "en-zh-l4-q4",
+              "text": "来试试这个等级里最有挑战性的练习吧！"
+            }
+          ],
+          "settlement": [
+            {
+              "id": "en-zh-l4-complete",
+              "kind": "result",
+              "title": "挑战完成！",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 20
+            },
+            {
+              "id": "en-zh-l4-score",
+              "kind": "score",
+              "title": "离提升你的英语分数又近了一步！",
+              "continueLabel": "继续"
+            },
+            {
+              "id": "en-zh-l4-streak",
+              "kind": "streak",
+              "title": "连胜战绩",
+              "body": "天天小练，连胜不断；一天不练，连胜不见！",
+              "continueLabel": "我可以！",
+              "secondaryLabel": "回顾本单元",
+              "observedStreak": 2
+            },
+            {
+              "id": "en-zh-l4-xp-boost",
+              "kind": "reward",
+              "title": "到手一个经验宝！",
+              "body": "恭喜你完成了这个等级！接下来 15 分钟里，做单元练习可得双倍经验！",
+              "continueLabel": "继续"
+            },
+            {
+              "id": "en-zh-l4-legendary",
+              "kind": "legendary",
+              "title": "来向我们展示你的传奇实力吧",
+              "body": "完成这个超硬核挑战，晋升到传奇等级！",
+              "continueLabel": "不，谢谢",
+              "secondaryLabel": "开始 +80 经验"
+            },
+            {
+              "id": "en-zh-l4-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ]
+        },
+        {
+          "id": "lesson-5",
+          "title": "第 1/4 单元",
+          "questions": [
+            {
+              "id": "en-zh-l5-q0",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-d31187d46242529622a3.mp3",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "kind": "word_tiles",
+              "hint": "Coffee, please!",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-2",
+                  "text": "热茶"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1"
+              ],
+              "correctFeedback": "正确！"
+            },
+            {
+              "id": "en-zh-l5-q1",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "zh",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "word_tiles",
+              "hint": "欢迎",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "welcome",
+                  "audioResource": "en-speech-a9271060ddf61d4fb125.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "hello",
+                  "audioResource": "en-speech-d6ec181db90697c9a6b3.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "correctFeedback": "真棒！"
+            },
+            {
+              "id": "en-zh-l5-q2",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "p0",
+                  "left": "1",
+                  "right": "热",
+                  "audioResource": "en-speech-81635783a3ad9a682e95.mp3"
+                },
+                {
+                  "id": "p1",
+                  "left": "2",
+                  "right": "咖啡",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                },
+                {
+                  "id": "p2",
+                  "left": "3",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-ad867f71befeaa037b20.mp3"
+                },
+                {
+                  "id": "p3",
+                  "left": "4",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                }
+              ],
+              "rightOrder": [
+                "p3",
+                "p0",
+                "p2",
+                "p1"
+              ],
+              "explanation": "",
+              "correctFeedback": "真厉害！"
+            },
+            {
+              "id": "en-zh-l5-q3",
+              "kind": "text_entry",
+              "sourceType": "listenComplete",
+              "prompt": "输入所缺单词",
+              "answer": "Tea",
+              "hint": null,
+              "completionPrefix": "",
+              "completionSuffix": " or coffee?",
+              "explanation": "意思是： 茶还是咖啡？",
+              "audioResource": "en-speech-d72470a1af80f775a193.mp3",
+              "slowAudioResource": "en-speech-70fbd755922d8d241368.mp3",
+              "correctFeedback": "太棒了！"
+            },
+            {
+              "id": "en-zh-l5-q4",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "zh",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "kind": "word_tiles",
+              "hint": "我想要茶，谢谢。",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "you're welcome",
+                  "audioResource": "en-speech-4cedea3537eef7bc2c23.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "like",
+                  "audioResource": "en-speech-ece60bd43b41ea02fc68.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "tea",
+                  "audioResource": "en-speech-c23af371d004b27a8597.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "please",
+                  "audioResource": "en-speech-e07971f18194246213e7.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "I'd",
+                  "audioResource": "en-speech-7a674c6380f6e9f0bb22.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-1",
+                "word-2",
+                "word-3"
+              ],
+              "correctFeedback": "非常好！"
+            },
+            {
+              "id": "en-zh-l5-q5",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "prompt": "输入所缺单词",
+              "answer": "tea",
+              "hint": "我想要茶。",
+              "completionPrefix": "I'd like ",
+              "completionSuffix": ".",
+              "explanation": "",
+              "correctFeedback": "你太棒了！"
+            },
+            {
+              "id": "en-zh-l5-adaptive7",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "Coffee, please.",
+              "sourceLanguage": "en",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-1",
+                  "text": "不客气"
+                },
+                {
+                  "id": "word-2",
+                  "text": "咖啡"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-0"
+              ],
+              "explanation": "",
+              "correctFeedback": "不错哦！"
+            },
+            {
+              "id": "en-zh-l5-q7",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "prompt": "输入所缺单词",
+              "answer": "hot",
+              "hint": "热茶",
+              "completionPrefix": "",
+              "completionSuffix": " tea",
+              "explanation": "",
+              "correctFeedback": "正确！"
+            },
+            {
+              "id": "en-zh-l5-q8",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "p0",
+                  "left": "1",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                },
+                {
+                  "id": "p1",
+                  "left": "2",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "p2",
+                  "left": "3",
+                  "right": "咖啡",
+                  "audioResource": "en-speech-1c0b0ca0aaac2febdf32.mp3"
+                },
+                {
+                  "id": "p3",
+                  "left": "4",
+                  "right": "热",
+                  "audioResource": "en-speech-8a0d9ca5f303c427a11e.mp3"
+                }
+              ],
+              "rightOrder": [
+                "p0",
+                "p3",
+                "p1",
+                "p2"
+              ],
+              "explanation": "",
+              "correctFeedback": "不错哦！"
+            },
+            {
+              "id": "en-zh-l5-adaptive9",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "tea",
+              "sourceLanguage": "en",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "热咖啡"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "explanation": "",
+              "correctFeedback": "真厉害！"
+            },
+            {
+              "id": "en-zh-l5-q10",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-dc37d7ce5276db122aae.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "word_tiles",
+              "hint": "coffee",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "热"
+                },
+                {
+                  "id": "word-1",
+                  "text": "咖啡"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ],
+              "correctFeedback": "真棒！"
+            },
+            {
+              "id": "en-zh-l5-q11",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "p0",
+                  "left": "1",
+                  "right": "热",
+                  "audioResource": "en-speech-8a0d9ca5f303c427a11e.mp3"
+                },
+                {
+                  "id": "p1",
+                  "left": "2",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "p2",
+                  "left": "3",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                },
+                {
+                  "id": "p3",
+                  "left": "4",
+                  "right": "咖啡",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                }
+              ],
+              "rightOrder": [
+                "p3",
+                "p2",
+                "p0",
+                "p1"
+              ],
+              "explanation": "",
+              "correctFeedback": "非常好！"
+            },
+            {
+              "id": "en-zh-l5-q12",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "zh",
+              "characterResource": "en-image-cf56f9ea0c179f90206b",
+              "kind": "word_tiles",
+              "hint": "咖啡还是茶？",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "Coffee",
+                  "audioResource": "en-speech-5026fc3659592c366031.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "with",
+                  "audioResource": "en-speech-ce4153eb73b6390fa7bc.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "or",
+                  "audioResource": "en-speech-a11f06a90d8a58f7e9ee.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "tea",
+                  "audioResource": "en-speech-9cb4485a68ef1401ad39.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2",
+                "word-3"
+              ],
+              "correctFeedback": "太棒了！"
+            },
+            {
+              "id": "en-zh-l5-adaptive13",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "Tea, please!",
+              "sourceLanguage": "en",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-2",
+                  "text": "不客气"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-1"
+              ],
+              "explanation": "",
+              "correctFeedback": "太棒了！"
+            },
+            {
+              "id": "en-zh-l5-q14",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "prompt": "输入所缺单词",
+              "answer": "coffee",
+              "hint": "热茶还是咖啡？",
+              "completionPrefix": "Hot tea or ",
+              "completionSuffix": "?",
+              "explanation": "",
+              "correctFeedback": "真棒！"
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "en-zh-l5-speech6",
+              "beforeQuestionID": "en-zh-l5-adaptive7",
+              "title": "朗读下面的句子",
+              "phrase": "I'd like hot coffee.",
+              "audioResource": "en-speech-5fc1f27790c73cb71724.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复"
+            }
+          ],
+          "reviewInterlude": {
+            "id": "en-zh-l5-review-intro",
+            "afterQuestionID": "en-zh-l5-q14",
+            "text": "一起来复习一下之前你不太熟练的部分吧！"
+          },
+          "settlement": [
+            {
+              "id": "en-zh-l5-complete",
+              "kind": "result",
+              "title": "你莫不是特工？",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 13,
+              "observedAccuracy": 94,
+              "observedMistakes": 2,
+              "body": "本单元中，你完成了 4 项听力挑战",
+              "accuracyLabel": "棒棒哒！"
+            },
+            {
+              "id": "en-zh-l5-daily-quests",
+              "kind": "daily_quests",
+              "title": "所有每日特别任务都完成啦！",
+              "body": "获取 30 经验",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元"
+            },
+            {
+              "id": "en-zh-l5-gems",
+              "kind": "gems",
+              "title": "你赚取了 5 颗宝石！",
+              "body": "完成每日目标真不容易哦！",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元"
+            },
+            {
+              "id": "en-zh-l5-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ]
+        },
+        {
+          "id": "lesson-6",
+          "title": "第 2/4 单元",
+          "questions": [
+            {
+              "id": "en-zh-l6-q0",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "zh",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "kind": "word_tiles",
+              "hint": "牛奶",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "milk",
+                  "audioResource": "en-speech-09912932f7ffb9962c1d.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "goodbye",
+                  "audioResource": "en-speech-b8061861c8e117906917.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "correctFeedback": "不错哦！"
+            },
+            {
+              "id": "en-zh-l6-q1",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "newWord": false,
+              "explanation": "",
+              "sourceLanguage": "en",
+              "audioResource": "en-speech-a842c881c2abbe3a91fe.mp3",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "kind": "word_tiles",
+              "hint": "Hello.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "点"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "correctFeedback": "好棒！"
+            },
+            {
+              "id": "en-zh-l6-listening",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "p0",
+                  "left": "1",
+                  "right": "你好",
+                  "audioResource": "en-speech-175251e533d17144cadd.mp3"
+                },
+                {
+                  "id": "p1",
+                  "left": "2",
+                  "right": "热",
+                  "audioResource": "en-speech-81635783a3ad9a682e95.mp3"
+                },
+                {
+                  "id": "p2",
+                  "left": "3",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                },
+                {
+                  "id": "p3",
+                  "left": "4",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-a5435999aadda4575a48.mp3"
+                }
+              ],
+              "rightOrder": [
+                "p0",
+                "p1",
+                "p2",
+                "p3"
+              ],
+              "explanation": "",
+              "listeningDecline": {
+                "label": "现在不做听力题",
+                "title": "听力题已跳过",
+                "body": "将在 15 分钟后恢复"
+              }
+            },
+            {
+              "id": "en-zh-l6-adaptive",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "coffee with milk",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "牛奶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "我"
+                },
+                {
+                  "id": "word-2",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-3",
+                  "text": "加"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-3",
+                "word-0"
+              ],
+              "explanation": "",
+              "sourceLanguage": "en",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "correctFeedback": "你太棒了！"
+            },
+            {
+              "id": "en-zh-l6-fill",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "prompt": "输入所缺单词",
+              "hint": "咖啡加牛奶",
+              "answer": "milk",
+              "completionPrefix": "coffee with ",
+              "completionSuffix": "",
+              "explanation": "",
+              "correctFeedback": "好棒！"
+            },
+            {
+              "id": "en-zh-l6-sugar",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "sugar",
+              "words": [
+                {
+                  "id": "w0",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "w1",
+                  "text": "糖"
+                }
+              ],
+              "answer_words": [
+                "w1"
+              ],
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "feedbackReportReasons": [
+                "音频听起来不正确",
+                "提示有误",
+                "缺少音频",
+                "提示缺失",
+                "我的答案不应被接受",
+                "其他问题"
+              ]
+            },
+            {
+              "id": "en-zh-l6-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "你太棒了！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "hint": "tea with sugar",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "想要"
+                },
+                {
+                  "id": "word-2",
+                  "text": "加糖"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-2"
+              ],
+              "sourceLanguage": "en"
+            },
+            {
+              "id": "en-zh-l6-q7",
+              "prompt": "输入所缺单词",
+              "explanation": "",
+              "correctFeedback": "你太棒了！",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "hint": "早上好，咖啡加牛奶，谢谢。",
+              "answer": "milk",
+              "completionPrefix": "Good morning, coffee with ",
+              "completionSuffix": ", please.",
+              "characterResource": "en-image-250713e426e55dbf7608"
+            },
+            {
+              "id": "en-zh-l6-q8",
+              "prompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "hint": "早上好，我想再来一些咖啡，谢谢。",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "I'd"
+                },
+                {
+                  "id": "word-1",
+                  "text": "more"
+                },
+                {
+                  "id": "word-2",
+                  "text": "please"
+                },
+                {
+                  "id": "word-3",
+                  "text": "morning"
+                },
+                {
+                  "id": "word-4",
+                  "text": "Good"
+                },
+                {
+                  "id": "word-5",
+                  "text": "like"
+                },
+                {
+                  "id": "word-6",
+                  "text": "coffee"
+                },
+                {
+                  "id": "word-7",
+                  "text": "water"
+                }
+              ],
+              "answer_words": [
+                "word-4",
+                "word-3",
+                "word-0",
+                "word-5",
+                "word-1",
+                "word-6",
+                "word-2"
+              ],
+              "sourceLanguage": "zh"
+            },
+            {
+              "id": "en-zh-l6-q9",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "好棒！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "hint": "coffee with sugar",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "一些"
+                },
+                {
+                  "id": "word-1",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-2",
+                  "text": "加糖"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2"
+              ],
+              "sourceLanguage": "en"
+            },
+            {
+              "id": "en-zh-l6-q10",
+              "prompt": "输入所缺单词",
+              "explanation": "",
+              "correctFeedback": "不错哦！",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "hint": "糖还是牛奶？",
+              "answer": "milk",
+              "completionPrefix": "Sugar or ",
+              "completionSuffix": "?",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798"
+            },
+            {
+              "id": "en-zh-l6-q11",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "hint": "Hello!",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "再"
+                },
+                {
+                  "id": "word-1",
+                  "text": "你好"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ],
+              "sourceLanguage": "en"
+            },
+            {
+              "id": "en-zh-l6-q12",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "hint": "hello",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "还是"
+                },
+                {
+                  "id": "word-1",
+                  "text": "你好"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ],
+              "sourceLanguage": "en"
+            },
+            {
+              "id": "en-zh-l6-q13",
+              "prompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "好棒！",
+              "kind": "text_entry",
+              "sourceType": "translate",
+              "hint": "早上好，我想要咖啡，谢谢。",
+              "answer": "Good morning, I'd like coffee, please.",
+              "indicator": "挑战题"
+            },
+            {
+              "id": "en-zh-l6-q14",
+              "prompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "真厉害！",
+              "kind": "text_entry",
+              "sourceType": "translate",
+              "hint": "你好，我想再来点咖啡，谢谢。",
+              "answer": "Hello, I'd like more coffee, please.",
+              "indicator": "挑战题"
+            },
+            {
+              "id": "en-zh-l6-q15",
+              "prompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "kind": "text_entry",
+              "sourceType": "translate",
+              "hint": "早上好，我想再来一些茶，谢谢。",
+              "answer": "Good morning, I'd like more tea, please.",
+              "indicator": "挑战题"
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "en-zh-l6-speech",
+              "beforeQuestionID": "en-zh-l6-q9",
+              "title": "朗读下面的句子",
+              "phrase": "coffee with sugar",
+              "audioResource": "en-speech-be434d385dc8c6e3c88b.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复"
+            }
+          ],
+          "interludes": [
+            {
+              "id": "en-zh-l6-challenge-entry",
+              "afterQuestionID": "en-zh-l6-q12",
+              "text": "哎哟不错哦！要不要玩点刺激的？"
+            }
+          ],
+          "settlement": [
+            {
+              "id": "en-zh-l6-complete",
+              "kind": "result",
+              "title": "完美！",
+              "body": "你练习全对，无错完成本单元",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 15,
+              "observedAccuracy": 100,
+              "observedMistakes": 0,
+              "accuracyLabel": "超级棒"
+            },
+            {
+              "id": "en-zh-l6-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ]
+        },
+        {
+          "id": "lesson-7",
+          "title": "第 3/4 单元",
+          "questions": [
+            {
+              "id": "en-zh-l7-q0",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "prompt": "用中文（简体）写出这句话",
+              "hint": "tea and coffee",
+              "words": [
+                {
+                  "id": "0",
+                  "text": "谢谢你"
+                },
+                {
+                  "id": "1",
+                  "text": "和"
+                },
+                {
+                  "id": "2",
+                  "text": "茶"
+                },
+                {
+                  "id": "3",
+                  "text": "咖啡"
+                }
+              ],
+              "answer_words": [
+                "2",
+                "1",
+                "3"
+              ],
+              "explanation": "",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "skipLabel": "跳过",
+              "skipCorrectText": "茶和咖啡",
+              "correctFeedback": "真厉害！",
+              "audioResource": "en-speech-c82aee4567c1ee0f47d2.mp3",
+              "reviewWordOrder": [
+                "1",
+                "2",
+                "3",
+                "0"
+              ]
+            },
+            {
+              "id": "en-zh-l7-q1",
+              "kind": "word_tiles",
+              "prompt": "用英语写出这句话",
+              "hint": "谢谢。",
+              "sourceType": "translate",
+              "sourceLanguage": "zh",
+              "words": [
+                {
+                  "id": "0",
+                  "text": "Thank"
+                },
+                {
+                  "id": "1",
+                  "text": "you"
+                },
+                {
+                  "id": "2",
+                  "text": "and"
+                }
+              ],
+              "answer_words": [
+                "0",
+                "1"
+              ],
+              "keyboardAnswer": "Thank you.",
+              "keyboardPrompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "characterResource": "en-image-cf56f9ea0c179f90206b",
+              "skipLabel": "跳过",
+              "sourceObservationPhase": "empty"
+            },
+            {
+              "id": "en-zh-l7-q2",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "0",
+                  "left": "1",
+                  "right": "热",
+                  "audioResource": "en-speech-81635783a3ad9a682e95.mp3"
+                },
+                {
+                  "id": "1",
+                  "left": "2",
+                  "right": "牛奶",
+                  "audioResource": "en-speech-4c12f0d5e25afb8b430e.mp3"
+                },
+                {
+                  "id": "2",
+                  "left": "3",
+                  "right": "再见",
+                  "audioResource": "en-speech-5e034e2f5e841a67ea89.mp3"
+                },
+                {
+                  "id": "3",
+                  "left": "4",
+                  "right": "欢迎",
+                  "audioResource": "en-speech-ad867f71befeaa037b20.mp3"
+                }
+              ],
+              "rightOrder": [
+                "1",
+                "2",
+                "0",
+                "3"
+              ],
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "listeningDecline": {
+                "label": "现在不做听力题",
+                "title": "听力练习已关闭",
+                "body": "将在 15 分钟后恢复"
+              }
+            },
+            {
+              "id": "en-zh-l7-q3",
+              "kind": "choice",
+              "sourceType": "listenIsolation",
+              "prompt": "选择音频填空",
+              "hint": "No __, please.",
+              "options": [
+                {
+                  "id": "0",
+                  "text": "1",
+                  "imageResource": "en-seventh-isolation-wave-1"
+                },
+                {
+                  "id": "1",
+                  "text": "2",
+                  "imageResource": "en-seventh-isolation-wave-2",
+                  "audioResource": "en-speech-826663acdf1f5adb325f.mp3",
+                  "correctImageResource": "en-seventh-isolation-wave-2-correct"
+                }
+              ],
+              "answer": "1",
+              "audioResource": "en-speech-c0f82c04c7b53cac1881.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "correctFeedback": "好棒！",
+              "explanation": "意思是： 不要冰，谢谢。",
+              "feedbackHint": "No ice, please."
+            },
+            {
+              "id": "en-zh-l7-q4",
+              "kind": "text_entry",
+              "prompt": "输入所缺单词",
+              "hint": "我想要水和咖啡，谢谢。",
+              "sourceType": "completeReverseTranslation",
+              "completionPrefix": "I'd like water ",
+              "completionSuffix": " coffee, please.",
+              "answer": "and",
+              "keyboardAnswer": "I'd like water and coffee, please.",
+              "keyboardPrompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "skipLabel": "跳过",
+              "sourceObservationPhase": "empty"
+            },
+            {
+              "id": "en-zh-l7-q5",
+              "kind": "matching",
+              "sourceType": "listenMatch",
+              "prompt": "选择配对",
+              "pairs": [
+                {
+                  "id": "0",
+                  "left": "1",
+                  "right": "再见",
+                  "audioResource": "en-speech-9896e3409d629097d12d.mp3"
+                },
+                {
+                  "id": "1",
+                  "left": "2",
+                  "right": "咖啡",
+                  "audioResource": "en-speech-6fb85e2316dac3c53313.mp3"
+                },
+                {
+                  "id": "2",
+                  "left": "3",
+                  "right": "冰",
+                  "audioResource": "en-speech-e7cab8ab74be8fdfba45.mp3"
+                },
+                {
+                  "id": "3",
+                  "left": "4",
+                  "right": "茶",
+                  "audioResource": "en-speech-f8128990d7407023c51b.mp3"
+                }
+              ],
+              "rightOrder": [
+                "1",
+                "3",
+                "2",
+                "0"
+              ],
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "listeningDecline": {
+                "label": "现在不做听力题",
+                "title": "听力练习已关闭",
+                "body": "将在 15 分钟后恢复"
+              }
+            },
+            {
+              "id": "en-zh-l7-q6",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "sourceLanguage": "zh",
+              "hint": "不要咖啡，谢谢。",
+              "words": [
+                {
+                  "id": "0",
+                  "text": "No"
+                },
+                {
+                  "id": "1",
+                  "text": "coffee"
+                },
+                {
+                  "id": "2",
+                  "text": "thank"
+                },
+                {
+                  "id": "3",
+                  "text": "you"
+                },
+                {
+                  "id": "4",
+                  "text": "or"
+                }
+              ],
+              "answer_words": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "keyboardAnswer": "No coffee, thank you.",
+              "keyboardPrompt": "用英语写出这句话",
+              "explanation": "",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "correctFeedback": "泰裤辣！",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "en-zh-l7-q7",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "prompt": "输入所缺单词",
+              "hint": "加冰吗？",
+              "answer": "ice",
+              "completionPrefix": "With ",
+              "completionSuffix": "?",
+              "keyboardAnswer": "With ice?",
+              "keyboardPrompt": "用英语写出这句话",
+              "explanation": "",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "correctFeedback": "真厉害！",
+              "skipLabel": "跳过"
+            },
+            {
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "prompt": "用英语写出这句话",
+              "explanation": "",
+              "hint": "不加糖，谢谢。",
+              "sourceLanguage": "zh",
+              "words": [
+                {
+                  "id": "0",
+                  "text": "No",
+                  "audioResource": "en-speech-c4b9ec8795df429e067f.mp3"
+                },
+                {
+                  "id": "1",
+                  "text": "sugar",
+                  "audioResource": "en-speech-7533cc34fba86f763967.mp3"
+                },
+                {
+                  "id": "2",
+                  "text": "thank",
+                  "audioResource": "en-speech-098a5c4b4f955bbbbe0c.mp3"
+                },
+                {
+                  "id": "3",
+                  "text": "you",
+                  "audioResource": "en-speech-50cf1693afc59fe8b4e2.mp3"
+                },
+                {
+                  "id": "4",
+                  "text": "please",
+                  "audioResource": "en-speech-32b892375012da16a37f.mp3"
+                }
+              ],
+              "answer_words": [
+                "0",
+                "1",
+                "2",
+                "3"
+              ],
+              "keyboardAnswer": "No sugar, thank you.",
+              "keyboardPrompt": "用英语写出这句话",
+              "characterResource": "en-image-fa984d7fc75dcfa4bc25",
+              "id": "en-zh-l7-q8",
+              "correctFeedback": "不错哦！",
+              "skipLabel": "跳过"
+            },
+            {
+              "kind": "text_entry",
+              "sourceType": "listenComplete",
+              "prompt": "输入所缺单词",
+              "explanation": "意思是： 不加糖，谢谢。",
+              "answer": "No",
+              "completionPrefix": "",
+              "completionSuffix": " sugar, thank you.",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "id": "en-zh-l7-q9",
+              "correctFeedback": "太棒了！",
+              "audioResource": "en-speech-5bc48b00e247714c0634.mp3",
+              "slowAudioResource": "en-speech-54d95aa02903b599f07f.mp3"
+            },
+            {
+              "id": "en-zh-l7-q10-inserted",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "hint": "Thank you.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-1",
+                  "text": "再见"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "en-zh-l7-q11",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "太棒了！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "hint": "coffee and tea",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-1",
+                  "text": "咖啡"
+                },
+                {
+                  "id": "word-2",
+                  "text": "和"
+                },
+                {
+                  "id": "word-3",
+                  "text": "加冰"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2",
+                "word-0"
+              ],
+              "characterResource": "en-image-cf56f9ea0c179f90206b",
+              "audioResource": "en-speech-3be73109ed7a0f4bb128.mp3",
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "en-zh-l7-q12",
+              "prompt": "输入所缺单词",
+              "explanation": "意思是： 谢谢， 再见！",
+              "correctFeedback": "你太棒了！",
+              "kind": "text_entry",
+              "sourceType": "listenComplete",
+              "answer": "goodbye",
+              "completionPrefix": "Thank you, ",
+              "completionSuffix": "!",
+              "characterResource": "en-image-aea31ef9b72326cf846e",
+              "audioResource": "en-speech-ffddb71fa2f51fcc6bec.mp3",
+              "slowAudioResource": "en-speech-0891bbdc5cf085a026d3.mp3"
+            },
+            {
+              "id": "en-zh-l7-q13-replacement",
+              "prompt": "用中文（简体）写出这句话",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "kind": "word_tiles",
+              "sourceType": "translate",
+              "sourceLanguage": "en",
+              "hint": "Goodbye.",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "再见"
+                },
+                {
+                  "id": "word-1",
+                  "text": "加冰"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "skipLabel": "跳过"
+            },
+            {
+              "id": "en-zh-l7-q14",
+              "prompt": "用英语写出这句话",
+              "explanation": "",
+              "correctFeedback": "正确！",
+              "kind": "text_entry",
+              "sourceType": "completeReverseTranslation",
+              "answer": "and",
+              "completionPrefix": "I'd like coffee with milk ",
+              "completionSuffix": " sugar.",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "hint": "我想要加牛奶和糖的咖啡。",
+              "keyboardAnswer": "I'd like coffee with milk and sugar.",
+              "keyboardPrompt": "用英语写出这句话",
+              "skipLabel": "跳过"
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "en-zh-l7-q10-speech",
+              "beforeQuestionID": "en-zh-l7-q10-inserted",
+              "title": "朗读下面的句子",
+              "phrase": "Good morning, hot coffee or with ice?",
+              "audioResource": "en-speech-369e038d7400a87abb3c.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复"
+            }
+          ],
+          "reviewInterlude": {
+            "id": "en-zh-l7-review-intro",
+            "afterQuestionID": "en-zh-l7-q14",
+            "text": "一起来复习一下之前你不太熟练的部分吧！"
+          },
+          "settlement": [
+            {
+              "id": "en-zh-l7-result",
+              "kind": "result",
+              "title": "完美！",
+              "body": "你练习全对，无错完成本单元",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元",
+              "experience": 15,
+              "observedAccuracy": 100,
+              "observedMistakes": 0,
+              "accuracyLabel": "超级棒"
+            },
+            {
+              "id": "en-zh-l7-achievement",
+              "kind": "achievement",
+              "title": "先贤成就等级已提升！",
+              "levelLabel": "第 2 级",
+              "body": "你赚取了 100 经验",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元"
+            },
+            {
+              "id": "en-zh-l7-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ]
+        },
+        {
+          "id": "lesson-8",
+          "title": "提供或接受饮料",
+          "questions": [
+            {
+              "id": "level-review-q0",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "棒棒哒！",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "hint": "谢谢， 再见！",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "Thank",
+                  "audioResource": "en-speech-f67c1033829d92cd1477.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "milk",
+                  "audioResource": "en-speech-c367b3c81aea1f83891c.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "goodbye",
+                  "audioResource": "en-speech-beff29f625f9479ace2d.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "you",
+                  "audioResource": "en-speech-57a89487fbeb8a2f56fa.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-0",
+                "word-3",
+                "word-2"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "谢谢， 再见！",
+                "correctAnswer": "Thank you, goodbye!",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q2",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "audioResource": "en-speech-dbd38a164a5a40601b18.mp3",
+              "characterResource": "en-image-19d527c8f3f0c4af501f",
+              "hint": "Thank you.",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "想要"
+                },
+                {
+                  "id": "word-1",
+                  "text": "谢谢"
+                }
+              ],
+              "answer_words": [
+                "word-1"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Thank you.",
+                "correctAnswer": "谢谢。",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q3",
+              "prompt": "用英语写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "hint": "早上好，咖啡加牛奶，谢谢。",
+              "sourceLanguage": "zh",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "coffee",
+                  "audioResource": "en-speech-87d596162a38eaaddcac.mp3"
+                },
+                {
+                  "id": "word-1",
+                  "text": "tea",
+                  "audioResource": "en-speech-cd84d5cf389296010966.mp3"
+                },
+                {
+                  "id": "word-2",
+                  "text": "Good",
+                  "audioResource": "en-speech-5c35936a10a7714f5f60.mp3"
+                },
+                {
+                  "id": "word-3",
+                  "text": "please",
+                  "audioResource": "en-speech-abeecdb9c6204cb5db15.mp3"
+                },
+                {
+                  "id": "word-4",
+                  "text": "milk",
+                  "audioResource": "en-speech-e2b2165c9cead290adb8.mp3"
+                },
+                {
+                  "id": "word-5",
+                  "text": "with",
+                  "audioResource": "en-speech-2d42ba2513b5455d0a39.mp3"
+                },
+                {
+                  "id": "word-6",
+                  "text": "morning",
+                  "audioResource": "en-speech-b8db44d55be51656694c.mp3"
+                }
+              ],
+              "answer_words": [
+                "word-2",
+                "word-6",
+                "word-0",
+                "word-5",
+                "word-4",
+                "word-3"
+              ],
+              "resultReview": {
+                "title": "翻译成英语：",
+                "prompt": "早上好，咖啡加牛奶，谢谢。",
+                "correctAnswer": "Good morning, coffee with milk, please.",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q4",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-c3ebd55b34b69e1603fb.mp3",
+              "characterResource": "en-image-5aa9fe06793b0d65b0c1",
+              "hint": "hello",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "你好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "再见"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "hello",
+                "correctAnswer": "你好",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q5",
+              "prompt": "用英语写出这句话",
+              "sourceType": "completeReverseTranslation",
+              "explanation": "",
+              "correctFeedback": "泰裤辣！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "kind": "text_entry",
+              "hint": "茶加糖",
+              "answer": "tea with sugar",
+              "resultReview": {
+                "title": "完成翻译",
+                "prompt": "茶加糖",
+                "correctAnswer": "tea with sugar",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q6",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "好棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-c82aee4567c1ee0f47d2.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "hint": "tea and coffee",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "谢谢"
+                },
+                {
+                  "id": "word-1",
+                  "text": "茶"
+                },
+                {
+                  "id": "word-2",
+                  "text": "和"
+                },
+                {
+                  "id": "word-3",
+                  "text": "咖啡"
+                }
+              ],
+              "answer_words": [
+                "word-1",
+                "word-2",
+                "word-3"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "tea and coffee",
+                "correctAnswer": "茶和咖啡",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q7",
+              "prompt": "用英语写出这句话",
+              "sourceType": "completeReverseTranslation",
+              "explanation": "",
+              "correctFeedback": "真厉害！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "text_entry",
+              "hint": "我想要加牛奶和糖的咖啡。",
+              "answer": "I'd like coffee with milk and sugar.",
+              "resultReview": {
+                "title": "完成翻译",
+                "prompt": "我想要加牛奶和糖的咖啡。",
+                "correctAnswer": "I'd like coffee with milk and sugar.",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q8",
+              "prompt": "用中文（简体）写出这句话",
+              "sourceType": "translate",
+              "explanation": "",
+              "correctFeedback": "真厉害！",
+              "audioResource": "en-speech-fe1c54e51e569e9ca91b.mp3",
+              "characterResource": "en-image-2185ab058ad2813ae3aa",
+              "hint": "Good morning!",
+              "sourceLanguage": "en",
+              "kind": "word_tiles",
+              "words": [
+                {
+                  "id": "word-0",
+                  "text": "早上好"
+                },
+                {
+                  "id": "word-1",
+                  "text": "商场"
+                }
+              ],
+              "answer_words": [
+                "word-0"
+              ],
+              "resultReview": {
+                "title": "翻译成中文（简体）：",
+                "prompt": "Good morning!",
+                "correctAnswer": "早上好！",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q9",
+              "prompt": "用英语写出这句话",
+              "sourceType": "completeReverseTranslation",
+              "explanation": "",
+              "correctFeedback": "真棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-250713e426e55dbf7608",
+              "kind": "text_entry",
+              "hint": "我想要糖和牛奶，谢谢。",
+              "answer": "I'd like sugar and milk, please.",
+              "resultReview": {
+                "title": "完成翻译",
+                "prompt": "我想要糖和牛奶，谢谢。",
+                "correctAnswer": "I'd like sugar and milk, please.",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q10",
+              "prompt": "输入所缺单词",
+              "sourceType": "listenComplete",
+              "explanation": "",
+              "correctFeedback": "好棒！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-8d2e450cb6e9471cad4d.mp3",
+              "slowAudioResource": "en-speech-2ec00755060a4cbf426d.mp3",
+              "characterResource": "en-image-58f00fb33fb90339eef1",
+              "kind": "text_entry",
+              "answer": "and",
+              "completionPrefix": "water ",
+              "completionSuffix": " coffee",
+              "resultReview": {
+                "title": "输入所缺单词",
+                "prompt": "",
+                "correctAnswer": "water and coffee",
+                "audioResources": [
+                  "en-speech-8d2e450cb6e9471cad4d.mp3"
+                ]
+              }
+            },
+            {
+              "id": "level-review-q11",
+              "prompt": "用英语写出这句话",
+              "sourceType": "completeReverseTranslation",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "characterResource": "en-image-19d527c8f3f0c4af501f",
+              "kind": "text_entry",
+              "hint": "早上好，我想要水和茶。",
+              "answer": "Good morning, I'd like water and tea.",
+              "resultReview": {
+                "title": "完成翻译",
+                "prompt": "早上好，我想要水和茶。",
+                "correctAnswer": "Good morning, I'd like water and tea.",
+                "audioResources": []
+              }
+            },
+            {
+              "id": "level-review-q12",
+              "prompt": "输入所缺单词",
+              "sourceType": "listenComplete",
+              "explanation": "",
+              "correctFeedback": "非常好！",
+              "correctFeedbackAudioResource": "en-effect-086f72d3e2c92d602dfb.mp3",
+              "audioResource": "en-speech-c5cdc372e0df01fe311c.mp3",
+              "slowAudioResource": "en-speech-3e67f56f4608fa8d3d6c.mp3",
+              "characterResource": "en-image-0ada9bdf3a9dcb5f7798",
+              "kind": "text_entry",
+              "answer": "and",
+              "completionPrefix": "water ",
+              "completionSuffix": " tea",
+              "resultReview": {
+                "title": "输入所缺单词",
+                "prompt": "",
+                "correctAnswer": "water and tea",
+                "audioResources": [
+                  "en-speech-c5cdc372e0df01fe311c.mp3"
+                ]
+              }
+            }
+          ],
+          "deferredSpeech": [
+            {
+              "id": "level-review-speech",
+              "beforeQuestionID": "level-review-q2",
+              "title": "朗读下面的句子",
+              "phrase": "Thank you.",
+              "audioResource": "en-speech-dbd38a164a5a40601b18.mp3",
+              "declineLabel": "现在不做口语题",
+              "closedTitle": "麦克风已关闭",
+              "closedBody": "将在 15 分钟后恢复",
+              "resultReview": {
+                "title": "朗读下面的句子",
+                "prompt": "Thank you.",
+                "correctAnswer": "Thank you.",
+                "declinedAnswer": "Thank you.",
+                "audioResources": []
+              }
+            }
+          ],
+          "entry": {
+            "id": "level-review-entry",
+            "title": "来复习一下这个等级，完成后有惊喜哦！",
+            "startLabel": "开始挑战 +20 经验",
+            "declineLabel": "下次再说"
+          },
+          "settlement": [
+            {
+              "id": "level-review-result",
+              "kind": "result",
+              "title": "完美！",
+              "body": "你练习全对，无错完成本单元",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元"
+            },
+            {
+              "id": "eighth-score",
+              "kind": "score_progress",
+              "title": "离提升你的英语分数又近了一步！",
+              "levelLabel": "5",
+              "body": "5 → 6",
+              "continueLabel": "继续"
+            },
+            {
+              "id": "eighth-boost",
+              "kind": "boost",
+              "title": "到手一个经验宝！",
+              "body": "恭喜你完成了这个等级！接下来 15 分钟里，做单元练习可得双倍经验！",
+              "continueLabel": "继续",
+              "secondaryLabel": "回顾本单元"
+            },
+            {
+              "id": "eighth-legendary",
+              "kind": "legendary",
+              "title": "来向我们展示你的传奇实力吧",
+              "body": "完成这个超硬核挑战，晋升到传奇等级！",
+              "continueLabel": "不，谢谢",
+              "secondaryLabel": "开始 +80 经验"
+            },
+            {
+              "id": "eighth-profile",
+              "kind": "profile",
+              "title": "来创建你的个人档案吧！",
+              "body": "创建档案就能保存学习进度，随时都可以继续免费学习后续内容。",
+              "continueLabel": "稍后再说",
+              "secondaryLabel": "创建档案"
+            }
+          ]
+        }
+      ],
+      "home": {
+        "sectionTitle": "第 1 阶段，第 1 部分",
+        "firstNodeLessonCount": 4,
+        "pathKinds": [
+          "lesson",
+          "lesson",
+          "chest",
+          "practice",
+          "review"
+        ],
+        "nextSectionTitle": "谈论祖籍国家",
+        "flagResource": "en-home-56c79be7b1d61ed14ae1",
+        "pronunciationResource": "en-home-aeaed872934441d62638",
+        "progressSnapshots": [
+          {
+            "completedLessons": 1,
+            "gems": 505
+          },
+          {
+            "completedLessons": 2,
+            "gems": 505
+          },
+          {
+            "completedLessons": 3,
+            "gems": 505,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "18 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8"
+          },
+          {
+            "completedLessons": 4,
+            "gems": 505,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "17 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8"
+          },
+          {
+            "completedLessons": 5,
+            "gems": 510,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "16 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8",
+            "questTarget": 30,
+            "questProgress": 30
+          },
+          {
+            "completedLessons": 6,
+            "gems": 510,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "12 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8",
+            "questTarget": 30,
+            "questProgress": 30,
+            "streak": 2,
+            "questCountdown": "14 小时"
+          },
+          {
+            "completedLessons": 7,
+            "gems": 510,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "13 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8",
+            "questTarget": 30,
+            "questProgress": 30
+          },
+          {
+            "completedLessons": 8,
+            "gems": 510,
+            "leagueTitle": "青铜等级",
+            "leagueLink": "查看排行榜",
+            "leagueMessage": "这周的排行榜挑战赛即将开始！",
+            "leagueCountdown": "4 小时",
+            "leagueResource": "en-home-d117c9828737ee14ecd8",
+            "questTarget": 30,
+            "questProgress": 30,
+            "streak": 2,
+            "leagueCountdownEndEpochMilliseconds": 1791712800000
+          }
+        ],
+        "completedNodeResource": "en-home-f2788b0113d027425034",
+        "completedNodeCenters": [
+          56.5,
+          147.3515625,
+          259.2265625,
+          357.1015625,
+          433.953125
+        ],
+        "completedPathHeight": 526.1484375,
+        "pathChest": {
+          "id": "unit-1-chest",
+          "afterLessonIDs": [
+            "lesson-1",
+            "lesson-2",
+            "lesson-3",
+            "lesson-4",
+            "lesson-5",
+            "lesson-6",
+            "lesson-7",
+            "lesson-8"
+          ],
+          "beforeGems": 510,
+          "afterGems": 525,
+          "readyResource": "en-chest-213ec7c3549f8648004e",
+          "openedResource": "en-chest-e8e36821ba8c1d8f2eb3",
+          "readyCenters": [
+            56.5,
+            133.3515625,
+            231.2265625,
+            329.1015625,
+            405.953125
+          ],
+          "openedCenters": [
+            56.5,
+            133.3515625,
+            231.2265625,
+            343.1015625,
+            433.953125
+          ],
+          "readyHeight": 498.1484375,
+          "openedHeight": 526.1484375,
+          "readyImageOffset": 5,
+          "openedImageOffset": -6
+        }
+      },
+      "pathNodes": [
+        {
+          "kind": "lesson",
+          "lessonIDs": [
+            "lesson-1",
+            "lesson-2",
+            "lesson-3",
+            "lesson-4"
+          ],
+          "lessonCount": 4
+        },
+        {
+          "kind": "lesson",
+          "lessonIDs": [
+            "lesson-5",
+            "lesson-6",
+            "lesson-7",
+            "lesson-8"
+          ],
+          "lessonCount": 4
+        },
+        {
+          "kind": "chest",
+          "lessonIDs": []
+        },
+        {
+          "kind": "practice",
+          "lessonIDs": []
+        },
+        {
+          "kind": "review",
+          "lessonIDs": []
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "source": "v12 lessons unchanged; actual first-path chest and eight-completion snapshot; observed leaderboard deadline and countdown clock v1",
+    "evidence": [
+      "projects/duolingo-web/evidence/english-chest-v1/README.md",
+      "projects/duolingo-web/evidence/english-home-clock-v1/source-clock.json"
+    ],
+    "unknown": "Other chest amounts, animations/audio timing, subsequent Practice challenges and leaderboard interruption recurrence"
+  }
+}

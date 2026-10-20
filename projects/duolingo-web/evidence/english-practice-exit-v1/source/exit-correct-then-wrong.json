@@ -1,0 +1,6 @@
+{
+  "at": "2026-10-11T00:27:16.845Z",
+  "feedback": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 pot\" [checked] [disabled]:\n    - text: 1 pot\n    - img\n    - img\n  - radio \"2 pet\" [disabled]:\n    - text: 2 pet\n    - img\n    - img\n- heading \"还不太准确，再多听几次吧！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
+  "confirmation": true,
+  "after": "- button:\n  - img\n- progressbar\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 deck\":\n    - text: 1 deck\n    - img\n    - img\n  - radio \"2 dock\":\n    - text: 2 dock\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\" [disabled]\n- img\n- text: 等等，先别走！现在离开的话，你的进度就没了！\n- button \"继续努力\"\n- button \"退出\""
+}

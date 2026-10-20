@@ -1,0 +1,5 @@
+{
+  "before": "- img\n- img\n- heading \"到手一个经验宝！\" [level=2]\n- text: 恭喜你完成了这个等级！接下来 15 分钟里，做单元练习可得双倍经验！\n- button \"回顾本单元\"\n- button \"继续\"",
+  "after": "- img\n- heading \"来向我们展示你的传奇实力吧\" [level=2]\n- text: 完成这个超硬核挑战，晋升到传奇等级！\n- link \"开始 +80 经验\":\n  - /url: /lesson/unit/1/legendary/1\n- button \"不，谢谢\"\n- button \"继续\"",
+  "url": "https://www.duolingo.com/lesson"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "challenge challenge-speak",
+  "snapshot": "- button:\n  - img\n- progressbar\n- img\n- text: \"4\"\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\":\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- button \"现在不做口语题\"\n- button \"检查\" [disabled]",
+  "text": "朗读下面的句子\nI'd like hot coffee.\n点击并开始录音",
+  "fields": [
+    {
+      "test": "challenge-header",
+      "text": "朗读下面的句子"
+    },
+    {
+      "test": "hint-token",
+      "text": ""
+    },
+    {
+      "test": "hint-token",
+      "text": ""
+    },
+    {
+      "test": "hint-token",
+      "text": ""
+    },
+    {
+      "test": "hint-token",
+      "text": ""
+    }
+  ],
+  "observed_at": "2026-10-10T16:54:46.876Z"
+}

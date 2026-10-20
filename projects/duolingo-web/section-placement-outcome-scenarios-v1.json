@@ -1,0 +1,296 @@
+{
+  "journeys": [
+    {
+      "id": "observed-stage2-accepted-instance",
+      "steps": [
+        {
+          "native_action": "nav-learn"
+        },
+        {
+          "native_action": "open-sections"
+        },
+        {
+          "native_action": "sections-jump-2",
+          "state": "placement-intro"
+        },
+        {
+          "native_action": "section-placement-start",
+          "state": "placement-2-q0-before"
+        },
+        {
+          "native_action": "option-option-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q0-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-encouragement-0"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "placement-2-q1-before"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q1-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q2-before"
+        },
+        {
+          "native_action": "option-option-0"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q2-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q3-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q3-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-encouragement-1"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "placement-2-q4-before"
+        },
+        {
+          "native_action": "option-option-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q4-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q5-before"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q5-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q6-before"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-6"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q6-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q7-before"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q7-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-encouragement-2"
+        },
+        {
+          "native_action": "interlude-continue",
+          "state": "placement-2-q8-before"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-6"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "word-bank-word-2"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q8-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q9-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "This spider is my pet!"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q9-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q10-before"
+        },
+        {
+          "native_action": "word-bank-word-4"
+        },
+        {
+          "native_action": "word-bank-word-0"
+        },
+        {
+          "native_action": "word-bank-word-1"
+        },
+        {
+          "native_action": "word-bank-word-5"
+        },
+        {
+          "native_action": "word-bank-word-3"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q10-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q11-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "Yes, me too."
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q11-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q12-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "four"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q12-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q13-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "Don't worry, my dogs are quiet."
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q13-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-2-q14-before"
+        },
+        {
+          "native_action": "answer-input",
+          "operation": "fill",
+          "text": "Max, do you have a pet?"
+        },
+        {
+          "native_action": "check",
+          "state": "placement-2-q14-feedback"
+        },
+        {
+          "native_action": "continue",
+          "state": "placement-result"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "placement-score"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "placement-quests"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "placement-gems"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "placement-profile"
+        },
+        {
+          "native_action": "settlement-continue",
+          "state": "placement-return"
+        },
+        {
+          "native_action": "sections-continue-2",
+          "state": "sections-stage2-home"
+        },
+        {
+          "native_action": "path-chest",
+          "operation": "restart",
+          "state": "stage2-home-after-restart"
+        },
+        {
+          "native_action": "open-sections",
+          "state": "stage2-sections-after-restart"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Actual accepted stage2 instance; source unlock outcome frozen explicitly, not a general scoring rule",
+    "Source reload/navigation also showed daily quest0/50; this discrepancy remains open",
+    "Stage2 course path/content and exact images/audio are still incomplete"
+  ]
+}

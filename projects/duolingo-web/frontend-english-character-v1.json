@@ -1,0 +1,121 @@
+{
+  "revision": "actual-Bea-renderer-v1",
+  "scope": "Actual source character geometry and state, with fidelity gaps explicit",
+  "requirements": [
+    {
+      "id": "en-zh-render-q0-heading",
+      "state": "en-zh-render-q0",
+      "kind": "accessible_text",
+      "text": "用英语写出这句话",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-hint",
+      "state": "en-zh-render-q0",
+      "kind": "accessible_text",
+      "text": "牛奶",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-geometry",
+      "state": "en-zh-render-q0",
+      "kind": "element_geometry",
+      "element": "question-character",
+      "rect": [
+        301.8055419921875,
+        161,
+        118,
+        175
+      ],
+      "tolerance_points": 0,
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-feedback",
+      "state": "en-zh-render-q0-feedback",
+      "kind": "accessible_text",
+      "text": "不错哦！",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-visual",
+      "state": "en-zh-render-q0",
+      "kind": "pending",
+      "description": "visual equality remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-source-animation-timing",
+      "state": "en-zh-render-q0",
+      "kind": "pending",
+      "description": "source-animation-timing equality remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-actual-audio",
+      "state": "en-zh-render-q0",
+      "kind": "pending",
+      "description": "actual-audio equality remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-wrong-feedback",
+      "state": "en-zh-render-q0",
+      "kind": "pending",
+      "description": "wrong-feedback equality remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    },
+    {
+      "id": "en-zh-render-q0-mouth-sync",
+      "state": "en-zh-render-q0",
+      "kind": "pending",
+      "description": "mouth-sync equality remains unverified",
+      "evidence": [
+        "projects/duolingo-web/evidence/english-character-render-v1/sixth-session.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-idle.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/bea-correct.json",
+        "projects/duolingo-web/evidence/english-character-render-v1/asset-verification.json"
+      ]
+    }
+  ]
+}

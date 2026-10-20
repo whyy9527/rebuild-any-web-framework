@@ -1,0 +1,10 @@
+{
+  "source": "Manual reading of actual settled PNG; AX animated parents contain all 0–9, not displayed values",
+  "evidence": "projects/duolingo-web/evidence/english-seventh-v1/seventh-completion-settled.png",
+  "title": "完美！",
+  "body": "你练习全对，无错完成本单元",
+  "experience": 15,
+  "accuracy": 100,
+  "skip_included_in_review": true,
+  "skip_counted_as_settlement_mistake": false
+}

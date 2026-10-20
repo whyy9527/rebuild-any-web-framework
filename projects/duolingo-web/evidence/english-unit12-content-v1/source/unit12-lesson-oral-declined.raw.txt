@@ -1,0 +1,15 @@
+### Result
+{"path":"/lesson","snapshot":"- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\" [disabled]:\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- heading \"麦克风已关闭\" [level=2]\n- text: 将在 15 分钟后恢复\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\""}
+### Ran Playwright code
+```js
+await (async page=>{await page.getByRole("button",{name:"现在不做口语题",exact:true}).click({timeout:10000});await page.getByText("麦克风已关闭",{exact:true}).waitFor({state:"visible",timeout:10000});return {path:new URL(page.url()).pathname,snapshot:await page.locator("body").ariaSnapshot()}})(page);
+```
+### Open tabs
+- 0: [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+- 1: (current) [多邻国 - 学得轻松，学有所成的英语 课程！](https://www.duolingo.com/lesson)
+### Page
+- Page URL: https://www.duolingo.com/lesson
+- Page Title: 多邻国 - 学得轻松，学有所成的英语 课程！
+- Console: 29 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli/console-2026-10-11T19-01-01-875Z.log#L106

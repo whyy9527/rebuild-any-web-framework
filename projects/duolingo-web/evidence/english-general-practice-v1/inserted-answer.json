@@ -1,0 +1,27 @@
+{
+  "before": "- button:\n  - img\n- progressbar\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"谢谢你\"\n- button \"谢谢\"\n- button \"茶\"\n- button \"跳过\"\n- button \"检查\" [disabled]",
+  "text": "用中文（简体）写出这句话\nTea, please.\n谢谢你\n谢谢\n茶",
+  "prompts": [
+    "Tea, please."
+  ],
+  "choices": [
+    "谢谢你",
+    "谢谢",
+    "茶"
+  ],
+  "images": [],
+  "clicks": [
+    {
+      "word": "茶",
+      "occurrence": 0
+    },
+    {
+      "word": "谢谢",
+      "occurrence": 0
+    }
+  ],
+  "feedback": "- button:\n  - img\n- progressbar:\n  - text: 连对 8 题\n  - img\n- heading \"用中文（简体）写出这句话\" [level=1]\n- button:\n  - img\n- img\n- button \"谢谢你\" [disabled]\n- button \"谢谢\" [disabled]\n- button \"茶\" [disabled]\n- heading \"你太棒了！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"茶\" [disabled]\n- button \"谢谢\" [disabled]",
+  "rejected": false,
+  "next_action": "Receipt saved before transition. Inspect acceptance then continue separately; no assumed next question.",
+  "observed_at": "2026-10-11T01:36:06.546Z"
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "kind": "dream_rsi_verification",
+  "scope": "protocol correctness; no App ROI or paper benchmarks",
+  "developer": "current Codex session; no nested model",
+  "fixed_protocol": "165916a1f331db44c242899b09ac54feada7890c8716ad0ff9f047f2464ae636",
+  "versions": [
+    {
+      "version": 0,
+      "status": "evaluated",
+      "score": 0.575,
+      "code_sha256": "5ad4f13a6f683605c72995515ea3e60f4876c2bf108bb5a73a3846e7495ca370"
+    },
+    {
+      "version": 1,
+      "status": "evaluated",
+      "score": 0.45,
+      "code_sha256": "bf087f754f99aab92e9656aaf7f1f5e9d1f9de1dc2d4905fac77c2d71a325373"
+    },
+    {
+      "version": 2,
+      "status": "evaluated",
+      "score": 0.5816666666666667,
+      "code_sha256": "13b3e98c95736d1ac177b2999feeacaee8320cea9afaf7fb4f8b613e96f0d023"
+    }
+  ],
+  "selection": 2,
+  "selected_sha256": "13b3e98c95736d1ac177b2999feeacaee8320cea9afaf7fb4f8b613e96f0d023",
+  "next_deployed_sha256": "13b3e98c95736d1ac177b2999feeacaee8320cea9afaf7fb4f8b613e96f0d023",
+  "tree_nodes": [
+    5,
+    4
+  ],
+  "tree_sha256": [
+    "797a94f52bca5fe5341c01507ee2b8d13b4e3dfafaf507b1bb5b732cd97995f1",
+    "4fe69c45b8d21a6f15488b8eccf87e5a44747bd42e65feb16217bac3b54dee53"
+  ],
+  "actual_generation_calls": 7,
+  "actual_evaluator_calls": 7,
+  "offline_generation_calls": 0,
+  "offline_evaluator_calls": 0,
+  "all_world_scores": [
+    0.5816666666666667,
+    0.45666666666666667
+  ],
+  "all_world_mean": 0.5191666666666667,
+  "history_context_worlds": 1,
+  "second_round_batches": [
+    {
+      "parents": [
+        "r"
+      ],
+      "revealed": [
+        "n1"
+      ]
+    },
+    {
+      "parents": [
+        "n1",
+        "r"
+      ],
+      "revealed": [
+        "n2",
+        "n3"
+      ]
+    }
+  ],
+  "local_evidence": "artifacts/dream-rsi-main-session",
+  "evaluation_sha256": "1a28f9a169cba49c8bb0e5cb5f18f7aaa38a3169f88adf281857bdca9866afa8",
+  "all_worlds_evaluation_sha256": "f6cfde1540aae41a7bba271e396af78987b134a38cf5bd488ead5bf92df88038"
+}

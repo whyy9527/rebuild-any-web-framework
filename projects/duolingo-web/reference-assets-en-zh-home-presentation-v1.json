@@ -1,0 +1,11 @@
+[
+  {
+    "name": "en-home-completed-highlight",
+    "kind": "image",
+    "source_file": "en-home-completed-highlight.svg",
+    "render_width": 56,
+    "render_height": 46,
+    "source_evidence": "projects/duolingo-web/evidence/english-chest-v1/source/reloaded.json",
+    "resolved_color": "rgb(114, 214, 39)"
+  }
+]

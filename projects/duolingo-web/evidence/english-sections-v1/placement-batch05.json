@@ -1,0 +1,1277 @@
+{
+  "session": {
+    "source": "Current rendered challenges; no initial-session or future-sequence read",
+    "challenges": [
+      {
+        "index": 0,
+        "content": {
+          "choices": [
+            {
+              "text": "dog",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/21a6c5a25cfc783936b3e3293d93bac8"
+            },
+            {
+              "text": "scarf",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/1543c2d6db303cb9ccc1577269e4574a"
+            },
+            {
+              "text": "gate",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/277dd86351384a4f0feb2f36abea0af5"
+            },
+            {
+              "text": "menu",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/464d9cd4251811b8a58e6a5bdacea22a"
+            }
+          ],
+          "correctIndices": [
+            0
+          ],
+          "displayTokens": [
+            {
+              "text": "I",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "have",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "a",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "dog",
+              "isBlank": true
+            },
+            {
+              "text": ".",
+              "isBlank": false
+            }
+          ],
+          "tokens": [
+            {
+              "value": "I",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/03dcc7c765191c0c781bd5fbde068294",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "have",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/29f8735da94269208faec7b890d3c692",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "a",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/0fdd3c32a73dadc668afa67a2bbe9223",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "dog",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/21a6c5a25cfc783936b3e3293d93bac8",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "solutionTranslation": "我有一只狗。",
+          "image": {
+            "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/f0dd8027bf25c4adb7a615ef55619e9a"
+          },
+          "type": "tapComplete",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-tapComplete",
+          "visible_text": "填空\nI have a \n.\ndog\nscarf\ngate\nmenu",
+          "content": {
+            "choices": [
+              {
+                "text": "dog",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/21a6c5a25cfc783936b3e3293d93bac8"
+              },
+              {
+                "text": "scarf",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/1543c2d6db303cb9ccc1577269e4574a"
+              },
+              {
+                "text": "gate",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/277dd86351384a4f0feb2f36abea0af5"
+              },
+              {
+                "text": "menu",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/464d9cd4251811b8a58e6a5bdacea22a"
+              }
+            ],
+            "correctIndices": [
+              0
+            ],
+            "displayTokens": [
+              {
+                "text": "I",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "have",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "a",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "dog",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ],
+            "tokens": [
+              {
+                "value": "I",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/03dcc7c765191c0c781bd5fbde068294",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "have",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/29f8735da94269208faec7b890d3c692",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "a",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/0fdd3c32a73dadc668afa67a2bbe9223",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "dog",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/harrison/21a6c5a25cfc783936b3e3293d93bac8",
+                "hintTable": {}
+              },
+              {
+                "value": "."
+              }
+            ],
+            "solutionTranslation": "我有一只狗。",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/f0dd8027bf25c4adb7a615ef55619e9a"
+            },
+            "type": "tapComplete",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.image.pdf"
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "content": {
+          "prompt": "哦，你的猫非常可爱！",
+          "correctSolutions": [
+            "Oh, your cat is very cute!"
+          ],
+          "correctTokens": [
+            "Oh",
+            "your",
+            "cat",
+            "is",
+            "very",
+            "cute"
+          ],
+          "choices": [
+            {
+              "text": "Oh",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/4c8e440fe943cf53d6d01d6468dd5b2b"
+            },
+            {
+              "text": "your",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/33d7dc4a5ac995d158f67e634a43ea3c"
+            },
+            {
+              "text": "cat",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/ef49e57e9667f18af5b27f8d21b02489"
+            },
+            {
+              "text": "is",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0136f736dc42861ffbdf9002a183f8a2"
+            },
+            {
+              "text": "very",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/193723b74e41f079643282dd6698b957"
+            },
+            {
+              "text": "cute",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/f0e3f4eb4c8c0917acdc82e706e70651"
+            },
+            {
+              "text": "doctor",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/885e724d2d6d3d9b95e061ef9d0a8098"
+            }
+          ],
+          "correctIndices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "sourceLanguage": "zh",
+          "targetLanguage": "en",
+          "tokens": [
+            {
+              "value": "哦",
+              "hintTable": {}
+            },
+            {
+              "value": "，"
+            },
+            {
+              "value": "你",
+              "hintTable": {}
+            },
+            {
+              "value": "的",
+              "hintTable": {}
+            },
+            {
+              "value": "猫",
+              "hintTable": {}
+            },
+            {
+              "value": "非常",
+              "hintTable": {}
+            },
+            {
+              "value": "可爱",
+              "hintTable": {}
+            },
+            {
+              "value": "！"
+            }
+          ],
+          "character": {
+            "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f4adf80c0b6e9a0dc438f3ba8119703",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6d99bc8306bdaacc3c8acc911214c557"
+            },
+            "gender": "female",
+            "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_CORRECT_Cropped_Spin.json",
+            "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Pink_INCORRECT_Cropped.json",
+            "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_IDLE_Cropped.json",
+            "name": "ZARI",
+            "avatarIconImage": {
+              "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/zari_avatar_icon.svg"
+            }
+          },
+          "type": "translate",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-translate",
+          "visible_text": "用英语写出这句话\n哦，你的猫非常可爱！\nyour\nvery\ncute\ndoctor\ncat\nOh\nis",
+          "content": {
+            "prompt": "哦，你的猫非常可爱！",
+            "correctSolutions": [
+              "Oh, your cat is very cute!"
+            ],
+            "correctTokens": [
+              "Oh",
+              "your",
+              "cat",
+              "is",
+              "very",
+              "cute"
+            ],
+            "choices": [
+              {
+                "text": "Oh",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/4c8e440fe943cf53d6d01d6468dd5b2b"
+              },
+              {
+                "text": "your",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/33d7dc4a5ac995d158f67e634a43ea3c"
+              },
+              {
+                "text": "cat",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/ef49e57e9667f18af5b27f8d21b02489"
+              },
+              {
+                "text": "is",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0136f736dc42861ffbdf9002a183f8a2"
+              },
+              {
+                "text": "very",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/193723b74e41f079643282dd6698b957"
+              },
+              {
+                "text": "cute",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/f0e3f4eb4c8c0917acdc82e706e70651"
+              },
+              {
+                "text": "doctor",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/885e724d2d6d3d9b95e061ef9d0a8098"
+              }
+            ],
+            "correctIndices": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "sourceLanguage": "zh",
+            "targetLanguage": "en",
+            "tokens": [
+              {
+                "value": "哦",
+                "hintTable": {}
+              },
+              {
+                "value": "，"
+              },
+              {
+                "value": "你",
+                "hintTable": {}
+              },
+              {
+                "value": "的",
+                "hintTable": {}
+              },
+              {
+                "value": "猫",
+                "hintTable": {}
+              },
+              {
+                "value": "非常",
+                "hintTable": {}
+              },
+              {
+                "value": "可爱",
+                "hintTable": {}
+              },
+              {
+                "value": "！"
+              }
+            ],
+            "character": {
+              "url": "https://d2pur3iezf4d1j.cloudfront.net/images/3f4adf80c0b6e9a0dc438f3ba8119703",
+              "image": {
+                "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/6d99bc8306bdaacc3c8acc911214c557"
+              },
+              "gender": "female",
+              "correctAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_CORRECT_Cropped_Spin.json",
+              "incorrectAnimation": "https://simg-ssl.duolingo.com/lottie/Pink_INCORRECT_Cropped.json",
+              "idleAnimation": "https://simg-ssl.duolingo.com/lottie/Zari_IDLE_Cropped.json",
+              "name": "ZARI",
+              "avatarIconImage": {
+                "svg": "https://simg-ssl.duolingo.com/world-characters/avatars/zari_avatar_icon.svg"
+              }
+            },
+            "type": "translate",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.compactTranslations",
+            "challenge.0.wrongTokens",
+            "challenge.0.solutionTts",
+            "challenge.0.grader",
+            "challenge.0.speechContextTokens",
+            "challenge.0.taggedKcIds",
+            "challenge.0.challengeDisplaySettings",
+            "challenge.0.weakWordPromptRanges",
+            "challenge.0.isSpeakerUniversal",
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.sentenceId",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.worldCharacterShown",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.3.hintTable.headers",
+            "challenge.0.tokens.3.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.5.hintTable.headers",
+            "challenge.0.tokens.5.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.character.riveAnimation",
+            "challenge.0.character.image.pdf",
+            "challenge.0.character.avatarIconImage.pdf"
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "content": {
+          "choices": [
+            {
+              "text": "three",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f461a7105733a5877f4d446ae8320d04"
+            },
+            {
+              "text": "windy",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/5f70249c08dc0a079db1fe9f7dc10048"
+            },
+            {
+              "text": "two",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/4ce6a1bdb857065d977b7e824c584da8"
+            },
+            {
+              "text": "cloudy",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/da99670408a3bd28652848f303c050b3"
+            }
+          ],
+          "correctIndices": [
+            2
+          ],
+          "displayTokens": [
+            {
+              "text": "I",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "have",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "two",
+              "isBlank": true
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "smart",
+              "isBlank": false
+            },
+            {
+              "text": " ",
+              "isBlank": false
+            },
+            {
+              "text": "dogs",
+              "isBlank": false
+            },
+            {
+              "text": ".",
+              "isBlank": false
+            }
+          ],
+          "tokens": [
+            {
+              "value": "I",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/60ec70a2b9ab7a4020872094e01f5090",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "have",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/6512d074035e18a1aaaddc866c09f7b7",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "two",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/4ce6a1bdb857065d977b7e824c584da8",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "smart",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/0d85b50f346ac8a8752b479ca04df1b6",
+              "hintTable": {}
+            },
+            {
+              "value": " "
+            },
+            {
+              "value": "dogs",
+              "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/b13018e48fea50ff64c00e302be5b34a",
+              "hintTable": {}
+            },
+            {
+              "value": "."
+            }
+          ],
+          "solutionTranslation": "我有两只聪明的狗。",
+          "image": {
+            "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/cdb486061857c862ca77256502f9f604"
+          },
+          "type": "tapComplete",
+          "newWords": []
+        },
+        "current_observation": {
+          "dom_type": "challenge challenge-tapComplete",
+          "visible_text": "填空\nI have \n smart dogs.\nthree\nwindy\ntwo\ncloudy",
+          "content": {
+            "choices": [
+              {
+                "text": "three",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/f461a7105733a5877f4d446ae8320d04"
+              },
+              {
+                "text": "windy",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/5f70249c08dc0a079db1fe9f7dc10048"
+              },
+              {
+                "text": "two",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/4ce6a1bdb857065d977b7e824c584da8"
+              },
+              {
+                "text": "cloudy",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/da99670408a3bd28652848f303c050b3"
+              }
+            ],
+            "correctIndices": [
+              2
+            ],
+            "displayTokens": [
+              {
+                "text": "I",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "have",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "two",
+                "isBlank": true
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "smart",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": false
+              },
+              {
+                "text": "dogs",
+                "isBlank": false
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ],
+            "tokens": [
+              {
+                "value": "I",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/60ec70a2b9ab7a4020872094e01f5090",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "have",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/6512d074035e18a1aaaddc866c09f7b7",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "two",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/4ce6a1bdb857065d977b7e824c584da8",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "smart",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/0d85b50f346ac8a8752b479ca04df1b6",
+                "hintTable": {}
+              },
+              {
+                "value": " "
+              },
+              {
+                "value": "dogs",
+                "tts": "https://d1vq87e9lcf771.cloudfront.net/miranda/b13018e48fea50ff64c00e302be5b34a",
+                "hintTable": {}
+              },
+              {
+                "value": "."
+              }
+            ],
+            "solutionTranslation": "我有两只聪明的狗。",
+            "image": {
+              "svg": "https://d2pur3iezf4d1j.cloudfront.net/images/cdb486061857c862ca77256502f9f604"
+            },
+            "type": "tapComplete",
+            "newWords": []
+          },
+          "omitted_keys": [
+            "challenge.0.id",
+            "challenge.0.challengeResponseTrackingProperties",
+            "challenge.0.metadata",
+            "challenge.0.progressUpdates",
+            "challenge.0.challengeGeneratorIdentifier",
+            "challenge.0.startTime",
+            "challenge.0.tokens.0.hintTable.headers",
+            "challenge.0.tokens.0.hintTable.rows",
+            "challenge.0.tokens.2.hintTable.headers",
+            "challenge.0.tokens.2.hintTable.rows",
+            "challenge.0.tokens.4.hintTable.headers",
+            "challenge.0.tokens.4.hintTable.rows",
+            "challenge.0.tokens.6.hintTable.headers",
+            "challenge.0.tokens.6.hintTable.rows",
+            "challenge.0.tokens.8.hintTable.headers",
+            "challenge.0.tokens.8.hintTable.rows",
+            "challenge.0.image.pdf"
+          ]
+        }
+      }
+    ]
+  },
+  "observed": [
+    {
+      "index": 0,
+      "actions": [
+        {
+          "word": "dog"
+        }
+      ],
+      "type": "tapComplete",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"dog\"\n- button \"scarf\"\n- button \"gate\"\n- button \"menu\"\n- button \"检查\" [disabled]",
+      "heading": "填空",
+      "dom_type": "challenge challenge-tapComplete",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://d2pur3iezf4d1j.cloudfront.net/images/f0dd8027bf25c4adb7a615ef55619e9a"
+        }
+      ],
+      "media_before": [],
+      "screenshot_before": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-0-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "tapComplete",
+          "prompt": null,
+          "choices": [
+            "dog",
+            "scarf",
+            "gate",
+            "menu"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-tapComplete",
+          "text": "填空\nI have a \n.\ndog\nscarf\ngate\nmenu",
+          "choices": [
+            "dog",
+            "scarf",
+            "gate",
+            "menu"
+          ],
+          "prompts": [],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "填空"
+        },
+        {
+          "test": "dog-challenge-tap-token",
+          "text": "dog"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "dog"
+        },
+        {
+          "test": "scarf-challenge-tap-token",
+          "text": "scarf"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "scarf"
+        },
+        {
+          "test": "gate-challenge-tap-token",
+          "text": "gate"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "gate"
+        },
+        {
+          "test": "menu-challenge-tap-token",
+          "text": "menu"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "menu"
+        },
+        {
+          "test": "word-bank",
+          "text": "dogscarfgatemenu"
+        },
+        {
+          "test": "dog-challenge-tap-token",
+          "text": "dog"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "dog"
+        },
+        {
+          "test": "scarf-challenge-tap-token",
+          "text": "scarf"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "scarf"
+        },
+        {
+          "test": "gate-challenge-tap-token",
+          "text": "gate"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "gate"
+        },
+        {
+          "test": "menu-challenge-tap-token",
+          "text": "menu"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "menu"
+        }
+      ],
+      "word_bank": [
+        "dog",
+        "scarf",
+        "gate",
+        "menu"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"dog\" [disabled]\n- button \"scarf\" [disabled]\n- button \"gate\" [disabled]\n- button \"menu\" [disabled]\n- heading \"真棒！\" [level=2]\n- text: 意思是： 我有一只狗。\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"dog\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/harrison/21a6c5a25cfc783936b3e3293d93bac8",
+          "at": 24155966,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d35aaqx5ub95lt.cloudfront.net/sounds/37d8f0b39dcfe63872192c89653a93f6.mp3",
+          "at": 24156011,
+          "muted": false,
+          "volume": 0.35
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-0-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 1,
+      "actions": [
+        {
+          "word": "Oh",
+          "occurrence": 0
+        },
+        {
+          "word": "your",
+          "occurrence": 0
+        },
+        {
+          "word": "cat",
+          "occurrence": 0
+        },
+        {
+          "word": "is",
+          "occurrence": 0
+        },
+        {
+          "word": "very",
+          "occurrence": 0
+        },
+        {
+          "word": "cute",
+          "occurrence": 0
+        }
+      ],
+      "type": "translate",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"your\"\n- button \"very\"\n- button \"cute\"\n- button \"doctor\"\n- button \"cat\"\n- button \"Oh\"\n- button \"is\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]",
+      "heading": "用英语写出这句话",
+      "dom_type": "challenge challenge-translate",
+      "images": [],
+      "media_before": [
+        {
+          "src": "",
+          "at": 24156091,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 24156091,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "",
+          "at": 24156091,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-1-before.png",
+      "canvases": [
+        {
+          "source_frame": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-1-canvas-0.png",
+          "rect": {
+            "x": 291.72637939453125,
+            "y": 136.44033813476562,
+            "width": 135.70001220703125,
+            "height": 201.25
+          },
+          "pixels": [
+            118,
+            175
+          ]
+        }
+      ],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "translate",
+          "prompt": "哦，你的猫非常可爱！",
+          "choices": [
+            "Oh",
+            "your",
+            "cat",
+            "is",
+            "very",
+            "cute",
+            "doctor"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-translate",
+          "text": "用英语写出这句话\n哦，你的猫非常可爱！\nyour\nvery\ncute\ndoctor\ncat\nOh\nis",
+          "choices": [
+            "your",
+            "very",
+            "cute",
+            "doctor",
+            "cat",
+            "Oh",
+            "is"
+          ],
+          "prompts": [],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "用英语写出这句话"
+        },
+        {
+          "test": "word-bank",
+          "text": "yourverycutedoctorcatOhis"
+        },
+        {
+          "test": "your-challenge-tap-token",
+          "text": "your"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "your"
+        },
+        {
+          "test": "very-challenge-tap-token",
+          "text": "very"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "very"
+        },
+        {
+          "test": "cute-challenge-tap-token",
+          "text": "cute"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "cute"
+        },
+        {
+          "test": "doctor-challenge-tap-token",
+          "text": "doctor"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "doctor"
+        },
+        {
+          "test": "cat-challenge-tap-token",
+          "text": "cat"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "cat"
+        },
+        {
+          "test": "Oh-challenge-tap-token",
+          "text": "Oh"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "Oh"
+        },
+        {
+          "test": "is-challenge-tap-token",
+          "text": "is"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "is"
+        }
+      ],
+      "word_bank": [
+        "your",
+        "very",
+        "cute",
+        "doctor",
+        "cat",
+        "Oh",
+        "is"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"your\" [disabled]\n- button \"very\" [disabled]\n- button \"cute\" [disabled]\n- button \"doctor\" [disabled]\n- button \"cat\" [disabled]\n- button \"Oh\" [disabled]\n- button \"is\" [disabled]\n- heading \"棒棒哒！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"Oh\" [disabled]\n- button \"your\" [disabled]\n- button \"cat\" [disabled]\n- button \"is\" [disabled]\n- button \"very\" [disabled]\n- button \"cute\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/4c8e440fe943cf53d6d01d6468dd5b2b",
+          "at": 24156698,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/33d7dc4a5ac995d158f67e634a43ea3c",
+          "at": 24156732,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/ef49e57e9667f18af5b27f8d21b02489",
+          "at": 24156765,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/0136f736dc42861ffbdf9002a183f8a2",
+          "at": 24156799,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/193723b74e41f079643282dd6698b957",
+          "at": 24156832,
+          "muted": false,
+          "volume": 1
+        },
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/zarienminus5/f0e3f4eb4c8c0917acdc82e706e70651",
+          "at": 24156865,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-1-feedback.png",
+      "rejected": false
+    },
+    {
+      "index": 2,
+      "actions": [
+        {
+          "word": "two"
+        }
+      ],
+      "type": "tapComplete",
+      "before": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"three\"\n- button \"windy\"\n- button \"two\"\n- button \"cloudy\"\n- button \"检查\" [disabled]",
+      "heading": "填空",
+      "dom_type": "challenge challenge-tapComplete",
+      "images": [
+        {
+          "alt": "",
+          "src": "https://d2pur3iezf4d1j.cloudfront.net/images/cdb486061857c862ca77256502f9f604"
+        }
+      ],
+      "media_before": [
+        {
+          "src": "",
+          "at": 24156956,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_before": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-2-before.png",
+      "canvases": [],
+      "identity": {
+        "matches": true,
+        "reasons": [],
+        "expected": {
+          "type": "tapComplete",
+          "prompt": null,
+          "choices": [
+            "three",
+            "windy",
+            "two",
+            "cloudy"
+          ]
+        },
+        "actual": {
+          "type": "challenge challenge-tapComplete",
+          "text": "填空\nI have \n smart dogs.\nthree\nwindy\ntwo\ncloudy",
+          "choices": [
+            "three",
+            "windy",
+            "two",
+            "cloudy"
+          ],
+          "prompts": [],
+          "playedAudio": []
+        },
+        "prompt_check": "normalized presence in current challenge text; exact prompt identity not yet proven"
+      },
+      "dom_fields": [
+        {
+          "test": "challenge-header",
+          "text": "填空"
+        },
+        {
+          "test": "three-challenge-tap-token",
+          "text": "three"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "three"
+        },
+        {
+          "test": "windy-challenge-tap-token",
+          "text": "windy"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "windy"
+        },
+        {
+          "test": "two-challenge-tap-token",
+          "text": "two"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "two"
+        },
+        {
+          "test": "cloudy-challenge-tap-token",
+          "text": "cloudy"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "cloudy"
+        },
+        {
+          "test": "word-bank",
+          "text": "threewindytwocloudy"
+        },
+        {
+          "test": "three-challenge-tap-token",
+          "text": "three"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "three"
+        },
+        {
+          "test": "windy-challenge-tap-token",
+          "text": "windy"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "windy"
+        },
+        {
+          "test": "two-challenge-tap-token",
+          "text": "two"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "two"
+        },
+        {
+          "test": "cloudy-challenge-tap-token",
+          "text": "cloudy"
+        },
+        {
+          "test": "challenge-tap-token-text",
+          "text": "cloudy"
+        }
+      ],
+      "word_bank": [
+        "three",
+        "windy",
+        "two",
+        "cloudy"
+      ],
+      "feedback": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- img\n- button \"three\" [disabled]\n- button \"windy\" [disabled]\n- button \"two\" [disabled]\n- button \"cloudy\" [disabled]\n- heading \"不错哦！\" [level=2]\n- text: 意思是： 我有两只聪明的狗。\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"\n- button \"two\" [disabled]",
+      "media": [
+        {
+          "src": "https://d1vq87e9lcf771.cloudfront.net/miranda/4ce6a1bdb857065d977b7e824c584da8",
+          "at": 24157481,
+          "muted": false,
+          "volume": 1
+        }
+      ],
+      "screenshot_feedback": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-question-2-feedback.png",
+      "rejected": false
+    }
+  ],
+  "interludes": [
+    {
+      "index": 3,
+      "facts": {
+        "progress_count": 1,
+        "quit_count": 1,
+        "duo_count": 1,
+        "encouragement_messages": [
+          "佩服！"
+        ],
+        "review_entry_count": 0,
+        "review_entry_enabled": false,
+        "path": "/lesson/section/2/test",
+        "challenge_count": 0,
+        "challenge_visible": false,
+        "heading_count": 0,
+        "dialog_count": 0,
+        "next_text": "继续",
+        "continue_count": 1,
+        "continue_enabled": true,
+        "body_text": "佩服！\n继续"
+      },
+      "decision": {
+        "kind": "interlude",
+        "text": "佩服！"
+      },
+      "snapshot": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- text: 佩服！\n- button \"继续\"",
+      "screenshot": "projects/duolingo-web/evidence/english-sections-v1/source/sections-placement-batch05-interlude-3.png",
+      "action": "Actual observed introduction Continue"
+    }
+  ],
+  "failure": null,
+  "stopped": null,
+  "answered": 3,
+  "accepted": 3,
+  "step_budget": 4,
+  "steps_completed": 4,
+  "outcome": "current_steps_replayed",
+  "final": "- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"love\"\n- button \"more\"\n- button \"rabbits\"\n- button \"and\"\n- button \"I\"\n- button \"cats\"\n- button \"my\"\n- img\n- text: 佩服！\n- button \"检查\" [disabled]",
+  "limitations": [
+    "Actual generated exercise observations; public solutions are not blind exploration evidence. Media invocations are not acoustic output evidence. Unknown result/profile pages are preserved without clicking Continue. Current-mode media_before contains only events since this invocation or the previous feedback; unrelated earlier history is not duplicated."
+  ],
+  "observed_at": "2026-10-11T16:13:31.002Z"
+}
