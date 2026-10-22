@@ -1,8 +1,0 @@
-{
-  "kind": "direct-CLI-action-receipt",
-  "input": "milk",
-  "label": "Good morning, coffee with , please.",
-  "before": "english-sixth-q7-before.json",
-  "feedback": "english-sixth-q7-feedback.json",
-  "method": "CLI fill f44e812 milk, then click f44e819; feedback captured before transition"
-}

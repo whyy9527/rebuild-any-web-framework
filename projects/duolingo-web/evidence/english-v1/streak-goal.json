@@ -1,9 +1,0 @@
-{
-  "before": "- img\n- text: 立下连胜目标，坚⁠持下⁠去！ 立下连胜目标，坚⁠持下⁠去！\n- img\n- radiogroup \"goal\":\n  - radio \"7 天连胜 小试牛刀\"\n  - radio \"14 天连胜 一展锋芒\"\n  - radio \"30 天连胜 长风破浪\"\n  - radio \"50 天连胜 势不可挡\"\n- button \"我可以！\" [disabled]",
-  "actions": [
-    "7 天连胜 小试牛刀",
-    "我可以！"
-  ],
-  "after": "- heading \"所有每日特别任务都完成啦！\" [level=2]\n- img\n- text: 获取 10 经验\n- progressbar: 0 / 10 0 / 10\n- img\n- img\n- text: 达成这个目标，你完成课程的可能性会高⁠2倍⁠！ 达成这个目标，你完成课程的可能性会高⁠2倍⁠！\n- img\n- radiogroup \"goal\":\n  - radio \"7 天连胜 小试牛刀\" [checked]\n  - radio \"14 天连胜 一展锋芒\"\n  - radio \"30 天连胜 长风破浪\"\n  - radio \"50 天连胜 势不可挡\"\n- button \"回顾本单元\"\n- button \"继续\"",
-  "fixture": "Anonymous exploration choice, not user preference"
-}

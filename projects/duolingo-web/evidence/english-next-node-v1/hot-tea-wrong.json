@@ -1,8 +1,0 @@
-{
-  "type": "challenge challenge-completeReverseTranslation",
-  "before": "- heading \"输入所缺单词\" [level=1]\n- img\n- textbox \"tea\"\n- text: tea",
-  "text": "输入所缺单词\n热茶\n tea",
-  "input": "cold",
-  "observed_at": "2026-10-10T17:03:56.407Z",
-  "feedback": "- button:\n  - img\n- progressbar\n- img\n- text: \"3\"\n- heading \"输入所缺单词\" [level=1]\n- img\n- textbox \"tea\" [disabled]: cold\n- text: tea\n- heading \"正确答案：\" [level=2]\n- text: hot tea\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\""
-}

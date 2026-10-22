@@ -1,6 +1,0 @@
-{
-  "name": "app-rebuild-duolingo-reference",
-  "private": true,
-  "type": "module",
-  "dependencies": { "playwright": "1.63.0" }
-}

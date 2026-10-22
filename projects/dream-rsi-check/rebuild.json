@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Dream-RSI protocol check",
-  "source": "Local executable fixture; no Duolingo exploration",
+  "source": "Local executable protocol fixture; no reference application",
   "target": "Section 3 replay and redeployment verification",
   "objective": "Verify historical replay and selected executable policy deployment",
   "completion": ["Algorithm and command protocol checks pass; this does not accept an App"],

@@ -1,6 +1,6 @@
 # Roadmap
 
-本页只维护 rebuild 仓库尚未完成的成果。Duolingo 试验已结束，案例状态与历史由[案例状态](../projects/duolingo-web/STATUS.md)和[历史索引](history/README.md)维护，不在此续写课程批次或运行 Goal 状态。
+本页只维护框架尚未完成的成果。已结束案例和原始实验见[退役索引](history/retirement-2026-10-22.md)，不在此恢复产品迭代或运行 Goal 状态。
 
 | 优先级 | 待完成成果 | 验收依据 |
 | --- | --- | --- |

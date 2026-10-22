@@ -1,5 +1,0 @@
-{
-  "before": "- img\n- heading \"来向我们展示你的传奇实力吧\" [level=2]\n- text: 完成这个超硬核挑战，晋升到传奇等级！\n- link \"开始 +80 经验\":\n  - /url: /lesson/unit/1/legendary/1\n- button \"不，谢谢\"\n- button \"继续\"",
-  "after": "- heading \"来创建你的个人档案吧！\" [level=1]\n- paragraph: 创建档案就能保存学习进度，随时都可以继续免费学习后续内容。\n- button \"创建档案\"\n- button \"稍后再说\"",
-  "url": "https://www.duolingo.com/lesson"
-}

@@ -25,8 +25,7 @@ REBUILD_BROWSER_EXECUTABLE=/path/to/chromium .venv/bin/python -m unittest tests.
 再用 `sync_playwright().chromium.executable_path` 取得路径传给上述环境变量。
 这只安装配套浏览器，不自动升级调用者的系统浏览器。所有自动验证无头运行；
 采集回执记录浏览器版本。锁文件不捆绑浏览器、模型或权重，不承诺不同浏览器
-版本的截图相同。Swift 样例的依赖由其 `Package.swift` 与
-`Package.resolved` 管理，构建及业务检查见[客户端入口](../projects/education-swift/README.md)。
+版本的截图相同。消费项目的语言工具链与业务依赖由其独立仓库声明；框架不捆绑 App 客户端。
 
 只有需要升级依赖时才重新生成锁文件（生成器不是运行依赖）：
 

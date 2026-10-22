@@ -1,5 +1,0 @@
-{
-  "before": "- heading \"所有每日特别任务都完成啦！\" [level=2]\n- img\n- text: 获取 10 经验\n- progressbar:\n  - text: 10 / 10 10 / 10\n  - img\n- img\n- button \"回顾本单元\"\n- button \"继续\"",
-  "action": "继续",
-  "after": "- heading \"你赚取了 5 颗宝石！\" [level=2]\n- text: 完成每日目标真不容易哦！\n- heading \"所有每日特别任务都完成啦！\" [level=2]\n- img\n- text: 获取 10 经验\n- progressbar:\n  - text: 10 / 10 10 / 10\n  - img\n- img\n- button \"回顾本单元\"\n- button \"继续\""
-}

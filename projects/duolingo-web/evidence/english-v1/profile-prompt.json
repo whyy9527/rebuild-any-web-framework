@@ -1,5 +1,0 @@
-{
-  "before": "- heading \"来创建你的个人档案吧！\" [level=1]\n- paragraph: 创建档案就能保存学习进度，随时都可以继续免费学习后续内容。\n- button \"创建档案\"\n- button \"稍后再说\"",
-  "action": "稍后再说",
-  "after": "- link:\n  - /url: /learn\n  - img\n- link \"学习\":\n  - /url: /learn\n  - img\n  - text: 学习\n- link \"发音\":\n  - /url: /characters\n  - img\n  - text: 发音\n- link \"排行榜\":\n  - /url: /leaderboard\n  - img\n  - text: 排行榜\n- link \"特别任务\":\n  - /url: /quests\n  - img\n  - text: 特别任务\n- link \"宝石小店\":\n  - /url: /shop\n  - img\n  - text: 宝石小店\n- link \"个人档案\":\n  - /url: /learn?sign-up\n  - img\n  - text: 个人档案\n- button \"更多\":\n  - img\n  - text: 更多\n- img"
-}

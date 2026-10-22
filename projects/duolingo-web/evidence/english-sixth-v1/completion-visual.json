@@ -1,9 +1,0 @@
-{
-  "kind": "manual-inspection-of-actual-source-PNG",
-  "evidence": "english-sixth-complete.png",
-  "title": "完美！",
-  "body": "你练习全对，无错完成本单元",
-  "experience": 15,
-  "accuracy": 100,
-  "limitation": "Animated score digits are all present in AX; selected score is read from actual rendered PNG, not a grader formula"
-}

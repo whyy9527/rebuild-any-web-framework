@@ -1,118 +1,127 @@
 import hashlib
 from pathlib import Path
+import subprocess
+import sys
 import tempfile
 import unittest
 
 from scripts.package_framework import adapt, export, git, selected
 
+SCRIPT = Path(__file__).resolve().parents[2] / 'scripts/package_framework.py'
+
+
 class FrameworkPackage(unittest.TestCase):
-    def test_public_agent_instructions_only_name_shipped_cases(self):
-        text = ('先遵循用户当前要求。Duolingo 试验已结束。方块杀手本轮已由用户于 '
-                '2026-10-21 结束，交付与评价见 `projects/block-killer/STATUS.md`；保留发布，不自动继续迭代。\n\n'
-                '浏览器 E2E 一律使用无头浏览器。')
-        result = adapt('AGENTS.md', text, 'source', 'duolingo-swift', 'owner/public')
-        self.assertIn('Duolingo 试验已结束', result)
-        self.assertIn('无头浏览器', result)
-        self.assertNotIn('block-killer', result)
+    def test_private_recovery_commands_are_not_public_instructions(self):
+        original = ('# Retirement\n\nSource maintainers may restore private history.\n'
+                    '```sh\ngit archive 781999b projects/duolingo-web | tar -x\n```\n'
+                    '## Research record\nThe experiment found no measured gain.\n')
+        public = adapt('docs/history/retirement-2026-10-22.md', original, 'source', 'owner/public')
+        self.assertNotIn('git archive', public)
+        self.assertNotIn('781999b', public)
+        self.assertIn('The experiment found no measured gain.', public)
+        self.assertEqual(adapt('docs/history/retirement-2026-10-22.md', original, 'source'), original)
 
-    def test_public_readme_keeps_sample_and_removes_private_workspace_notice(self):
-        text = ('# Framework\nThis private repository contains the complete working history and cases.\n'
-                '## Getting started\nprojects/duolingo-web/rebuild.json\n'
-                '## Case studies\n[Swift](projects/education-swift/README.md)\n'
-                '## Documentation and verification\n')
-        result = adapt('README.md', text, 'https://github.com/owner/private/tree/abc',
-                       'duolingo-swift', 'owner/public')
-        self.assertIn('projects/duolingo-web/rebuild.json', result)
-        self.assertIn('[Swift](projects/education-swift/README.md)', result)
-        self.assertIn('one Duolingo → Swift case', result)
-        self.assertNotIn('This private repository', result)
-        self.assertNotIn('https://github.com/owner/private', result)
-        chinese = adapt('README.zh-CN.md', '本私有仓库维护框架与复刻案例历史；\n## 开始使用\n',
-                        'https://github.com/owner/private/tree/abc', 'duolingo-swift', 'owner/public')
-        self.assertNotIn('本私有仓库', chinese)
+    def test_selection_contains_framework_and_synthetic_fixture_only(self):
+        for name in (
+                'runtime/dream.py',
+                'capabilities/rebuild/frontend.py',
+                'tests/rebuild/test_frontend.py',
+                'projects/dream-rsi-check/rebuild.json',
+                'projects/dream-rsi-check/worker.py'):
+            self.assertTrue(selected(name), name)
+        for name in (
+                'projects/example-app/rebuild.json',
+                'projects/native-client/Package.swift',
+                'projects/dream-rsi-check/private/key.json',
+                'tests/business_ablation/test_controls.py'):
+            self.assertFalse(selected(name), name)
 
-    def test_scope_keeps_runtime_fixture_but_excludes_cases_private_and_case_tests(self):
-        for name in ('runtime/dream.py', 'capabilities/rebuild/frontend.py',
-                     'tests/rebuild/test_dream.py', 'projects/dream-rsi-check/worker.py',
-                     'runtime/browser.py', 'capabilities/rebuild/browser.py', 'workflows/rebuild/browser.py',
-                     'tests/rebuild/test_browser_live.py', 'docs/BROWSER-CAPTURE.md', 'requirements.lock'):
-            self.assertTrue(selected(name))
-        for name in ('projects/excluded-app/private/local-auth.json', 'projects/duolingo-web/image.png',
-                     'projects/education-swift/Sources/LingoSeed/LearningView.swift',
-                     'tests/rebuild/test_exploration_tree.py', 'projects/dream-rsi-check/private/key.json'):
-            self.assertFalse(selected(name))
-
-    def test_sample_scope_keeps_app_and_replay_inputs_without_other_cases_or_full_history(self):
-        for name in ('projects/education-swift/Sources/LingoSeed/Resources/Reference/owl.riv',
-                     'projects/duolingo-web/rebuild.json', 'projects/duolingo-web/run-native-course.sh',
-                     'projects/duolingo-web/evidence/english-unit12-lesson4-v1/seed-progress.json'):
-            self.assertTrue(selected(name, 'duolingo-swift'))
-        for name in ('projects/other-app/app.py', 'projects/education-swift/.build/app',
-                     'projects/duolingo-web/private/session.json',
-                     'projects/duolingo-web/evidence/unrelated-session/cookies.json'):
-            self.assertFalse(selected(name, 'duolingo-swift'))
-
-    def test_committed_snapshot_preserves_framework_bytes_and_rejects_overwrite(self):
+    def test_sample_cli_flag_is_retired(self):
         with tempfile.TemporaryDirectory() as directory:
-            source = Path(directory) / 'source'
-            source.mkdir()
-            git(source, 'init', '-q')
-            samples = {'pyproject.toml': '[project]\nversion = "0.2.0"\n',
-                       'README.md': '# Fixture framework\n[中文](README.zh-CN.md)\n## Case studies\n[Case](projects/excluded-app/README.md)\n## Documentation and verification\n',
-                       'README.zh-CN.md': '# 框架\n[English](README.md)\n## Duolingo 实践\n[案例](projects/duolingo-web/README.md)\n## 文档与验证\n',
-                       'runtime/dream.py': '# committed runtime\n',
-                       'capabilities/rebuild/frontend.py': '# committed comparator\n',
-                       'projects/dream-rsi-check/worker.py': '# synthetic fixture\n'}
-            for name, text in samples.items():
-                path = source / name
-                path.parent.mkdir(parents=True, exist_ok=True)
-                path.write_text(text)
-            git(source, 'add', '--', *samples)
-            git(source, '-c', 'user.name=Fixture', '-c', 'user.email=fixture@example.invalid',
-                'commit', '-qm', 'fixture')
-            (source / 'runtime/dream.py').write_text('# unrelated dirty work\n')
-            output = Path(directory) / 'snapshot'
-            manifest = export(source, 'HEAD', output, 'whyy9527/rebuild-any-web')
-            for name in manifest['files']:
-                self.assertEqual(hashlib.sha256((output / name).read_bytes()).hexdigest(), manifest['files'][name])
-                if name.startswith(('capabilities/', 'runtime/')):
-                    self.assertEqual((output / name).read_bytes(), git(source, 'show', 'HEAD:' + name))
-            self.assertTrue(all(name.startswith('projects/dream-rsi-check/') for name in manifest['files'] if name.startswith('projects/')))
-            self.assertNotIn('projects/excluded-app', (output / 'README.md').read_text())
-            self.assertIn('## Distribution scope', (output / 'README.md').read_text())
-            self.assertIn('[中文](README.zh-CN.md)', (output / 'README.md').read_text())
-            self.assertIn('## 发行范围', (output / 'README.zh-CN.md').read_text())
-            self.assertNotIn('projects/duolingo-web/', (output / 'README.zh-CN.md').read_text())
-            with self.assertRaisesRegex(ValueError, 'new output'):
-                export(source, 'HEAD', output, 'whyy9527/rebuild-any-web')
+            result = subprocess.run(
+                [sys.executable, str(SCRIPT), '--out', str(Path(directory) / 'snapshot'),
+                 '--sample'], capture_output=True, text=True)
+            self.assertEqual(result.returncode, 2)
+            self.assertIn('unrecognized arguments', result.stderr)
+            self.assertFalse((Path(directory) / 'snapshot').exists())
 
-    def test_sample_exports_binary_bytes_and_executable_mode_from_commit(self):
+    def test_export_preserves_current_fixture_and_sanitizes_excluded_history(self):
         with tempfile.TemporaryDirectory() as directory:
-            root = Path(directory) / 'source'; root.mkdir()
+            root = Path(directory) / 'source'
+            root.mkdir()
             git(root, 'init', '-q')
-            files = {'pyproject.toml': b'[project]\nversion = "0.3.0"\n',
-                     'projects/duolingo-web/rebuild.json': b'{"inputs":{"frontend_contract":"projects/duolingo-web/contract.json"}}',
-                     'projects/duolingo-web/contract.json': b'{"reference_image":"projects/duolingo-web/evidence/older/reference.png","evidence":"projects/exploration-ablation/evidence/legacy.json"}',
-                     'projects/exploration-ablation/evidence/legacy.json': b'{"source":"observed Duolingo"}',
-                     'projects/duolingo-web/evidence/older/reference.png': b'\x89PNG\x00',
-                     'projects/duolingo-web/evidence/older/unrelated.png': b'excluded',
-                     'projects/education-swift/Sources/LingoSeed/Resources/Reference/owl.riv': b'\xff\x00\x80',
-                     'projects/duolingo-web/run-native-course.sh': b'#!/bin/sh\nexit 0\n',
-                     'projects/other-app/secret.txt': b'excluded'}
-            for name, data in files.items():
-                target = root / name; target.parent.mkdir(parents=True, exist_ok=True); target.write_bytes(data)
-            script = root / 'projects/duolingo-web/run-native-course.sh'; script.chmod(0o755)
-            git(root, 'add', '--', *files)
-            git(root, '-c', 'user.name=Fixture', '-c', 'user.email=fixture@example.invalid', 'commit', '-qm', 'fixture')
-            script.write_text('uncommitted change')
-            out = Path(directory) / 'public'
-            manifest = export(root, 'HEAD', out, 'owner/private', 'duolingo-swift', 'owner/public')
-            self.assertEqual(manifest['sample'], 'duolingo-swift')
-            self.assertFalse((out / 'projects/other-app').exists())
-            self.assertTrue((out / 'projects/duolingo-web/evidence/older/reference.png').exists())
-            self.assertTrue((out / 'projects/exploration-ablation/evidence/legacy.json').exists())
-            self.assertFalse((out / 'projects/duolingo-web/evidence/older/unrelated.png').exists())
-            for name, data in files.items():
-                if name in manifest['files']:
-                    self.assertEqual((out / name).read_bytes(), data)
-            self.assertEqual((out / script.relative_to(root)).stat().st_mode & 0o777, 0o755)
+            fixture_link = '[synthetic protocol config](../../projects/dream-rsi-check/rebuild.json)'
+            files = {
+                'pyproject.toml': '[project]\nversion = "0.4.1"\n',
+                'README.md': (
+                    '# Framework\n\nThis repository owns the framework, tests, and synthetic fixture. '
+                    'Product applications live in independent consumer repositories.\n'
+                    '## Getting started\nCreate an independent consumer workspace.\n'),
+                'README.zh-CN.md': (
+                    '# Framework\n\n本仓库维护框架和合成夹具。\n'
+                    '## 开始使用\n创建独立消费工作区。\n'),
+                'AGENTS.md': 'Use the locked framework environment.\n',
+                'CHANGELOG.md': '# Changelog\n',
+                'THIRD_PARTY_NOTICES.md': '# Licenses\n\nFramework dependency notices.\n',
+                'LICENSE': 'MIT fixture\n',
+                '.gitignore': 'private/\n',
+                'tests/__init__.py': '',
+                'scripts/package_framework.py': '# packager snapshot\n',
+                'capabilities/rebuild/frontend.py': '# framework comparator\n',
+                'runtime/dream.py': '# framework runtime\n',
+                'workflows/rebuild/WORKFLOW.md': '# framework workflow\n',
+                'workflows/rebuild/PROJECT.md': (
+                    '# Project configuration\n\n'
+                    f'The bundled fixture is linked here: {fixture_link}.\n'),
+                'tests/rebuild/test_frontend.py': '# generic test\n',
+                'tests/release/test_framework_package.py': '# release test\n',
+                'projects/dream-rsi-check/rebuild.json': '{"schema_version": 1}\n',
+                'projects/dream-rsi-check/worker.py': '# synthetic protocol fixture\n',
+                'projects/example-app/rebuild.json': '{}',
+                'projects/example-app/README.md': 'consumer app\n',
+                'projects/native-client/Package.swift': 'product source\n',
+                'projects/native-client/private/key.json': b'private credential',
+                'docs/history.md': (
+                    '[Source file](https://github.com/owner/private/blob/abc123/private/source.md)\n'
+                    '[Excluded path](../projects/native-client/Package.swift)\n'),
+            }
+            for name, content in files.items():
+                target = root / name
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(content if isinstance(content, bytes) else content.encode())
+            git(root, 'add', '--', *(name for name in files
+                                     if name != 'projects/native-client/private/key.json'))
+            git(root, 'add', '-f', '--', 'projects/native-client/private/key.json')
+            git(root, '-c', 'user.name=Fixture', '-c', 'user.email=fixture@example.invalid',
+                'commit', '-qm', 'framework fixture')
+
+            # The exporter reads the committed tree and ignores worktree modifications.
+            (root / 'runtime/dream.py').write_text('uncommitted change')
+            output = Path(directory) / 'public'
+            manifest = export(root, 'HEAD', output, 'owner/private', 'owner/public')
+            exported = set(manifest['files'])
+
+            project_paths = {name.split('/')[1] for name in exported if name.startswith('projects/')}
+            self.assertEqual(project_paths, {'dream-rsi-check'})
+            self.assertIn('projects/dream-rsi-check/rebuild.json', exported)
+            self.assertNotIn('projects/example-app/rebuild.json', exported)
+            self.assertNotIn('projects/native-client/Package.swift', exported)
+            self.assertNotIn('projects/native-client/private/key.json', exported)
+
+            for name, digest in manifest['files'].items():
+                self.assertEqual(hashlib.sha256((output / name).read_bytes()).hexdigest(), digest)
+            self.assertEqual((output / 'runtime/dream.py').read_text(), '# framework runtime\n')
+            project_doc = (output / 'workflows/rebuild/PROJECT.md').read_text()
+            self.assertIn(fixture_link, project_doc)
+            self.assertNotIn('projects/my-app/rebuild.json', project_doc)
+
+            history = (output / 'docs/history.md').read_text()
+            self.assertNotIn('github.com/owner/private/blob/', history)
+            self.assertEqual(history.count('历史证据未随公开发行'), 2)
+            readme = (output / 'README.md').read_text()
+            self.assertIn('Product applications live in independent consumer repositories.', readme)
+            self.assertIn('FRAMEWORK-SOURCE.json', readme)
+
+
+if __name__ == '__main__':
+    unittest.main()

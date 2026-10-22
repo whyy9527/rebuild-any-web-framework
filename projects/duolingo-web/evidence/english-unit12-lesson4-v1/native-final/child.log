@@ -1,4 +1,0 @@
-home-scroll offset=0.0 rightHeight=750.0 viewport=705.0
-2026-10-12 08:37:08.367 LingoSeed[51081:33672400] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
-2026-10-12 08:37:08.565 LingoSeed[51081:33672400] error messaging the mach port for IMKCFRunLoopWakeUpReliable
-home-scroll offset=0.0 rightHeight=750.0 viewport=705.0

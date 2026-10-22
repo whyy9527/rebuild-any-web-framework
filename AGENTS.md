@@ -4,7 +4,7 @@
 
 本仓库运行在 Codex 中：RSI 改进探索，E2E 是复刻模具，原生 Goal 管理目标及持续执行。用户要求重建 App 时读取 `workflows/rebuild/WORKFLOW.md`；已有案例读取其 `rebuild.json`。该工作流拥有执行方法，项目配置拥有目标与入口，当前原生 Goal 拥有运行完成判定，不另写 GOAL.md 或镜像任务状态。
 
-先遵循用户当前要求。用户结束案例试验后，只在授权范围内整理经验与仓库，不自动恢复案例探索。Duolingo 试验已结束，状态见 `projects/duolingo-web/STATUS.md`。
+先遵循用户当前要求。消费 App 在独立仓库实现，本仓库 `projects/` 仅保留合成协议夹具。Duolingo／Swift 与六组历史实验已退役，原始结果从 Git 历史恢复，入口见 `docs/history/retirement-2026-10-22.md`。方块杀手由 `xinxiayiyan/block-killer` 维护；已结束案例不自动恢复探索、发布或产品迭代。
 
 ## 探索与模具
 
@@ -17,7 +17,7 @@
 
 ## 职责与文档
 
-`capabilities/` 拥有断言、差异和探索历史工具，`runtime/` 拥有命令及宿主适配，`workflows/` 拥有方法和项目入口，`projects/` 拥有案例与证据。Codex 负责决策和编辑；项目 CLI 不创建第二套任务状态机。持续执行由原生 Goal 拥有；旧 Stop Hook 已删除，手动 MCP 验证工具不自动续跑。
+`capabilities/` 拥有断言、差异和探索历史工具，`runtime/` 拥有命令及宿主适配，`workflows/` 拥有方法和项目入口，`projects/` 拥有框架合成夹具；业务实现、契约与证据由独立消费项目拥有。Codex 负责决策和编辑；项目 CLI 不创建第二套任务状态机。持续执行由原生 Goal 拥有；旧 Stop Hook 已删除，手动 MCP 验证工具不自动续跑。
 
 README 只保留定位、开始使用和文档入口；哲学写原则，架构写当前职责，Roadmap 写未完成成果。批次进展与失败放案例证据／历史；项目当前契约和运行命令由 `rebuild.json` 指向，不在多个主文档手工维护版本号。
 

@@ -1,5 +1,0 @@
-{
-  "path": "/alphabets/en/pronunciation",
-  "selected": "- button:\n  - img\n- progressbar:\n  - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 dock\" [checked]:\n    - text: 1 dock\n    - img\n    - img\n  - radio \"2 deck\":\n    - text: 2 deck\n    - img\n    - img\n- button \"跳过\"\n- button \"检查\"",
-  "feedback": "- button:\n  - img\n- progressbar:\n  - img\n- heading \"你听到了什么？\" [level=1]\n- button:\n  - img\n- radiogroup \"choice\":\n  - radio \"1 dock\" [checked] [disabled]:\n    - text: 1 dock\n    - img\n    - img\n  - radio \"2 deck\" [disabled]:\n    - text: 2 deck\n    - img\n    - img\n- heading \"你练得一副好听力，厉害呀！\" [level=2]\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\""
-}

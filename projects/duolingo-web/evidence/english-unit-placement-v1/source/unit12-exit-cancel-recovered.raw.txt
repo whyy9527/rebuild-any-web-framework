@@ -1,6 +1,0 @@
-### Result
-"- button:\n  - img\n- progressbar\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- img\n- heading \"填空\" [level=1]\n- radiogroup \"choice\":\n  - radio \"1 rainy\":\n    - text: 1 rainy\n    - img\n    - img\n  - radio \"2 quiet\":\n    - text: 2 quiet\n    - img\n    - img\n  - radio \"3 red\":\n    - text: 3 red\n    - img\n    - img\n- button \"检查\" [disabled]\n- img\n- text: 等等，先别走！现在离开的话，你的进度就没了！\n- button \"继续努力\"\n- button \"退出\""
-### Ran Playwright code
-```js
-await (async page=>{await page.getByRole("button",{name:"继续努力",exact:true}).click();return await page.locator("body").ariaSnapshot();})(page);
-```

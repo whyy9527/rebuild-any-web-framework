@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 — 2026-10-22
+
+- Extract Block Killer into an independent private repository under `xinxiayiyan`; preserve its existing production URL.
+- Remove the ended Duolingo/Swift implementation, assets and case-only tests from the current tree and retire the sample export mode. Framework distributions now contain only framework code, methods, tests and the synthetic Dream-RSI fixture.
+- Retire six historical experiment trees. Preserve their findings, limitations and exact recovery commit through one history index; current tests and packaging no longer read those archives.
+- Update entrypoints, skills and license notices to the surviving owners. Historical releases remain historical and are not rewritten.
+
 ## 0.4.0 — 2026-10-22
 
 - Move the VALORANT predictor and S16 website into independent private repositories under `xinxiayiyan`; their code, tests and deployment maintenance belong to those repositories. Existing deployed services remain in place.

@@ -1,5 +1,0 @@
-{
-  "action": "现在不做口语题",
-  "snapshot": "- button:\n  - img\n- progressbar:\n  - img\n- img\n- text: \"4\"\n- heading \"朗读下面的句子\" [level=1]\n- button:\n  - img\n- img\n- button \"点击并开始录音\" [disabled]:\n  - img\n  - text: 点击并开始录音\n  - img\n  - img\n- heading \"麦克风已关闭\" [level=2]\n- text: 将在 15 分钟后恢复\n- button \"太简单\"\n- button \"太难\"\n- button \"报错\"\n- button \"继续\"",
-  "observed_at": "2026-10-10T16:56:35.167Z"
-}

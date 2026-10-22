@@ -1,5 +1,0 @@
-{
-  "before": "- img\n- text: 5 你成功解锁了你的多邻国英语分数！\n- button \"继续\"",
-  "action": "继续",
-  "after": "- img\n- text: 5 你的分数体现了你的学习进度和实际运用语言的能力。 5\n- progressbar\n- text: \"6\"\n- button \"继续\""
-}

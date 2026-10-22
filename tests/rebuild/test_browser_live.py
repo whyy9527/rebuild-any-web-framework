@@ -123,13 +123,15 @@ class BrowserLiveTests(unittest.TestCase):
 
     def test_ready_timeout_keeps_later_actions_not_run(self):
         scenario = self.scenario()
-        scenario['timeout_ms'] = 400
+        # The scenario timeout also bounds Chromium startup and navigation.
+        # Keep the normal budget so this checks readiness failure after an action.
         scenario['steps'][0]['ready']['selector'] = '#never'
         scenario['steps'].append({'id': 'later', 'action': {'type': 'fill', 'selector': '#input', 'value': 'changed'},
                                   'ready': {'selector': '#input', 'state': 'visible'}})
         completed, result = self.run_cli(scenario, 'timeout')
         self.assertEqual(completed.returncode, 1)
-        self.assertEqual([r['action_status'] for r in result['steps']], ['executed', 'not_run'])
+        self.assertEqual([r['action_status'] for r in result['steps']], ['executed', 'not_run'], json.dumps(result))
+        self.assertEqual(result['steps'][0]['ready']['status'], 'unavailable')
         self.assertEqual(result['cleanup'], 'released')
 
     def test_dom_changes_during_capture_remain_incomparable(self):

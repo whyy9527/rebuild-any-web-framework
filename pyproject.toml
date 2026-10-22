@@ -1,6 +1,6 @@
 [project]
 name = "rebuild-any-web"
-version = "0.4.0"
+version = "0.5.0"
 description = "Rebuild Any Web workflow: RSI exploration, shared E2E molds, and native Goal continuation"
 requires-python = ">=3.11"
 license = {file = "LICENSE"}

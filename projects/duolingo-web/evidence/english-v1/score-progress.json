@@ -1,5 +1,0 @@
-{
-  "before": "- img\n- text: 5 你的分数体现了你的学习进度和实际运用语言的能力。 5\n- progressbar\n- text: \"6\"\n- button \"继续\"",
-  "action": "继续",
-  "after": "- text: 连胜战绩 六 日 一 二 三 天天小练，连胜不断；一天不练，连胜不见！\n- button \"回顾本单元\"\n- button \"继续\""
-}

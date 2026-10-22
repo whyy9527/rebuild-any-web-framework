@@ -81,7 +81,7 @@ python3 -m workflows.rebuild.cli coverage --workspace <项目> --spec spec.json 
 
 浏览器 requirement 可带 `browser_capture: {reference, required}`，指向同名状态的原版步骤 JSON 与必需 artifact 种类。候选 state 必须带 `browser_evidence` 指向本次步骤 JSON；`capabilities/rebuild/browser.py` 在现有前端断言之前核验两端就绪、清理、采样稳定、文件摘要及共同准备。任一已请求文件失败、身份错误、缺失原版／候选证据或准备不兼容均 unavailable，不能用文字通过替代图像通过。文字、元素和图像字段还须匹配其实际证据。输入、字段和命令由[浏览器采集指南](BROWSER-CAPTURE.md)维护；未声明此门禁的既有原生协议保持原有语义。
 
-共同前端契约支持`kind: image_pixels`，要求`reference_image`（仓库内冻结PNG）、`pixels: [宽, 高]`及原版`evidence`。对应观测状态的`capture`包含`path`、`content_rect_points: [x,y,w,h]`、`backing_scale`和`window_points: [w,h]`，来自真实采样。比较器自行读图和核验实际大小，驱动的pass标记无效；缺采样/依赖不可用，不改为文本通过。未访问状态为not_run。需要Pillow执行图像检查；有ICC的输入转sRGB后按实测区域和缩放比较，不搜索偏移或增加容差。既有pending具体化时保留父版本与演进审计。v25实际复跑（归档证据未附带）。
+共同前端契约支持`kind: image_pixels`，要求`reference_image`（仓库内冻结PNG）、`pixels: [宽, 高]`及原版`evidence`。对应观测状态的`capture`包含`path`、`content_rect_points: [x,y,w,h]`、`backing_scale`和`window_points: [w,h]`，来自真实采样。比较器自行读图和核验实际大小，驱动的pass标记无效；缺采样/依赖不可用，不改为文本通过。未访问状态为not_run。需要Pillow执行图像检查；有ICC的输入转sRGB后按实测区域和缩放比较，不搜索偏移或增加容差。既有pending具体化时保留父版本与演进审计。v25实际复跑（历史证据未随公开发行）。
 
 
-`element_geometry`可选`relative_to_state`，此时`rect`为同一element相对该状态的[x,y,width,height]差，比较器自己从观测相减。没有原点状态not_run，任一矩形不可用则unavailable。已有绝对几何要求不改；例如卡片按下[0,2,0,0]通过不代表绝对位置或图像通过。真实源与原生对照（归档证据未附带）。
+`element_geometry`可选`relative_to_state`，此时`rect`为同一element相对该状态的[x,y,width,height]差，比较器自己从观测相减。没有原点状态not_run，任一矩形不可用则unavailable。已有绝对几何要求不改；例如卡片按下[0,2,0,0]通过不代表绝对位置或图像通过。真实源与原生对照（历史证据未随公开发行）。

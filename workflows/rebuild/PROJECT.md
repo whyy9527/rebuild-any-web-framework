@@ -36,15 +36,17 @@
 | `historical_frontend_result` | 可选已保存结果，永远按历史显示 |
 | `case_status` | 案例范围、已验证能力与未完成项 |
 
-其他输入可指向业务规格、适配配置及证据。项目清单仅连接这些文件，不复制断言或运行任务状态。[Duolingo 配置](../../projects/duolingo-web/rebuild.json)是完整已有案例。
+其他输入可指向业务规格、适配配置及证据。项目清单仅连接这些文件，不复制断言或运行任务状态。框架内的[合成协议配置](../../projects/dream-rsi-check/rebuild.json)只验证方法接线；App 配置由独立消费工作区拥有。
 
 ## 调用方式
 
+下列命令在已安装框架、已按上面结构创建 `rebuild.json` 的消费项目根执行。
+
 ```sh
-python3 -m workflows.rebuild.project preflight --workspace . --project projects/duolingo-web/rebuild.json
-python3 -m workflows.rebuild.project goal --workspace . --project projects/duolingo-web/rebuild.json
-python3 -m workflows.rebuild.project status --workspace . --project projects/duolingo-web/rebuild.json
-python3 -m workflows.rebuild.project run --workspace . --project projects/duolingo-web/rebuild.json --command build
+python3 -m workflows.rebuild.project preflight --workspace . --project rebuild.json
+python3 -m workflows.rebuild.project goal --workspace . --project rebuild.json
+python3 -m workflows.rebuild.project status --workspace . --project rebuild.json
+python3 -m workflows.rebuild.project run --workspace . --project rebuild.json --command build
 ```
 
 `goal` 只输出 `{"objective": "..."}`，可作为原生工具参数；不输出默认 token_budget、不写 Goal 文件、不创建任务或安装 Hook。已有 Goal 时由当前 Codex 按宿主能力读取和接续。`status` 返回已记录的模具规模、前沿与历史结果，不是验收命令，零退出码仅说明索引读取成功。
@@ -72,8 +74,8 @@ python3 -m workflows.rebuild.project run --workspace . --project projects/duolin
 `{out}` 由 `--out` 替换，必须是工作区内尚不存在的路径；CLI 不创建它，由目标命令写入。`{observed}` 由 `--observed` 替换，必须是已有文件。其他参数按字面传递。构建／验收失败退出码原样返回，不将产生报告误记为通过。
 
 ```sh
-python3 -m workflows.rebuild.project run --workspace . --project projects/duolingo-web/rebuild.json --command replay --out artifacts/replay-new --dry-run
-python3 -m workflows.rebuild.project run --workspace . --project projects/duolingo-web/rebuild.json --command compare --observed artifacts/replay-new/observed.json --out artifacts/compare-new
+python3 -m workflows.rebuild.project run --workspace . --project rebuild.json --command replay --out artifacts/replay-new --dry-run
+python3 -m workflows.rebuild.project run --workspace . --project rebuild.json --command compare --observed artifacts/replay-new/observed.json --out artifacts/compare-new
 ```
 
 `--dry-run` 只显示 argv，不执行。清单是可信本地命令配置；用户当前授权决定是否启动实际观察或修改，配置存在本身不授权恢复已结束的试验。

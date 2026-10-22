@@ -1,6 +1,0 @@
-### Result
-{"snapshot":"- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"is\"\n- button \"refrigerator\"\n- button \"The\"\n- button \"glass of water\"\n- button \"the\"\n- button \"in\"\n- button \"food\"\n- button \"跳过\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]","challenge_text":"挑战题\n用英语写出这句话\n食物在冰箱里。\nis\nrefrigerator\nThe\nglass of water\nthe\nin\nfood","identity_matches":true}
-### Ran Playwright code
-```js
-await (async page=>{const snapshot=await page.locator("body").ariaSnapshot(),text=await page.locator("[data-test~=challenge]").innerText();if(snapshot!=="- button:\n  - img\n- progressbar\n- img\n- text: \"5\"\n- img\n- text: 挑战题\n- heading \"用英语写出这句话\" [level=1]\n- img\n- button \"is\"\n- button \"refrigerator\"\n- button \"The\"\n- button \"glass of water\"\n- button \"the\"\n- button \"in\"\n- button \"food\"\n- button \"跳过\"\n- button \"使用键盘\"\n- button \"检查\" [disabled]"||text!=="挑战题\n用英语写出这句话\n食物在冰箱里。\nis\nrefrigerator\nThe\nglass of water\nthe\nin\nfood")throw Error("Prepared source state drifted; do not answer");return{snapshot,challenge_text:text,identity_matches:true}})(page);
-```

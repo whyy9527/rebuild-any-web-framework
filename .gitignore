@@ -32,7 +32,3 @@ artifacts/
 
 # Local rebuild stage state (no runtime state in Git)
 .codex/rebuild/
-
-# Exact public English reference speech required by the shipped default fixture.
-!projects/education-swift/Sources/LingoSeed/Resources/Reference/en-speech-*.mp3
-!projects/education-swift/Sources/LingoSeed/Resources/Reference/en-effect-*.mp3

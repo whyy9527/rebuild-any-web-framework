@@ -1,81 +1,54 @@
 ---
 name: macos-owned-app-audio-output
-description: Verify macOS application sound and mute through PID-filtered ScreenCaptureKit or CoreAudio process taps with timed UI actions. Use when player logs or generated WAV files are insufficient, or a Chromium root-PID recording is silent despite active WebAudio.
+description: Verify macOS application sound and mute with an owned-app ScreenCaptureKit collector or an explicit CoreAudio process tap. Use when generated WAV files or playback logs do not establish output, or an owned Chromium root PID is silent while a child process plays audio.
 ---
 # Verify owned application audio output
 
 ## Failure mechanism
 
-AVAudioPlayer construction, generated WAV bytes and advancing playback time prove separate stages, not application system output. A silent recording is also weak evidence if the clicks happened before capture began. Preserve those transport checks, then record real triggers inside a PID-filtered capture.
+AVAudioPlayer construction, generated WAV bytes, and advancing playback time prove separate stages, not system output. A ScreenCaptureKit recording can also be all zeros when browser audio is emitted by an owned child process rather than the supplied root PID. Active WebAudio does not prove sampled application output.
 
-## Procedure
+## ScreenCaptureKit route
 
-Use an isolated app instance and progress file. Record its PID; inspect or terminate only that owned instance. Screen Recording and Accessibility permissions must already be available or obtained through the normal authorized flow.
+When the target application can be selected as a shareable process, use an application or window filter and add only audio output. Keep microphone capture disabled and do not save screen frames. The maintained S16 implementation is in the independent [S16 repository](https://github.com/xinxiayiyan/s16): [capture_audio.py](https://github.com/xinxiayiyan/s16/blob/main/tools/capture_audio.py) and [capture-owned-audio.swift](https://github.com/xinxiayiyan/s16/blob/main/tools/capture-owned-audio.swift).
 
-The repository's tested collector is [capture-owned-audio.swift](../../../projects/duolingo-web/capture-owned-audio.swift). Its optional fourth argument is a JSON array of AX identifiers. Compile and invoke from the repository root:
+From the S16 checkout root:
 
 ```sh
-swiftc -parse-as-library projects/duolingo-web/capture-owned-audio.swift -o artifacts/capture-owned-audio
-artifacts/capture-owned-audio OWNED_PID artifacts/output.wav 7 artifacts/actions.json
+mkdir -p private
+swiftc -parse-as-library tools/capture-owned-audio.swift -o private/capture-owned-audio
+python3 -m tools.capture_audio --pid OWNED_SAFARI_PID --seconds 30 --out private/new-capture
 ```
 
-Adapt the real app's AX identifiers and duration; do not copy the education fixture's answers into a different product. The [product audio suite](../../../projects/duolingo-web/product-audio-checks.py) demonstrates isolated launch, failure reporting and cleanup.
+The wrapper accepts an explicitly owned Safari PID, a fresh output path under private/, and a 5–30 second window. It records collector and binary hashes, verifies capture readiness, and leaves UI actions to CUA after ready.json appears. Begin capture before triggering playback. The Swift binary also accepts an optional JSON list of AX identifiers for a directly driven capture, but the S16 wrapper intentionally does not use that path.
 
-Essential mechanics:
+The collector selects the exact `SCRunningApplication.processID` and uses `SCContentFilter(display:including:exceptingWindows:)`; it sets `capturesAudio=true` and `captureMicrophone=false`, attaches only audio output, saves no screen frames, and flushes the sample queue after stopping before closing the file. Preserve its failure receipt; no samples is unavailable, not proof of silence.
 
-- Find the exact `SCRunningApplication.processID`, use `SCContentFilter(display:including:[app],exceptingWindows:[])`, set `capturesAudio = true` and `captureMicrophone = false`. Add only `.audio` stream output; no screen frames are saved.
-- Begin capture before any UI trigger. Drive the owned PID's enabled AX controls and record elapsed action timestamps inside the recording interval. Reject missing controls or incomplete action counts.
-- Copy samples with `CMSampleBufferCopyPCMDataIntoAudioBufferList` into an allocated `AVAudioPCMBuffer`; write through `AVAudioFile`. Flush the serial sample queue after `stopCapture` before reading totals/closing the file.
-- Require sampled frames and nonzero signal for audible scenarios. For mute, trigger actual sounds while muted and require sampled silence, then unmute and require output again. Do not treat no samples as silence.
-- Keep the original WAV and source provenance. For convenient playback, `afconvert -f WAVE -d LEI16 input.wav replay.wav` converts a float WAV to PCM16; it does not create additional audio evidence.
+## CoreAudio process-tree fallback
 
-## Verification and limits
+Use this when the supplied browser process is silent but audio may come from its owned audio-service child. First launch one isolated browser/app instance and record its root PID. Do not capture an existing browser with unrelated user tabs.
 
-Verified on an actual SwiftUI client: choice and instruction speech, correct/incorrect/completion cues, automatic matching feedback, mute during real matching clicks, and restored output. The collector records digital application output; it does not prove physical speaker volume or subjective sound quality. Use a host SDK supporting the collector's ScreenCaptureKit properties; permission/API failure remains unavailable, not pass.
+The maintained [VALORANT audio inspection tool](https://github.com/xinxiayiyan/valorant-predictor/blob/main/scripts/inspect_owned_audio.swift) lists output-producing CoreAudio objects only for supplied PIDs. It does not record audio.
 
-## Chromium audio-child fallback
-
-A Chromium root-PID ScreenCaptureKit recording can contain only zeros while an
-owned audio-service child emits sound. This was observed with both application
-and window filters; an active WebAudio context alone did not prove system output.
-Keep those failed receipts and inspect the isolated browser's owned PID tree.
-
-[inspect_owned_audio.swift](https://github.com/xinxiayiyan/valorant-predictor/blob/main/scripts/inspect_owned_audio.swift)
-queries `kAudioProcessPropertyIsRunningOutput` only for explicitly supplied PIDs.
-Use the root and known descendants from the task's isolated browser, not an
-existing browser containing unrelated user tabs.
-
-The tested fallback is
-[capture_owned_process_audio.swift](https://github.com/xinxiayiyan/valorant-predictor/blob/main/scripts/capture_owned_process_audio.swift).
-The files are maintained in the independent
-[`xinxiayiyan/valorant-predictor` checkout](https://github.com/xinxiayiyan/valorant-predictor).
-From that checkout's root, compile with its audio-usage description embedded,
-using a host SDK exposing the CoreAudio process-tap APIs:
+Compile the maintained [owned-process collector](https://github.com/xinxiayiyan/valorant-predictor/blob/main/scripts/capture_owned_process_audio.swift) from the root of the independent VALORANT predictor checkout. Embed the usage description from its accompanying plist:
 
 ```sh
+mkdir -p artifacts
 swiftc -parse-as-library scripts/capture_owned_process_audio.swift \
   -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __info_plist \
   -Xlinker scripts/audio_capture_info.plist \
   -o artifacts/capture-owned-process-audio
-artifacts/capture-owned-process-audio OWNED_BROWSER_ROOT_PID artifacts/output.wav 5
+artifacts/capture-owned-process-audio OWNED_APP_ROOT_PID artifacts/output.wav 5
 ```
 
-The collector maps the owned PID tree to explicit CoreAudio process objects,
-uses `CATapDescription(stereoMixdownOfProcesses:)` with `.unmuted`, and reads a
-private aggregate device. It copies float PCM into `AVAudioPCMBuffer` and flushes
-the serial writer queue after stopping. The sidecar reports captured PIDs,
-frames, peak/RMS and callback failures; it does not open a microphone or global tap.
+Initialize the app's audio service before capture so its output objects exist. Wait for READY owned process audio capture, then trigger the real UI action in the isolated app. The collector takes one owned root PID, output WAV path, and duration up to 60 seconds. It selects that PID and descendants' explicit CoreAudio process objects, not a global tap or microphone. Inspect the sidecar's captured PIDs, frames, peak/RMS, sample rate, and callback errors.
 
-Initialize the product's audio service first if no owned audio object exists,
-reset the scenario, then wait for `READY` before the measured UI triggers. The
-retired `qa_audio.py` handshake helper is preserved only as [historical evidence
-at source commit `8dd71eb`](https://github.com/whyy9527/rebuild-any-web/blob/8dd71eb7cb3815ebee93ca40950e8bfced518086/projects/valorant-predictor/scripts/qa_audio.py);
-it is not an entrypoint in the independent checkout. Adapt the actual product controls.
-The fallback was verified with real clicks, sampled mute, restored output,
-autofill and save cues. Nonzero output establishes audibility, not complete sound
-identity; retain waveform differences and any transport anomalies.
+## Verification and limits
 
-## Avoid false evidence
+For audible scenarios, require actual frames and nonzero signal. For mute, trigger real playback while muted, require sampled silence, then restore playback and require output. Preserve the WAV and source provenance. afconvert -f WAVE -d LEI16 input.wav replay.wav converts a float WAV for playback; it is not new evidence.
 
-Never record another app or microphone as a substitute. Do not bypass permission failures, use an unrelated tone generator to prove the product UI, accept silence without in-window triggers, or weaken behavior assertions to make capture succeed. Run UI suites sequentially to avoid focus competition; preserve user progress and failed receipts.
-Do not replace an explicit owned-process tap with a global tap to obtain a nonzero recording.
+Both collectors have been verified with real UI actions, sampled mute, restored output, and product cues. Digital output presence does not prove physical speaker volume, complete sound identity, or subjective quality. Screen Recording, Accessibility, CoreAudio, SDK, and process-object failures remain unavailable; do not turn them into silent passes.
+
+## High-risk actions
+
+Never record another app or microphone as a substitute. Do not use an unrelated tone generator to prove product UI behavior, accept silence without in-window triggers, or weaken assertions to make capture succeed. Run UI suites sequentially to avoid focus competition; preserve user progress and failed receipts.
