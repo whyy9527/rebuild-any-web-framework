@@ -8,7 +8,7 @@ import subprocess
 import tomllib
 
 ROOT_FILES = {'README.md', 'README.zh-CN.md', 'AGENTS.md', 'CHANGELOG.md', 'THIRD_PARTY_NOTICES.md',
-              'LICENSE', '.gitignore', 'pyproject.toml', 'tests/__init__.py'}
+              'LICENSE', '.gitignore', 'pyproject.toml', 'requirements.lock', 'tests/__init__.py'}
 CASE_TESTS = {'test_enrollment_choices.py', 'test_exploration_replay.py',
               'test_guide_replay04.py', 'test_exploration_tree.py'}
 SKILLS = {'exploration-lab', 'lottie-svg-dom-rendering', 'macos-owned-app-audio-output'}
@@ -33,7 +33,7 @@ def selected(name, sample=None):
     if name.startswith(('capabilities/', 'runtime/', 'workflows/')):
         return path.suffix in {'.py', '.md'}
     if name.startswith('docs/'):
-        return path.suffix == '.md' and name != 'docs/ORG-SYNC.md'
+        return path.suffix == '.md'
     if name.startswith(('tests/harness/', 'tests/rebuild/')):
         return path.suffix == '.py' and path.name not in CASE_TESTS
     if name.startswith('tests/release/'):
@@ -95,10 +95,13 @@ def adapt(name, text, source, sample=None, public_repo=None):
                  '\n框架来源和逐文件摘要见 `FRAMEWORK-SOURCE.json`。\n')
         if not public_repo:
             text += f'[{source}]({source})\n'
-    elif name == 'AGENTS.md' and not sample:
-        text = re.sub(r'先遵循用户当前要求。.*?(?=\n\n)',
-                      '先遵循用户当前要求。结束案例后不自动恢复探索。本发行版只附带框架协议夹具，'
-                      '不包含历史App案例；复盘引用源仓库的固定提交，不能当作本仓库当前产品交付。', text)
+    elif name == 'AGENTS.md':
+        if sample:
+            text = re.sub(r'。方块杀手本轮已由用户.*?不自动继续迭代。', '。', text)
+        else:
+            text = re.sub(r'先遵循用户当前要求。.*?(?=\n\n)',
+                          '先遵循用户当前要求。结束案例后不自动恢复探索。本发行版只附带框架协议夹具，'
+                          '不包含历史App案例；复盘引用源仓库的固定提交，不能当作本仓库当前产品交付。', text)
     elif name == 'docs/ARCHITECTURE.md' and not sample:
         text = text.split('## 案例实现')[0] + ('## 发行边界\n\n本快照包含框架代码、测试和'
                '`projects/dream-rsi-check`合成协议夹具。App实现、观察器、私有历史和媒体由消费项目拥有，'
@@ -119,9 +122,11 @@ def adapt(name, text, source, sample=None, public_repo=None):
         text = '\n'.join(line for line in text.splitlines() if not line.startswith(case_only)) + '\n'
         text = text.replace('当前案例引用：', '框架按需使用的依赖：')
         text = text.split('## VALORANT 预测器案例')[0]
+    if name == 'docs/ARCHITECTURE.md':
+        text = text.split('## 独立网站')[0].rstrip() + '\n'
     if public_repo and name in ('README.md', 'README.zh-CN.md'):
         text = '\n'.join(line for line in text.splitlines()
-                         if 'This private repository contains' not in line and '本私有仓库保存' not in line) + '\n'
+                         if 'This private repository contains' not in line and '本私有仓库' not in line) + '\n'
         text = text.replace('https://github.com/whyy9527/rebuild-any-web/releases',
                             f'https://github.com/{public_repo}/releases')
         scope = ('This public snapshot contains the framework and one Duolingo → Swift case, including its Swift client. '

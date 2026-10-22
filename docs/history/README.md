@@ -20,6 +20,8 @@ git show 80d4d77:projects/education-swift/README.md
 
 ## 案例与实验
 
+- [2026-10-22 仓库治理](governance-2026-10-22.md)：网站独立、真实依赖解除及验证环境。
+
 - [Duolingo 经验复盘](../DUOLINGO-LESSONS.md)：本轮改进来源与范围。
 - [工作流整理与验证](rebuild-workflow-consolidation-2026-10-12.md)：目标模板、项目入口和封存比较接线。
 - [早期交付审计](../DELIVERY-AUDIT.md)、[早期失败复盘](../REBUILD-RETROSPECTIVE-2026-10-10.md)：保留当时事实。

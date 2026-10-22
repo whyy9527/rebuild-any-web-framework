@@ -6,6 +6,15 @@ import unittest
 from scripts.package_framework import adapt, export, git, selected
 
 class FrameworkPackage(unittest.TestCase):
+    def test_public_agent_instructions_only_name_shipped_cases(self):
+        text = ('先遵循用户当前要求。Duolingo 试验已结束。方块杀手本轮已由用户于 '
+                '2026-10-21 结束，交付与评价见 `projects/block-killer/STATUS.md`；保留发布，不自动继续迭代。\n\n'
+                '浏览器 E2E 一律使用无头浏览器。')
+        result = adapt('AGENTS.md', text, 'source', 'duolingo-swift', 'owner/public')
+        self.assertIn('Duolingo 试验已结束', result)
+        self.assertIn('无头浏览器', result)
+        self.assertNotIn('block-killer', result)
+
     def test_public_readme_keeps_sample_and_removes_private_workspace_notice(self):
         text = ('# Framework\nThis private repository contains the complete working history and cases.\n'
                 '## Getting started\nprojects/duolingo-web/rebuild.json\n'
@@ -18,12 +27,15 @@ class FrameworkPackage(unittest.TestCase):
         self.assertIn('one Duolingo → Swift case', result)
         self.assertNotIn('This private repository', result)
         self.assertNotIn('https://github.com/owner/private', result)
+        chinese = adapt('README.zh-CN.md', '本私有仓库维护框架与复刻案例历史；\n## 开始使用\n',
+                        'https://github.com/owner/private/tree/abc', 'duolingo-swift', 'owner/public')
+        self.assertNotIn('本私有仓库', chinese)
 
     def test_scope_keeps_runtime_fixture_but_excludes_cases_private_and_case_tests(self):
         for name in ('runtime/dream.py', 'capabilities/rebuild/frontend.py',
                      'tests/rebuild/test_dream.py', 'projects/dream-rsi-check/worker.py',
                      'runtime/browser.py', 'capabilities/rebuild/browser.py', 'workflows/rebuild/browser.py',
-                     'tests/rebuild/test_browser_live.py', 'docs/BROWSER-CAPTURE.md'):
+                     'tests/rebuild/test_browser_live.py', 'docs/BROWSER-CAPTURE.md', 'requirements.lock'):
             self.assertTrue(selected(name))
         for name in ('projects/excluded-app/private/local-auth.json', 'projects/duolingo-web/image.png',
                      'projects/education-swift/Sources/LingoSeed/LearningView.swift',

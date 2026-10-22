@@ -4,11 +4,11 @@
 
 ## 安装与运行
 
-需要 Python 3.11+ 与调用者已安装的 Chromium 系浏览器。浏览器依赖按需安装；基础框架不要求 Playwright。
+需要 Python 3.11+ 与调用者已安装的 Chromium 系浏览器。浏览器依赖按需安装；基础框架不要求 Playwright。开发与发行复验使用[锁定环境](ENVIRONMENT.md)，像素比较另需 images extra。
 
 ```sh
 python3 -m venv .venv
-.venv/bin/python -m pip install '.[browser]'
+.venv/bin/python -m pip install '.[browser,images]'
 .venv/bin/python -m workflows.rebuild.browser --workspace . --scenario browser.json --out artifacts/browser-new
 ```
 

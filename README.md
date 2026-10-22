@@ -30,7 +30,7 @@ Native Goals provide continued execution. The legacy Stop Hook has been removed;
 
 ## Browser capture
 
-Install the optional browser dependency with `python3 -m pip install '.[browser]'`, then use an already-installed Chromium-family browser:
+Use the [locked verification environment](docs/ENVIRONMENT.md) for development and release checks. For an optional application install, use `python3 -m pip install '.[browser,images]'`, then use an already-installed Chromium-family browser:
 
 ```sh
 python3 -m workflows.rebuild.browser --workspace . --scenario browser.json --out artifacts/browser-new
@@ -58,7 +58,8 @@ Use a new path for `--out`. Prepare reference and candidate state separately; re
 - [Philosophy](docs/PHILOSOPHY.md), [architecture](docs/ARCHITECTURE.md), and [behavior/frontend contract](docs/BEHAVIOR-CONTRACT.md): principles, ownership, and shared tests.
 - [Roadmap](docs/ROADMAP.md) and [research](docs/RESEARCH.md): unfinished outcomes and the Dream-RSI/Cordis sources.
 - [History](docs/history/README.md): experiment records and original evidence.
-- [Framework releases](docs/RELEASING.md): packaging, verification, and organization sync.
+- [Environment](docs/ENVIRONMENT.md): declared dependencies, locked installation, and headless verification.
+- [Framework releases](docs/RELEASING.md): packaging, verification, and public snapshot sync.
 - [Browser capture](docs/BROWSER-CAPTURE.md): CLI observations and frontend evidence checks.
 
 ```sh

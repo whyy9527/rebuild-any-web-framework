@@ -152,7 +152,7 @@ class BrowserLiveTests(unittest.TestCase):
     def test_motion_is_not_fast_forwarded_and_inputs_modes_are_observed(self):
         actions = [('motion', {'type': 'click', 'selector': '#animate'}),
                    ('fill', {'type': 'fill', 'selector': '#input', 'value': 'changed'}),
-                   ('press', {'type': 'press', 'selector': '#input', 'key': 'End'}),
+                   ('press', {'type': 'press', 'selector': '#input', 'key': 'ArrowLeft'}),
                    ('hover', {'type': 'hover', 'selector': '#hover'}),
                    ('scroll', {'type': 'scroll', 'x': 0, 'y': 500})]
         scenario = self.scenario([{'id': name, 'action': action, 'ready': {'selector': 'body', 'state': 'visible'}}

@@ -24,7 +24,7 @@ python3 -m workflows.rebuild.project status --workspace . --project projects/duo
 
 ## 浏览器采集
 
-按需安装 `python3 -m pip install '.[browser]'`，使用调用者已安装的 Chromium 系浏览器：
+按需安装 `python3 -m pip install '.[browser,images]'`，使用调用者已安装的 Chromium 系浏览器：
 
 ```sh
 python3 -m workflows.rebuild.browser --workspace . --scenario browser.json --out artifacts/browser-new
@@ -52,7 +52,8 @@ python3 -m workflows.rebuild.project run --workspace . --project projects/duolin
 - [哲学](docs/PHILOSOPHY.md)、[架构](docs/ARCHITECTURE.md)、[业务／前端协议](docs/BEHAVIOR-CONTRACT.md)：原则、职责和可执行模具。
 - [Roadmap](docs/ROADMAP.md)：仓库下一步成果；[方法来源](docs/RESEARCH.md)：Dream-RSI 的探索思路与 Cordis 的组合设计。
 - [历史索引](docs/history/README.md)：批次记录、原始证据和旧文档。README 不记录逐轮进展。
-- [框架发行与组织同步](docs/RELEASING.md)：从已提交源码生成纯框架快照、验证及发布。
+- [验证环境](docs/ENVIRONMENT.md)：依赖声明、锁定安装和无头验证。
+- [框架发行与公开快照同步](docs/RELEASING.md)：从已提交源码生成纯框架快照、验证及发布。
 
 ```sh
 python3 -m unittest discover -v

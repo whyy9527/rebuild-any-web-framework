@@ -1,6 +1,6 @@
 [project]
 name = "rebuild-any-web"
-version = "0.3.0"
+version = "0.4.0"
 description = "Rebuild Any Web workflow: RSI exploration, shared E2E molds, and native Goal continuation"
 requires-python = ">=3.11"
 license = {file = "LICENSE"}
@@ -8,6 +8,7 @@ dependencies = []
 
 [project.optional-dependencies]
 browser = ["playwright>=1.49,<2"]
+images = ["Pillow>=12,<13"]
 
 [build-system]
 requires = ["setuptools>=61"]

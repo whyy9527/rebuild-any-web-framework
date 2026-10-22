@@ -40,20 +40,22 @@ owned audio-service child emits sound. This was observed with both application
 and window filters; an active WebAudio context alone did not prove system output.
 Keep those failed receipts and inspect the isolated browser's owned PID tree.
 
-inspect_owned_audio.swift（归档证据未附带）
+[inspect_owned_audio.swift](https://github.com/xinxiayiyan/valorant-predictor/blob/main/scripts/inspect_owned_audio.swift)
 queries `kAudioProcessPropertyIsRunningOutput` only for explicitly supplied PIDs.
 Use the root and known descendants from the task's isolated browser, not an
 existing browser containing unrelated user tabs.
 
 The tested fallback is
-capture_owned_process_audio.swift（归档证据未附带）.
-Compile with its audio-usage description embedded, using a host SDK exposing the
-CoreAudio process-tap APIs:
+[capture_owned_process_audio.swift](https://github.com/xinxiayiyan/valorant-predictor/blob/main/scripts/capture_owned_process_audio.swift).
+The files are maintained in the independent
+[`xinxiayiyan/valorant-predictor` checkout](https://github.com/xinxiayiyan/valorant-predictor).
+From that checkout's root, compile with its audio-usage description embedded,
+using a host SDK exposing the CoreAudio process-tap APIs:
 
 ```sh
-swiftc -parse-as-library projects/valorant-predictor/scripts/capture_owned_process_audio.swift \
+swiftc -parse-as-library scripts/capture_owned_process_audio.swift \
   -Xlinker -sectcreate -Xlinker __TEXT -Xlinker __info_plist \
-  -Xlinker projects/valorant-predictor/scripts/audio_capture_info.plist \
+  -Xlinker scripts/audio_capture_info.plist \
   -o artifacts/capture-owned-process-audio
 artifacts/capture-owned-process-audio OWNED_BROWSER_ROOT_PID artifacts/output.wav 5
 ```
@@ -65,9 +67,10 @@ the serial writer queue after stopping. The sidecar reports captured PIDs,
 frames, peak/RMS and callback failures; it does not open a microphone or global tap.
 
 Initialize the product's audio service first if no owned audio object exists,
-reset the scenario, then wait for `READY` before the measured UI triggers.
-qa_audio.py（归档证据未附带） demonstrates
-that handshake and audible/muted/restored phases. Adapt the actual product controls.
+reset the scenario, then wait for `READY` before the measured UI triggers. The
+retired `qa_audio.py` handshake helper is preserved only as [historical evidence
+at source commit `8dd71eb`](https://github.com/whyy9527/rebuild-any-web/blob/8dd71eb7cb3815ebee93ca40950e8bfced518086/projects/valorant-predictor/scripts/qa_audio.py);
+it is not an entrypoint in the independent checkout. Adapt the actual product controls.
 The fallback was verified with real clicks, sampled mute, restored output,
 autofill and save cues. Nonzero output establishes audibility, not complete sound
 identity; retain waveform differences and any transport anomalies.

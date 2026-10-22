@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.4.0 — 2026-10-22
+
+- Move the VALORANT predictor and S16 website into independent private repositories under `xinxiayiyan`; their code, tests and deployment maintenance belong to those repositories. Existing deployed services remain in place.
+- Remove the Block Killer publisher's runtime import of the migrated VALORANT project; keep only its required transport in the case. No production rollout is part of this change.
+- Replace the browser fixture's platform-dependent End key with caret navigation; preserve strict capture stability and pixel assertions.
+- Declare Pillow as the optional `images` dependency and ship a hash-locked browser/image verification environment with the framework.
+- Carry the headless-only browser verification policy into exported snapshots and remove references to excluded cases from public agent instructions.
+- Refresh the public framework and Duolingo Swift sample from one committed source snapshot, with file digests and independently verified release archives.
+
+The Duolingo and Block Killer experiments remain ended. This maintenance release does not establish complete App parity or complete the open framework roadmap.
+
 ## 0.3.0 — 2026-10-15
 
 - Rename the project and source repository to Rebuild Any Web / `rebuild-any-web`.

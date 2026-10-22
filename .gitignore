@@ -16,6 +16,7 @@ build/
 private/
 artifacts/
 # Local browser QA captures and logs
+/.playwright-cli/
 /output/playwright/
 *.mp4
 *.mov
